@@ -1,0 +1,9960 @@
+[
+	{
+		"id": 20801,
+		"name": "Cristiano Ronaldo dos Santos Aveiro",
+		"short_name": "Cristiano Ronaldo",
+		"role": "player",
+
+		"nationality": "Португалия",
+
+		"clubs": [
+			"Sporting CP",
+			"Manchester United",
+			"Real Madrid",
+			"Juventus",
+			"Al Nassr"
+		],
+
+		"leagues": [
+			"АПЛ",
+			"Ла Лига",
+			"Серия А",
+			"Примейра-лига",
+			"Саудовская Про-лига"
+		],
+
+		"trophies": ["Лига Чемпионов", "Чемпион Европы", "Золотой мяч"],
+
+		"coaches": [
+			"Алекс Фергюсон",
+			"Жозе Моуринью",
+			"Карло Анчелотти",
+			"Зинедин Зидан"
+		],
+
+		"ballon_dor": true,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 158023,
+		"name": "Lionel Andrés Messi Cuccittini",
+		"short_name": "L. Messi",
+		"role": "player",
+
+		"nationality": "Аргентина",
+		"nationality_valid": true,
+		"max_overall": 94,
+
+		"clubs": ["FC Barcelona", "Paris Saint-Germain", "Inter Miami"],
+
+		"leagues": ["Ла Лига", "Лига 1", "MLS"],
+
+		"coaches": [
+			"Франк Райкард",
+			"Хосеп Гвардиола",
+			"Тито Виланова",
+			"Херардо Мартино",
+			"Луис Энрике",
+			"Эрнесто Вальверде",
+			"Кике Сетьен",
+			"Рональд Куман",
+			"Маурисио Почеттино",
+			"Кристоф Гальтье"
+		],
+
+		"trophies": [
+			"Лига Чемпионов",
+			"Чемпион мира",
+			"Копа Америка",
+			"Золотой мяч"
+		]
+	},
+	{
+		"id": 167495,
+		"name": "Manuel Peter Neuer",
+		"short_name": "M. Neuer",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+		"max_overall": 92,
+
+		"clubs": ["FC Schalke 04", "FC Bayern München"],
+
+		"leagues": ["Бундеслига"],
+
+		"coaches": [
+			"Феликс Магат",
+			"Ральф Рангник",
+			"Йенс Келлер",
+			"Юпп Хайнкес",
+			"Хосеп Гвардиола",
+			"Карло Анчелотти",
+			"Нико Ковач",
+			"Ханс-Дитер Флик",
+			"Юлиан Нагельсман",
+			"Томас Тухель"
+		],
+
+		"trophies": ["Лига Чемпионов", "Чемпион мира", "Бундеслига"]
+	},
+	{
+		"id": 176580,
+		"name": "Luis Alberto Suárez Díaz",
+		"short_name": "L. Suárez",
+		"role": "player",
+
+		"nationality": "Уругвай",
+		"nationality_valid": true,
+		"max_overall": 92,
+
+		"clubs": [
+			"Nacional",
+			"Groningen",
+			"Ajax",
+			"Liverpool",
+			"FC Barcelona",
+			"Atlético Madrid",
+			"Grêmio",
+			"Inter Miami"
+		],
+
+		"leagues": [
+			"Эредивизи",
+			"АПЛ",
+			"Ла Лига",
+			"Серия А",
+			"MLS",
+			"Примейра-лига Уругвая"
+		],
+
+		"coaches": [
+			"Рональд Куман",
+			"Луис Энрике",
+			"Эрнесто Вальверде",
+			"Диего Симеоне",
+			"Брендан Роджерс",
+			"Юрген Клопп",
+			"Франк Райкард",
+			"Тата Мартино"
+		],
+
+		"trophies": ["Лига Чемпионов", "Ла Лига", "АПЛ", "Копа Америка"]
+	},
+	{
+		"id": 188545,
+		"name": "Robert Lewandowski",
+		"short_name": "R. Lewandowski",
+		"role": "player",
+
+		"nationality": "Польша",
+		"nationality_valid": true,
+		"max_overall": 92,
+
+		"clubs": [
+			"Znicz Pruszków",
+			"Lech Poznań",
+			"Borussia Dortmund",
+			"FC Bayern München",
+			"FC Barcelona"
+		],
+
+		"leagues": ["Экстракласа", "Бундеслига", "Ла Лига"],
+
+		"coaches": [
+			"Юрген Клопп",
+			"Юпп Хайнкес",
+			"Хосеп Гвардиола",
+			"Карло Анчелотти",
+			"Нико Ковач",
+			"Ханс-Дитер Флик",
+			"Юлиан Нагельсман",
+			"Томас Тухель",
+			"Хави"
+		],
+
+		"trophies": ["Лига Чемпионов", "Бундеслига", "Ла Лига"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 190871,
+		"name": "Neymar da Silva Santos Júnior",
+		"short_name": "Neymar Jr",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+		"max_overall": 92,
+
+		"clubs": ["Santos", "FC Barcelona", "Paris Saint-Germain", "Al Hilal"],
+
+		"leagues": [
+			"Бразильская Серия А",
+			"Ла Лига",
+			"Лига 1",
+			"Саудовская Про-лига"
+		],
+
+		"coaches": [
+			"Луис Энрике",
+			"Эрнесто Вальверде",
+			"Унаи Эмери",
+			"Томас Тухель",
+			"Маурисио Почеттино",
+			"Кристоф Гальтье",
+			"Жорже Жезуш"
+		],
+
+		"trophies": ["Лига Чемпионов", "Копа Америка"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 155862,
+		"name": "Sergio Ramos García",
+		"short_name": "Sergio Ramos",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+		"max_overall": 91,
+
+		"clubs": ["Sevilla", "Real Madrid", "Paris Saint-Germain"],
+
+		"leagues": ["Ла Лига", "Лига 1"],
+
+		"coaches": [
+			"Висенте дель Боске",
+			"Жозе Моуринью",
+			"Карло Анчелотти",
+			"Зинедин Зидан",
+			"Луис Энрике",
+			"Маурисио Почеттино",
+			"Кристоф Гальтье",
+			"Хулен Лопетеги"
+		],
+
+		"trophies": ["Лига Чемпионов", "Чемпион мира", "Чемпион Европы"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 165153,
+		"name": "Karim Benzema",
+		"short_name": "K. Benzema",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+		"max_overall": 91,
+
+		"clubs": ["Olympique Lyonnais", "Real Madrid", "Al Ittihad"],
+
+		"leagues": ["Лига 1", "Ла Лига", "Саудовская Про-лига"],
+
+		"coaches": [
+			"Карло Анчелотти",
+			"Жозе Моуринью",
+			"Зинедин Зидан",
+			"Хосе Пеллегрини",
+			"Рафаэль Бенитес",
+			"Лоран Блан",
+			"Дидье Дешам"
+		],
+
+		"trophies": ["Лига Чемпионов", "Чемпион Европы", "Золотой мяч"],
+
+		"ballon_dor": true,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 177003,
+		"name": "Luka Modrić",
+		"short_name": "L. Modrić",
+		"role": "player",
+
+		"nationality": "Хорватия",
+		"nationality_valid": true,
+		"max_overall": 91,
+
+		"clubs": ["Dinamo Zagreb", "Tottenham Hotspur", "Real Madrid"],
+
+		"leagues": ["Хорватская лига", "АПЛ", "Ла Лига"],
+
+		"coaches": ["Жозе Моуринью", "Карло Анчелотти", "Зинедин Зидан"],
+
+		"trophies": ["Лига Чемпионов", "Золотой мяч"],
+
+		"ballon_dor": true,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 183277,
+		"name": "Eden Michael Hazard",
+		"short_name": "E. Hazard",
+		"role": "player",
+
+		"nationality": "Бельгия",
+		"nationality_valid": true,
+		"max_overall": 91,
+
+		"clubs": ["Lille", "Chelsea", "Real Madrid"],
+
+		"leagues": ["Лига 1", "АПЛ", "Ла Лига"],
+
+		"coaches": [
+			"Карло Анчелотти",
+			"Жозе Моуринью",
+			"Антонио Конте",
+			"Маурисио Сарри",
+			"Рафаэль Бенитес",
+			"Руди Гарсия"
+		],
+
+		"trophies": ["АПЛ", "Лига Европы"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 192985,
+		"name": "Kevin De Bruyne",
+		"short_name": "K. De Bruyne",
+		"role": "player",
+
+		"nationality": "Бельгия",
+		"nationality_valid": true,
+		"max_overall": 91,
+
+		"clubs": [
+			"KRC Genk",
+			"Chelsea",
+			"Werder Bremen",
+			"VfL Wolfsburg",
+			"Manchester City",
+			"Napoli"
+		],
+
+		"leagues": ["Бельгийская лига", "АПЛ", "Бундеслига"],
+
+		"coaches": [
+			"Хосеп Гвардиола",
+			"Дитер Хеккинг",
+			"Мануэль Пеллегрини",
+			"Жозе Моуринью",
+			"Пепейн Линдерс (молодёжка/ранние этапы)",
+			"Хууб Стевенс",
+			"Антонио Конте"
+		],
+
+		"trophies": ["АПЛ", "Кубок Англии", "Лига Чемпионов"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 193080,
+		"name": "David De Gea Quintana",
+		"short_name": "De Gea",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+		"max_overall": 91,
+
+		"clubs": ["Atlético Madrid", "Manchester United", "Fiorentina"],
+
+		"leagues": ["Ла Лига", "АПЛ", "Серия А"],
+
+		"coaches": [
+			"Кике Флорес",
+			"Унаи Эмери",
+			"Сер Алекс Фергюсон",
+			"Давид Мойес",
+			"Луи ван Гал",
+			"Жозе Моуринью",
+			"Оле-Гуннар Сульшер",
+			"Ральф Рангник",
+			"Эрик тен Хаг"
+		],
+
+		"trophies": ["АПЛ", "Ла Лига"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 200389,
+		"name": "Jan Oblak",
+		"short_name": "J. Oblak",
+		"role": "player",
+
+		"nationality": "Словения",
+		"nationality_valid": true,
+		"max_overall": 91,
+
+		"clubs": ["Olimpija Ljubljana", "Benfica", "Rio Ave", "Atlético Madrid"],
+
+		"leagues": ["Словенская лига", "Примейра-лига", "Ла Лига"],
+
+		"coaches": [
+			"Диего Симеоне",
+			"Жорже Жезуш",
+			"Бруно Лаже",
+			"Сержиу Консейсау"
+		],
+
+		"trophies": ["Ла Лига", "Лига Европы"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 231747,
+		"name": "Kylian Mbappé Lottin",
+		"short_name": "K. Mbappé",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+		"max_overall": 91,
+
+		"clubs": ["AS Monaco", "Paris Saint-Germain", "Real Madrid"],
+
+		"leagues": ["Лига 1", "Ла Лига"],
+
+		"coaches": [
+			"Леонарду Жардим",
+			"Томас Тухель",
+			"Маурисио Почеттино",
+			"Кристоф Гальтье",
+			"Луис Энрике",
+			"Дидье Дешам",
+			"Хаби Алонсо",
+			"Альваро Арбелоа",
+			"Жозе Моуринью"
+		],
+
+		"trophies": ["Чемпион мира", "Лига 1"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 239085,
+		"name": "Erling Braut Haaland",
+		"short_name": "E. Haaland",
+		"role": "player",
+
+		"nationality": "Норвегия",
+		"nationality_valid": true,
+		"max_overall": 91,
+
+		"clubs": [
+			"Bryne",
+			"Molde",
+			"Red Bull Salzburg",
+			"Borussia Dortmund",
+			"Manchester City"
+		],
+
+		"leagues": [
+			"Норвежская лига",
+			"Бундеслига",
+			"АПЛ",
+			"Австрийская Бундеслига"
+		],
+
+		"coaches": [
+			"Оле Гуннар Сульшер",
+			"Марко Розе",
+			"Люсьен Фавр",
+			"Хосеп Гвардиола",
+			"Джесси Марш",
+			"Ади Хюттер",
+			"Энцо Мареска"
+		],
+
+		"trophies": [
+			"Лига Чемпионов",
+			"АПЛ",
+			"Бундеслига",
+			"Австрийская Бундеслига"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 9014,
+		"name": "Arjen Robben",
+		"short_name": "A. Robben",
+		"role": "player",
+
+		"nationality": "Нидерланды",
+		"nationality_valid": true,
+		"max_overall": 90,
+
+		"clubs": [
+			"FC Groningen",
+			"PSV Eindhoven",
+			"Chelsea",
+			"Real Madrid",
+			"FC Bayern München"
+		],
+
+		"leagues": ["Эредивизи", "АПЛ", "Ла Лига", "Бундеслига"],
+
+		"coaches": [
+			"Жозе Моуринью",
+			"Карло Анчелотти",
+			"Луи ван Гал",
+			"Пеп Гвардиола",
+			"Луис Фелипе Сколари",
+			"Хосеп Гвардиола",
+			"Юпп Хайнкес",
+			"Ханс-Дитер Флик"
+		],
+
+		"trophies": ["Лига Чемпионов", "Бундеслига", "АПЛ", "Ла Лига"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 41236,
+		"name": "Zlatan Ibrahimović",
+		"short_name": "Z. Ibrahimović",
+		"role": "player",
+
+		"nationality": "Швеция",
+		"nationality_valid": true,
+		"max_overall": 90,
+
+		"clubs": [
+			"Malmö FF",
+			"Ajax",
+			"Juventus",
+			"Inter",
+			"Barcelona",
+			"AC Milan",
+			"Paris Saint-Germain",
+			"Manchester United",
+			"LA Galaxy"
+		],
+
+		"leagues": ["Эредивизи", "Серия А", "Ла Лига", "Лига 1", "АПЛ", "MLS"],
+
+		"coaches": [
+			"Рональд Куман",
+			"Фабио Капелло",
+			"Роберто Манчини",
+			"Жозе Моуринью",
+			"Карло Анчелотти",
+			"Луис Энрике",
+			"Оле-Гуннар Сульшер",
+			"Эрик тен Хаг",
+			"Стефано Пиоли",
+			"Леонардо",
+			"Унаи Эмери"
+		],
+
+		"trophies": ["Лига 1", "Серия А", "Ла Лига", "АПЛ", "MLS"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 167664,
+		"name": "Gonzalo Gerardo Higuaín",
+		"short_name": "G. Higuaín",
+		"role": "player",
+
+		"nationality": "Аргентина",
+		"nationality_valid": true,
+		"max_overall": 90,
+
+		"clubs": [
+			"River Plate",
+			"Real Madrid",
+			"Napoli",
+			"Juventus",
+			"AC Milan",
+			"Chelsea",
+			"Inter Miami"
+		],
+
+		"leagues": ["Ла Лига", "Серия А", "АПЛ", "MLS", "Аргентинская лига"],
+
+		"coaches": [
+			"Фабио Капелло",
+			"Бернд Шустер",
+			"Хуанде Рамос",
+			"Мануэль Пеллегрини",
+			"Жозе Моуринью",
+			"Карло Анчелотти",
+			"Маурицио Сарри",
+			"Симоне Индзаги",
+			"Гонсало Фернандес"
+		],
+
+		"trophies": ["Ла Лига", "Серия А", "АПЛ"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 173731,
+		"name": "Gareth Frank Bale",
+		"short_name": "G. Bale",
+		"role": "player",
+
+		"nationality": "Уэльс",
+		"nationality_valid": true,
+		"max_overall": 90,
+
+		"clubs": [
+			"Southampton",
+			"Tottenham Hotspur",
+			"Real Madrid",
+			"Los Angeles FC"
+		],
+
+		"leagues": ["АПЛ", "Ла Лига", "MLS"],
+
+		"coaches": [
+			"Харри Реднапп",
+			"Андре Виллаш-Боаш",
+			"Маурисио Почеттино",
+			"Карло Анчелотти",
+			"Зинедин Зидан",
+			"Рафаэль Бенитес",
+			"Стив Купер"
+		],
+
+		"trophies": ["Лига Чемпионов", "Ла Лига", "Кубок MLS"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 182493,
+		"name": "Diego Roberto Godín Leal",
+		"short_name": "D. Godín",
+		"role": "player",
+
+		"nationality": "Уругвай",
+		"nationality_valid": true,
+		"max_overall": 90,
+
+		"clubs": [
+			"Cerro",
+			"Nacional",
+			"Villarreal",
+			"Atlético Madrid",
+			"Inter",
+			"Cagliari",
+			"Vélez Sarsfield"
+		],
+
+		"leagues": ["Уругвайская лига", "Ла Лига", "Серия А", "Аргентинская лига"],
+
+		"coaches": [
+			"Диего Симеоне",
+			"Мануэль Пеллегрини",
+			"Марсело Бьелса",
+			"Антонио Конте"
+		],
+
+		"trophies": ["Ла Лига", "Лига Европы", "Суперкубок УЕФА"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 182521,
+		"name": "Toni Kroos",
+		"short_name": "T. Kroos",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+		"max_overall": 90,
+
+		"clubs": ["Bayern München", "Bayer Leverkusen", "Real Madrid"],
+
+		"leagues": ["Бундеслига", "Ла Лига"],
+
+		"coaches": [
+			"Луи ван Гал",
+			"Юпп Хайнкес",
+			"Карло Анчелотти",
+			"Зинедин Зидан"
+		],
+
+		"trophies": [
+			"Лига Чемпионов",
+			"Бундеслига",
+			"Ла Лига",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 183907,
+		"name": "Jérôme Boateng",
+		"short_name": "J. Boateng",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+		"max_overall": 90,
+
+		"clubs": [
+			"Hertha BSC",
+			"Hamburger SV",
+			"Manchester City",
+			"Bayern München",
+			"Olympique Lyonnais",
+			"Salernitana"
+		],
+
+		"leagues": ["Бундеслига", "АПЛ", "Лига 1", "Серия А"],
+
+		"coaches": [
+			"Луи ван Гал",
+			"Роберто Манчини",
+			"Юпп Хайнкес",
+			"Хосеп Гвардиола",
+			"Карло Анчелотти",
+			"Нико Ковач",
+			"Ханси Флик",
+			"Винченцо Монтелла"
+		],
+
+		"trophies": [
+			"Лига Чемпионов",
+			"Бундеслига",
+			"Клубный чемпионат мира",
+			"Суперкубок УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 192119,
+		"name": "Thibaut Nicolas Marc Courtois",
+		"short_name": "T. Courtois",
+		"role": "player",
+
+		"nationality": "Бельгия",
+		"nationality_valid": true,
+		"max_overall": 90,
+
+		"clubs": ["Genk", "Atlético Madrid", "Chelsea", "Real Madrid"],
+
+		"leagues": ["Бельгийская лига", "Ла Лига", "АПЛ"],
+
+		"coaches": [
+			"Карло Анчелотти",
+			"Зинедин Зидан",
+			"Рафаэль Бенитес",
+			"Антонио Конте",
+			"Диего Симеоне",
+			"Жозе Моуринью",
+			"Андре Виллаш-Боаш",
+			"Хаби Алонсо",
+			"Альваро Арбелоа"
+		],
+
+		"trophies": ["Ла Лига", "Лига Чемпионов", "Суперкубок УЕФА", "АПЛ"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 192448,
+		"name": "Marc-André ter Stegen",
+		"short_name": "M. ter Stegen",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+		"max_overall": 90,
+
+		"clubs": ["Borussia Mönchengladbach", "FC Barcelona", "Girona FC"],
+
+		"leagues": ["Бундеслига", "Ла Лига"],
+
+		"coaches": [
+			"Луис Энрике",
+			"Эрнесто Вальверде",
+			"Кике Сетьен",
+			"Рональд Куман",
+			"Хави"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Лига Чемпионов",
+			"Кубок Испании",
+			"Суперкубок Испании"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 202126,
+		"name": "Harry Kane",
+		"short_name": "H. Kane",
+		"role": "player",
+
+		"nationality": "Англия",
+		"nationality_valid": true,
+		"max_overall": 90,
+
+		"clubs": [
+			"Tottenham Hotspur",
+			"Leyton Orient",
+			"Millwall",
+			"Norwich City",
+			"Leicester City",
+			"FC Bayern München"
+		],
+
+		"leagues": ["АПЛ", "Бундеслига"],
+
+		"coaches": [
+			"Маурисио Почеттино",
+			"Жозе Моуринью",
+			"Нуну Эшпириту Санту",
+			"Антонио Конте",
+			"Райан Мейсон",
+			"Эндж Постекоглу",
+			"Томас Тухель",
+			"Венсан Компани"
+		],
+
+		"trophies": ["Бундеслига", "Суперкубок Германии"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 203376,
+		"name": "Virgil van Dijk",
+		"short_name": "V. van Dijk",
+		"role": "player",
+
+		"nationality": "Нидерланды",
+		"nationality_valid": true,
+		"max_overall": 90,
+
+		"clubs": [
+			"Willem II",
+			"FC Groningen",
+			"Celtic",
+			"Southampton",
+			"Liverpool"
+		],
+
+		"leagues": ["Эредивизи", "Шотландская Премьер-лига", "АПЛ"],
+
+		"coaches": [
+			"Брендан Роджерс",
+			"Рональд Куман",
+			"Маурисио Почеттино",
+			"Клод Пюэль",
+			"Юрген Клопп",
+			"Арне Слот",
+			"Андони Ираола"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Лига Чемпионов",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 208722,
+		"name": "Sadio Mané",
+		"short_name": "S. Mané",
+		"role": "player",
+
+		"nationality": "Сенегал",
+		"nationality_valid": true,
+		"max_overall": 90,
+
+		"clubs": [
+			"Metz",
+			"Red Bull Salzburg",
+			"Southampton",
+			"Liverpool",
+			"FC Bayern München",
+			"Al Nassr"
+		],
+
+		"leagues": [
+			"Лига 1",
+			"Австрийская Бундеслига",
+			"АПЛ",
+			"Бундеслига",
+			"Саудовская Про-лига"
+		],
+
+		"coaches": [
+			"Роджер Шмидт",
+			"Брендан Роджers",
+			"Маурисио Почеттино",
+			"Юрген Клопп",
+			"Юлиан Нагельсман",
+			"Томас Тухель",
+			"Луис Кастро"
+		],
+
+		"trophies": [
+			"Лига Чемпионов",
+			"АПЛ",
+			"Бундеслига",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира",
+			"Кубок Африки"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 209331,
+		"name": "Mohamed Salah Hamed Mahrous Ghaly",
+		"short_name": "M. Salah",
+		"role": "player",
+
+		"nationality": "Египет",
+		"nationality_valid": true,
+		"max_overall": 90,
+
+		"clubs": [
+			"Al Mokawloon",
+			"Basel",
+			"Chelsea",
+			"Fiorentina",
+			"Roma",
+			"Liverpool"
+		],
+
+		"leagues": [
+			"Египетская Премьер-лига",
+			"Суперлига Швейцарии",
+			"АПЛ",
+			"Серия А"
+		],
+
+		"coaches": [
+			"Жозе Моуринью",
+			"Паулу Соуса",
+			"Синиша Михайлович",
+			"Луис Энрике",
+			"Юрген Клопп",
+			"Арне Слот"
+		],
+
+		"trophies": [
+			"Лига Чемпионов",
+			"АПЛ",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 212831,
+		"name": "Alisson Ramsés Becker",
+		"short_name": "Alisson",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+		"max_overall": 90,
+
+		"clubs": ["Internacional", "AS Roma", "Liverpool"],
+
+		"leagues": ["Бразильская Серия A", "Серия А", "АПЛ"],
+
+		"coaches": [
+			"Roger Machado",
+			"Eduardo Coudet",
+			"Luciano Spalletti",
+			"Jürgen Klopp",
+			"Арне Слот",
+			"Андани Ираола"
+		],
+
+		"trophies": [
+			"Лига Чемпионов",
+			"АПЛ",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 215914,
+		"name": "N'Golo Kanté",
+		"short_name": "N. Kanté",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+		"max_overall": 90,
+
+		"clubs": [
+			"US Boulogne",
+			"SM Caen",
+			"Leicester City",
+			"Chelsea",
+			"Al Ittihad",
+			"Fenerbahçe"
+		],
+
+		"leagues": ["Лига 2", "Лига 1", "АПЛ", "Саудовская Про-лига"],
+
+		"coaches": [
+			"Claude Makélélé",
+			"Claudio Ranieri",
+			"Antonio Conte",
+			"Maurizio Sarri",
+			"Thomas Tuchel",
+			"Graham Potter",
+			"Didier Deschamps",
+			"Nuno Espírito Santo"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Лига Чемпионов",
+			"Лига Европы",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира",
+			"Чемпион мира",
+			"Лига наций УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 41,
+		"name": "Andrés Iniesta Luján",
+		"short_name": "Iniesta",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": ["FC Barcelona", "Vissel Kobe", "Emirates Club"],
+
+		"leagues": ["Ла Лига", "J1 League", "UAE Pro League"],
+
+		"coaches": [
+			"Frank Rijkaard",
+			"Pep Guardiola",
+			"Tito Vilanova",
+			"Gerardo Martino",
+			"Luis Enrique",
+			"Ernesto Valverde",
+			"Quique Setién",
+			"Ronald Koeman"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Лига Чемпионов",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Чемпион мира",
+			"Чемпион Европы",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 1179,
+		"name": "Gianluigi Buffon",
+		"short_name": "G. Buffon",
+		"role": "player",
+
+		"nationality": "Италия",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": ["Parma", "Juventus", "Paris Saint-Germain"],
+
+		"leagues": ["Серия А", "Лига 1"],
+
+		"coaches": [
+			"Carlo Ancelotti",
+			"Marcello Lippi",
+			"Fabio Capello",
+			"Antonio Conte",
+			"Massimiliano Allegri",
+			"Maurizio Sarri",
+			"Gian Piero Gasperini"
+		],
+
+		"trophies": [
+			"Серия А",
+			"Лига 1",
+			"Кубок Италии",
+			"Суперкубок Италии",
+			"Кубок УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 138956,
+		"name": "Giorgio Chiellini",
+		"short_name": "G. Chiellini",
+		"role": "player",
+
+		"nationality": "Италия",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": ["Livorno", "Fiorentina", "Juventus", "Los Angeles FC"],
+
+		"leagues": ["Серия B", "Серия A", "MLS"],
+
+		"coaches": [
+			"Marcello Lippi",
+			"Fabio Capello",
+			"Claudio Ranieri",
+			"Antonio Conte",
+			"Massimiliano Allegri",
+			"Maurizio Sarri",
+			"Andrea Pirlo",
+			"Andrea Barzagli "
+		],
+
+		"trophies": [
+			"Серия А",
+			"Кубок Италии",
+			"Суперкубок Италии",
+			"Лига наций УЕФА",
+			"Евро"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 153079,
+		"name": "Sergio Leonel Agüero del Castillo",
+		"short_name": "S. Agüero",
+		"role": "player",
+
+		"nationality": "Аргентина",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": [
+			"Independiente",
+			"Atlético Madrid",
+			"Manchester City",
+			"FC Barcelona"
+		],
+
+		"leagues": ["Аргентинская Примера", "Ла Лига", "АПЛ"],
+
+		"coaches": [
+			"Diego Simeone",
+			"Manuel Pellegrini",
+			"Roberto Mancini",
+			"Pep Guardiola"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Ла Лига",
+			"Кубок Англии",
+			"Кубок лиги Англии",
+			"Суперкубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 164240,
+		"name": "Thiago Emiliano da Silva",
+		"short_name": "Thiago Silva",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": [
+			"RS Futebol",
+			"Juventude",
+			"Porto",
+			"Dinamo Moscow",
+			"Fluminense",
+			"AC Milan",
+			"Paris Saint-Germain",
+			"Chelsea"
+		],
+
+		"leagues": [
+			"Бразильская Серия A",
+			"Серия А",
+			"Лига 1",
+			"АПЛ",
+			"Российская Премьер-лига"
+		],
+
+		"coaches": [
+			"Carlo Ancelotti",
+			"Leonardo",
+			"Massimiliano Allegri",
+			"Laurent Blanc",
+			"Unai Emery",
+			"Thomas Tuchel",
+			"Mauricio Pochettino",
+			"Graham Potter",
+			"Frank Lampard"
+		],
+
+		"trophies": [
+			"Лига Чемпионов",
+			"Серия А",
+			"Лига 1",
+			"АПЛ",
+			"Кубок Франции",
+			"Кубок Англии",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 168542,
+		"name": "David Josué Jiménez Silva",
+		"short_name": "David Silva",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": [
+			"Valencia CF",
+			"Eibar (loan)",
+			"Manchester City",
+			"Real Sociedad"
+		],
+
+		"leagues": ["Ла Лига", "АПЛ"],
+
+		"coaches": [
+			"Rafa Benítez",
+			"Quique Sánchez Flores",
+			"Manuel Pellegrini",
+			"Roberto Mancini",
+			"Pep Guardiola",
+			"Mikel Arteta",
+			"Imanol Alguacil"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок лиги Англии",
+			"Лига Европы",
+			"Суперкубок Англии",
+			"Ла Лига",
+			"Кубок Испании"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 176635,
+		"name": "Mesut Özil",
+		"short_name": "M. Özil",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": [
+			"Schalke 04",
+			"Werder Bremen",
+			"Real Madrid",
+			"Arsenal",
+			"Fenerbahçe",
+			"İstanbul Başakşehir"
+		],
+
+		"leagues": ["Бундеслига", "Ла Лига", "АПЛ", "Турецкая Суперлига"],
+
+		"coaches": [
+			"Thomas Schaaf",
+			"José Mourinho",
+			"Carlo Ancelotti",
+			"Zinédine Zidane",
+			"Arsène Wenger",
+			"Unai Emery",
+			"Mikel Arteta"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Кубок Англии",
+			"Кубок Германии",
+			"Суперкубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 178603,
+		"name": "Mats Hummels",
+		"short_name": "M. Hummels",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": ["FC Bayern München", "Borussia Dortmund", "AS Roma"],
+
+		"leagues": ["Бундеслига", "Серия А"],
+
+		"coaches": [
+			"Jürgen Klopp",
+			"Louis van Gaal",
+			"Jupp Heynckes",
+			"Pep Guardiola",
+			"Lucien Favre",
+			"Edin Terzić",
+			"José Mourinho "
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Чемпион мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 179813,
+		"name": "Edinson Roberto Cavani Gómez",
+		"short_name": "E. Cavani",
+		"role": "player",
+
+		"nationality": "Уругвай",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": [
+			"Danubio",
+			"Palermo",
+			"Napoli",
+			"Paris Saint-Germain",
+			"Manchester United",
+			"Valencia",
+			"Boca Juniors"
+		],
+
+		"leagues": [
+			"Уругвайская Примера",
+			"Серия А",
+			"Лига 1",
+			"АПЛ",
+			"Ла Лига",
+			"Аргентинская Примера"
+		],
+
+		"coaches": [
+			"Walter Mazzarri",
+			"Rafa Benítez",
+			"Carlo Ancelotti",
+			"Laurent Blanc",
+			"Unai Emery",
+			"Ole Gunnar Solskjær",
+			"Erik ten Hag",
+			"Gennaro Gattuso"
+		],
+
+		"trophies": [
+			"Лига 1",
+			"АПЛ",
+			"Серия А",
+			"Кубок Франции",
+			"Кубок Англии",
+			"Кубок Италии",
+			"Суперкубок Франции"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 184941,
+		"name": "Alexis Alejandro Sánchez Sánchez",
+		"short_name": "A. Sánchez",
+		"role": "player",
+
+		"nationality": "Чили",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": [
+			"Cobreloa",
+			"River Plate",
+			"Udinese",
+			"FC Barcelona",
+			"Arsenal",
+			"Manchester United",
+			"Inter",
+			"Olympique de Marseille",
+			"Sevilla"
+		],
+
+		"leagues": [
+			"Чилийская Примера",
+			"Аргентинская Примера",
+			"Серия А",
+			"Ла Лига",
+			"АПЛ",
+			"Лига 1"
+		],
+
+		"coaches": [
+			"Marcelo Bielsa",
+			"Alberto Zaccheroni",
+			"Giovanni Galeone",
+			"Pep Guardiola",
+			"Tito Vilanova",
+			"Arsène Wenger",
+			"José Mourinho",
+			"Antonio Conte",
+			"Luciano Spalletti",
+			"Rudi Garcia"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок Италии",
+			"Суперкубок Испании",
+			"Кубок Испании",
+			"Кубок конфедераций"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 189511,
+		"name": "Sergio Busquets i Burgos",
+		"short_name": "Sergio Busquets",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": ["FC Barcelona", "Inter Miami CF"],
+
+		"leagues": ["Ла Лига", "MLS"],
+
+		"coaches": [
+			"Pep Guardiola",
+			"Tito Vilanova",
+			"Gerardo Martino",
+			"Luis Enrique",
+			"Ernesto Valverde",
+			"Quique Setién",
+			"Ronald Koeman",
+			"Xavi Hernández"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Лига Чемпионов",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Клубный чемпионат мира",
+			"Евро",
+			"Чемпион мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 194765,
+		"name": "Antoine Griezmann",
+		"short_name": "A. Griezmann",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": [
+			"Real Sociedad",
+			"Atlético Madrid",
+			"FC Barcelona",
+			"Orlando City"
+		],
+
+		"leagues": ["Ла Лига", "MLS"],
+
+		"coaches": [
+			"Philippe Montanier",
+			"Diego Simeone",
+			"Luis Enrique",
+			"Ernesto Valverde",
+			"Quique Setién",
+			"Ronald Koeman"
+		],
+
+		"trophies": [
+			"Лига Европы",
+			"Суперкубок УЕФА",
+			"Суперкубок Испании",
+			"Кубок Испании",
+			"Кубок мира",
+			"Лига наций УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 197781,
+		"name": "Francisco Román Alarcón Suárez",
+		"short_name": "Isco",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": [
+			"Valencia CF",
+			"Málaga CF",
+			"Real Madrid",
+			"Sevilla FC",
+			"Real Betis"
+		],
+
+		"leagues": ["Ла Лига"],
+
+		"coaches": [
+			"Unai Emery",
+			"Manuel Pellegrini",
+			"José Mourinho",
+			"Carlo Ancelotti",
+			"Zinédine Zidane",
+			"Julen Lopetegui",
+			"Ernesto Valverde"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Лига Чемпионов",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 200104,
+		"name": "Son Heung-min",
+		"short_name": "H. Son",
+		"role": "player",
+
+		"nationality": "Южная Корея",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": [
+			"FC Seoul",
+			"Hamburger SV",
+			"Bayer 04 Leverkusen",
+			"Tottenham Hotspur",
+			"Los Angeles FC"
+		],
+
+		"leagues": ["K League 1", "Бундеслига", "АПЛ", "MLS"],
+
+		"coaches": [
+			"Roger Schmidt",
+			"André Villas-Boas",
+			"Mauricio Pochettino",
+			"José Mourinho",
+			"Antonio Conte",
+			"Ange Postecoglou"
+		],
+
+		"trophies": ["Лига Европы"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 200145,
+		"name": "Carlos Henrique Venancio Casimiro",
+		"short_name": "Casemiro",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": ["São Paulo", "Real Madrid", "FC Porto", "Manchester United"],
+
+		"leagues": ["Бразильская Серия A", "Ла Лига", "Примейра-лига", "АПЛ"],
+
+		"coaches": [
+			"Muricy Ramalho",
+			"José Mourinho",
+			"Carlo Ancelotti",
+			"Rafa Benítez",
+			"Zinédine Zidane",
+			"Julen Lopetegui",
+			"Santiago Solari",
+			"Ole Gunnar Solskjær",
+			"Erik ten Hag",
+			"Ruben Amorim",
+			"Michael Carrick"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Лига Чемпионов",
+			"Суперкубок Испании",
+			"Кубок Испании",
+			"АПЛ",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 201024,
+		"name": "Kalidou Koulibaly",
+		"short_name": "K. Koulibaly",
+		"role": "player",
+
+		"nationality": "Сенегал",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": ["Metz", "KRC Genk", "Napoli", "Chelsea", "Al Hilal"],
+
+		"leagues": [
+			"Лига 1",
+			"Бельгийская Про-лига",
+			"Серия А",
+			"АПЛ",
+			"Саудовская Про-лига"
+		],
+
+		"coaches": [
+			"Claudio Ranieri",
+			"Rafael Benítez",
+			"Maurizio Sarri",
+			"Carlo Ancelotti",
+			"Gennaro Gattuso",
+			"Luciano Spalletti",
+			"Thomas Tuchel",
+			"Graham Potter",
+			"Mauricio Pochettino",
+			"Jorge Jesus"
+		],
+
+		"trophies": [
+			"Кубок Италии",
+			"Суперкубок Италии",
+			"АПЛ",
+			"Саудовская Про-лига"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 210257,
+		"name": "Ederson Santana de Moraes",
+		"short_name": "Ederson",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": [
+			"São Paulo",
+			"Rio Ave",
+			"Benfica",
+			"Manchester City",
+			"Fenerbahçe"
+		],
+
+		"leagues": [
+			"Бразильская Серия A",
+			"Примейра-лига",
+			"АПЛ",
+			"Турецкая Суперлига"
+		],
+
+		"coaches": ["Rui Vitória", "Nuno Espírito Santo", "Pep Guardiola"],
+
+		"trophies": [
+			"АПЛ",
+			"Лига Чемпионов",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Суперкубок Англии",
+			"Примейра-лига"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 211110,
+		"name": "Paulo Bruno Exequiel Dybala",
+		"short_name": "P. Dybala",
+		"role": "player",
+
+		"nationality": "Аргентина",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": ["Instituto ACC", "Palermo", "Juventus", "Roma"],
+
+		"leagues": ["Аргентинская Примера", "Серия А"],
+
+		"coaches": [
+			"Gustavo Zapata",
+			"Gian Piero Gasperini",
+			"Maurizio Zamparini",
+			"Massimiliano Allegri",
+			"Andrea Pirlo",
+			"Maurizio Sarri",
+			"José Mourinho"
+		],
+
+		"trophies": [
+			"Серия А",
+			"Кубок Италии",
+			"Суперкубок Италии",
+			"Лига наций CONMEBOL"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 212622,
+		"name": "Joshua Walter Kimmich",
+		"short_name": "J. Kimmich",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": ["RB Leipzig", "FC Bayern München"],
+
+		"leagues": ["Бундеслига"],
+
+		"coaches": [
+			"Ralf Rangnick",
+			"Pep Guardiola",
+			"Carlo Ancelotti",
+			"Jupp Heynckes",
+			"Niko Kovač",
+			"Hansi Flick",
+			"Julian Nagelsmann",
+			"Thomas Tuchel",
+			"Vincent Kompany"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Лига Чемпионов",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 230621,
+		"name": "Gianluigi Donnarumma",
+		"short_name": "G. Donnarumma",
+		"role": "player",
+
+		"nationality": "Италия",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": ["AC Milan", "Paris Saint-Germain", "Manchester City"],
+
+		"leagues": ["Серия А", "Лига 1", "АПЛ"],
+
+		"coaches": [
+			"Sinisa Mihajlovic",
+			"Vincenzo Montella",
+			"Gennaro Gattuso",
+			"Marco Giampaolo",
+			"Stefano Pioli",
+			"Mauricio Pochettino",
+			"Christophe Galtier",
+			"Luis Enrique",
+			"Pep Guardiola"
+		],
+
+		"trophies": [
+			"Евро",
+			"Лига 1",
+			"Кубок Франции",
+			"Суперкубок Франции",
+			"Кубок Англии",
+			"Кубок Футбольной лиги"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 231866,
+		"name": "Rodrigo Hernández Cascante",
+		"short_name": "Rodri",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+		"max_overall": 89,
+
+		"clubs": ["Villarreal", "Atlético Madrid", "Manchester City"],
+
+		"leagues": ["Ла Лига", "АПЛ"],
+
+		"coaches": ["Marcelino García Toral", "Diego Simeone", "Pep Guardiola"],
+
+		"trophies": [
+			"Ла Лига",
+			"АПЛ",
+			"Лига Чемпионов",
+			"Кубок Англии",
+			"Суперкубок Англии",
+			"Кубок Испании"
+		],
+
+		"ballon_dor": true,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 238794,
+		"name": "Vinícius José Paixão de Oliveira Júnior",
+		"short_name": "Vini Jr.",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 89,
+
+		"clubs": ["Flamengo", "Real Madrid"],
+
+		"leagues": ["Бразильская Серия A", "Ла Лига"],
+
+		"coaches": [
+			"Zé Ricardo",
+			"Reinaldo Rueda",
+			"Julen Lopetegui",
+			"Santiago Solari",
+			"Zinédine Zidane",
+			"Carlo Ancelotti",
+			"Xabi Alonso",
+			"Alvaro Arbeloa",
+			"José Mourinho"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Лига Чемпионов",
+			"Суперкубок Испании",
+			"Кубок Испании",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 239818,
+		"name": "Rúben dos Santos Gato Alves Dias",
+		"short_name": "Rúben Dias",
+		"role": "player",
+
+		"nationality": "Португалия",
+		"nationality_valid": true,
+
+		"max_overall": 89,
+
+		"clubs": ["Benfica", "Manchester City"],
+
+		"leagues": ["Примейра-лига", "АПЛ"],
+
+		"coaches": ["Rui Vitória", "Bruno Lage", "Pep Guardiola"],
+
+		"trophies": [
+			"Примейра-лига",
+			"АПЛ",
+			"Лига Чемпионов",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Суперкубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 7826,
+		"name": "Robin van Persie",
+		"short_name": "R. van Persie",
+		"role": "player",
+
+		"nationality": "Нидерланды",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": ["Feyenoord", "Arsenal", "Manchester United", "Fenerbahçe"],
+
+		"leagues": ["Эредивизи", "АПЛ", "Турецкая Суперлига"],
+
+		"coaches": [
+			"Arsène Wenger",
+			"Alex Ferguson",
+			"Dick Advocaat",
+			"Erwin Koeman"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Эредивизи",
+			"Кубок Англии",
+			"Суперкубок Англии",
+			"Суперкубок Нидерландов"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 48940,
+		"name": "Petr Čech",
+		"short_name": "P. Čech",
+		"role": "player",
+
+		"nationality": "Чехия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": ["Sparta Praha", "Rennes", "Chelsea", "Arsenal"],
+
+		"leagues": ["Чешская лига", "Лига 1", "АПЛ"],
+
+		"coaches": [
+			"Claudio Ranieri",
+			"José Mourinho",
+			"Carlo Ancelotti",
+			"Guus Hiddink",
+			"Roberto Di Matteo",
+			"Arsène Wenger"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Лига Чемпионов",
+			"Лига Европы",
+			"Кубок Англии",
+			"Суперкубок Англии",
+			"Кубок Франции"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 120533,
+		"name": "Kléper Laveran de Lima Ferreira",
+		"short_name": "Pepe",
+		"role": "player",
+
+		"nationality": "Португалия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": ["Marítimo", "Porto", "Real Madrid", "Beşiktaş"],
+
+		"leagues": ["Примейра-лига", "Ла Лига", "Турецкая Суперлига"],
+
+		"coaches": [
+			"José Mourinho",
+			"Manuel Pellegrini",
+			"Carlo Ancelotti",
+			"Zinédine Zidane",
+			"Julen Lopetegui",
+			"Sérgio Conceição"
+		],
+
+		"trophies": [
+			"Примейра-лига",
+			"Ла Лига",
+			"Турецкая Суперлига",
+			"Лига Чемпионов",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Суперкубок Португалии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 121939,
+		"name": "Philipp Lahm",
+		"short_name": "P. Lahm",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": ["FC Bayern München", "VfB Stuttgart"],
+
+		"leagues": ["Бундеслига"],
+
+		"coaches": [
+			"Felix Magath",
+			"Jürgen Klinsmann",
+			"Louis van Gaal",
+			"Jupp Heynckes",
+			"Pep Guardiola"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Лига Чемпионов",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Клубный чемпионат мира",
+			"Чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 121944,
+		"name": "Bastian Schweinsteiger",
+		"short_name": "B. Schweinsteiger",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": ["FC Bayern München", "Manchester United", "Chicago Fire"],
+
+		"leagues": ["Бундеслига", "АПЛ", "MLS"],
+
+		"coaches": [
+			"Ottmar Hitzfeld",
+			"Louis van Gaal",
+			"Jupp Heynckes",
+			"Pep Guardiola",
+			"Carlo Ancelotti",
+			"Louis van Gaal (Man United)",
+			"José Mourinho"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Лига Чемпионов",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Клубный чемпионат мира",
+			"Чемпионат мира",
+			"Кубок Англии",
+			"MLS"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 152729,
+		"name": "Gerard Piqué Bernabéu",
+		"short_name": "Piqué",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": ["Manchester United", "Real Zaragoza", "FC Barcelona"],
+
+		"leagues": ["АПЛ", "Ла Лига"],
+
+		"coaches": [
+			"Sir Alex Ferguson",
+			"Rafael Benítez",
+			"Frank Rijkaard",
+			"Pep Guardiola",
+			"Tito Vilanova",
+			"Gerardo Martino",
+			"Luis Enrique",
+			"Ernesto Valverde",
+			"Quique Setién",
+			"Ronald Koeman"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Лига Чемпионов",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Чемпионат мира",
+			"Чемпионат Европы"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 156616,
+		"name": "Franck Bilal Ribéry",
+		"short_name": "F. Ribéry",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": [
+			"US Boulogne",
+			"Galatasaray",
+			"Olympique Marseille",
+			"FC Bayern München",
+			"Fiorentina",
+			"Salernitana"
+		],
+
+		"leagues": ["Лига 1", "Суперлига Турции", "Бундеслига", "Серия А"],
+
+		"coaches": [
+			"Jean Fernandez",
+			"Didier Deschamps",
+			"Eric Gerets",
+			"Ottmar Hitzfeld",
+			"Louis van Gaal",
+			"Jupp Heynckes",
+			"Pep Guardiola",
+			"Carlo Ancelotti",
+			"Niko Kovač",
+			"Hans-Dieter Flick",
+			"Vicenzo Italiano"
+		],
+
+		"trophies": [
+			"Лига Чемпионов",
+			"Бундеслига",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Серия А",
+			"Кубок Франции"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 162835,
+		"name": "Samir Handanovič",
+		"short_name": "S. Handanovič",
+		"role": "player",
+
+		"nationality": "Словения",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": ["Domžale", "Udinese", "Inter"],
+
+		"leagues": ["Словенская лига", "Серия А"],
+
+		"coaches": [
+			"Giovanni Galeone",
+			"Pasquale Marino",
+			"Luciano Spalletti",
+			"Antonio Conte",
+			"Simone Inzaghi"
+		],
+
+		"trophies": ["Серия А", "Кубок Италии", "Суперкубок Италии"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 167397,
+		"name": "Radamel Falcao García Zárate",
+		"short_name": "Falcao",
+		"role": "player",
+
+		"nationality": "Колумбия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": [
+			"Lanceros Boyacá",
+			"River Plate",
+			"Porto",
+			"Atlético Madrid",
+			"Monaco",
+			"Manchester United",
+			"Chelsea",
+			"Galatasaray",
+			"Rayo Vallecano"
+		],
+
+		"leagues": [
+			"Колумбийская Примера B",
+			"Аргентинская Примера",
+			"Примейра-лига",
+			"Ла Лига",
+			"Лига 1",
+			"АПЛ",
+			"Турецкая Суперлига"
+		],
+
+		"coaches": [
+			"Reinaldo Rueda",
+			"Diego Simeone",
+			"André Villas-Boas",
+			"Julen Lopetegui",
+			"Leonardo Jardim",
+			"José Mourinho",
+			"Louis van Gaal"
+		],
+
+		"trophies": [
+			"Лига Европы",
+			"Суперкубок УЕФА",
+			"Лига 1",
+			"Турецкая Суперлига",
+			"Примейра-лига",
+			"Кубок Испании"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 167948,
+		"name": "Hugo Lloris",
+		"short_name": "H. Lloris",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": [
+			"OGC Nice",
+			"Olympique Lyonnais",
+			"Tottenham Hotspur",
+			"Los Angeles FC"
+		],
+
+		"leagues": ["Лига 1", "АПЛ", "MLS"],
+
+		"coaches": [
+			"Frédéric Antonetti",
+			"Claude Puel",
+			"Raymond Domenech",
+			"Didier Deschamps",
+			"Harry Redknapp",
+			"Mauricio Pochettino",
+			"José Mourinho",
+			"Antonio Conte",
+			"Ange Postecoglou"
+		],
+
+		"trophies": ["Лига 1", "Суперкубок Франции", "Чемпион мира"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 176676,
+		"name": "Marcelo Vieira da Silva Júnior",
+		"short_name": "Marcelo",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": ["Fluminense", "Real Madrid", "Olympiacos", "Fluminense"],
+
+		"leagues": ["Бразильская Серия A", "Ла Лига", "Суперлига Греции"],
+
+		"coaches": [
+			"Carlos Alberto Parreira",
+			"Mano Menezes",
+			"José Mourinho",
+			"Carlo Ancelotti",
+			"Rafael Benítez",
+			"Zinédine Zidane",
+			"Santiago Solari",
+			"Julen Lopetegui",
+			"Manuel Pellegrini"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Лига Чемпионов",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Клубный чемпионат мира",
+			"Серия А Греции"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 184344,
+		"name": "Leonardo Bonucci",
+		"short_name": "L. Bonucci",
+		"role": "player",
+
+		"nationality": "Италия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": [
+			"Inter Milan",
+			"Treviso",
+			"Pisa",
+			"Bari",
+			"Juventus",
+			"AC Milan",
+			"Fenerbahçe",
+			"Union Berlin"
+		],
+
+		"leagues": ["Серия А", "Турецкая Суперлига", "Бундеслига"],
+
+		"coaches": [
+			"Antonio Conte",
+			"Massimiliano Allegri",
+			"Alberto Zaccheroni",
+			"Cesare Prandelli",
+			"Carlo Ancelotti",
+			"Luciano Spalletti"
+		],
+
+		"trophies": [
+			"Серия А",
+			"Кубок Италии",
+			"Суперкубок Италии",
+			"Серия B",
+			"Евро"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 188350,
+		"name": "Marco Reus",
+		"short_name": "M. Reus",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": [
+			"Rot Weiss Ahlen",
+			"Borussia Mönchengladbach",
+			"Borussia Dortmund",
+			"LA Galaxy"
+		],
+
+		"leagues": ["Региональная лига Германии", "Бундеслига", "MLS"],
+
+		"coaches": [
+			"Jürgen Klopp",
+			"Lucien Favre",
+			"Thomas Tuchel",
+			"Peter Bosz",
+			"Peter Stöger",
+			"Edin Terzić",
+			"Marco Rose"
+		],
+
+		"trophies": ["Бундеслига", "Кубок Германии", "Суперкубок Германии"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 188567,
+		"name": "Pierre-Emerick Aubameyang",
+		"short_name": "P. Aubameyang",
+		"role": "player",
+
+		"nationality": "Габон",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": [
+			"AC Milan",
+			"Dijon",
+			"Lille",
+			"Monaco",
+			"Saint-Étienne",
+			"Borussia Dortmund",
+			"Arsenal",
+			"Barcelona",
+			"Chelsea",
+			"Olympique de Marseille",
+			"Al-Qadsiah"
+		],
+
+		"leagues": [
+			"Серия А",
+			"Лига 1",
+			"Бундеслига",
+			"АПЛ",
+			"Ла Лига",
+			"Саудовская Про-лига"
+		],
+
+		"coaches": [
+			"Carlo Ancelotti",
+			"Walter Mazzarri",
+			"Christophe Galtier",
+			"Claude Puel",
+			"Lucien Favre",
+			"Thomas Tuchel",
+			"Arsène Wenger",
+			"Mikel Arteta",
+			"Xavi"
+		],
+
+		"trophies": [
+			"Кубок Англии",
+			"Суперкубок Англии",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Суперкубок Германии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 189242,
+		"name": "Philippe Coutinho Correia",
+		"short_name": "Coutinho",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": [
+			"Vasco da Gama",
+			"Inter Milan",
+			"Espanyol",
+			"Liverpool",
+			"FC Barcelona",
+			"FC Bayern München",
+			"Aston Villa",
+			"Al-Duhail"
+		],
+
+		"leagues": [
+			"Бразильская Серия A",
+			"Серия А",
+			"Ла Лига",
+			"Бундеслига",
+			"АПЛ",
+			"Катарская лига"
+		],
+
+		"coaches": [
+			"Rafael Benítez",
+			"Roy Hodgson",
+			"Brendan Rodgers",
+			"Jürgen Klopp",
+			"Ernesto Valverde",
+			"Quique Setién",
+			"Hansi Flick",
+			"Steven Gerrard"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Бундеслига",
+			"АПЛ",
+			"Кубок Испании",
+			"Клубный чемпионат мира",
+			"Лига Чемпионов"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 189509,
+		"name": "Thiago Alcântara do Nascimento",
+		"short_name": "Thiago",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": ["FC Barcelona", "FC Bayern München", "Liverpool"],
+
+		"leagues": ["Ла Лига", "Бундеслига", "АПЛ"],
+
+		"coaches": [
+			"Pep Guardiola",
+			"Jupp Heynckes",
+			"Carlo Ancelotti",
+			"Luis Enrique",
+			"Hansi Flick",
+			"Jürgen Klopp"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Бундеслига",
+			"АПЛ",
+			"Лига Чемпионов",
+			"Кубок Испании",
+			"Кубок Германии",
+			"Суперкубок УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 190460,
+		"name": "Christian Dannemann Eriksen",
+		"short_name": "C. Eriksen",
+		"role": "player",
+
+		"nationality": "Дания",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": [
+			"Ajax",
+			"Tottenham Hotspur",
+			"Inter Milan",
+			"Brentford",
+			"Manchester United",
+			"Wolfsburg"
+		],
+
+		"leagues": ["Эредивизи", "АПЛ", "Серия А", "Бундеслига"],
+
+		"coaches": [
+			"Frank de Boer",
+			"Peter Bosz",
+			"Mauricio Pochettino",
+			"Antonio Conte",
+			"Ralf Rangnick",
+			"Erik ten Hag"
+		],
+
+		"trophies": ["Эредивизи", "Серия А", "Кубок Англии", "Суперкубок Англии"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 192505,
+		"name": "Romelu Lukaku Menama",
+		"short_name": "R. Lukaku",
+		"role": "player",
+
+		"nationality": "Бельгия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": [
+			"Anderlecht",
+			"Chelsea",
+			"West Bromwich Albion",
+			"Everton",
+			"Manchester United",
+			"Inter Milan",
+			"Roma",
+			"Napoli"
+		],
+
+		"leagues": ["Бельгийская Про-лига", "АПЛ", "Серия А"],
+
+		"coaches": [
+			"Frank Lampard",
+			"José Mourinho",
+			"Ronald Koeman",
+			"Roberto Martinez",
+			"Antonio Conte",
+			"Simone Inzaghi"
+		],
+
+		"trophies": ["Серия А", "АПЛ", "Суперкубок Италии", "Кубок Англии"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 193041,
+		"name": "Keylor Navas Gamboa",
+		"short_name": "K. Navas",
+		"role": "player",
+
+		"nationality": "Коста-Рика",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": [
+			"Saprissa",
+			"Albacete",
+			"Levante",
+			"Real Madrid",
+			"Paris Saint-Germain",
+			"Nottingham Forest",
+			"Newell's Old Boys",
+			"UNAM Pumas"
+		],
+
+		"leagues": [
+			"Костариканская лига",
+			"Сегунда",
+			"Ла Лига",
+			"Лига 1",
+			"АПЛ",
+			"Аргентинская Примера",
+			"Лига МХ"
+		],
+
+		"coaches": [
+			"Joaquín Caparrós",
+			"Juan Ignacio Martínez",
+			"Carlo Ancelotti",
+			"Zinedine Zidane",
+			"Unai Emery",
+			"Mauricio Pochettino",
+			"Steve Cooper"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Лига Чемпионов",
+			"Лига 1",
+			"Кубок Испании",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 195864,
+		"name": "Paul Pogba",
+		"short_name": "P. Pogba",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": [
+			"Le Havre",
+			"Manchester United",
+			"Juventus",
+			"Manchester United",
+			"AS Monaco"
+		],
+
+		"leagues": ["Лига 2 Франции", "АПЛ", "Серия А"],
+
+		"coaches": [
+			"Sir Alex Ferguson",
+			"David Moyes",
+			"José Mourinho",
+			"Ole Gunnar Solskjær",
+			"Massimiliano Allegri",
+			"Antonio Conte",
+			"Didier Deschamps"
+		],
+
+		"trophies": [
+			"Лига Европы",
+			"Серия А",
+			"АПЛ",
+			"Кубок Италии",
+			"Кубок Лиги Франции",
+			"Чемпион мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 198219,
+		"name": "Lorenzo Insigne",
+		"short_name": "L. Insigne",
+		"role": "player",
+
+		"nationality": "Италия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": ["Napoli", "Foggia", "Pescara", "Toronto FC"],
+
+		"leagues": ["Серия А", "Серия B", "MLS"],
+
+		"coaches": [
+			"Walter Mazzarri",
+			"Rafael Benítez",
+			"Maurizio Sarri",
+			"Carlo Ancelotti",
+			"Gennaro Gattuso",
+			"Luciano Spalletti",
+			"Bob Bradley"
+		],
+
+		"trophies": ["Кубок Италии", "Суперкубок Италии", "Чемпион Европы"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 198710,
+		"name": "James David Rodríguez Rubio",
+		"short_name": "J. Rodríguez",
+		"role": "player",
+
+		"nationality": "Колумбия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": [
+			"Envigado",
+			"Banfield",
+			"Porto",
+			"Monaco",
+			"Real Madrid",
+			"Bayern München",
+			"Everton",
+			"Al-Rayyan",
+			"São Paulo",
+			"León",
+			"Minnesota United"
+		],
+
+		"leagues": [
+			"Колумбийская Примера A",
+			"Аргентинская Примера",
+			"Примейра-лига",
+			"Лига 1",
+			"Ла Лига",
+			"Бундеслига",
+			"АПЛ",
+			"Суперлига Греции",
+			"Бразильская Серия A",
+			"Лига MX",
+			"MLS"
+		],
+
+		"coaches": [
+			"Carlos Queiroz",
+			"José Pekerman",
+			"Julen Lopetegui",
+			"Zinédine Zidane",
+			"Carlo Ancelotti",
+			"Jupp Heynckes",
+			"Niko Kovač",
+			"Marcelo Gallardo"
+		],
+
+		"trophies": [
+			"Лига Чемпионов",
+			"Ла Лига",
+			"Бундеслига",
+			"Кубок Германии",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 202652,
+		"name": "Raheem Sterling",
+		"short_name": "R. Sterling",
+		"role": "player",
+
+		"nationality": "Англия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": [
+			"Queens Park Rangers",
+			"Liverpool",
+			"Manchester City",
+			"Chelsea",
+			"Arsenal",
+			"Feyenoord"
+		],
+
+		"leagues": ["АПЛ", "Эредивизи"],
+
+		"coaches": [
+			"Brendan Rodgers",
+			"Jürgen Klopp",
+			"Pep Guardiola",
+			"Thomas Tuchel",
+			"Graham Potter",
+			"Mauricio Pochettino",
+			"Mikel Arteta"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Суперкубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 207865,
+		"name": "Marcos Aoás Corrêa",
+		"short_name": "Marquinhos",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": ["Corinthians", "Roma", "Paris Saint-Germain"],
+
+		"leagues": ["Бразильская Серия A", "Серия A", "Лига 1"],
+
+		"coaches": [
+			"Tite",
+			"Claudio Ranieri",
+			"Laurent Blanc",
+			"Unai Emery",
+			"Thomas Tuchel",
+			"Mauricio Pochettino",
+			"Christophe Galtier",
+			"Luis Enrique"
+		],
+
+		"trophies": [
+			"Лига 1",
+			"Кубок Франции",
+			"Суперкубок Франции",
+			"Кубок Италии",
+			"Серия A"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 210514,
+		"name": "João Pedro Cavaco Cancelo",
+		"short_name": "João Cancelo",
+		"role": "player",
+
+		"nationality": "Португалия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": [
+			"Barreirense",
+			"Benfica",
+			"Valencia",
+			"Inter Milan",
+			"Juventus",
+			"Manchester City",
+			"Bayern München",
+			"Barcelona",
+			"Al Hilal"
+		],
+
+		"leagues": [
+			"Примейра-лига",
+			"Ла Лига",
+			"Серия A",
+			"АПЛ",
+			"Бундеслига",
+			"Саудовская Про-лига"
+		],
+
+		"coaches": [
+			"Nuno Espírito Santo",
+			"Marcelino",
+			"Antonio Conte",
+			"Luciano Spalletti",
+			"Massimiliano Allegri",
+			"Pep Guardiola",
+			"Thomas Tuchel",
+			"Xavi",
+			"Hansi Flick"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Бундеслига",
+			"Серия A",
+			"Ла Лига",
+			"Суперкубок УЕФА",
+			"Кубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 212198,
+		"name": "Bruno Miguel Borges Fernandes",
+		"short_name": "Bruno Fernandes",
+		"role": "player",
+
+		"nationality": "Португалия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": [
+			"Boavista",
+			"Novara",
+			"Udinese",
+			"Sampdoria",
+			"Sporting CP",
+			"Manchester United"
+		],
+
+		"leagues": ["Примейра-лига", "Серия A", "АПЛ"],
+
+		"coaches": [
+			"Giuseppe Iachini",
+			"Sinisa Mihajlovic",
+			"Marco Giampaolo",
+			"Leonardo Jardim",
+			"Jorge Jesus",
+			"Rúben Amorim",
+			"Ole Gunnar Solskjær",
+			"Ralf Rangnick",
+			"Erik ten Hag",
+			"Ruben Amorim",
+			"Michael Carrick"
+		],
+
+		"trophies": [
+			"Кубок Португалии",
+			"Кубок Лиги Португалии",
+			"АПЛ",
+			"Кубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 218667,
+		"name": "Bernardo Mota Veiga de Carvalho e Silva",
+		"short_name": "Bernardo Silva",
+		"role": "player",
+
+		"nationality": "Португалия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": ["Benfica", "Monaco", "Manchester City"],
+
+		"leagues": ["Примейра-лига", "Лига 1", "АПЛ"],
+
+		"coaches": ["Jorge Jesus", "Leonardo Jardim", "Pep Guardiola"],
+
+		"trophies": [
+			"АПЛ",
+			"Лига 1",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Суперкубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 232293,
+		"name": "Victor James Osimhen",
+		"short_name": "V. Osimhen",
+		"role": "player",
+
+		"nationality": "Нигерия",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": [
+			"Ultimate Strikers Academy",
+			"VfL Wolfsburg",
+			"Charleroi",
+			"Lille",
+			"Napoli",
+			"Galatasaray"
+		],
+
+		"leagues": [
+			"Нигерийская лига",
+			"Бундеслига",
+			"Жюпиле Про Лига",
+			"Лига 1",
+			"Серия А",
+			"Суперлига Турции"
+		],
+
+		"coaches": [
+			"Emmanuel Amuneke",
+			"Felice Mazzù",
+			"Christophe Galtier",
+			"Gennaro Gattuso",
+			"Luciano Spalletti",
+			"Rudi Garcia",
+			"Antonio Conte"
+		],
+
+		"trophies": ["Лига 1", "Серия А", "Суперкубок Италии"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 239053,
+		"name": "Federico Santiago Valverde Dipetta",
+		"short_name": "F. Valverde",
+		"role": "player",
+
+		"nationality": "Уругвай",
+		"nationality_valid": true,
+
+		"max_overall": 88,
+
+		"clubs": ["Peñarol", "Real Madrid", "Deportivo de La Coruña"],
+
+		"leagues": ["Уругвайская Примера", "Ла Лига"],
+
+		"coaches": [
+			"Diego Aguirre",
+			"Zinédine Zidane",
+			"Santiago Solari",
+			"Carlo Ancelotti",
+			"Julen Lopetegui",
+			"José Mourinho",
+			"Xabi Alonso",
+			"Alvaro Arbeloa"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Лига Чемпионов",
+			"Суперкубок Испании",
+			"Кубок Испании",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 135507,
+		"name": "Fernando Luiz Rosa",
+		"short_name": "Fernandinho",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": ["Atlético Paranaense", "Shakhtar Donetsk", "Manchester City"],
+
+		"leagues": ["Бразильская Серия A", "Премьер-лига Украины", "АПЛ"],
+
+		"coaches": [
+			"Mircea Lucescu",
+			"Roberto Mancini",
+			"Manuel Pellegrini",
+			"Pep Guardiola"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Суперкубок Англии",
+			"Премьер-лига Украины",
+			"Лига Европы"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 162895,
+		"name": "Francesc Fàbregas i Soler",
+		"short_name": "Cesc Fàbregas",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": ["FC Barcelona", "Arsenal", "Chelsea", "Monaco", "Como"],
+
+		"leagues": ["Ла Лига", "АПЛ", "Лига 1", "Серия B"],
+
+		"coaches": [
+			"Frank Rijkaard",
+			"Pep Guardiola",
+			"Arsène Wenger",
+			"José Mourinho",
+			"Antonio Conte",
+			"Thierry Henry"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"АПЛ",
+			"Лига 1",
+			"Кубок Англии",
+			"Кубок Испании",
+			"Чемпион мира",
+			"Чемпион Европы"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 168651,
+		"name": "Ivan Rakitić",
+		"short_name": "I. Rakitić",
+		"role": "player",
+
+		"nationality": "Хорватия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": ["FC Basel", "Schalke 04", "Sevilla", "FC Barcelona", "Al-Shabab"],
+
+		"leagues": [
+			"Суперлига Швейцарии",
+			"Бундеслига",
+			"Ла Лига",
+			"Саудовская Про-лига"
+		],
+
+		"coaches": [
+			"Thomas Schaaf",
+			"Manuel Pellegrini",
+			"Unai Emery",
+			"Luis Enrique",
+			"Ernesto Valverde",
+			"Quique Setién",
+			"Julen Lopetegui",
+			"Rudi Garcia"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Лига Европы",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 171877,
+		"name": "Marek Hamšík",
+		"short_name": "M. Hamšík",
+		"role": "player",
+
+		"nationality": "Словакия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": [
+			"Slovan Bratislava",
+			"Brescia",
+			"Napoli",
+			"Dalian Professional",
+			"Trabzonspor",
+			"IFK Göteborg"
+		],
+
+		"leagues": [
+			"Словацкая лига",
+			"Серия B",
+			"Серия A",
+			"Китайская Суперлига",
+			"Суперлига Турции",
+			"Аллсвенскан"
+		],
+
+		"coaches": [
+			"Dušan Uhrin",
+			"Giovanni Galeone",
+			"Edy Reja",
+			"Walter Mazzarri",
+			"Rafael Benítez",
+			"Maurizio Sarri",
+			"Carlo Ancelotti",
+			"Gennaro Gattuso",
+			"Şenol Güneş"
+		],
+
+		"trophies": [
+			"Кубок Италии",
+			"Суперкубок Италии",
+			"Суперкубок Турции",
+			"Кубок Турции"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 172871,
+		"name": "Jan Bert Lieve Vertonghen",
+		"short_name": "J. Vertonghen",
+		"role": "player",
+
+		"nationality": "Бельгия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": ["Ajax", "Tottenham Hotspur", "Benfica", "Anderlecht"],
+
+		"leagues": ["Эредивизи", "АПЛ", "Примейра-лига", "Жюпиле Про Лига"],
+
+		"coaches": [
+			"Ronald Koeman",
+			"Martin Jol",
+			"Frank de Boer",
+			"Mauricio Pochettino",
+			"José Mourinho",
+			"Roger Schmidt"
+		],
+
+		"trophies": ["Эредивизи", "АПЛ", "Кубок Нидерландов", "Кубок Португалии"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 175943,
+		"name": "Dries Mertens",
+		"short_name": "D. Mertens",
+		"role": "player",
+
+		"nationality": "Бельгия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": ["AGOVV Apeldoorn", "Utrecht", "PSV", "Napoli", "Galatasaray"],
+
+		"leagues": ["Эредивизи", "Серия A", "Суперлига Турции"],
+
+		"coaches": [
+			"Ron Jans",
+			"Fred Rutten",
+			"Dick Advocaat",
+			"Walter Mazzarri",
+			"Rafael Benítez",
+			"Maurizio Sarri",
+			"Carlo Ancelotti",
+			"Gennaro Gattuso",
+			"Okan Buruk"
+		],
+
+		"trophies": [
+			"Серия A",
+			"Суперкубок Италии",
+			"Кубок Турции",
+			"Суперкубок Турции"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 181872,
+		"name": "Arturo Erasmo Vidal Pardo",
+		"short_name": "A. Vidal",
+		"role": "player",
+
+		"nationality": "Чили",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": [
+			"Colo-Colo",
+			"Bayer Leverkusen",
+			"Juventus",
+			"Bayern München",
+			"Barcelona",
+			"Inter Milan",
+			"Flamengo",
+			"Athletico Paranaense"
+		],
+
+		"leagues": [
+			"Чилийская Примера",
+			"Бундеслига",
+			"Серия A",
+			"Ла Лига",
+			"Бразильская Серия A"
+		],
+
+		"coaches": [
+			"Marcelo Bielsa",
+			"Claudio Borghi",
+			"Jupp Heynckes",
+			"Massimiliano Allegri",
+			"Carlo Ancelotti",
+			"Luis Enrique",
+			"Ernesto Valverde",
+			"Antonio Conte",
+			"Simone Inzaghi"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Серия A",
+			"Ла Лига",
+			"Кубок Германии",
+			"Кубок Италии",
+			"Клубный чемпионат мира",
+			"Кубок Бразилии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 183898,
+		"name": "Ángel Fabián Di María Hernández",
+		"short_name": "Á. Di María",
+		"role": "player",
+
+		"nationality": "Аргентина",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": [
+			"Rosario Central",
+			"Benfica",
+			"Real Madrid",
+			"Manchester United",
+			"Paris Saint-Germain",
+			"Juventus",
+			"Benfica"
+		],
+
+		"leagues": [
+			"Аргентинская Примера",
+			"Примейра-лига",
+			"Ла Лига",
+			"АПЛ",
+			"Лига 1",
+			"Серия A"
+		],
+
+		"coaches": [
+			"Miguel Ángel Russo",
+			"Manuel Pellegrini",
+			"José Mourinho",
+			"Carlo Ancelotti",
+			"Louis van Gaal",
+			"Laurent Blanc",
+			"Unai Emery",
+			"Thomas Tuchel",
+			"Massimiliano Allegri",
+			"Roger Schmidt"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"АПЛ",
+			"Лига 1",
+			"Серия A",
+			"Кубок Испании",
+			"Лига Чемпионов",
+			"Клубный чемпионат мира",
+			"Кубок Португалии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 184087,
+		"name": "Toby Albertine Maurits Alderweireld",
+		"short_name": "T. Alderweireld",
+		"role": "player",
+
+		"nationality": "Бельгия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": [
+			"Beerschot",
+			"Ajax",
+			"Atlético Madrid",
+			"Southampton",
+			"Tottenham Hotspur",
+			"Al-Duhail",
+			"Royal Antwerp"
+		],
+
+		"leagues": [
+			"Жюпиле Про Лига",
+			"Эредивизи",
+			"Ла Лига",
+			"АПЛ",
+			"Катарская Звёздная лига"
+		],
+
+		"coaches": [
+			"Ronald Koeman",
+			"Frank de Boer",
+			"Diego Simeone",
+			"Mauricio Pochettino",
+			"José Mourinho",
+			"Antonio Conte",
+			"Mark van Bommel"
+		],
+
+		"trophies": [
+			"Эредивизи",
+			"Ла Лига",
+			"Суперкубок Испании",
+			"Кубок Англии",
+			"Кубок Бельгии",
+			"Чемпион Катарской лиги"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 186153,
+		"name": "Wojciech Tomasz Szczęsny",
+		"short_name": "W. Szczęsny",
+		"role": "player",
+
+		"nationality": "Польша",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": ["Legia Warszawa", "Arsenal", "Roma", "Juventus", "Barcelona"],
+
+		"leagues": ["Экстракласа", "АПЛ", "Серия A", "Ла Лига"],
+
+		"coaches": [
+			"Arsène Wenger",
+			"Steve Bould",
+			"Rudi Garcia",
+			"Luciano Spalletti",
+			"Massimiliano Allegri",
+			"Andrea Pirlo",
+			"Xavi",
+			"Hansi Flick"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Серия A",
+			"Кубок Италии",
+			"Суперкубок Италии",
+			"Кубок Англии",
+			"Ла Лига"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 189332,
+		"name": "Jordi Alba Ramos",
+		"short_name": "Jordi Alba",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": [
+			"Hospitalet",
+			"Cornellà",
+			"Valencia",
+			"FC Barcelona",
+			"Inter Miami"
+		],
+
+		"leagues": ["Сегунда B", "Ла Лига", "MLS"],
+
+		"coaches": [
+			"Unai Emery",
+			"Ronald Koeman",
+			"Ernesto Valverde",
+			"Quique Setién",
+			"Xavi Hernández",
+			"Tata Martino"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Лига Чемпионов",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира",
+			"MLS Supporters’ Shield"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 189596,
+		"name": "Thomas Müller",
+		"short_name": "T. Müller",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": ["FC Bayern München", "Vancouver Whitecaps"],
+
+		"leagues": ["Бундеслига", "MLS"],
+
+		"coaches": [
+			"Louis van Gaal",
+			"Jupp Heynckes",
+			"Pep Guardiola",
+			"Carlo Ancelotti",
+			"Niko Kovač",
+			"Hansi Flick",
+			"Julian Nagelsmann",
+			"Thomas Tuchel"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Лига Чемпионов",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 192387,
+		"name": "Ciro Immobile",
+		"short_name": "C. Immobile",
+		"role": "player",
+
+		"nationality": "Италия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": [
+			"Sorrento",
+			"Juve Stabia",
+			"Pescara",
+			"Genoa",
+			"Torino",
+			"Juventus",
+			"Sevilla",
+			"Borussia Dortmund",
+			"Lazio",
+			"Beşiktaş",
+			"Bologna",
+			"Paris FC"
+		],
+
+		"leagues": [
+			"Серия C",
+			"Серия B",
+			"Серия A",
+			"Ла Лига",
+			"Бундеслига",
+			"Суперлига Турции",
+			"Лига 2"
+		],
+
+		"coaches": [
+			"Zdeněk Zeman",
+			"Gian Piero Ventura",
+			"Antonio Conte",
+			"Max Allegri",
+			"Unai Emery",
+			"Lucien Favre",
+			"Simone Inzaghi",
+			"Maurizio Sarri"
+		],
+
+		"trophies": ["Серия B", "Суперкубок Италии", "Кубок Турции"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 197445,
+		"name": "David Olatukunbo Alaba",
+		"short_name": "D. Alaba",
+		"role": "player",
+
+		"nationality": "Австрия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": [
+			"SV Aspern",
+			"Austria Wien",
+			"FC Bayern München",
+			"TSG Hoffenheim",
+			"Real Madrid"
+		],
+
+		"leagues": ["Региональные лиги Австрии", "Бундеслига", "Ла Лига"],
+
+		"coaches": [
+			"Hermann Gerland",
+			"Louis van Gaal",
+			"Jupp Heynckes",
+			"Pep Guardiola",
+			"Carlo Ancelotti",
+			"Julian Nagelsmann",
+			"Xabi Alonso",
+			"Alvaro Arbeloa"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Кубок Германии",
+			"Лига Чемпионов",
+			"Суперкубок УЕФА",
+			"Ла Лига",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 199556,
+		"name": "Marco Verratti",
+		"short_name": "M. Verratti",
+		"role": "player",
+
+		"nationality": "Италия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": ["Pescara", "Paris Saint-Germain", "Al-Arabi", "Al-Duhail"],
+
+		"leagues": ["Серия B", "Лига 1", "Катарская Звёздная лига"],
+
+		"coaches": [
+			"Zdeněk Zeman",
+			"Carlo Ancelotti",
+			"Laurent Blanc",
+			"Unai Emery",
+			"Thomas Tuchel",
+			"Mauricio Pochettino",
+			"Christophe Galtier"
+		],
+
+		"trophies": [
+			"Лига 1",
+			"Кубок Франции",
+			"Суперкубок Франции",
+			"Кубок лиги Франции"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 201399,
+		"name": "Mauro Emanuel Icardi Rivero",
+		"short_name": "M. Icardi",
+		"role": "player",
+
+		"nationality": "Аргентина",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": ["Sampdoria", "Inter", "Paris Saint-Germain", "Galatasaray"],
+
+		"leagues": ["Серия A", "Лига 1", "Суперлига Турции"],
+
+		"coaches": [
+			"Sinisa Mihajlovic",
+			"Walter Mazzarri",
+			"Roberto Mancini",
+			"Frank de Boer",
+			"Stefano Pioli",
+			"Luciano Spalletti",
+			"Thomas Tuchel",
+			"Mauricio Pochettino",
+			"Okan Buruk"
+		],
+
+		"trophies": [
+			"Серия A",
+			"Лига 1",
+			"Суперкубок Франции",
+			"Суперкубок Турции"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 201942,
+		"name": "Roberto Firmino Barbosa de Oliveira",
+		"short_name": "Roberto Firmino",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": [
+			"Figueirense",
+			"TSG Hoffenheim",
+			"Liverpool",
+			"Al Ahli Jeddah",
+			"Al-Sadd"
+		],
+
+		"leagues": [
+			"Серия B Бразилии",
+			"Бундеслига",
+			"АПЛ",
+			"Саудовская Про-лига",
+			"Катарская Звёздная лига"
+		],
+
+		"coaches": [
+			"Armin Veh",
+			"Markus Gisdol",
+			"Brendan Rodgers",
+			"Jürgen Klopp",
+			"Matthias Jaissle",
+			"Roberto Mancini"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Лига Чемпионов",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Суперкубок Англии",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 205452,
+		"name": "Antonio Rüdiger",
+		"short_name": "A. Rüdiger",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": ["VfB Stuttgart", "Roma", "Chelsea", "Real Madrid"],
+
+		"leagues": ["Бундеслига", "Серия A", "АПЛ", "Ла Лига"],
+
+		"coaches": [
+			"Bruno Labbadia",
+			"Hannes Wolf",
+			"Luciano Spalletti",
+			"Antonio Conte",
+			"Frank Lampard",
+			"Thomas Tuchel",
+			"Carlo Ancelotti",
+			"Xabi Alonso",
+			"Alvaro Arbeloa",
+			"José Mourinho"
+		],
+
+		"trophies": [
+			"Серия A",
+			"АПЛ",
+			"Ла Лига",
+			"Кубок Англии",
+			"Кубок Испании",
+			"Лига Чемпионов",
+			"Суперкубок УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 205600,
+		"name": "Samuel Yves Umtiti",
+		"short_name": "S. Umtiti",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": ["Olympique Lyonnais", "FC Barcelona", "Lecce", "Lille"],
+
+		"leagues": ["Лига 1", "Ла Лига", "Серия A"],
+
+		"coaches": [
+			"Rémi Garde",
+			"Bruno Génésio",
+			"Luis Enrique",
+			"Ernesto Valverde",
+			"Quique Setién",
+			"Xavi Hernández",
+			"Marco Baroni"
+		],
+
+		"trophies": [
+			"Лига 1",
+			"Кубок Франции",
+			"Суперкубок Франции",
+			"Ла Лига",
+			"Кубок Испании",
+			"Чемпион мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 209499,
+		"name": "Fábio Henrique Tavares",
+		"short_name": "Fabinho",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": [
+			"Paulínia",
+			"Fluminense",
+			"Real Madrid Castilla",
+			"Real Madrid",
+			"Monaco",
+			"Liverpool",
+			"Al-Ittihad"
+		],
+
+		"leagues": [
+			"Серия D Бразилии",
+			"Ла Лига",
+			"Лига 1",
+			"АПЛ",
+			"Саудовская Про-лига"
+		],
+
+		"coaches": [
+			"Zinedine Zidane",
+			"José Mourinho",
+			"Leonardo Jardim",
+			"Jürgen Klopp",
+			"Nuno Espírito Santo",
+			"Laurent Blanc",
+			"Rudi Garcia"
+		],
+
+		"trophies": [
+			"Лига Чемпионов",
+			"АПЛ",
+			"Лига 1",
+			"Суперкубок Англии",
+			"Кубок Англии",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 209658,
+		"name": "Leon Christoph Goretzka",
+		"short_name": "L. Goretzka",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": ["VfL Bochum", "Schalke 04", "FC Bayern München"],
+
+		"leagues": ["Бундеслига"],
+
+		"coaches": [
+			"Peter Neururer",
+			"Huub Stevens",
+			"Roberto Di Matteo",
+			"Jupp Heynckes",
+			"Niko Kovač",
+			"Hansi Flick",
+			"Julian Nagelsmann",
+			"Thomas Tuchel",
+			"Vincent Kompany"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Лига Чемпионов",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 212218,
+		"name": "Aymeric Laporte",
+		"short_name": "A. Laporte",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": [
+			"Aviron Bayonnais",
+			"Athletic Club",
+			"Manchester City",
+			"Al-Nassr"
+		],
+
+		"leagues": [
+			"Французские региональные лиги",
+			"Ла Лига",
+			"АПЛ",
+			"Саудовская Про-лига"
+		],
+
+		"coaches": [
+			"Ernesto Valverde",
+			"Joaquín Caparrós",
+			"Pep Guardiola",
+			"Mikel Arteta",
+			"Luis Castro"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Ла Лига",
+			"Кубок Англии",
+			"Кубок Испании",
+			"Суперкубок Англии",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 215698,
+		"name": "Mike Maignan",
+		"short_name": "M. Maignan",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": ["Paris Saint-Germain", "Lille", "AC Milan"],
+
+		"leagues": ["Лига 1", "Серия A"],
+
+		"coaches": [
+			"Laurent Blanc",
+			"Unai Emery",
+			"Christophe Galtier",
+			"Stefano Pioli",
+			"Sérgio Conceição"
+		],
+
+		"trophies": ["Лига 1", "Серия A", "Суперкубок Италии"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 216267,
+		"name": "Andrew Robertson",
+		"short_name": "A. Robertson",
+		"role": "player",
+
+		"nationality": "Шотландия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": [
+			"Queen's Park",
+			"Dundee United",
+			"Hull City",
+			"Liverpool",
+			"Tottenham Hotspur"
+		],
+
+		"leagues": ["Шотландская Лига 2", "Шотландский Чемпионшип", "АПЛ"],
+
+		"coaches": [
+			"Jackie McNamara",
+			"Robbie Neilson",
+			"Steve Bruce",
+			"Jürgen Klopp",
+			"Arne Slot",
+			"Roberto De Zerbi"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Лига Чемпионов",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Суперкубок Англии",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 222665,
+		"name": "Martin Ødegaard",
+		"short_name": "M. Ødegaard",
+		"role": "player",
+
+		"nationality": "Норвегия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": [
+			"Strømsgodset",
+			"Real Madrid",
+			"Herenveen",
+			"Vitesse",
+			"Real Sociedad",
+			"Arsenal"
+		],
+
+		"leagues": ["Элитсериен", "Ла Лига", "Эредивизи", "АПЛ"],
+
+		"coaches": [
+			"Tor Ole Skullerud",
+			"Zinedine Zidane",
+			"Eusebio Sacristán",
+			"Imanol Alguacil",
+			"Mikel Arteta"
+		],
+
+		"trophies": ["Ла Лига", "Кубок Испании", "Суперкубок Испании", "АПЛ"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 228702,
+		"name": "Frenkie de Jong",
+		"short_name": "F. de Jong",
+		"role": "player",
+
+		"nationality": "Нидерланды",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": ["Willem II", "Ajax", "FC Barcelona"],
+
+		"leagues": ["Эредивизи", "Ла Лига"],
+
+		"coaches": [
+			"Erwin van de Looi",
+			"Peter Bosz",
+			"Marcel Keizer",
+			"Erik ten Hag",
+			"Ronald Koeman",
+			"Quique Setién",
+			"Ronald Koeman",
+			"Xavi Hernández",
+			"Hansi Flick"
+		],
+
+		"trophies": [
+			"Эредивизи",
+			"Кубок Нидерландов",
+			"Ла Лига",
+			"Кубок Испании",
+			"Суперкубок Испании"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 231281,
+		"name": "Trent Alexander-Arnold",
+		"short_name": "T. Alexander-Arnold",
+		"role": "player",
+
+		"nationality": "Англия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": ["Liverpool", "Real Madrid"],
+
+		"leagues": ["АПЛ", "Ла Лига"],
+
+		"coaches": [
+			"Steven Gerrard",
+			"Brendan Rodgers",
+			"Jürgen Klopp",
+			"Arne Slot",
+			"Xabi Alonso",
+			"Alvaro Arbeloa",
+			"José Mourinho"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Лига Чемпионов",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Суперкубок Англии",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 231478,
+		"name": "Lautaro Javier Martínez",
+		"short_name": "L. Martínez",
+		"role": "player",
+
+		"nationality": "Аргентина",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": ["Racing Club", "Inter"],
+
+		"leagues": ["Аргентинская Примера", "Серия A"],
+
+		"coaches": [
+			"Diego Cocca",
+			"Eduardo Coudet",
+			"Luciano Spalletti",
+			"Antonio Conte",
+			"Simone Inzaghi",
+			"Christian Kivu"
+		],
+
+		"trophies": [
+			"Серия A",
+			"Кубок Италии",
+			"Суперкубок Италии",
+			"Кубок Америки"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 233049,
+		"name": "Jadon Sancho",
+		"short_name": "J. Sancho",
+		"role": "player",
+
+		"nationality": "Англия",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": [
+			"Manchester City",
+			"Borussia Dortmund",
+			"Manchester United",
+			"Chelsea",
+			"Aston Villa"
+		],
+
+		"leagues": ["АПЛ", "Бундеслига"],
+
+		"coaches": [
+			"Pep Guardiola",
+			"Lucien Favre",
+			"Edin Terzić",
+			"Erik ten Hag",
+			"Mauricio Pochettino",
+			"Unai Emery"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Лига Европы"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 235073,
+		"name": "Gregor Kobel",
+		"short_name": "G. Kobel",
+		"role": "player",
+
+		"nationality": "Швейцария",
+		"nationality_valid": true,
+
+		"max_overall": 87,
+
+		"clubs": ["TSG Hoffenheim", "VfB Stuttgart", "Borussia Dortmund"],
+
+		"leagues": ["Бундеслига"],
+
+		"coaches": [
+			"Julian Nagelsmann",
+			"Markus Weinzierl",
+			"Pellegrino Matarazzo",
+			"Marco Rose",
+			"Edin Terzić",
+			"Nuri Şahin",
+			"Niko Kovac"
+		],
+
+		"trophies": ["Бундеслига U19", "Кубок Германии"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 10535,
+		"name": "Xavier Hernández Creus",
+		"short_name": "Xavi",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["FC Barcelona", "Al-Sadd"],
+
+		"leagues": ["Ла Лига", "Лига звёзд Катара"],
+
+		"coaches": [
+			"Frank Rijkaard",
+			"Pep Guardiola",
+			"Luis Enrique",
+			"Ernesto Valverde",
+			"Quique Setién",
+			"Ronald Koeman"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Лига Чемпионов",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира",
+			"Кубок эмира Катара"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 20289,
+		"name": "Gnégnéri Yaya Touré",
+		"short_name": "Y. Touré",
+		"role": "player",
+
+		"nationality": "Кот-д’Ивуар",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"ASEC Mimosas",
+			"Beveren",
+			"Metalurh Donetsk",
+			"Olympiacos",
+			"Monaco",
+			"Barcelona",
+			"Manchester City"
+		],
+
+		"leagues": [
+			"Лига Кот-д’Ивуара",
+			"Бельгийская Про-лига",
+			"УПЛ Украины",
+			"Суперлига Греции",
+			"Ла Лига",
+			"АПЛ"
+		],
+
+		"coaches": [
+			"Jean-Marc Guillou",
+			"Ernesto Valverde",
+			"Frank Rijkaard",
+			"Pep Guardiola",
+			"Roberto Mancini",
+			"Manuel Pellegrini",
+			"Hervé Renard"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Кубок Африки (AFCON)"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 54050,
+		"name": "Wayne Mark Rooney",
+		"short_name": "W. Rooney",
+		"role": "player",
+
+		"nationality": "Англия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Everton", "Manchester United", "D.C. United", "Derby County"],
+
+		"leagues": ["АПЛ", "MLS", "Чемпионшип"],
+
+		"coaches": [
+			"David Moyes",
+			"Sir Alex Ferguson",
+			"Louis van Gaal",
+			"José Mourinho",
+			"Ole Gunnar Solskjær",
+			"Frank Lampard"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Лига Чемпионов",
+			"Клубный чемпионат мира",
+			"MLS Cup"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 137186,
+		"name": "Andrea Barzagli",
+		"short_name": "A. Barzagli",
+		"role": "player",
+
+		"nationality": "Италия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Pistoiese", "Ascoli", "Palermo", "VfL Wolfsburg", "Juventus"],
+
+		"leagues": ["Серия C", "Серия B", "Серия A", "Бундеслига"],
+
+		"coaches": [
+			"Claudio Ranieri",
+			"Delio Rossi",
+			"Zdeněk Zeman",
+			"Felix Magath",
+			"Antonio Conte",
+			"Massimiliano Allegri",
+			"Andrea Pirlo"
+		],
+
+		"trophies": ["Бундеслига", "Серия A", "Кубок Италии", "Суперкубок Италии"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 139720,
+		"name": "Vincent Jean Mpoy Kompany",
+		"short_name": "V. Kompany",
+		"role": "player",
+
+		"nationality": "Бельгия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Anderlecht", "Hamburger SV", "Manchester City"],
+
+		"leagues": ["Жюпиле Про Лига", "Бундеслига", "АПЛ"],
+
+		"coaches": [
+			"Franky Vercauteren",
+			"Ariël Jacobs",
+			"Thomas Doll",
+			"Mark Hughes",
+			"Roberto Mancini",
+			"Manuel Pellegrini",
+			"Pep Guardiola"
+		],
+
+		"trophies": [
+			"Жюпиле Про Лига",
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Суперкубок Англии",
+			"Бундеслига (игрок-тренер этап)"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 143001,
+		"name": "Carlos Alberto Tévez",
+		"short_name": "C. Tévez",
+		"role": "player",
+
+		"nationality": "Аргентина",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Boca Juniors",
+			"Corinthians",
+			"West Ham United",
+			"Manchester United",
+			"Manchester City",
+			"Juventus",
+			"Shanghai Shenhua"
+		],
+
+		"leagues": [
+			"Примера Аргентины",
+			"Серия A Бразилии",
+			"АПЛ",
+			"Серия A",
+			"Китайская Суперлига"
+		],
+
+		"coaches": [
+			"Carlos Bianchi",
+			"Tite",
+			"Alan Pardew",
+			"Sir Alex Ferguson",
+			"Roberto Mancini",
+			"Antonio Conte",
+			"Marcelo Gallardo"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Серия A",
+			"Кубок Англии",
+			"Лига Чемпионов",
+			"Кубок Либертадорес",
+			"Китайская Суперлига"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 143076,
+		"name": "Alejandro Darío Gómez",
+		"short_name": "A. Gómez",
+		"role": "player",
+
+		"nationality": "Аргентина",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Arsenal de Sarandí",
+			"San Lorenzo",
+			"Catania",
+			"Atalanta",
+			"Sevilla",
+			"Monza"
+		],
+
+		"leagues": ["Примера Аргентины", "Серия A", "Ла Лига"],
+
+		"coaches": [
+			"Miguel Ángel Russo",
+			"Diego Simeone",
+			"Rolando Maran",
+			"Gian Piero Gasperini",
+			"Julen Lopetegui",
+			"José Luis Mendilibar",
+			"Raffaele Palladino"
+		],
+
+		"trophies": ["Кубок Италии", "Лига Европы", "Суперкубок Европы"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 146562,
+		"name": "Santiago Cazorla González",
+		"short_name": "Santi Cazorla",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Real Oviedo",
+			"Villarreal",
+			"Recreativo Huelva",
+			"Málaga",
+			"Arsenal",
+			"Al-Sadd"
+		],
+
+		"leagues": ["Сегунда", "Ла Лига", "АПЛ", "Лига звёзд Катара"],
+
+		"coaches": [
+			"Manuel Preciado",
+			"Marcelino García Toral",
+			"Manuel Pellegrini",
+			"Arsène Wenger",
+			"Unai Emery",
+			"Xavi Hernández"
+		],
+
+		"trophies": ["Кубок Испании", "АПЛ", "Кубок Англии", "Кубок эмира Катара"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 168609,
+		"name": "João Miranda de Souza Filho",
+		"short_name": "Miranda",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Coritiba",
+			"São Paulo",
+			"Atlético Madrid",
+			"Inter",
+			"Jiangsu Suning"
+		],
+
+		"leagues": [
+			"Серия A Бразилии",
+			"Ла Лига",
+			"Серия A",
+			"Китайская Суперлига"
+		],
+
+		"coaches": [
+			"Muricy Ramalho",
+			"Ricardo Gomes",
+			"Quique Sánchez Flores",
+			"Diego Simeone",
+			"Roberto Mancini",
+			"Luciano Spalletti"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Серия A",
+			"Китайская Суперлига",
+			"Кубок Италии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 170890,
+		"name": "Blaise Matuidi",
+		"short_name": "B. Matuidi",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Troyes",
+			"Saint-Étienne",
+			"Paris Saint-Germain",
+			"Juventus",
+			"Inter Miami"
+		],
+
+		"leagues": ["Лига 1", "Серия A", "MLS"],
+
+		"coaches": [
+			"Jean-Marc Furlan",
+			"Alain Perrin",
+			"Laurent Blanc",
+			"Unai Emery",
+			"Thomas Tuchel",
+			"Massimiliano Allegri",
+			"Diego Alonso"
+		],
+
+		"trophies": [
+			"Лига 1",
+			"Серия A",
+			"Кубок Франции",
+			"Кубок Италии",
+			"Суперкубок Франции",
+			"MLS Cup"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 171919,
+		"name": "Ronaldo Aparecido Rodrigues",
+		"short_name": "Naldo",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"RS Futebol",
+			"EC Juventude",
+			"Werder Bremen",
+			"VfL Wolfsburg",
+			"Schalke 04",
+			"Monaco"
+		],
+
+		"leagues": ["Серия C Бразилии", "Серия A Бразилии", "Бундеслига", "Лига 1"],
+
+		"coaches": [
+			"Ivo Wortmann",
+			"Vanderlei Luxemburgo",
+			"Thomas Schaaf",
+			"Felix Magath",
+			"Dieter Hecking",
+			"Manuel Pellegrini"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Кубок Франции"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 172879,
+		"name": "Sokratis Papastathopoulos",
+		"short_name": "Sokratis",
+		"role": "player",
+
+		"nationality": "Греция",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"AEK Athens",
+			"Genoa",
+			"AC Milan",
+			"Werder Bremen",
+			"Borussia Dortmund",
+			"Arsenal",
+			"Olympiacos"
+		],
+
+		"leagues": ["Суперлига Греции", "Серия A", "Бундеслига", "АПЛ"],
+
+		"coaches": [
+			"Fernando Santos",
+			"Gian Piero Gasperini",
+			"Massimiliano Allegri",
+			"Thomas Schaaf",
+			"Jürgen Klopp",
+			"Arsène Wenger",
+			"Mikel Arteta"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Кубок Германии",
+			"АПЛ",
+			"Кубок Англии",
+			"Суперкубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 173210,
+		"name": "Claudio Marchisio",
+		"short_name": "C. Marchisio",
+		"role": "player",
+
+		"nationality": "Италия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Juventus", "Empoli"],
+
+		"leagues": ["Серия A"],
+
+		"coaches": [
+			"Alessio Secco",
+			"Claudio Ranieri",
+			"Ciro Ferrara",
+			"Luigi Delneri",
+			"Antonio Conte",
+			"Massimiliano Allegri"
+		],
+
+		"trophies": ["Серия A", "Кубок Италии", "Суперкубок Италии"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 177388,
+		"name": "Dimitri Payet",
+		"short_name": "D. Payet",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"AS Saint-Étienne",
+			"Nantes",
+			"Lille",
+			"Olympique de Marseille",
+			"West Ham United",
+			"Vasco da Gama"
+		],
+
+		"leagues": ["Лига 1", "АПЛ", "Бразильская Серия A"],
+
+		"coaches": [
+			"Christophe Galtier",
+			"Rudi Garcia",
+			"Slaven Bilić",
+			"Jorge Sampaoli",
+			"Jean-Louis Gasset"
+		],
+
+		"trophies": ["Кубок Франции", "Кубок Лиги Франции", "Суперкубок Франции"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 177509,
+		"name": "Medhi Amine El Mouttaqi Benatia",
+		"short_name": "M. Benatia",
+		"role": "player",
+
+		"nationality": "Марокко",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Marseille",
+			"Udinese",
+			"AS Roma",
+			"Bayern München",
+			"Juventus",
+			"Al-Duhail",
+			"Fatih Karagümrük"
+		],
+
+		"leagues": ["Лига 1", "Серия A", "Бундеслига", "Турецкая Суперлига"],
+
+		"coaches": [
+			"Didier Deschamps",
+			"Francesco Guidolin",
+			"Rudi Garcia",
+			"Pep Guardiola",
+			"Carlo Ancelotti",
+			"Massimiliano Allegri",
+			"Xavi Hernández"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Серия A",
+			"Кубок Германии",
+			"Кубок Италии",
+			"Суперкубок Италии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 177610,
+		"name": "Javier Martínez Aginaga",
+		"short_name": "Javi Martínez",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Osasuna", "Athletic Bilbao", "FC Bayern München", "Qatar SC"],
+
+		"leagues": ["Ла Лига", "Бундеслига", "Катарская лига"],
+
+		"coaches": [
+			"Joaquín Caparrós",
+			"Marcelo Bielsa",
+			"Pep Guardiola",
+			"Carlo Ancelotti",
+			"Jupp Heynckes",
+			"Hansi Flick",
+			"Julian Nagelsmann"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Кубок Испании",
+			"Бундеслига",
+			"Кубок Германии",
+			"Лига Чемпионов",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 177683,
+		"name": "Yann Sommer",
+		"short_name": "Y. Sommer",
+		"role": "player",
+
+		"nationality": "Швейцария",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"FC Basel",
+			"Grasshopper",
+			"VfB Stuttgart",
+			"Borussia Mönchengladbach",
+			"Bayern München",
+			"Inter"
+		],
+
+		"leagues": ["Суперлига Швейцарии", "Бундеслига", "Серия A"],
+
+		"coaches": [
+			"Heiko Vogel",
+			"Paulo Sousa",
+			"Lucien Favre",
+			"Adi Hütter",
+			"Julian Nagelsmann",
+			"Simone Inzaghi",
+			"Christian Kivu"
+		],
+
+		"trophies": [
+			"Суперлига Швейцарии",
+			"Кубок Швейцарии",
+			"Суперкубок Германии",
+			"Серия A"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 178518,
+		"name": "Radja Nainggolan",
+		"short_name": "R. Nainggolan",
+		"role": "player",
+
+		"nationality": "Бельгия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Piacenza", "Cagliari", "Roma", "Inter", "Royal Antwerp", "Spal"],
+
+		"leagues": ["Серия A", "Бельгийская Про-лига"],
+
+		"coaches": [
+			"Massimiliano Allegri",
+			"Davide Ballardini",
+			"Eusebio Di Francesco",
+			"Luciano Spalletti",
+			"Antonio Conte",
+			"Walter Mazzarri"
+		],
+
+		"trophies": ["Серия A", "Суперкубок Италии", "Кубок Бельгии"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": true
+	},
+	{
+		"id": 179844,
+		"name": "Diego da Silva Costa",
+		"short_name": "Diego Costa",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Barcelona Esportivo Capela",
+			"Braga",
+			"Celta Vigo (loan)",
+			"Albacete (loan)",
+			"Valladolid (loan)",
+			"Atlético Madrid",
+			"Chelsea",
+			"Atlético Madrid",
+			"Wolverhampton Wanderers",
+			"Botafogo",
+			"Grêmio"
+		],
+
+		"leagues": [
+			"Серия D Бразилии",
+			"Лига Португалии",
+			"Сегунда",
+			"Ла Лига",
+			"АПЛ",
+			"Серия A Бразилии"
+		],
+
+		"coaches": [
+			"Jesús García Pitarch",
+			"Quique Sánchez Flores",
+			"Diego Simeone",
+			"José Mourinho",
+			"Antonio Conte",
+			"Nuno Espírito Santo"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Суперкубок Испании",
+			"АПЛ",
+			"Кубок Англии",
+			"Суперкубок Англии",
+			"Лига Европы УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": true
+	},
+	{
+		"id": 179944,
+		"name": "David Luiz Moreira Marinho",
+		"short_name": "David Luiz",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Vitoria",
+			"Benfica",
+			"Chelsea",
+			"Paris Saint-Germain",
+			"Arsenal",
+			"Flamengo",
+			"Fortaleza",
+			"Pafos"
+		],
+
+		"leagues": [
+			"Серия A Бразилии",
+			"Примейра-лига",
+			"АПЛ",
+			"Лига 1",
+			"Бразильская Серия A",
+			"Чемпионат Кипра"
+		],
+
+		"coaches": [
+			"Fernando Santos",
+			"André Villas-Boas",
+			"Roberto Di Matteo",
+			"Rafael Benítez",
+			"José Mourinho",
+			"Unai Emery",
+			"Mikel Arteta",
+			"Jorge Jesus"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Кубок Англии",
+			"Лига Чемпионов",
+			"Лига Европы",
+			"Лига 1",
+			"Кубок Франции"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 180206,
+		"name": "Miralem Pjanić",
+		"short_name": "M. Pjanić",
+		"role": "player",
+
+		"nationality": "Босния и Герцеговина",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Metz",
+			"Lyon",
+			"Roma",
+			"Juventus",
+			"Barcelona",
+			"Beşiktaş",
+			"Sharjah FC",
+			"CSKA Moscow"
+		],
+
+		"leagues": [
+			"Лига 1",
+			"Серия A",
+			"Ла Лига",
+			"Суперлига Турции",
+			"Лига ОАЭ",
+			"Российская Премьер-Лига"
+		],
+
+		"coaches": [
+			"Alain Perrin",
+			"Claude Puel",
+			"Rudi Garcia",
+			"Massimiliano Allegri",
+			"Ernesto Valverde",
+			"Ronald Koeman",
+			"Valérien Ismaël"
+		],
+
+		"trophies": [
+			"Серия A",
+			"Кубок Италии",
+			"Суперкубок Италии",
+			"Ла Лига",
+			"Кубок Франции"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": true
+	},
+	{
+		"id": 181458,
+		"name": "Ivan Perišić",
+		"short_name": "I. Perišić",
+		"role": "player",
+
+		"nationality": "Хорватия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Hajduk Split",
+			"Sochaux",
+			"Roeselare",
+			"Club Brugge",
+			"Borussia Dortmund",
+			"VfL Wolfsburg",
+			"Inter",
+			"Bayern München",
+			"Tottenham Hotspur",
+			"PSV Eindhoven"
+		],
+
+		"leagues": [
+			"Хорватская лига",
+			"Лига 1",
+			"Бельгийская Про-лига",
+			"Бундеслига",
+			"Серия A",
+			"АПЛ",
+			"Эредивизи"
+		],
+
+		"coaches": [
+			"Ante Miše",
+			"Ivan Katalinić",
+			"Ivan Leko",
+			"Jürgen Klopp",
+			"Thomas Tuchel",
+			"Niko Kovač",
+			"Antonio Conte",
+			"Luciano Spalletti",
+			"Julian Nagelsmann",
+			"Ange Postecoglou"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Серия A",
+			"АПЛ",
+			"Кубок Германии",
+			"Кубок Италии",
+			"Лига Чемпионов",
+			"Эредивизи",
+			"Суперкубок Нидерландов"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 183711,
+		"name": "Jordan Henderson",
+		"short_name": "J. Henderson",
+		"role": "player",
+
+		"nationality": "Англия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Sunderland",
+			"Coventry City (loan)",
+			"Liverpool",
+			"Al-Ettifaq",
+			"Ajax",
+			"Brentford"
+		],
+
+		"leagues": ["АПЛ", "Чемпионшип", "Саудовская Про-лига", "Эредивизи"],
+
+		"coaches": [
+			"Steve Bruce",
+			"Roy Hodgson",
+			"Brendan Rodgers",
+			"Jürgen Klopp",
+			"Steven Gerrard",
+			"Mauricio Pochettino"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Лига Чемпионов",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Суперкубок Англии",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 184432,
+		"name": "César Azpilicueta Tanco",
+		"short_name": "Azpilicueta",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Osasuna",
+			"Olympique Marseille",
+			"Chelsea",
+			"Atlético Madrid",
+			"Sevilla"
+		],
+
+		"leagues": ["Ла Лига", "Лига 1", "АПЛ"],
+
+		"coaches": [
+			"José Ángel Ziganda",
+			"Javier Aguirre",
+			"Didier Deschamps",
+			"Roberto Di Matteo",
+			"Rafael Benítez",
+			"José Mourinho",
+			"Antonio Conte",
+			"Frank Lampard",
+			"Thomas Tuchel",
+			"Mauricio Pochettino",
+			"Diego Simeone"
+		],
+
+		"trophies": [
+			"Лига 1",
+			"АПЛ",
+			"Лига Чемпионов",
+			"Лига Европы",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Суперкубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 186942,
+		"name": "İlkay Gündoğan",
+		"short_name": "İ. Gündoğan",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"SV Gelsenkirchen-Hessler 06",
+			"VfL Bochum",
+			"Borussia Dortmund",
+			"Manchester City",
+			"FC Barcelona",
+			"Galatasaray"
+		],
+
+		"leagues": [
+			"Региональные лиги Германии",
+			"Бундеслига",
+			"АПЛ",
+			"Ла Лига",
+			"Турецкая Суперлига"
+		],
+
+		"coaches": [
+			"Thomas Schneider",
+			"Jürgen Klopp",
+			"Thomas Tuchel",
+			"Pep Guardiola",
+			"Xavi Hernández"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Кубок Германии",
+			"АПЛ",
+			"Лига Чемпионов",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира",
+			"Ла Лига"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 188943,
+		"name": "Kevin Trapp",
+		"short_name": "K. Trapp",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Kaiserslautern",
+			"Eintracht Frankfurt",
+			"Paris Saint-Germain",
+			"Paris FC"
+		],
+
+		"leagues": ["Бундеслига", "Лига 1"],
+
+		"coaches": [
+			"Marco Kurz",
+			"Armin Veh",
+			"Thomas Tuchel",
+			"Unai Emery",
+			"Lucien Favre",
+			"Adi Hütter",
+			"Oliver Glasner"
+		],
+
+		"trophies": [
+			"Лига 1",
+			"Кубок Франции",
+			"Суперкубок Франции",
+			"Лига Европы УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 189513,
+		"name": "Daniel Parejo Muñoz",
+		"short_name": "Parejo",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Real Madrid",
+			"Queens Park Rangers",
+			"Getafe",
+			"Valencia",
+			"Villarreal"
+		],
+
+		"leagues": ["Ла Лига", "Чемпионшип Англии"],
+
+		"coaches": [
+			"Manuel Pellegrini",
+			"Bernd Schuster",
+			"Míchel",
+			"Unai Emery",
+			"Javier Calleja",
+			"Quique Setién",
+			"Marcelino García Toral",
+			"José Bordalás"
+		],
+
+		"trophies": ["Ла Лига", "Кубок Испании", "Лига Европы УЕФА"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 190483,
+		"name": "Douglas Costa de Souza",
+		"short_name": "Douglas Costa",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Grêmio",
+			"Shakhtar Donetsk",
+			"Bayern München",
+			"Juventus",
+			"LA Galaxy",
+			"Fluminense",
+			"Sydney FC",
+			"Chievo Verona"
+		],
+
+		"leagues": [
+			"Серия A Бразилии",
+			"Премьер-лига Украины",
+			"Бундеслига",
+			"Серия A",
+			"MLS",
+			"A-League"
+		],
+
+		"coaches": [
+			"Renato Gaúcho",
+			"Luiz Felipe Scolari",
+			"Mircea Lucescu",
+			"Pep Guardiola",
+			"Massimiliano Allegri",
+			"Andrea Pirlo",
+			"Robert Moreno"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Серия A",
+			"Кубок Германии",
+			"Кубок Италии",
+			"MLS Cup"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 191043,
+		"name": "Alex Sandro Lobo Silva",
+		"short_name": "Alex Sandro",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Athletico Paranaense",
+			"Santos",
+			"Porto",
+			"Juventus",
+			"Flamengo"
+		],
+
+		"leagues": ["Серия A Бразилии", "Примейра-лига", "Серия A"],
+
+		"coaches": [
+			"Vagner Mancini",
+			"Dorival Júnior",
+			"Vítor Pereira",
+			"André Villas-Boas",
+			"Julen Lopetegui",
+			"Massimiliano Allegri",
+			"Andrea Pirlo",
+			"Thiago Motta",
+			"Leonardo Jardim"
+		],
+
+		"trophies": [
+			"Примейра-лига",
+			"Серия A",
+			"Кубок Португалии",
+			"Кубок Италии",
+			"Суперкубок Италии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 191202,
+		"name": "Nemanja Matić",
+		"short_name": "N. Matić",
+		"role": "player",
+
+		"nationality": "Сербия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Kolubara",
+			"Košice",
+			"Chelsea",
+			"Vitesse",
+			"Benfica",
+			"Manchester United",
+			"Roma",
+			"Rennes",
+			"Olympique Lyonnais",
+			"Sassuolo"
+		],
+
+		"leagues": [
+			"Суперлига Сербии",
+			"Эредивизи",
+			"Примейра-лига",
+			"АПЛ",
+			"Серия A",
+			"Лига 1"
+		],
+
+		"coaches": [
+			"Ján Kozák",
+			"José Mourinho",
+			"Carlo Ancelotti",
+			"Roberto Di Matteo",
+			"Rafa Benítez",
+			"Luiz Felipe Scolari",
+			"Antonio Conte",
+			"Ole Gunnar Solskjær",
+			"José Mourinho",
+			"Paulo Fonseca",
+			"Daniele De Rossi"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Суперкубок Англии",
+			"Примейра-лига",
+			"Серия A",
+			"Лига Европы УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 192366,
+		"name": "Nicolás Hernán Gonzalo Otamendi",
+		"short_name": "N. Otamendi",
+		"role": "player",
+
+		"nationality": "Аргентина",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Vélez Sarsfield",
+			"Porto",
+			"Valencia",
+			"Manchester City",
+			"Benfica"
+		],
+
+		"leagues": ["Примера Аргентины", "Примейра-лига", "Ла Лига", "АПЛ"],
+
+		"coaches": [
+			"Ricardo Gareca",
+			"Jesualdo Ferreira",
+			"André Villas-Boas",
+			"Manuel Pellegrini",
+			"Pep Guardiola",
+			"Bruno Lage",
+			"Roger Schmidt",
+			"José Mourinho"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Примейра-лига",
+			"Лига Португалии",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Суперкубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 192563,
+		"name": "Bernd Leno",
+		"short_name": "B. Leno",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["VfB Stuttgart", "Bayer Leverkusen", "Arsenal", "Fulham"],
+
+		"leagues": ["Бундеслига", "АПЛ"],
+
+		"coaches": [
+			"Bruno Labbadia",
+			"Sami Hyypiä",
+			"Roger Schmidt",
+			"Arsène Wenger",
+			"Unai Emery",
+			"Mikel Arteta",
+			"Marco Silva"
+		],
+
+		"trophies": ["Кубок Германии", "Кубок Англии", "Суперкубок Англии"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 192984,
+		"name": "Koen Casteels",
+		"short_name": "K. Casteels",
+		"role": "player",
+
+		"nationality": "Бельгия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"KRC Genk",
+			"1899 Hoffenheim",
+			"Werder Bremen",
+			"VfL Wolfsburg",
+			"Al-Qadsiah"
+		],
+
+		"leagues": ["Жюпиле Про Лига", "Бундеслига", "Саудовская Про-лига"],
+
+		"coaches": [
+			"Mario Been",
+			"Frank Vercauteren",
+			"Markus Gisdol",
+			"Huub Stevens",
+			"Dieter Hecking",
+			"Oliver Glasner",
+			"Niko Kovač"
+		],
+
+		"trophies": ["Жюпиле Про Лига", "Кубок Бельгии", "Бундеслига"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 193301,
+		"name": "Alexandre Lacazette",
+		"short_name": "A. Lacazette",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Olympique Lyonnais", "Arsenal", "Neom SC"],
+
+		"leagues": ["Лига 1", "АПЛ", "Саудовская Про-лига"],
+
+		"coaches": [
+			"Claude Puel",
+			"Rémi Garde",
+			"Hubert Fournier",
+			"Bruno Génésio",
+			"Arsène Wenger",
+			"Unai Emery",
+			"Mikel Arteta",
+			"Pierre Sage"
+		],
+
+		"trophies": [
+			"Кубок Франции",
+			"Суперкубок Франции",
+			"Кубок Англии",
+			"Суперкубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 201535,
+		"name": "Raphaël Varane",
+		"short_name": "R. Varane",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Lens", "Real Madrid", "Manchester United", "Como"],
+
+		"leagues": ["Лига 1", "Ла Лига", "АПЛ", "Серия A"],
+
+		"coaches": [
+			"Guy Roux",
+			"José Mourinho",
+			"Carlo Ancelotti",
+			"Zinédine Zidane",
+			"Julen Lopetegui",
+			"Ole Gunnar Solskjær",
+			"Erik ten Hag"
+		],
+
+		"trophies": [
+			"Лига 1",
+			"Ла Лига",
+			"АПЛ",
+			"Кубок Испании",
+			"Кубок Англии",
+			"Лига Чемпионов",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 204485,
+		"name": "Riyad Mahrez",
+		"short_name": "R. Mahrez",
+		"role": "player",
+
+		"nationality": "Алжир",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"AAS Sarcelles",
+			"Quimper Kerfeunteun",
+			"Le Havre",
+			"Leicester City",
+			"Manchester City",
+			"Al-Ahli"
+		],
+
+		"leagues": ["Лига 2 Франции", "АПЛ", "Саудовская Про-лига"],
+
+		"coaches": [
+			"Thierry Goudet",
+			"Claudio Ranieri",
+			"Nigel Pearson",
+			"Brendan Rodgers",
+			"Pep Guardiola",
+			"Matthias Jaissle"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Кубок Англии",
+			"Суперкубок Англии",
+			"Лига Чемпионов",
+			"Кубок Африки"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 204963,
+		"name": "Daniel Carvajal Ramos",
+		"short_name": "Carvajal",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Real Madrid", "Bayer Leverkusen"],
+
+		"leagues": ["Ла Лига", "Бундеслига"],
+
+		"coaches": [
+			"José Mourinho",
+			"Carlo Ancelotti",
+			"Zinédine Zidane",
+			"Julen Lopetegui",
+			"Santiago Solari",
+			"Xabi Alonso",
+			"Alvaro Arbeloa"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Лига Чемпионов",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира",
+			"Евро",
+			"Лига наций УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 208093,
+		"name": "Gerard Moreno Balagueró",
+		"short_name": "Gerard Moreno",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Damm", "Mallorca", "Villarreal B", "Espanyol", "Villarreal"],
+
+		"leagues": ["Терсера Дивизион Испании", "Сегунда", "Ла Лига"],
+
+		"coaches": [
+			"Sergi Barjuán",
+			"Mauricio Pochettino",
+			"Quique Sánchez Flores",
+			"Fran Escribá",
+			"Javi Calleja",
+			"Unai Emery",
+			"Marcelino García Toral"
+		],
+
+		"trophies": ["Лига Европы УЕФА", "Суперкубок УЕФА"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 208830,
+		"name": "Jamie Vardy",
+		"short_name": "J. Vardy",
+		"role": "player",
+
+		"nationality": "Англия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Stocksbridge Park Steels",
+			"FC Halifax Town",
+			"Fleetwood Town",
+			"Leicester City",
+			"Cremonese"
+		],
+
+		"leagues": [
+			"Национальная лига Англии",
+			"Лига 2 Англии",
+			"Лига 1 Англии",
+			"Чемпионшип",
+			"АПЛ",
+			"Серия A"
+		],
+
+		"coaches": [
+			"Steve Burr",
+			"Micky Adams",
+			"Nigel Pearson",
+			"Claudio Ranieri",
+			"Craig Shakespeare",
+			"Brendan Rodgers",
+			"Dean Smith",
+			"Enzo Maresca"
+		],
+
+		"trophies": ["АПЛ", "Кубок Англии", "Суперкубок Англии"],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 213345,
+		"name": "Kingsley Junior Coman",
+		"short_name": "K. Coman",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Paris Saint-Germain", "Juventus", "Bayern München", "Al Nassr"],
+
+		"leagues": ["Лига 1", "Серия A", "Бундеслига", "Саудовская Про-лига"],
+
+		"coaches": [
+			"Laurent Blanc",
+			"Carlo Ancelotti",
+			"Massimiliano Allegri",
+			"Pep Guardiola",
+			"Jupp Heynckes",
+			"Niko Kovač",
+			"Hansi Flick",
+			"Julian Nagelsmann",
+			"Thomas Tuchel"
+		],
+
+		"trophies": [
+			"Лига 1",
+			"Серия A",
+			"Бундеслига",
+			"Лига Чемпионов",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 216352,
+		"name": "Marcelo Brozović",
+		"short_name": "M. Brozović",
+		"role": "player",
+
+		"nationality": "Хорватия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Lokomotiva Zagreb", "Dinamo Zagreb", "Inter", "Al-Nassr"],
+
+		"leagues": ["Хорватская лига", "Серия A", "Саудовская Про-лига"],
+
+		"coaches": [
+			"Krunoslav Jurčić",
+			"Zoran Mamić",
+			"Andrea Stramaccioni",
+			"Walter Mazzarri",
+			"Roberto Mancini",
+			"Frank de Boer",
+			"Stefano Pioli",
+			"Simone Inzaghi",
+			"Luís Castro"
+		],
+
+		"trophies": [
+			"Хорватская лига",
+			"Серия A",
+			"Кубок Хорватии",
+			"Суперкубок Италии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 222492,
+		"name": "Leroy Aziz Sané",
+		"short_name": "L. Sané",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"SG Wattenscheid 09",
+			"Schalke 04",
+			"Manchester City",
+			"Bayern München",
+			"Galatasaray"
+		],
+
+		"leagues": [
+			"Региональные лиги Германии",
+			"Бундеслига",
+			"АПЛ",
+			"Турецкая Суперлига"
+		],
+
+		"coaches": [
+			"Horst Hrubesch",
+			"Roberto Di Matteo",
+			"Markus Weinzierl",
+			"Pep Guardiola",
+			"Jürgen Klopp",
+			"Hansi Flick",
+			"Julian Nagelsmann",
+			"Thomas Tuchel"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Бундеслига",
+			"Кубок Англии",
+			"Суперкубок Англии",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Лига Чемпионов",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 223848,
+		"name": "Sergej Milinković-Savić",
+		"short_name": "S. Milinković-Savić",
+		"role": "player",
+
+		"nationality": "Сербия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Vojvodina", "Genk", "Lazio", "Al Hilal"],
+
+		"leagues": [
+			"Суперлига Сербии",
+			"Жюпиле Про Лига",
+			"Серия A",
+			"Саудовская Про-лига"
+		],
+
+		"coaches": [
+			"Zoran Marić",
+			"Hein Vanhaezebrouck",
+			"Pedro Emanuel",
+			"Stefano Pioli",
+			"Simone Inzaghi",
+			"Maurizio Sarri",
+			"Jorge Jesus",
+			"Slaven Bilić"
+		],
+
+		"trophies": [
+			"Жюпиле Про Лига",
+			"Кубок Сербии",
+			"Кубок Италии",
+			"Суперкубок Италии",
+			"Саудовская Про-лига"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 224232,
+		"name": "Nicolò Barella",
+		"short_name": "N. Barella",
+		"role": "player",
+
+		"nationality": "Италия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Cagliari", "Como", "Inter"],
+
+		"leagues": ["Серия A"],
+
+		"coaches": [
+			"Massimo Rastelli",
+			"Rolando Maran",
+			"Walter Mazzarri",
+			"Antonio Conte",
+			"Simone Inzaghi",
+			"Christian Kivu"
+		],
+
+		"trophies": ["Серия A", "Суперкубок Италии", "Кубок Италии"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 226161,
+		"name": "Marcos Llorente Moreno",
+		"short_name": "Marcos Llorente",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Real Madrid", "Deportivo Alavés", "Atlético Madrid"],
+
+		"leagues": ["Ла Лига"],
+
+		"coaches": [
+			"Zinedine Zidane",
+			"Santiago Solari",
+			"Diego Simeone",
+			"Óscar Fernández"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Суперкубок Испании",
+			"Лига Чемпионов",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 231443,
+		"name": "Ousmane Dembélé",
+		"short_name": "O. Dembélé",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Rennes",
+			"Borussia Dortmund",
+			"FC Barcelona",
+			"Paris Saint-Germain"
+		],
+
+		"leagues": ["Лига 1", "Бундеслига", "Ла Лига"],
+
+		"coaches": [
+			"Philippe Montanier",
+			"Ralph Hasenhüttl",
+			"Thomas Tuchel",
+			"Lucien Favre",
+			"Ernesto Valverde",
+			"Ronald Koeman",
+			"Xavi Hernández",
+			"Luis Enrique"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Ла Лига",
+			"Кубок Испании",
+			"Лига Чемпионов",
+			"Кубок Германии"
+		],
+
+		"ballon_dor": true,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 232363,
+		"name": "Milan Škriniar",
+		"short_name": "M. Škriniar",
+		"role": "player",
+
+		"nationality": "Словакия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"ŽP Šport Podbrezová",
+			"MŠK Žilina",
+			"Sampdoria",
+			"Inter",
+			"Paris Saint-Germain",
+			"Fenerbahçe"
+		],
+
+		"leagues": ["Словацкая лига", "Серия A", "Лига 1", "Турецкая Суперлига"],
+
+		"coaches": [
+			"Adrián Guľa",
+			"Ivaylo Petev",
+			"Marco Giampaolo",
+			"Luciano Spalletti",
+			"Antonio Conte",
+			"Simone Inzaghi",
+			"Luis Enrique"
+		],
+
+		"trophies": ["Серия A", "Суперкубок Италии", "Лига 1", "Кубок Италии"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 232411,
+		"name": "Christopher Nkunku",
+		"short_name": "C. Nkunku",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Paris Saint-Germain", "RB Leipzig", "Chelsea", "AC Milan"],
+
+		"leagues": ["Лига 1", "Бундеслига", "АПЛ", "Серия А"],
+
+		"coaches": [
+			"Laurent Blanc",
+			"Unai Emery",
+			"Thomas Tuchel",
+			"Ralf Rangnick",
+			"Julian Nagelsmann",
+			"Marco Rose",
+			"Mauricio Pochettino",
+			"Enzo Maresca",
+			"Massimiliano Allegri"
+		],
+
+		"trophies": [
+			"Лига 1",
+			"Бундеслига",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Кубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 234642,
+		"name": "Édouard Mendy",
+		"short_name": "É. Mendy",
+		"role": "player",
+
+		"nationality": "Сенегал",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Le Havre",
+			"Cherbourg",
+			"Marseille B",
+			"Reims",
+			"Rennes",
+			"Chelsea",
+			"Al-Ahli"
+		],
+
+		"leagues": ["Лига 1", "АПЛ", "Саудовская Про-лига"],
+
+		"coaches": [
+			"Olivier Guégan",
+			"David Guion",
+			"Julien Stéphan",
+			"Bruno Génésio",
+			"Frank Lampard",
+			"Thomas Tuchel",
+			"Graham Potter",
+			"Mauricio Pochettino",
+			"Matthias Jaissle"
+		],
+
+		"trophies": [
+			"Лига Чемпионов",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира",
+			"Кубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 235243,
+		"name": "Matthijs de Ligt",
+		"short_name": "M. de Ligt",
+		"role": "player",
+
+		"nationality": "Нидерланды",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Ajax", "Juventus", "Bayern München", "Manchester United"],
+
+		"leagues": ["Эредивизи", "Серия A", "Бундеслига", "АПЛ"],
+
+		"coaches": [
+			"Peter Bosz",
+			"Erik ten Hag",
+			"Massimiliano Allegri",
+			"Andrea Pirlo",
+			"Maurizio Sarri",
+			"Julian Nagelsmann",
+			"Thomas Tuchel",
+			"Ruben Amorim",
+			"Michael Carrick"
+		],
+
+		"trophies": [
+			"Эредивизи",
+			"Серия A",
+			"Бундеслига",
+			"Кубок Италии",
+			"Кубок Германии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 240130,
+		"name": "Éder Gabriel Militão",
+		"short_name": "Éder Militão",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["São Paulo", "Porto", "Real Madrid"],
+
+		"leagues": ["Серия A Бразилии", "Примейра-лига", "Ла Лига"],
+
+		"coaches": [
+			"Rogério Ceni",
+			"Nelsinho Baptista",
+			"Sérgio Conceição",
+			"Zinédine Zidane",
+			"Carlo Ancelotti",
+			"Xabi Alonso",
+			"Alvaro Arbeloa",
+			"José Mourinho"
+		],
+
+		"trophies": [
+			"Примейра-лига",
+			"Ла Лига",
+			"Кубок Испании",
+			"Лига Чемпионов",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 241096,
+		"name": "Sandro Tonali",
+		"short_name": "S. Tonali",
+		"role": "player",
+
+		"nationality": "Италия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Brescia", "AC Milan", "Newcastle United"],
+
+		"leagues": ["Серия B", "Серия A", "АПЛ"],
+
+		"coaches": [
+			"Pasquale Marino",
+			"Eugenio Corini",
+			"Stefano Pioli",
+			"Eddie Howe"
+		],
+
+		"trophies": ["Серия A", "Суперкубок Италии"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 241721,
+		"name": "Rafael Alexandre Conceição Leão",
+		"short_name": "Rafael Leão",
+		"role": "player",
+
+		"nationality": "Португалия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Sporting CP", "Lille", "AC Milan"],
+
+		"leagues": ["Примейра-лига", "Лига 1", "Серия A"],
+
+		"coaches": [
+			"Jorge Jesus",
+			"Rui Jorge",
+			"Christophe Galtier",
+			"Stefano Pioli",
+			"Sérgio Conceição",
+			"Massimiliano Allegri"
+		],
+
+		"trophies": ["Лига 1", "Серия A", "Суперкубок Италии"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 246669,
+		"name": "Bukayo Saka",
+		"short_name": "B. Saka",
+		"role": "player",
+
+		"nationality": "Англия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Arsenal"],
+
+		"leagues": ["АПЛ"],
+
+		"coaches": ["Unai Emery", "Mikel Arteta"],
+
+		"trophies": ["Кубок Англии", "Суперкубок Англии"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 247635,
+		"name": "Khvicha Kvaratskhelia",
+		"short_name": "K. Kvaratskhelia",
+		"role": "player",
+
+		"nationality": "Грузия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": [
+			"Dinamo Tbilisi",
+			"Rustavi",
+			"Locomotive Tbilisi",
+			"Rubin Kazan",
+			"Dinamo Batumi",
+			"Napoli",
+			"Paris Saint-Germain"
+		],
+
+		"leagues": ["Эровнули Лига", "РПЛ", "Серия A", "Лига 1"],
+
+		"coaches": [
+			"Giorgi Chiabrishvili",
+			"Kurban Berdyev",
+			"Luciano Spalletti",
+			"Rudi Garcia",
+			"Francesco Calzona",
+			"Luis Enrique"
+		],
+
+		"trophies": ["Серия A", "Лига 1", "Суперкубок Франции", "Лига Чемпионов"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 251854,
+		"name": "Pedro González López",
+		"short_name": "Pedri",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["UD Las Palmas", "FC Barcelona"],
+
+		"leagues": ["Сегунда", "Ла Лига"],
+
+		"coaches": [
+			"José Luis Martí",
+			"Pimienta",
+			"Ronald Koeman",
+			"Xavi Hernández",
+			"Hansi Flick"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Лига Наций УЕФА",
+			"Евро"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 252371,
+		"name": "Jude Victor William Bellingham",
+		"short_name": "J. Bellingham",
+		"role": "player",
+
+		"nationality": "Англия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Birmingham City", "Borussia Dortmund", "Real Madrid"],
+
+		"leagues": ["Чемпионшип", "Бундеслига", "Ла Лига"],
+
+		"coaches": [
+			"Pep Clotet",
+			"Aitor Karanka",
+			"Lucien Favre",
+			"Edin Terzić",
+			"Carlo Ancelotti",
+			"Xabi Alonso",
+			"Alvaro Arbeloa",
+			"José Mourinho"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Суперкубок Испании",
+			"Лига Чемпионов",
+			"Суперкубок УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 253163,
+		"name": "Ronald Federico Araújo da Silva",
+		"short_name": "R. Araujo",
+		"role": "player",
+
+		"nationality": "Уругвай",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Rentistas", "Boston River", "FC Barcelona B", "FC Barcelona"],
+
+		"leagues": ["Примера Уругвая", "Сегунда B", "Ла Лига"],
+
+		"coaches": [
+			"Alejandro Cappuccio",
+			"García Pimienta",
+			"Quique Setién",
+			"Ronald Koeman",
+			"Xavi Hernández",
+			"Hansi Flick"
+		],
+
+		"trophies": ["Ла Лига", "Кубок Испании", "Суперкубок Испании"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 256790,
+		"name": "Jamal Musiala",
+		"short_name": "J. Musiala",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 86,
+
+		"clubs": ["Chelsea Youth", "Bayern München II", "Bayern München"],
+
+		"leagues": [
+			"Премьер-лига 2",
+			"Регионаллига Бавария",
+			"3. Лига",
+			"Бундеслига"
+		],
+
+		"coaches": [
+			"Hansi Flick",
+			"Julian Nagelsmann",
+			"Thomas Tuchel",
+			"Vincent Kompany"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Суперкубок Германии",
+			"Клубный чемпионат мира",
+			"Суперкубок УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 13732,
+		"name": "John Terry",
+		"short_name": "J. Terry",
+		"role": "player",
+
+		"nationality": "Англия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Chelsea", "Nottingham Forest", "Aston Villa"],
+
+		"leagues": ["АПЛ", "Чемпионшип"],
+
+		"coaches": [
+			"Claudio Ranieri",
+			"José Mourinho",
+			"Avram Grant",
+			"Luiz Felipe Scolari",
+			"Carlo Ancelotti",
+			"Roberto Di Matteo",
+			"Rafa Benítez",
+			"Antonio Conte",
+			"Steve Bruce"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Суперкубок Англии",
+			"Лига Чемпионов",
+			"Лига Европы УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 142754,
+		"name": "Javier Alejandro Mascherano",
+		"short_name": "J. Mascherano",
+		"role": "player",
+
+		"nationality": "Аргентина",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"River Plate",
+			"Corinthians",
+			"West Ham United",
+			"Liverpool",
+			"FC Barcelona",
+			"Hebei China Fortune",
+			"Estudiantes"
+		],
+
+		"leagues": [
+			"Примера Аргентины",
+			"Бразилейрао",
+			"АПЛ",
+			"Ла Лига",
+			"Китайская Суперлига"
+		],
+
+		"coaches": [
+			"Daniel Passarella",
+			"Carlos Alberto Parreira",
+			"Alan Pardew",
+			"Rafael Benítez",
+			"Kenny Dalglish",
+			"Pep Guardiola",
+			"Tito Vilanova",
+			"Luis Enrique",
+			"Ernesto Valverde"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Кубок Испании",
+			"Лига Чемпионов",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира",
+			"Олимпийские игры"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 146530,
+		"name": "Daniel Alves da Silva",
+		"short_name": "Dani Alves",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Bahia",
+			"Sevilla",
+			"FC Barcelona",
+			"Juventus",
+			"Paris Saint-Germain",
+			"São Paulo",
+			"UNAM Pumas"
+		],
+
+		"leagues": ["Серия A Бразилии", "Ла Лига", "Серия A", "Лига 1", "Лига MX"],
+
+		"coaches": [
+			"Joaquín Caparrós",
+			"Juande Ramos",
+			"Pep Guardiola",
+			"Tito Vilanova",
+			"Luis Enrique",
+			"Massimiliano Allegri",
+			"Unai Emery",
+			"Thomas Tuchel",
+			"Hernán Crespo"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Серия A",
+			"Лига 1",
+			"Кубок Испании",
+			"Кубок Италии",
+			"Кубок Франции",
+			"Лига Чемпионов",
+			"Кубок УЕФА",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира",
+			"Кубок Америки",
+			"Олимпийские игры"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": true
+	},
+	{
+		"id": 163587,
+		"name": "Kasper Peter Schmeichel",
+		"short_name": "K. Schmeichel",
+		"role": "player",
+
+		"nationality": "Дания",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Manchester City",
+			"Cardiff City (loan)",
+			"Coventry City (loan)",
+			"Notts County",
+			"Leeds United",
+			"Leicester City",
+			"Nice",
+			"Anderlecht",
+			"Celtic"
+		],
+
+		"leagues": [
+			"АПЛ",
+			"Чемпионшип",
+			"Лига 1",
+			"Жюпиле Про Лига",
+			"Шотландская Премьер-лига"
+		],
+
+		"coaches": [
+			"Sven-Göran Eriksson",
+			"Mark Hughes",
+			"Nigel Pearson",
+			"Claudio Ranieri",
+			"Craig Shakespeare",
+			"Brendan Rodgers",
+			"Dean Smith",
+			"Lucien Favre",
+			"Franck Haise"
+		],
+
+		"trophies": ["АПЛ", "Кубок Англии", "Суперкубок Англии", "Чемпионшип"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": true
+	},
+	{
+		"id": 163705,
+		"name": "Steve Mandanda",
+		"short_name": "S. Mandanda",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Le Havre", "Olympique de Marseille", "Crystal Palace", "Rennes"],
+
+		"leagues": ["Лига 1", "АПЛ"],
+
+		"coaches": [
+			"Alain Perrin",
+			"Éric Gerets",
+			"Didier Deschamps",
+			"Elie Baup",
+			"Rudi Garcia",
+			"André Villas-Boas",
+			"Jorge Sampaoli",
+			"Igor Tudor",
+			"Bruno Génésio"
+		],
+
+		"trophies": [
+			"Лига 1",
+			"Кубок Франции",
+			"Кубок Лиги Франции",
+			"Суперкубок Франции"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": true
+	},
+	{
+		"id": 164169,
+		"name": "Filipe Luís Kasmirski",
+		"short_name": "Filipe Luís",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Figueirense",
+			"Ajax (youth)",
+			"Deportivo La Coruña",
+			"Atlético Madrid",
+			"Chelsea",
+			"Flamengo"
+		],
+
+		"leagues": ["Серия A Бразилии", "Ла Лига", "АПЛ"],
+
+		"coaches": [
+			"Dorival Júnior",
+			"Abel Braga",
+			"Jorge Jesus",
+			"Rafa Benítez",
+			"Diego Simeone",
+			"José Mourinho",
+			"Guus Hiddink"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"АПЛ",
+			"Кубок Англии",
+			"Суперкубок Англии",
+			"Кубок Либертадорес",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": true
+	},
+	{
+		"id": 165229,
+		"name": "Laurent Koscielny",
+		"short_name": "L. Koscielny",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Guingamp", "Tours", "Lorient", "Arsenal", "Bordeaux"],
+
+		"leagues": ["Лига 2 Франции", "Лига 1", "АПЛ"],
+
+		"coaches": [
+			"Christian Gourcuff",
+			"Arsène Wenger",
+			"Unai Emery",
+			"Mikel Arteta",
+			"Paulo Sousa",
+			"Jean-Louis Gasset"
+		],
+
+		"trophies": ["Кубок Англии", "Суперкубок Англии"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": true
+	},
+	{
+		"id": 167628,
+		"name": "Stéphane Ruffier",
+		"short_name": "S. Ruffier",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Monaco", "Saint-Étienne"],
+
+		"leagues": ["Лига 1", "Лига 2 Франции"],
+
+		"coaches": [
+			"Frédéric Antonetti",
+			"Didier Deschamps",
+			"Claudio Ranieri",
+			"Christophe Galtier",
+			"Claude Puel",
+			"Jean-Louis Gasset"
+		],
+
+		"trophies": [
+			"Лига 2 Франции",
+			"Кубок Франции",
+			"Кубок Лиги Франции",
+			"Суперкубок Франции"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": true
+	},
+	{
+		"id": 174543,
+		"name": "Claudio Andrés Bravo Muñoz",
+		"short_name": "C. Bravo",
+		"role": "player",
+
+		"nationality": "Чили",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Colo-Colo",
+			"Real Sociedad",
+			"FC Barcelona",
+			"Manchester City",
+			"Real Betis"
+		],
+
+		"leagues": ["Примера Чили", "Ла Лига", "АПЛ"],
+
+		"coaches": [
+			"Fernando Carvallo",
+			"Claudio Borghi",
+			"Martin Lasarte",
+			"Manuel Pellegrini",
+			"Luis Enrique",
+			"Pep Guardiola",
+			"Ernesto Valverde",
+			"Quique Setién"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Кубок Испании",
+			"АПЛ",
+			"Кубок Англии",
+			"Суперкубок Англии",
+			"Суперкубок Испании",
+			"Кубок Лиги Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": true
+	},
+	{
+		"id": 177413,
+		"name": "Axel Laurent Angel Lambert Witsel",
+		"short_name": "A. Witsel",
+		"role": "player",
+
+		"nationality": "Бельгия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Standard Liège",
+			"Benfica",
+			"Zenit Saint Petersburg",
+			"Tianjin Quanjian",
+			"Borussia Dortmund",
+			"Atlético Madrid",
+			"Girona"
+		],
+
+		"leagues": [
+			"Жюпиле Про Лига",
+			"Примейра-лига",
+			"РПЛ",
+			"Китайская Суперлига",
+			"Бундеслига",
+			"Ла Лига"
+		],
+
+		"coaches": [
+			"Michel Preud'homme",
+			"José Mourinho",
+			"Jorge Jesus",
+			"Luciano Spalletti",
+			"Roberto Mancini",
+			"Fabio Cannavaro",
+			"Lucien Favre",
+			"Thomas Tuchel",
+			"Diego Simeone"
+		],
+
+		"trophies": [
+			"Жюпиле Про Лига",
+			"Примейра-лига",
+			"Кубок Португалии",
+			"Кубок России",
+			"Суперкубок России",
+			"Китайский Кубок",
+			"Ла Лига"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 178088,
+		"name": "Juan Manuel Mata García",
+		"short_name": "Juan Mata",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Real Oviedo",
+			"Valencia",
+			"Chelsea",
+			"Manchester United",
+			"Galatasaray",
+			"Vissel Kobe",
+			"Western Sydney Wanderers",
+			"Melbourne Victory"
+		],
+
+		"leagues": ["Ла Лига", "АПЛ", "Суперлига Турции", "J1 League", "A-League"],
+
+		"coaches": [
+			"Quique Sánchez Flores",
+			"Unai Emery",
+			"Rafa Benítez",
+			"André Villas-Boas",
+			"Roberto Di Matteo",
+			"José Mourinho",
+			"Ole Gunnar Solskjær",
+			"Erik ten Hag",
+			"Okan Buruk"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Кубок Испании",
+			"Лига Чемпионов",
+			"Суперкубок УЕФА",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Лига Европы УЕФА",
+			"Суперкубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 179846,
+		"name": "Sami Khedira",
+		"short_name": "S. Khedira",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["VfB Stuttgart", "Real Madrid", "Juventus", "Hertha BSC"],
+
+		"leagues": ["Бундеслига", "Ла Лига", "Серия A"],
+
+		"coaches": [
+			"Armin Veh",
+			"Christian Gross",
+			"Joachim Löw",
+			"José Mourinho",
+			"Carlo Ancelotti",
+			"Zinédine Zidane",
+			"Massimiliano Allegri",
+			"Antonio Conte"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Ла Лига",
+			"Серия A",
+			"Кубок Испании",
+			"Кубок Италии",
+			"Лига Чемпионов",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира",
+			"Чемпионат мира FIFA"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": true
+	},
+	{
+		"id": 180403,
+		"name": "Willian Borges da Silva",
+		"short_name": "Willian",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Corinthians",
+			"Shakhtar Donetsk",
+			"Anzhi Makhachkala",
+			"Chelsea",
+			"Arsenal",
+			"Fulham",
+			"Olympiacos",
+			"Grêmio"
+		],
+
+		"leagues": [
+			"Серия A Бразилии",
+			"РПЛ",
+			"Премьер-лига Украины",
+			"АПЛ",
+			"Суперлига Греции"
+		],
+
+		"coaches": [
+			"Mano Menezes",
+			"Luiz Felipe Scolari",
+			"Mircea Lucescu",
+			"Gus Hiddink",
+			"José Mourinho",
+			"Antonio Conte",
+			"Maurizio Sarri",
+			"Frank Lampard",
+			"Mikel Arteta",
+			"Marco Silva"
+		],
+
+		"trophies": [
+			"Серия A Бразилии",
+			"Премьер-лига Украины",
+			"Кубок Украины",
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Лига Европы УЕФА",
+			"Суперкубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 180930,
+		"name": "Edin Džeko",
+		"short_name": "E. Džeko",
+		"role": "player",
+
+		"nationality": "Босния и Герцеговина",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Željezničar",
+			"Teplice",
+			"Wolfsburg",
+			"Manchester City",
+			"Roma",
+			"Inter",
+			"Fenerbahçe",
+			"Fiorentina",
+			"Schalke 04"
+		],
+
+		"leagues": [
+			"Премьер-лига Боснии",
+			"Чешская лига",
+			"Бундеслига",
+			"АПЛ",
+			"Серия A",
+			"Суперлига Турции"
+		],
+
+		"coaches": [
+			"Adem Čurić",
+			"Mark Hughes",
+			"Roberto Mancini",
+			"Manuel Pellegrini",
+			"Luciano Spalletti",
+			"José Mourinho",
+			"Simone Inzaghi",
+			"Ismail Kartal"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Кубок Германии",
+			"АПЛ",
+			"Кубок Англии",
+			"Суперкубок Англии",
+			"Серия A",
+			"Суперкубок Италии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 181291,
+		"name": "Georginio Gregion Emile Wijnaldum",
+		"short_name": "G. Wijnaldum",
+		"role": "player",
+
+		"nationality": "Нидерланды",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Feyenoord",
+			"PSV",
+			"Newcastle United",
+			"Liverpool",
+			"Paris Saint-Germain",
+			"Roma",
+			"Al Ettifaq"
+		],
+
+		"leagues": ["Эредивизи", "АПЛ", "Лига 1", "Серия A", "Саудовская Про-лига"],
+
+		"coaches": [
+			"Ronald Koeman",
+			"Fred Rutten",
+			"Alan Pardew",
+			"Brendan Rodgers",
+			"Jürgen Klopp",
+			"Mauricio Pochettino",
+			"Christophe Galtier",
+			"José Mourinho",
+			"Steven Gerrard"
+		],
+
+		"trophies": [
+			"Эредивизи",
+			"Кубок Нидерландов",
+			"АПЛ",
+			"Лига Чемпионов",
+			"Суперкубок УЕФА",
+			"Суперкубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 184144,
+		"name": "Osvaldo Nicolás Fabián Gaitán",
+		"short_name": "N. Gaitán",
+		"role": "player",
+
+		"nationality": "Аргентина",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Boca Juniors",
+			"Benfica",
+			"Atlético Madrid",
+			"Dalian Professional",
+			"Chicago Fire",
+			"Braga",
+			"Paços de Ferreira"
+		],
+
+		"leagues": [
+			"Примера Аргентины",
+			"Примейра-лига",
+			"Ла Лига",
+			"Суперлига Китая",
+			"MLS"
+		],
+
+		"coaches": [
+			"Carlos Bianchi",
+			"Ricardo La Volpe",
+			"Jorge Jesus",
+			"Rui Vitória",
+			"Diego Simeone",
+			"José Mourinho",
+			"Veljko Paunović"
+		],
+
+		"trophies": [
+			"Примейра-лига",
+			"Кубок Португалии",
+			"Суперкубок Португалии",
+			"Ла Лига",
+			"Суперкубок УЕФА",
+			"Лига Европы УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": true
+	},
+	{
+		"id": 184267,
+		"name": "Yacine Brahimi",
+		"short_name": "Y. Brahimi",
+		"role": "player",
+
+		"nationality": "Алжир",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Rennes",
+			"Clermont Foot",
+			"Granada",
+			"FC Porto",
+			"Al-Rayyan",
+			"Al-Gharafa"
+		],
+
+		"leagues": [
+			"Лига 1",
+			"Лига 2 Франции",
+			"Ла Лига",
+			"Примейра-лига",
+			"Катар Старс Лига"
+		],
+
+		"coaches": [
+			"Guy Lacombe",
+			"Philippe Montanier",
+			"Lucas Alcaraz",
+			"Diego Martínez",
+			"Julen Lopetegui",
+			"Sérgio Conceição",
+			"Laurent Blanc"
+		],
+
+		"trophies": [
+			"Примейра-лига",
+			"Кубок Португалии",
+			"Суперкубок Португалии",
+			"Лига Европы УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 185122,
+		"name": "Péter Gulácsi",
+		"short_name": "P. Gulácsi",
+		"role": "player",
+
+		"nationality": "Венгрия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"MTK Budapest",
+			"Liverpool",
+			"Hereford United",
+			"Tranmere Rovers",
+			"Hull City",
+			"RB Salzburg",
+			"RB Leipzig"
+		],
+
+		"leagues": [
+			"Немзети Байноксаг I",
+			"АПЛ",
+			"Бундеслига",
+			"Австрийская Бундеслига"
+		],
+
+		"coaches": [
+			"Jürgen Klopp",
+			"Roy Hodgson",
+			"Brendan Rodgers",
+			"Roger Schmidt",
+			"Ralph Hasenhüttl",
+			"Julian Nagelsmann",
+			"Marco Rose"
+		],
+
+		"trophies": ["Австрийская Бундеслига", "Кубок Австрии", "Кубок Германии"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 186345,
+		"name": "Kieran Trippier",
+		"short_name": "K. Trippier",
+		"role": "player",
+
+		"nationality": "Англия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Manchester City (youth)",
+			"Barnsley (loan)",
+			"Burnley",
+			"Tottenham Hotspur",
+			"Atlético Madrid",
+			"Newcastle United"
+		],
+
+		"leagues": ["АПЛ", "Ла Лига"],
+
+		"coaches": [
+			"Sean Dyche",
+			"Mauricio Pochettino",
+			"Diego Simeone",
+			"Eddie Howe",
+			"Roy Hodgson"
+		],
+
+		"trophies": ["Ла Лига", "Суперкубок Испании", "Кубок Английской лиги"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 187961,
+		"name": "José Paulo Bezzera Maciel Júnior",
+		"short_name": "Paulinho",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Vasco da Gama",
+			"Corinthians",
+			"Tottenham Hotspur",
+			"Guangzhou Evergrande",
+			"FC Barcelona",
+			"Al Ahli Jeddah"
+		],
+
+		"leagues": [
+			"Серия A Бразилии",
+			"АПЛ",
+			"Суперлига Китая",
+			"Ла Лига",
+			"Саудовская Про-лига"
+		],
+
+		"coaches": [
+			"Tite",
+			"Vanderlei Luxemburgo",
+			"Luiz Felipe Scolari",
+			"Mauricio Pochettino",
+			"Fabio Cannavaro",
+			"Ernesto Valverde",
+			"Quique Setién",
+			"Jorge Jesus"
+		],
+
+		"trophies": [
+			"Бразилейрао",
+			"Кубок Бразилии",
+			"АПЛ",
+			"Суперкубок Англии",
+			"Суперлига Китая",
+			"Кубок Китая",
+			"Ла Лига",
+			"Суперкубок Испании",
+			"Лига Чемпионов АФК"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": true
+	},
+	{
+		"id": 188377,
+		"name": "Kyle Walker",
+		"short_name": "K. Walker",
+		"role": "player",
+
+		"nationality": "Англия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Sheffield United",
+			"Queens Park Rangers (loan)",
+			"Aston Villa (loan)",
+			"Tottenham Hotspur",
+			"Manchester City",
+			"Burnley",
+			"AC Milan"
+		],
+
+		"leagues": ["АПЛ", "Чемпионшип"],
+
+		"coaches": [
+			"Nigel Adkins",
+			"Harry Redknapp",
+			"Mauricio Pochettino",
+			"Antonio Conte",
+			"Pep Guardiola",
+			"Sean Dyche",
+			"Vincent Kompany"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок Английской лиги",
+			"Суперкубок Англии",
+			"Лига Чемпионов УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 189117,
+		"name": "Roman Bürki",
+		"short_name": "R. Bürki",
+		"role": "player",
+
+		"nationality": "Швейцария",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"FC Thun",
+			"Young Boys",
+			"Grasshopper",
+			"SC Freiburg",
+			"Borussia Dortmund",
+			"St. Louis City SC"
+		],
+
+		"leagues": ["Суперлига Швейцарии", "Бундеслига", "MLS"],
+
+		"coaches": [
+			"Urs Fischer",
+			"Adi Hütter",
+			"Markus Babbel",
+			"Christian Streich",
+			"Thomas Tuchel",
+			"Peter Bosz",
+			"Lucien Favre",
+			"Edin Terzić",
+			"Bradley Carnell"
+		],
+
+		"trophies": [
+			"Кубок Швейцарии",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"MLS Cup"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 190547,
+		"name": "Kamil Jacek Glik",
+		"short_name": "K. Glik",
+		"role": "player",
+
+		"nationality": "Польша",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"MOSiR Jastrzębie",
+			"Horadada (youth)",
+			"Real Madrid C (youth)",
+			"Bari",
+			"Palermo (youth)",
+			"Piast Gliwice",
+			"Torino",
+			"Monaco",
+			"Benevento",
+			"Cracovia"
+		],
+
+		"leagues": ["Экстракласа", "Серия B Италии", "Серия A", "Лига 1"],
+
+		"coaches": [
+			"Marcin Brosz",
+			"Giampiero Ventura",
+			"Walter Mazzarri",
+			"Leonardo Jardim",
+			"Robert Moreno",
+			"Filippo Inzaghi",
+			"Jacek Zieliński"
+		],
+
+		"trophies": ["Серия B Италии", "Кубок Польши", "Суперкубок Польши"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 191180,
+		"name": "Javier Matías Pastore",
+		"short_name": "J. Pastore",
+		"role": "player",
+
+		"nationality": "Аргентина",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Talleres",
+			"Huracán",
+			"Palermo",
+			"Paris Saint-Germain",
+			"Roma",
+			"Elche",
+			"Qatar SC"
+		],
+
+		"leagues": [
+			"Примера Аргентины",
+			"Серия A",
+			"Лига 1",
+			"Ла Лига",
+			"Звездная лига Катара"
+		],
+
+		"coaches": [
+			"Miguel Ángel Russo",
+			"Roberto Mancini",
+			"Delio Rossi",
+			"Carlo Ancelotti",
+			"Laurent Blanc",
+			"Unai Emery",
+			"Thomas Tuchel",
+			"José Mourinho",
+			"Paulo Fonseca",
+			"José Bordalás"
+		],
+
+		"trophies": [
+			"Серия A Аргентины (низшие дивизионы не включены)",
+			"Серия A Италии",
+			"Кубок Италии",
+			"Лига 1",
+			"Кубок Франции",
+			"Суперкубок Франции",
+			"Суперкубок Италии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 192318,
+		"name": "Mario Götze",
+		"short_name": "M. Götze",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Borussia Dortmund",
+			"FC Bayern München",
+			"PSV",
+			"Eintracht Frankfurt"
+		],
+
+		"leagues": ["Бундеслига", "Эредивизи"],
+
+		"coaches": [
+			"Jürgen Klopp",
+			"Thomas Tuchel",
+			"Pep Guardiola",
+			"Peter Bosz",
+			"Roger Schmidt",
+			"Erik ten Hag",
+			"Adi Hütter",
+			"Oliver Glasner"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Эредивизи",
+			"Кубок Нидерландов",
+			"Чемпионат мира FIFA"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 192593,
+		"name": "Danijel Subašić",
+		"short_name": "D. Subašić",
+		"role": "player",
+
+		"nationality": "Хорватия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Zadar", "HNK Zadar", "Hajduk Split", "AS Monaco"],
+
+		"leagues": ["Хорватская первая лига", "Лига 1"],
+
+		"coaches": [
+			"Stanko Mršić",
+			"Ivan Katalinić",
+			"Slaven Bilić",
+			"Claudio Ranieri",
+			"Leonardo Jardim",
+			"Thierry Henry",
+			"Niko Kovač"
+		],
+
+		"trophies": [
+			"Лига 2 Франции",
+			"Лига 1",
+			"Кубок Франции",
+			"Суперкубок Франции",
+			"Хорватский кубок"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": true
+	},
+	{
+		"id": 192629,
+		"name": "Iago Aspas Juncal",
+		"short_name": "Iago Aspas",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Celta de Vigo", "Sevilla", "Liverpool"],
+
+		"leagues": ["Ла Лига", "АПЛ"],
+
+		"coaches": [
+			"Unai Emery",
+			"Eduardo Berizzo",
+			"Juan Carlos Unzué",
+			"Antonio Mohamed",
+			"Fran Escribá",
+			"Óscar García",
+			"Claudio Giráldez",
+			"Brendan Rodgers"
+		],
+
+		"trophies": ["Лига Европы УЕФА", "Кубок Испании"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 192774,
+		"name": "Konstantinos Manolas",
+		"short_name": "K. Manolas",
+		"role": "player",
+
+		"nationality": "Греция",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Thrasyvoulos",
+			"AEK Athens",
+			"Olympiacos",
+			"Roma",
+			"Napoli",
+			"Sharjah FC",
+			"Salernitana",
+			"Panathinaikos"
+		],
+
+		"leagues": ["Суперлига Греции", "Серия A", "Ла Лига ОАЭ"],
+
+		"coaches": [
+			"Dusan Bajevic",
+			"Ernesto Valverde",
+			"Michel",
+			"Claudio Ranieri",
+			"Luciano Spalletti",
+			"Carlo Ancelotti",
+			"Gennaro Gattuso"
+		],
+
+		"trophies": [
+			"Суперлига Греции",
+			"Кубок Греции",
+			"Серия A Италии",
+			"Кубок Италии",
+			"Суперкубок Италии",
+			"Кубок Греции"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 192883,
+		"name": "Henrikh Mkhitaryan",
+		"short_name": "H. Mkhitaryan",
+		"role": "player",
+
+		"nationality": "Армения",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Shakhtar Donetsk",
+			"Borussia Dortmund",
+			"Manchester United",
+			"Arsenal",
+			"Roma",
+			"Inter"
+		],
+
+		"leagues": ["Премьер-лига Украины", "Бундеслига", "АПЛ", "Серия A"],
+
+		"coaches": [
+			"Mircea Lucescu",
+			"Jürgen Klopp",
+			"Louis van Gaal",
+			"José Mourinho",
+			"Arsène Wenger",
+			"Ole Gunnar Solskjær",
+			"Paulo Fonseca",
+			"Simone Inzaghi"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Кубок Германии",
+			"АПЛ",
+			"Кубок Англии",
+			"Лига Европы УЕФА",
+			"Серия A",
+			"Суперкубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 193747,
+		"name": "Jorge Resurrección Merodio",
+		"short_name": "Koke",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Atlético Madrid"],
+
+		"leagues": ["Ла Лига"],
+
+		"coaches": ["Quique Sánchez Flores", "Gregorio Manzano", "Diego Simeone"],
+
+		"trophies": [
+			"Ла Лига",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Лига Европы УЕФА",
+			"Суперкубок УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": true,
+		"retired": false
+	},
+	{
+		"id": 194404,
+		"name": "Norberto Murara Neto",
+		"short_name": "Neto",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Cruzeiro",
+			"Fiorentina",
+			"Juventus",
+			"Valencia",
+			"FC Barcelona",
+			"AFC Bournemouth",
+			"Arsenal",
+			"Botafogo"
+		],
+
+		"leagues": ["Серия A Бразилии", "Серия A", "Ла Лига", "АПЛ"],
+
+		"coaches": [
+			"Adilson Batista",
+			"Cesare Prandelli",
+			"Antonio Conte",
+			"Massimiliano Allegri",
+			"Marcelino García Toral",
+			"Ernesto Valverde",
+			"Quique Setién",
+			"Xavi Hernández",
+			"Andoni Iraola"
+		],
+
+		"trophies": [
+			"Серия A",
+			"Кубок Италии",
+			"Суперкубок Италии",
+			"Ла Лига",
+			"Суперкубок Испании",
+			"АПЛ",
+			"Кубок Английской лиги"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 198176,
+		"name": "Stefan de Vrij",
+		"short_name": "S. de Vrij",
+		"role": "player",
+
+		"nationality": "Нидерланды",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Feyenoord", "Lazio", "Inter"],
+
+		"leagues": ["Эредивизи", "Серия A"],
+
+		"coaches": [
+			"Ronald Koeman",
+			"Giovanni van Bronckhorst",
+			"Eusebio Di Francesco",
+			"Simone Inzaghi",
+			"Antonio Conte",
+			"Christian Kivu"
+		],
+
+		"trophies": [
+			"Эредивизи",
+			"Суперкубок Нидерландов",
+			"Серия A",
+			"Кубок Италии",
+			"Суперкубок Италии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 198706,
+		"name": "Luis Alberto Romero Alconchel",
+		"short_name": "Luis Alberto",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Sevilla",
+			"Barcelona B",
+			"Liverpool",
+			"Málaga",
+			"Deportivo La Coruña",
+			"Lazio",
+			"Al-Duhail"
+		],
+
+		"leagues": ["Ла Лига", "Сегунда", "АПЛ", "Серия A", "Лига звёзд Катара"],
+
+		"coaches": [
+			"Unai Emery",
+			"Brendan Rodgers",
+			"Jürgen Klopp",
+			"Javi Gracia",
+			"Víctor Sánchez",
+			"Simone Inzaghi",
+			"Maurizio Sarri"
+		],
+
+		"trophies": [
+			"Суперкубок Испании",
+			"Кубок Италии",
+			"Суперкубок Италии",
+			"Лига звёзд Катара"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 199482,
+		"name": "Anthony Lopes",
+		"short_name": "A. Lopes",
+		"role": "player",
+
+		"nationality": "Португалия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Olympique Lyonnais", "FC Nantes"],
+
+		"leagues": ["Лига 1"],
+
+		"coaches": [
+			"Rémi Garde",
+			"Hubert Fournier",
+			"Bruno Génésio",
+			"Rudi Garcia",
+			"Peter Bosz",
+			"Laurent Blanc",
+			"Pierre Sage",
+			"Antoine Kombouaré"
+		],
+
+		"trophies": ["Кубок Франции", "Суперкубок Франции"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 199914,
+		"name": "Allan Marques Loureiro",
+		"short_name": "Allan",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Vasco da Gama",
+			"Udinese",
+			"Napoli",
+			"Everton",
+			"Al-Wahda",
+			"Botafogo"
+		],
+
+		"leagues": ["Серия A Бразилии", "Серия A", "АПЛ", "Про-лига ОАЭ"],
+
+		"coaches": [
+			"Cristóvão Borges",
+			"Francesco Guidolin",
+			"Andrea Stramaccioni",
+			"Maurizio Sarri",
+			"Carlo Ancelotti",
+			"Gennaro Gattuso",
+			"Rafael Benítez",
+			"Frank Lampard",
+			"Sean Dyche"
+		],
+
+		"trophies": ["Кубок Италии", "Суперкубок Италии", "Кубок Бразилии"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 202556,
+		"name": "Memphis Depay",
+		"short_name": "M. Depay",
+		"role": "player",
+
+		"nationality": "Нидерланды",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"PSV",
+			"Manchester United",
+			"Olympique Lyonnais",
+			"FC Barcelona",
+			"Atlético Madrid",
+			"Corinthians"
+		],
+
+		"leagues": ["Эредивизи", "АПЛ", "Лига 1", "Ла Лига", "Серия A Бразилии"],
+
+		"coaches": [
+			"Phillip Cocu",
+			"Louis van Gaal",
+			"José Mourinho",
+			"Bruno Génésio",
+			"Rudi Garcia",
+			"Ronald Koeman",
+			"Xavi",
+			"Diego Simeone",
+			"Ramón Díaz"
+		],
+
+		"trophies": [
+			"Эредивизи",
+			"Кубок Нидерландов",
+			"Суперкубок Нидерландов",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Ла Лига",
+			"Суперкубок Испании"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 202811,
+		"name": "Damián Emiliano Martínez",
+		"short_name": "E. Martínez",
+		"role": "player",
+
+		"nationality": "Аргентина",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Independiente",
+			"Arsenal",
+			"Oxford United",
+			"Sheffield Wednesday",
+			"Rotherham United",
+			"Wolverhampton Wanderers",
+			"Getafe",
+			"Reading",
+			"Aston Villa"
+		],
+
+		"leagues": ["Примера Аргентины", "АПЛ", "Чемпионшип", "Ла Лига"],
+
+		"coaches": [
+			"Arsène Wenger",
+			"Unai Emery",
+			"Mikel Arteta",
+			"Nuno Espírito Santo",
+			"José Bordalás",
+			"Dean Smith",
+			"Steven Gerrard",
+			"Unai Emery"
+		],
+
+		"trophies": [
+			"Кубок Англии",
+			"Суперкубок Англии",
+			"Чемпионат мира FIFA",
+			"Кубок Америки",
+			"Финалиссимa"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 203574,
+		"name": "John Stones",
+		"short_name": "J. Stones",
+		"role": "player",
+
+		"nationality": "Англия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Barnsley", "Everton", "Manchester City"],
+
+		"leagues": ["Чемпионшип", "АПЛ"],
+
+		"coaches": [
+			"David Flitcroft",
+			"Sean Dyche",
+			"Roberto Martínez",
+			"Ronald Koeman",
+			"Pep Guardiola"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок Английской лиги",
+			"Суперкубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 205498,
+		"name": "Luiz Frello Filho Jorge",
+		"short_name": "Jorginho",
+		"role": "player",
+
+		"nationality": "Италия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Hellas Verona", "Napoli", "Chelsea", "Arsenal", "Flamengo"],
+
+		"leagues": ["Серия A", "АПЛ"],
+
+		"coaches": [
+			"Andrea Mandorlini",
+			"Rafael Benítez",
+			"Maurizio Sarri",
+			"Frank Lampard",
+			"Thomas Tuchel",
+			"Mikel Arteta"
+		],
+
+		"trophies": [
+			"Серия A",
+			"Кубок Италии",
+			"Суперкубок Италии",
+			"АПЛ",
+			"Кубок Англии",
+			"Лига Чемпионов УЕФА",
+			"Суперкубок УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 206113,
+		"name": "Serge David Gnabry",
+		"short_name": "S. Gnabry",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"VfB Stuttgart (youth)",
+			"Arsenal",
+			"West Bromwich Albion (loan)",
+			"Werder Bremen",
+			"TSG Hoffenheim (loan)",
+			"FC Bayern München"
+		],
+
+		"leagues": ["АПЛ", "Бундеслига"],
+
+		"coaches": [
+			"Arsène Wenger",
+			"Tony Pulis",
+			"Alexander Nouri",
+			"Julian Nagelsmann",
+			"Niko Kovač",
+			"Hansi Flick",
+			"Thomas Tuchel",
+			"Vincent Kompany"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Лига Чемпионов УЕФА",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 206517,
+		"name": "Jack Grealish",
+		"short_name": "J. Grealish",
+		"role": "player",
+
+		"nationality": "Англия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Aston Villa", "Manchester City", "Everton"],
+
+		"leagues": ["АПЛ", "Чемпионшип"],
+
+		"coaches": [
+			"Paul Lambert",
+			"Tim Sherwood",
+			"Rémi Garde",
+			"Steve Bruce",
+			"Dean Smith",
+			"Pep Guardiola"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Кубок Англии",
+			"Суперкубок Англии",
+			"Кубок Английской лиги",
+			"Лига Чемпионов УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 208128,
+		"name": "Hakan Çalhanoğlu",
+		"short_name": "H. Çalhanoğlu",
+		"role": "player",
+
+		"nationality": "Турция",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Karlsruher SC",
+			"Hamburger SV",
+			"Bayer 04 Leverkusen",
+			"Milan",
+			"Inter"
+		],
+
+		"leagues": ["Бундеслига", "Серия A"],
+
+		"coaches": [
+			"Kosta Runjaić",
+			"Thorsten Fink",
+			"Roger Schmidt",
+			"Vincenzo Montella",
+			"Gennaro Gattuso",
+			"Stefano Pioli",
+			"Simone Inzaghi",
+			"Christian Kivu"
+		],
+
+		"trophies": ["Серия A", "Кубок Италии", "Суперкубок Италии"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 208418,
+		"name": "Yannick Ferreira Carrasco",
+		"short_name": "Y. Carrasco",
+		"role": "player",
+
+		"nationality": "Бельгия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"AS Monaco",
+			"Atlético Madrid",
+			"Dalian Professional",
+			"Al Shabab"
+		],
+
+		"leagues": ["Лига 1", "Ла Лига", "Суперлига Китая", "Саудовская Про-лига"],
+
+		"coaches": [
+			"Claudio Ranieri",
+			"Leonardo Jardim",
+			"Diego Simeone",
+			"Javier Aguirre",
+			"Jorge Jesus"
+		],
+
+		"trophies": [
+			"Лига 1",
+			"Суперкубок Франции",
+			"Ла Лига",
+			"Суперкубок Испании",
+			"Кубок Китая",
+			"Лига чемпионов АФК"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 208421,
+		"name": "Saúl Ñíguez Esclápez",
+		"short_name": "Saúl",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Atlético Madrid",
+			"Chelsea",
+			"Rayo Vallecano",
+			"Sevilla FC",
+			"Flamengo"
+		],
+
+		"leagues": ["Ла Лига", "АПЛ", "Бразильская Серия A"],
+
+		"coaches": [
+			"Diego Simeone",
+			"Maurizio Sarri",
+			"Frank Lampard",
+			"Thomas Tuchel",
+			"Graham Potter"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Лига Европы УЕФА",
+			"Суперкубок УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 208574,
+		"name": "Filip Kostić",
+		"short_name": "F. Kostić",
+		"role": "player",
+
+		"nationality": "Сербия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Radnički Kragujevac",
+			"Groningen",
+			"Stuttgart",
+			"Hamburger SV",
+			"Eintracht Frankfurt",
+			"Juventus",
+			"Fenerbahçe"
+		],
+
+		"leagues": [
+			"Суперлига Сербии",
+			"Эредивизи",
+			"Бундеслига",
+			"Серия A",
+			"Суперлига Турции"
+		],
+
+		"coaches": [
+			"Slaviša Stojanović",
+			"Peter Bosz",
+			"Hannes Wolf",
+			"Markus Gisdol",
+			"Adi Hütter",
+			"Oliver Glasner",
+			"Massimiliano Allegri",
+			"José Mourinho"
+		],
+
+		"trophies": ["Кубок Германии", "Лига Европы УЕФА", "Суперкубок Италии"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 208670,
+		"name": "Hakim Ziyech",
+		"short_name": "H. Ziyech",
+		"role": "player",
+
+		"nationality": "Марокко",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"SC Heerenveen",
+			"FC Twente",
+			"Ajax",
+			"Chelsea",
+			"Galatasaray",
+			"Al-Duhail",
+			"Wydad AC"
+		],
+
+		"leagues": [
+			"Эредивизи",
+			"АПЛ",
+			"Турецкая Суперлига",
+			"Лига Звёзд Катара",
+			"Ботола"
+		],
+
+		"coaches": [
+			"Marco van Basten",
+			"Alfred Schreuder",
+			"Erik ten Hag",
+			"Frank Lampard",
+			"Thomas Tuchel",
+			"Graham Potter",
+			"Okan Buruk",
+			"Hussein Ammouta"
+		],
+
+		"trophies": [
+			"Эредивизи",
+			"Кубок Нидерландов",
+			"Суперкубок Нидерландов",
+			"АПЛ",
+			"Лига чемпионов УЕФА",
+			"Суперкубок УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 209981,
+		"name": "Yassine Bounou",
+		"short_name": "Y. Bounou",
+		"role": "player",
+
+		"nationality": "Марокко",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Wydad AC",
+			"Atlético Madrid B",
+			"Real Zaragoza",
+			"Girona",
+			"Sevilla",
+			"Al-Hilal"
+		],
+
+		"leagues": ["Ботола", "Сегунда", "Ла Лига", "Саудовская Про-лига"],
+
+		"coaches": [
+			"Juan Ignacio Martínez",
+			"Pablo Machín",
+			"Eusebio Sacristán",
+			"Javier Calleja",
+			"Julen Lopetegui",
+			"José Luis Mendilibar",
+			"Jorge Jesus"
+		],
+
+		"trophies": [
+			"Лига Европы УЕФА",
+			"Суперкубок УЕФА",
+			"Суперкубок Испании",
+			"Ла Лига",
+			"Суперкубок Саудовской Аравии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 209989,
+		"name": "Thomas Partey",
+		"short_name": "T. Partey",
+		"role": "player",
+
+		"nationality": "Гана",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Atlético Madrid",
+			"Almería (loan)",
+			"Mallorca (loan)",
+			"Arsenal",
+			"Villarreal"
+		],
+
+		"leagues": ["Ла Лига", "АПЛ"],
+
+		"coaches": ["Diego Simeone", "Unai Emery", "Mikel Arteta"],
+
+		"trophies": [
+			"Ла Лига",
+			"Суперкубок Испании",
+			"Лига Европы УЕФА",
+			"Суперкубок УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 210243,
+		"name": "Ricardo Domingos Barbosa Pereira",
+		"short_name": "Ricardo Pereira",
+		"role": "player",
+
+		"nationality": "Португалия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Vitória Guimarães", "FC Porto", "OGC Nice", "Leicester City"],
+
+		"leagues": ["Примейра-лига", "Лига 1", "АПЛ"],
+
+		"coaches": [
+			"Rui Vitória",
+			"Nuno Espírito Santo",
+			"Julen Lopetegui",
+			"Brendan Rodgers",
+			"Dean Smith",
+			"Enzo Maresca"
+		],
+
+		"trophies": [
+			"Примейра-лига",
+			"Кубок Португалии",
+			"Суперкубок Португалии",
+			"АПЛ",
+			"Кубок Английской лиги"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 210935,
+		"name": "Domenico Berardi",
+		"short_name": "D. Berardi",
+		"role": "player",
+
+		"nationality": "Италия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Sassuolo", "Juventus (loan)"],
+
+		"leagues": ["Серия A"],
+
+		"coaches": [
+			"Eusebio Di Francesco",
+			"Alessio Dionisi",
+			"Roberto De Zerbi",
+			"Fabio Grosso"
+		],
+
+		"trophies": ["Чемпионат Европы UEFA", "Серия B Италии"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 212188,
+		"name": "Timo Werner",
+		"short_name": "T. Werner",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"VfB Stuttgart",
+			"RB Leipzig",
+			"Chelsea",
+			"Tottenham Hotspur",
+			"San Jose Earthquakes"
+		],
+
+		"leagues": ["Бундеслига", "АПЛ", "MLS"],
+
+		"coaches": [
+			"Huub Stevens",
+			"Jürgen Kramny",
+			"Ralf Rangnick",
+			"Julian Nagelsmann",
+			"Thomas Tuchel",
+			"Mauricio Pochettino",
+			"Antonio Conte"
+		],
+
+		"trophies": [
+			"Кубок Германии",
+			"Лига Чемпионов УЕФА",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 212190,
+		"name": "Niklas Süle",
+		"short_name": "N. Süle",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["TSG Hoffenheim", "FC Bayern München", "Borussia Dortmund"],
+
+		"leagues": ["Бундеслига"],
+
+		"coaches": [
+			"Markus Gisdol",
+			"Julian Nagelsmann",
+			"Niko Kovač",
+			"Hansi Flick",
+			"Thomas Tuchel",
+			"Edin Terzić"
+		],
+
+		"trophies": [
+			"Бундеслига",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Лига Чемпионов УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 216460,
+		"name": "José María Giménez de Vargas",
+		"short_name": "J. Giménez",
+		"role": "player",
+
+		"nationality": "Уругвай",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Atlético Madrid"],
+
+		"leagues": ["Ла Лига"],
+
+		"coaches": ["Óscar Tabárez", "Diego Simeone"],
+
+		"trophies": [
+			"Ла Лига",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Лига Европы УЕФА",
+			"Суперкубок УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 216594,
+		"name": "Nabil Fekir",
+		"short_name": "N. Fekir",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Olympique Lyonnais", "Real Betis", "Al-Jazira"],
+
+		"leagues": ["Лига 1", "Ла Лига", "Про-лига ОАЭ"],
+
+		"coaches": [
+			"Rémi Garde",
+			"Bruno Génésio",
+			"Rudi Garcia",
+			"Manuel Pellegrini",
+			"Michel",
+			"Nuno Espírito Santo"
+		],
+
+		"trophies": [
+			"Кубок Франции",
+			"Суперкубок Франции",
+			"Кубок Испании",
+			"Ла Лига"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 217870,
+		"name": "Giovanni Di Lorenzo",
+		"short_name": "G. Di Lorenzo",
+		"role": "player",
+
+		"nationality": "Италия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Reggina", "Matera", "Empoli", "Napoli"],
+
+		"leagues": ["Серия C Италии", "Серия B Италии", "Серия A"],
+
+		"coaches": [
+			"Marco Baroni",
+			"Vincenzo Vivarini",
+			"Aurelio Andreazzoli",
+			"Gennaro Gattuso",
+			"Luciano Spalletti",
+			"Rudi Garcia",
+			"Walter Mazzarri",
+			"Antonio Conte"
+		],
+
+		"trophies": [
+			"Серия B Италии",
+			"Серия A",
+			"Кубок Италии",
+			"Суперкубок Италии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 220440,
+		"name": "Clément Nicolas Laurent Lenglet",
+		"short_name": "C. Lenglet",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"AS Nancy",
+			"Sevilla",
+			"FC Barcelona",
+			"Tottenham Hotspur",
+			"Aston Villa",
+			"Atlético Madrid"
+		],
+
+		"leagues": ["Лига 1", "Ла Лига", "АПЛ"],
+
+		"coaches": [
+			"Patrick Gabriel",
+			"Claudio Ranieri",
+			"Eduardo Berizzo",
+			"Quique Setién",
+			"Ronald Koeman",
+			"Xavi",
+			"Antonio Conte",
+			"Unai Emery",
+			"Mauricio Pochettino",
+			"Diego Simeone"
+		],
+
+		"trophies": [
+			"Лига Европы УЕФА",
+			"Суперкубок УЕФА",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Кубок Английской лиги"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 220834,
+		"name": "Marco Asensio Willemsen",
+		"short_name": "Marco Asensio",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Mallorca",
+			"Espanyol (loan)",
+			"Real Madrid",
+			"Paris Saint-Germain",
+			"Aston Villa",
+			"Fenerbahçe"
+		],
+
+		"leagues": ["Сегунда", "Ла Лига", "Лига 1"],
+
+		"coaches": [
+			"Valery Karpin",
+			"Albert Ferrer",
+			"Zinedine Zidane",
+			"Julen Lopetegui",
+			"Santiago Solari",
+			"Carlo Ancelotti",
+			"Luis Enrique",
+			"Unai Emery"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Лига чемпионов УЕФА",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира",
+			"Лига 1"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 224334,
+		"name": "Marcos Javier Acuña",
+		"short_name": "M. Acuña",
+		"role": "player",
+
+		"nationality": "Аргентина",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Racing Club", "Sporting CP", "Sevilla", "River Plate"],
+
+		"leagues": ["Примера Аргентины", "Примейра-лига", "Ла Лига"],
+
+		"coaches": [
+			"Diego Cocca",
+			"Eduardo Coudet",
+			"Jorge Sampaoli",
+			"Julen Lopetegui",
+			"José Luis Mendilibar",
+			"Quique Sánchez Flores"
+		],
+
+		"trophies": [
+			"Примера Аргентины",
+			"Кубок Аргентины",
+			"Суперкубок Аргентины",
+			"Примейра-лига Португалии",
+			"Кубок Португалии",
+			"Лига Европы УЕФА",
+			"Кубок Испании"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 224458,
+		"name": "Diogo José Teixeira da Silva",
+		"short_name": "Diogo Jota",
+		"role": "player",
+
+		"nationality": "Португалия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Paços de Ferreira",
+			"Atlético Madrid",
+			"Porto (loan)",
+			"Wolverhampton Wanderers",
+			"Liverpool"
+		],
+
+		"leagues": ["Примейра-лига", "Чемпионшип", "АПЛ"],
+
+		"coaches": [
+			"Carlos Pinto",
+			"Nuno Espírito Santo",
+			"Bruno Lage",
+			"Jürgen Klopp",
+			"Arne Slot"
+		],
+
+		"trophies": [
+			"Чемпионшип",
+			"АПЛ",
+			"Кубок Английской лиги",
+			"Кубок Португалии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 226753,
+		"name": "André Onana",
+		"short_name": "A. Onana",
+		"role": "player",
+
+		"nationality": "Камерун",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Barcelona (youth)",
+			"Ajax",
+			"Inter",
+			"Manchester United",
+			"Trabzonspor"
+		],
+
+		"leagues": ["Эредивизи", "Серия A", "АПЛ", "Турецкая Суперлига"],
+
+		"coaches": [
+			"Frank de Boer",
+			"Peter Bosz",
+			"Erik ten Hag",
+			"Antonio Conte",
+			"Simone Inzaghi",
+			"Erik ten Hag"
+		],
+
+		"trophies": [
+			"Эредивизи",
+			"Кубок Нидерландов",
+			"Суперкубок Нидерландов",
+			"Серия A",
+			"Кубок Италии",
+			"Суперкубок Италии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 226790,
+		"name": "Onyinye Wilfred Ndidi",
+		"short_name": "W. Ndidi",
+		"role": "player",
+
+		"nationality": "Нигерия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Nathaniel Boys Academy", "Genk", "Leicester City", "Beşiktaş"],
+
+		"leagues": [
+			"Лига Pro Нигерии",
+			"Юпилер Про Лига",
+			"АПЛ",
+			"Турецкая Суперлига"
+		],
+
+		"coaches": [
+			"Manu Garba",
+			"Alex McLeish",
+			"Peter Maes",
+			"Rudi Garcia",
+			"Brendan Rodgers",
+			"Dean Smith",
+			"Enzo Maresca",
+			"Vicenzo Italiano"
+		],
+
+		"trophies": [
+			"Кубок Бельгии",
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок Английской лиги"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 230142,
+		"name": "Mikel Oyarzabal Ugarte",
+		"short_name": "Oyarzabal",
+		"role": "player",
+
+		"nationality": "Испания",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Real Sociedad"],
+
+		"leagues": ["Ла Лига"],
+
+		"coaches": ["David Moyes", "Eusebio Sacristán", "Imanol Alguacil"],
+
+		"trophies": ["Кубок Испании", "Суперкубок Испании", "Олимпийские игры"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 231677,
+		"name": "Marcus Rashford",
+		"short_name": "M. Rashford",
+		"role": "player",
+
+		"nationality": "Англия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Manchester United", "Aston Villa", "FC Barcelona"],
+
+		"leagues": ["АПЛ"],
+
+		"coaches": [
+			"Louis van Gaal",
+			"José Mourinho",
+			"Ole Gunnar Solskjær",
+			"Ralf Rangnick",
+			"Erik ten Hag",
+			"Unai Emery",
+			"Hansi Flick",
+			"Michael Carrick"
+		],
+
+		"trophies": [
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок Английской лиги",
+			"Суперкубок Англии",
+			"Ла Лига",
+			"Суперкубок Испании"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 232656,
+		"name": "Theo Bernard François Hernández",
+		"short_name": "T. Hernández",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Atlético Madrid",
+			"Deportivo Alavés (loan)",
+			"Real Madrid",
+			"Real Sociedad (loan)",
+			"AC Milan",
+			"Al Hilal"
+		],
+
+		"leagues": ["Ла Лига", "Серия A", "Саудовская Про-лига"],
+
+		"coaches": [
+			"Diego Simeone",
+			"Zinedine Zidane",
+			"Julen Lopetegui",
+			"Gennaro Gattuso",
+			"Stefano Pioli",
+			"Sergio Conceição"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Суперкубок Испании",
+			"Серия A",
+			"Суперкубок Италии",
+			"Лига чемпионов УЕФА"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 234236,
+		"name": "Patrik Schick",
+		"short_name": "P. Schick",
+		"role": "player",
+
+		"nationality": "Чехия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Bohemians Praha",
+			"Sampdoria",
+			"Roma",
+			"RB Leipzig (loan)",
+			"Bayer 04 Leverkusen"
+		],
+
+		"leagues": ["Чешская лига", "Серия A", "Бундеслига"],
+
+		"coaches": [
+			"Roman Pivarník",
+			"Marco Giampaolo",
+			"Eusebio Di Francesco",
+			"Ralph Hasenhüttl",
+			"Peter Bosz",
+			"Xabi Alonso"
+		],
+
+		"trophies": ["Кубок Италии", "Суперкубок Германии", "Бундеслига"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 234378,
+		"name": "Declan Rice",
+		"short_name": "D. Rice",
+		"role": "player",
+
+		"nationality": "Англия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Chelsea (youth)", "West Ham United", "Arsenal"],
+
+		"leagues": ["АПЛ"],
+
+		"coaches": ["Mark Noble", "Slaven Bilić", "David Moyes", "Mikel Arteta"],
+
+		"trophies": [
+			"Лига конференций УЕФА",
+			"АПЛ",
+			"Кубок Англии",
+			"Суперкубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 235212,
+		"name": "Achraf Hakimi Mouh",
+		"short_name": "A. Hakimi",
+		"role": "player",
+
+		"nationality": "Марокко",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": [
+			"Real Madrid",
+			"Borussia Dortmund (loan)",
+			"Inter",
+			"Paris Saint-Germain"
+		],
+
+		"leagues": ["Ла Лига", "Бундеслига", "Серия A", "Лига 1"],
+
+		"coaches": [
+			"Zinedine Zidane",
+			"Santiago Solari",
+			"Lucien Favre",
+			"Luciano Spalletti",
+			"Antonio Conte",
+			"Christophe Galtier",
+			"Luis Enrique"
+		],
+
+		"trophies": [
+			"Ла Лига",
+			"Суперкубок Испании",
+			"Бундеслига",
+			"Серия A",
+			"Лига 1",
+			"Суперкубок Франции",
+			"Кубок Италии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 235790,
+		"name": "Kai Lukas Havertz",
+		"short_name": "K. Havertz",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Bayer 04 Leverkusen", "Chelsea", "Arsenal"],
+
+		"leagues": ["Бундеслига", "АПЛ"],
+
+		"coaches": [
+			"Roger Schmidt",
+			"Heiko Herrlich",
+			"Peter Bosz",
+			"Hansi Flick",
+			"Thomas Tuchel",
+			"Frank Lampard",
+			"Mikel Arteta"
+		],
+
+		"trophies": [
+			"Лига чемпионов УЕФА",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира",
+			"АПЛ",
+			"Кубок Англии",
+			"Суперкубок Англии"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 237383,
+		"name": "Alessandro Bastoni",
+		"short_name": "A. Bastoni",
+		"role": "player",
+
+		"nationality": "Италия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Atalanta", "Parma", "Inter"],
+
+		"leagues": ["Серия A"],
+
+		"coaches": [
+			"Gian Piero Gasperini",
+			"Roberto D'Aversa",
+			"Luciano Spalletti",
+			"Antonio Conte",
+			"Simone Inzaghi",
+			"Christian Kivu"
+		],
+
+		"trophies": ["Серия A", "Кубок Италии", "Суперкубок Италии"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 237692,
+		"name": "Phil Foden",
+		"short_name": "P. Foden",
+		"role": "player",
+
+		"nationality": "Англия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Manchester City"],
+
+		"leagues": ["АПЛ"],
+
+		"coaches": ["Pep Guardiola", "Enzo Maresca"],
+
+		"trophies": [
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок Английской лиги",
+			"Суперкубок Англии",
+			"Лига чемпионов УЕФА",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 241486,
+		"name": "Jules Koundé",
+		"short_name": "J. Koundé",
+		"role": "player",
+
+		"nationality": "Франция",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Bordeaux", "Sevilla", "FC Barcelona"],
+
+		"leagues": ["Лига 1", "Ла Лига"],
+
+		"coaches": [
+			"Paulo Sousa",
+			"Gustavo Poyet",
+			"Eduardo Berizzo",
+			"Julen Lopetegui",
+			"Quique Setién",
+			"Xavi",
+			"Hansi Flick"
+		],
+
+		"trophies": [
+			"Лига Европы УЕФА",
+			"Суперкубок УЕФА",
+			"Кубок Испании",
+			"Суперкубок Испании"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 243812,
+		"name": "Rodrygo Silva de Goes",
+		"short_name": "Rodrygo",
+		"role": "player",
+
+		"nationality": "Бразилия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["Santos", "Real Madrid"],
+
+		"leagues": ["Серия A Бразилии", "Ла Лига"],
+
+		"coaches": ["Jorge Sampaoli", "Cuca", "Zinedine Zidane", "Carlo Ancelotti"],
+
+		"trophies": [
+			"Ла Лига",
+			"Суперкубок Испании",
+			"Кубок Испании",
+			"Лига чемпионов УЕФА",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
+		],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	},
+	{
+		"id": 256630,
+		"name": "Florian Richard Wirtz",
+		"short_name": "F. Wirtz",
+		"role": "player",
+
+		"nationality": "Германия",
+		"nationality_valid": true,
+
+		"max_overall": 85,
+
+		"clubs": ["1. FC Köln (youth)", "Bayer 04 Leverkusen", "Liverpool"],
+
+		"leagues": ["Бундеслига", "АПЛ"],
+
+		"coaches": [
+			"Markus Gisdol",
+			"Peter Bosz",
+			"Gerardo Seoane",
+			"Xabi Alonso",
+			"Arne Slot",
+			"Andoni Iraola"
+		],
+
+		"trophies": ["Бундеслига", "Кубок Германии", "Суперкубок Германии"],
+
+		"ballon_dor": false,
+		"is_legend": false,
+		"retired": false
+	}
+]

@@ -1,0 +1,139 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ─────────────────────────────────────────────
+// Core entities
+// ─────────────────────────────────────────────
+
+model Player {
+  id          String   @id @default(cuid())
+  name        String
+  aliases     String[] // ["месси", "leo messi", "messi"]
+  nationality String?
+  position    String?
+  imageUrl    String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  clubs       PlayerClub[]
+  managers    PlayerManager[]
+  tournaments PlayerTournament[]
+  leagues     PlayerLeague[]
+
+  @@index([name])
+}
+
+model Club {
+  id       String       @id @default(cuid())
+  name     String
+  tag      String       @unique // "barcelona", "real-madrid"
+  country  String?
+  league   League?      @relation(fields: [leagueId], references: [id])
+  leagueId String?
+
+  players PlayerClub[]
+
+  @@index([tag])
+}
+
+model League {
+  id      String         @id @default(cuid())
+  name    String
+  tag     String         @unique // "premier-league", "laliga"
+  country String?
+
+  clubs   Club[]
+  players PlayerLeague[]
+
+  @@index([tag])
+}
+
+model Tournament {
+  id       String             @id @default(cuid())
+  name     String
+  tag      String             @unique // "ucl", "worldcup-winner"
+  type     TournamentType     @default(CLUB)
+
+  winners PlayerTournament[]
+
+  @@index([tag])
+}
+
+model Manager {
+  id      String          @id @default(cuid())
+  name    String
+  tag     String          @unique // "pep", "mourinho"
+  nationality String?
+
+  players PlayerManager[]
+
+  @@index([tag])
+}
+
+// ─────────────────────────────────────────────
+// Join tables (many-to-many with metadata)
+// ─────────────────────────────────────────────
+
+model PlayerClub {
+  id        String   @id @default(cuid())
+  player    Player   @relation(fields: [playerId], references: [id], onDelete: Cascade)
+  playerId  String
+  club      Club     @relation(fields: [clubId], references: [id], onDelete: Cascade)
+  clubId    String
+  fromYear  Int?
+  toYear    Int?
+
+  @@unique([playerId, clubId])
+  @@index([playerId])
+  @@index([clubId])
+}
+
+model PlayerLeague {
+  id        String   @id @default(cuid())
+  player    Player   @relation(fields: [playerId], references: [id], onDelete: Cascade)
+  playerId  String
+  league    League   @relation(fields: [leagueId], references: [id], onDelete: Cascade)
+  leagueId  String
+
+  @@unique([playerId, leagueId])
+  @@index([playerId])
+}
+
+model PlayerManager {
+  id        String   @id @default(cuid())
+  player    Player   @relation(fields: [playerId], references: [id], onDelete: Cascade)
+  playerId  String
+  manager   Manager  @relation(fields: [managerId], references: [id], onDelete: Cascade)
+  managerId String
+
+  @@unique([playerId, managerId])
+  @@index([playerId])
+}
+
+model PlayerTournament {
+  id           String     @id @default(cuid())
+  player       Player     @relation(fields: [playerId], references: [id], onDelete: Cascade)
+  playerId     String
+  tournament   Tournament @relation(fields: [tournamentId], references: [id], onDelete: Cascade)
+  tournamentId String
+  year         Int?       // year they won
+
+  @@unique([playerId, tournamentId])
+  @@index([playerId])
+}
+
+// ─────────────────────────────────────────────
+// Enums
+// ─────────────────────────────────────────────
+
+enum TournamentType {
+  CLUB         // UCL, UEL, Club World Cup
+  NATIONAL     // World Cup, Euro, Copa America
+  INDIVIDUAL   // Ballon d'Or, Golden Boot
+}
