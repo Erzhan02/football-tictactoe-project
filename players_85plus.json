@@ -4,9 +4,7 @@
 		"name": "Cristiano Ronaldo dos Santos Aveiro",
 		"short_name": "Cristiano Ronaldo",
 		"role": "player",
-
-		"nationality": "Португалия",
-
+		"nationality": ["Португалия"],
 		"clubs": [
 			"Sporting CP",
 			"Manchester United",
@@ -14,7 +12,6 @@
 			"Juventus",
 			"Al Nassr"
 		],
-
 		"leagues": [
 			"АПЛ",
 			"Ла Лига",
@@ -22,34 +19,27 @@
 			"Примейра-лига",
 			"Саудовская Про-лига"
 		],
-
-		"trophies": ["Лига Чемпионов", "Чемпион Европы", "Золотой мяч"],
-
 		"coaches": [
 			"Алекс Фергюсон",
 			"Жозе Моуринью",
 			"Карло Анчелотти",
 			"Зинедин Зидан"
 		],
-
+		"trophies": ["Лига Чемпионов", "Чемпион Европы", "Золотой мяч"],
+		"max_overall": null,
+		"retired": false,
 		"ballon_dor": true,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": null
 	},
 	{
 		"id": 158023,
 		"name": "Lionel Andrés Messi Cuccittini",
 		"short_name": "L. Messi",
 		"role": "player",
-
-		"nationality": "Аргентина",
-		"nationality_valid": true,
-		"max_overall": 94,
-
+		"nationality": ["Аргентина"],
 		"clubs": ["FC Barcelona", "Paris Saint-Germain", "Inter Miami"],
-
 		"leagues": ["Ла Лига", "Лига 1", "MLS"],
-
 		"coaches": [
 			"Франк Райкард",
 			"Хосеп Гвардиола",
@@ -62,28 +52,26 @@
 			"Маурисио Почеттино",
 			"Кристоф Гальтье"
 		],
-
 		"trophies": [
 			"Лига Чемпионов",
 			"Чемпион мира",
 			"Копа Америка",
 			"Золотой мяч"
-		]
+		],
+		"max_overall": 94,
+		"retired": null,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
 	},
 	{
 		"id": 167495,
 		"name": "Manuel Peter Neuer",
 		"short_name": "M. Neuer",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-		"max_overall": 92,
-
+		"nationality": ["Германия"],
 		"clubs": ["FC Schalke 04", "FC Bayern München"],
-
 		"leagues": ["Бундеслига"],
-
 		"coaches": [
 			"Феликс Магат",
 			"Ральф Рангник",
@@ -96,19 +84,19 @@
 			"Юлиан Нагельсман",
 			"Томас Тухель"
 		],
-
-		"trophies": ["Лига Чемпионов", "Чемпион мира", "Бундеслига"]
+		"trophies": ["Лига Чемпионов", "Чемпион мира", "Бундеслига"],
+		"max_overall": 92,
+		"retired": null,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
 	},
 	{
 		"id": 176580,
 		"name": "Luis Alberto Suárez Díaz",
 		"short_name": "L. Suárez",
 		"role": "player",
-
-		"nationality": "Уругвай",
-		"nationality_valid": true,
-		"max_overall": 92,
-
+		"nationality": ["Уругвай"],
 		"clubs": [
 			"Nacional",
 			"Groningen",
@@ -119,7 +107,6 @@
 			"Grêmio",
 			"Inter Miami"
 		],
-
 		"leagues": [
 			"Эредивизи",
 			"АПЛ",
@@ -128,7 +115,6 @@
 			"MLS",
 			"Примейра-лига Уругвая"
 		],
-
 		"coaches": [
 			"Рональд Куман",
 			"Луис Энрике",
@@ -139,19 +125,19 @@
 			"Франк Райкард",
 			"Тата Мартино"
 		],
-
-		"trophies": ["Лига Чемпионов", "Ла Лига", "АПЛ", "Копа Америка"]
+		"trophies": ["Лига Чемпионов", "Ла Лига", "АПЛ", "Копа Америка"],
+		"max_overall": 92,
+		"retired": null,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
 	},
 	{
 		"id": 188545,
 		"name": "Robert Lewandowski",
 		"short_name": "R. Lewandowski",
 		"role": "player",
-
-		"nationality": "Польша",
-		"nationality_valid": true,
-		"max_overall": 92,
-
+		"nationality": ["Польша"],
 		"clubs": [
 			"Znicz Pruszków",
 			"Lech Poznań",
@@ -159,9 +145,7 @@
 			"FC Bayern München",
 			"FC Barcelona"
 		],
-
 		"leagues": ["Экстракласа", "Бундеслига", "Ла Лига"],
-
 		"coaches": [
 			"Юрген Клопп",
 			"Юпп Хайнкес",
@@ -173,32 +157,26 @@
 			"Томас Тухель",
 			"Хави"
 		],
-
 		"trophies": ["Лига Чемпионов", "Бундеслига", "Ла Лига"],
-
+		"max_overall": 92,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 190871,
 		"name": "Neymar da Silva Santos Júnior",
 		"short_name": "Neymar Jr",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-		"max_overall": 92,
-
+		"nationality": ["Бразилия"],
 		"clubs": ["Santos", "FC Barcelona", "Paris Saint-Germain", "Al Hilal"],
-
 		"leagues": [
 			"Бразильская Серия А",
 			"Ла Лига",
 			"Лига 1",
 			"Саудовская Про-лига"
 		],
-
 		"coaches": [
 			"Луис Энрике",
 			"Эрнесто Вальверде",
@@ -208,27 +186,21 @@
 			"Кристоф Гальтье",
 			"Жорже Жезуш"
 		],
-
 		"trophies": ["Лига Чемпионов", "Копа Америка"],
-
+		"max_overall": 92,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 155862,
 		"name": "Sergio Ramos García",
 		"short_name": "Sergio Ramos",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-		"max_overall": 91,
-
+		"nationality": ["Испания"],
 		"clubs": ["Sevilla", "Real Madrid", "Paris Saint-Germain"],
-
 		"leagues": ["Ла Лига", "Лига 1"],
-
 		"coaches": [
 			"Висенте дель Боске",
 			"Жозе Моуринью",
@@ -239,27 +211,21 @@
 			"Кристоф Гальтье",
 			"Хулен Лопетеги"
 		],
-
 		"trophies": ["Лига Чемпионов", "Чемпион мира", "Чемпион Европы"],
-
+		"max_overall": 91,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 165153,
 		"name": "Karim Benzema",
 		"short_name": "K. Benzema",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-		"max_overall": 91,
-
+		"nationality": ["Франция"],
 		"clubs": ["Olympique Lyonnais", "Real Madrid", "Al Ittihad"],
-
 		"leagues": ["Лига 1", "Ла Лига", "Саудовская Про-лига"],
-
 		"coaches": [
 			"Карло Анчелотти",
 			"Жозе Моуринью",
@@ -269,49 +235,37 @@
 			"Лоран Блан",
 			"Дидье Дешам"
 		],
-
 		"trophies": ["Лига Чемпионов", "Чемпион Европы", "Золотой мяч"],
-
+		"max_overall": 91,
+		"retired": false,
 		"ballon_dor": true,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 177003,
 		"name": "Luka Modrić",
 		"short_name": "L. Modrić",
 		"role": "player",
-
-		"nationality": "Хорватия",
-		"nationality_valid": true,
-		"max_overall": 91,
-
+		"nationality": ["Хорватия"],
 		"clubs": ["Dinamo Zagreb", "Tottenham Hotspur", "Real Madrid"],
-
 		"leagues": ["Хорватская лига", "АПЛ", "Ла Лига"],
-
 		"coaches": ["Жозе Моуринью", "Карло Анчелотти", "Зинедин Зидан"],
-
 		"trophies": ["Лига Чемпионов", "Золотой мяч"],
-
+		"max_overall": 91,
+		"retired": false,
 		"ballon_dor": true,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 183277,
 		"name": "Eden Michael Hazard",
 		"short_name": "E. Hazard",
 		"role": "player",
-
-		"nationality": "Бельгия",
-		"nationality_valid": true,
-		"max_overall": 91,
-
+		"nationality": ["Бельгия"],
 		"clubs": ["Lille", "Chelsea", "Real Madrid"],
-
 		"leagues": ["Лига 1", "АПЛ", "Ла Лига"],
-
 		"coaches": [
 			"Карло Анчелотти",
 			"Жозе Моуринью",
@@ -320,23 +274,19 @@
 			"Рафаэль Бенитес",
 			"Руди Гарсия"
 		],
-
 		"trophies": ["АПЛ", "Лига Европы"],
-
+		"max_overall": 91,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 192985,
 		"name": "Kevin De Bruyne",
 		"short_name": "K. De Bruyne",
 		"role": "player",
-
-		"nationality": "Бельгия",
-		"nationality_valid": true,
-		"max_overall": 91,
-
+		"nationality": ["Бельгия"],
 		"clubs": [
 			"KRC Genk",
 			"Chelsea",
@@ -345,9 +295,7 @@
 			"Manchester City",
 			"Napoli"
 		],
-
 		"leagues": ["Бельгийская лига", "АПЛ", "Бундеслига"],
-
 		"coaches": [
 			"Хосеп Гвардиола",
 			"Дитер Хеккинг",
@@ -357,27 +305,21 @@
 			"Хууб Стевенс",
 			"Антонио Конте"
 		],
-
 		"trophies": ["АПЛ", "Кубок Англии", "Лига Чемпионов"],
-
+		"max_overall": 91,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 193080,
 		"name": "David De Gea Quintana",
 		"short_name": "De Gea",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-		"max_overall": 91,
-
+		"nationality": ["Испания"],
 		"clubs": ["Atlético Madrid", "Manchester United", "Fiorentina"],
-
 		"leagues": ["Ла Лига", "АПЛ", "Серия А"],
-
 		"coaches": [
 			"Кике Флорес",
 			"Унаи Эмери",
@@ -389,54 +331,42 @@
 			"Ральф Рангник",
 			"Эрик тен Хаг"
 		],
-
 		"trophies": ["АПЛ", "Ла Лига"],
-
+		"max_overall": 91,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 200389,
 		"name": "Jan Oblak",
 		"short_name": "J. Oblak",
 		"role": "player",
-
-		"nationality": "Словения",
-		"nationality_valid": true,
-		"max_overall": 91,
-
+		"nationality": ["Словения"],
 		"clubs": ["Olimpija Ljubljana", "Benfica", "Rio Ave", "Atlético Madrid"],
-
 		"leagues": ["Словенская лига", "Примейра-лига", "Ла Лига"],
-
 		"coaches": [
 			"Диего Симеоне",
 			"Жорже Жезуш",
 			"Бруно Лаже",
 			"Сержиу Консейсау"
 		],
-
 		"trophies": ["Ла Лига", "Лига Европы"],
-
+		"max_overall": 91,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 231747,
 		"name": "Kylian Mbappé Lottin",
 		"short_name": "K. Mbappé",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-		"max_overall": 91,
-
+		"nationality": ["Франция"],
 		"clubs": ["AS Monaco", "Paris Saint-Germain", "Real Madrid"],
-
 		"leagues": ["Лига 1", "Ла Лига"],
-
 		"coaches": [
 			"Леонарду Жардим",
 			"Томас Тухель",
@@ -448,23 +378,19 @@
 			"Альваро Арбелоа",
 			"Жозе Моуринью"
 		],
-
 		"trophies": ["Чемпион мира", "Лига 1"],
-
+		"max_overall": 91,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 239085,
 		"name": "Erling Braut Haaland",
 		"short_name": "E. Haaland",
 		"role": "player",
-
-		"nationality": "Норвегия",
-		"nationality_valid": true,
-		"max_overall": 91,
-
+		"nationality": ["Норвегия"],
 		"clubs": [
 			"Bryne",
 			"Molde",
@@ -472,14 +398,12 @@
 			"Borussia Dortmund",
 			"Manchester City"
 		],
-
 		"leagues": [
 			"Норвежская лига",
 			"Бундеслига",
 			"АПЛ",
 			"Австрийская Бундеслига"
 		],
-
 		"coaches": [
 			"Оле Гуннар Сульшер",
 			"Марко Розе",
@@ -489,28 +413,24 @@
 			"Ади Хюттер",
 			"Энцо Мареска"
 		],
-
 		"trophies": [
 			"Лига Чемпионов",
 			"АПЛ",
 			"Бундеслига",
 			"Австрийская Бундеслига"
 		],
-
+		"max_overall": 91,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 9014,
 		"name": "Arjen Robben",
 		"short_name": "A. Robben",
 		"role": "player",
-
-		"nationality": "Нидерланды",
-		"nationality_valid": true,
-		"max_overall": 90,
-
+		"nationality": ["Нидерланды"],
 		"clubs": [
 			"FC Groningen",
 			"PSV Eindhoven",
@@ -518,9 +438,7 @@
 			"Real Madrid",
 			"FC Bayern München"
 		],
-
 		"leagues": ["Эредивизи", "АПЛ", "Ла Лига", "Бундеслига"],
-
 		"coaches": [
 			"Жозе Моуринью",
 			"Карло Анчелотти",
@@ -531,23 +449,19 @@
 			"Юпп Хайнкес",
 			"Ханс-Дитер Флик"
 		],
-
 		"trophies": ["Лига Чемпионов", "Бундеслига", "АПЛ", "Ла Лига"],
-
+		"max_overall": 90,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 41236,
 		"name": "Zlatan Ibrahimović",
 		"short_name": "Z. Ibrahimović",
 		"role": "player",
-
-		"nationality": "Швеция",
-		"nationality_valid": true,
-		"max_overall": 90,
-
+		"nationality": ["Швеция"],
 		"clubs": [
 			"Malmö FF",
 			"Ajax",
@@ -559,9 +473,7 @@
 			"Manchester United",
 			"LA Galaxy"
 		],
-
 		"leagues": ["Эредивизи", "Серия А", "Ла Лига", "Лига 1", "АПЛ", "MLS"],
-
 		"coaches": [
 			"Рональд Куман",
 			"Фабио Капелло",
@@ -575,23 +487,19 @@
 			"Леонардо",
 			"Унаи Эмери"
 		],
-
 		"trophies": ["Лига 1", "Серия А", "Ла Лига", "АПЛ", "MLS"],
-
+		"max_overall": 90,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 167664,
 		"name": "Gonzalo Gerardo Higuaín",
 		"short_name": "G. Higuaín",
 		"role": "player",
-
-		"nationality": "Аргентина",
-		"nationality_valid": true,
-		"max_overall": 90,
-
+		"nationality": ["Аргентина"],
 		"clubs": [
 			"River Plate",
 			"Real Madrid",
@@ -601,9 +509,7 @@
 			"Chelsea",
 			"Inter Miami"
 		],
-
 		"leagues": ["Ла Лига", "Серия А", "АПЛ", "MLS", "Аргентинская лига"],
-
 		"coaches": [
 			"Фабио Капелло",
 			"Бернд Шустер",
@@ -615,32 +521,26 @@
 			"Симоне Индзаги",
 			"Гонсало Фернандес"
 		],
-
 		"trophies": ["Ла Лига", "Серия А", "АПЛ"],
-
+		"max_overall": 90,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 173731,
 		"name": "Gareth Frank Bale",
 		"short_name": "G. Bale",
 		"role": "player",
-
-		"nationality": "Уэльс",
-		"nationality_valid": true,
-		"max_overall": 90,
-
+		"nationality": ["Уэльс"],
 		"clubs": [
 			"Southampton",
 			"Tottenham Hotspur",
 			"Real Madrid",
 			"Los Angeles FC"
 		],
-
 		"leagues": ["АПЛ", "Ла Лига", "MLS"],
-
 		"coaches": [
 			"Харри Реднапп",
 			"Андре Виллаш-Боаш",
@@ -650,23 +550,19 @@
 			"Рафаэль Бенитес",
 			"Стив Купер"
 		],
-
 		"trophies": ["Лига Чемпионов", "Ла Лига", "Кубок MLS"],
-
+		"max_overall": 90,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 182493,
 		"name": "Diego Roberto Godín Leal",
 		"short_name": "D. Godín",
 		"role": "player",
-
-		"nationality": "Уругвай",
-		"nationality_valid": true,
-		"max_overall": 90,
-
+		"nationality": ["Уругвай"],
 		"clubs": [
 			"Cerro",
 			"Nacional",
@@ -676,64 +572,52 @@
 			"Cagliari",
 			"Vélez Sarsfield"
 		],
-
 		"leagues": ["Уругвайская лига", "Ла Лига", "Серия А", "Аргентинская лига"],
-
 		"coaches": [
 			"Диего Симеоне",
 			"Мануэль Пеллегрини",
 			"Марсело Бьелса",
 			"Антонио Конте"
 		],
-
 		"trophies": ["Ла Лига", "Лига Европы", "Суперкубок УЕФА"],
-
+		"max_overall": 90,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 182521,
 		"name": "Toni Kroos",
 		"short_name": "T. Kroos",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-		"max_overall": 90,
-
+		"nationality": ["Германия"],
 		"clubs": ["Bayern München", "Bayer Leverkusen", "Real Madrid"],
-
 		"leagues": ["Бундеслига", "Ла Лига"],
-
 		"coaches": [
 			"Луи ван Гал",
 			"Юпп Хайнкес",
 			"Карло Анчелотти",
 			"Зинедин Зидан"
 		],
-
 		"trophies": [
 			"Лига Чемпионов",
 			"Бундеслига",
 			"Ла Лига",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 90,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 183907,
 		"name": "Jérôme Boateng",
 		"short_name": "J. Boateng",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-		"max_overall": 90,
-
+		"nationality": ["Германия"],
 		"clubs": [
 			"Hertha BSC",
 			"Hamburger SV",
@@ -742,9 +626,7 @@
 			"Olympique Lyonnais",
 			"Salernitana"
 		],
-
 		"leagues": ["Бундеслига", "АПЛ", "Лига 1", "Серия А"],
-
 		"coaches": [
 			"Луи ван Гал",
 			"Роберто Манчини",
@@ -755,32 +637,26 @@
 			"Ханси Флик",
 			"Винченцо Монтелла"
 		],
-
 		"trophies": [
 			"Лига Чемпионов",
 			"Бундеслига",
 			"Клубный чемпионат мира",
 			"Суперкубок УЕФА"
 		],
-
+		"max_overall": 90,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 192119,
 		"name": "Thibaut Nicolas Marc Courtois",
 		"short_name": "T. Courtois",
 		"role": "player",
-
-		"nationality": "Бельгия",
-		"nationality_valid": true,
-		"max_overall": 90,
-
+		"nationality": ["Бельгия"],
 		"clubs": ["Genk", "Atlético Madrid", "Chelsea", "Real Madrid"],
-
 		"leagues": ["Бельгийская лига", "Ла Лига", "АПЛ"],
-
 		"coaches": [
 			"Карло Анчелотти",
 			"Зинедин Зидан",
@@ -792,27 +668,21 @@
 			"Хаби Алонсо",
 			"Альваро Арбелоа"
 		],
-
 		"trophies": ["Ла Лига", "Лига Чемпионов", "Суперкубок УЕФА", "АПЛ"],
-
+		"max_overall": 90,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 192448,
 		"name": "Marc-André ter Stegen",
 		"short_name": "M. ter Stegen",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-		"max_overall": 90,
-
+		"nationality": ["Германия"],
 		"clubs": ["Borussia Mönchengladbach", "FC Barcelona", "Girona FC"],
-
 		"leagues": ["Бундеслига", "Ла Лига"],
-
 		"coaches": [
 			"Луис Энрике",
 			"Эрнесто Вальверде",
@@ -820,28 +690,24 @@
 			"Рональд Куман",
 			"Хави"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Лига Чемпионов",
 			"Кубок Испании",
 			"Суперкубок Испании"
 		],
-
+		"max_overall": 90,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 202126,
 		"name": "Harry Kane",
 		"short_name": "H. Kane",
 		"role": "player",
-
-		"nationality": "Англия",
-		"nationality_valid": true,
-		"max_overall": 90,
-
+		"nationality": ["Англия"],
 		"clubs": [
 			"Tottenham Hotspur",
 			"Leyton Orient",
@@ -850,9 +716,7 @@
 			"Leicester City",
 			"FC Bayern München"
 		],
-
 		"leagues": ["АПЛ", "Бундеслига"],
-
 		"coaches": [
 			"Маурисио Почеттино",
 			"Жозе Моуринью",
@@ -863,23 +727,19 @@
 			"Томас Тухель",
 			"Венсан Компани"
 		],
-
 		"trophies": ["Бундеслига", "Суперкубок Германии"],
-
+		"max_overall": 90,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 203376,
 		"name": "Virgil van Dijk",
 		"short_name": "V. van Dijk",
 		"role": "player",
-
-		"nationality": "Нидерланды",
-		"nationality_valid": true,
-		"max_overall": 90,
-
+		"nationality": ["Нидерланды"],
 		"clubs": [
 			"Willem II",
 			"FC Groningen",
@@ -887,9 +747,7 @@
 			"Southampton",
 			"Liverpool"
 		],
-
 		"leagues": ["Эредивизи", "Шотландская Премьер-лига", "АПЛ"],
-
 		"coaches": [
 			"Брендан Роджерс",
 			"Рональд Куман",
@@ -899,28 +757,24 @@
 			"Арне Слот",
 			"Андони Ираола"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Лига Чемпионов",
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 90,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 208722,
 		"name": "Sadio Mané",
 		"short_name": "S. Mané",
 		"role": "player",
-
-		"nationality": "Сенегал",
-		"nationality_valid": true,
-		"max_overall": 90,
-
+		"nationality": ["Сенегал"],
 		"clubs": [
 			"Metz",
 			"Red Bull Salzburg",
@@ -929,7 +783,6 @@
 			"FC Bayern München",
 			"Al Nassr"
 		],
-
 		"leagues": [
 			"Лига 1",
 			"Австрийская Бундеслига",
@@ -937,7 +790,6 @@
 			"Бундеслига",
 			"Саудовская Про-лига"
 		],
-
 		"coaches": [
 			"Роджер Шмидт",
 			"Брендан Роджers",
@@ -947,7 +799,6 @@
 			"Томас Тухель",
 			"Луис Кастро"
 		],
-
 		"trophies": [
 			"Лига Чемпионов",
 			"АПЛ",
@@ -956,21 +807,18 @@
 			"Клубный чемпионат мира",
 			"Кубок Африки"
 		],
-
+		"max_overall": 90,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 209331,
 		"name": "Mohamed Salah Hamed Mahrous Ghaly",
 		"short_name": "M. Salah",
 		"role": "player",
-
-		"nationality": "Египет",
-		"nationality_valid": true,
-		"max_overall": 90,
-
+		"nationality": ["Египет"],
 		"clubs": [
 			"Al Mokawloon",
 			"Basel",
@@ -979,14 +827,12 @@
 			"Roma",
 			"Liverpool"
 		],
-
 		"leagues": [
 			"Египетская Премьер-лига",
 			"Суперлига Швейцарии",
 			"АПЛ",
 			"Серия А"
 		],
-
 		"coaches": [
 			"Жозе Моуринью",
 			"Паулу Соуса",
@@ -995,32 +841,26 @@
 			"Юрген Клопп",
 			"Арне Слот"
 		],
-
 		"trophies": [
 			"Лига Чемпионов",
 			"АПЛ",
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 90,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 212831,
 		"name": "Alisson Ramsés Becker",
 		"short_name": "Alisson",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-		"max_overall": 90,
-
+		"nationality": ["Бразилия"],
 		"clubs": ["Internacional", "AS Roma", "Liverpool"],
-
 		"leagues": ["Бразильская Серия A", "Серия А", "АПЛ"],
-
 		"coaches": [
 			"Roger Machado",
 			"Eduardo Coudet",
@@ -1029,28 +869,24 @@
 			"Арне Слот",
 			"Андани Ираола"
 		],
-
 		"trophies": [
 			"Лига Чемпионов",
 			"АПЛ",
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 90,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 215914,
 		"name": "N'Golo Kanté",
 		"short_name": "N. Kanté",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-		"max_overall": 90,
-
+		"nationality": ["Франция"],
 		"clubs": [
 			"US Boulogne",
 			"SM Caen",
@@ -1059,9 +895,7 @@
 			"Al Ittihad",
 			"Fenerbahçe"
 		],
-
 		"leagues": ["Лига 2", "Лига 1", "АПЛ", "Саудовская Про-лига"],
-
 		"coaches": [
 			"Claude Makélélé",
 			"Claudio Ranieri",
@@ -1072,7 +906,6 @@
 			"Didier Deschamps",
 			"Nuno Espírito Santo"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Лига Чемпионов",
@@ -1082,25 +915,20 @@
 			"Чемпион мира",
 			"Лига наций УЕФА"
 		],
-
+		"max_overall": 90,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 41,
 		"name": "Andrés Iniesta Luján",
 		"short_name": "Iniesta",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Испания"],
 		"clubs": ["FC Barcelona", "Vissel Kobe", "Emirates Club"],
-
 		"leagues": ["Ла Лига", "J1 League", "UAE Pro League"],
-
 		"coaches": [
 			"Frank Rijkaard",
 			"Pep Guardiola",
@@ -1111,7 +939,6 @@
 			"Quique Setién",
 			"Ronald Koeman"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Лига Чемпионов",
@@ -1121,25 +948,20 @@
 			"Чемпион Европы",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 89,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 1179,
 		"name": "Gianluigi Buffon",
 		"short_name": "G. Buffon",
 		"role": "player",
-
-		"nationality": "Италия",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Италия"],
 		"clubs": ["Parma", "Juventus", "Paris Saint-Germain"],
-
 		"leagues": ["Серия А", "Лига 1"],
-
 		"coaches": [
 			"Carlo Ancelotti",
 			"Marcello Lippi",
@@ -1149,7 +971,6 @@
 			"Maurizio Sarri",
 			"Gian Piero Gasperini"
 		],
-
 		"trophies": [
 			"Серия А",
 			"Лига 1",
@@ -1157,25 +978,20 @@
 			"Суперкубок Италии",
 			"Кубок УЕФА"
 		],
-
+		"max_overall": 89,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 138956,
 		"name": "Giorgio Chiellini",
 		"short_name": "G. Chiellini",
 		"role": "player",
-
-		"nationality": "Италия",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Италия"],
 		"clubs": ["Livorno", "Fiorentina", "Juventus", "Los Angeles FC"],
-
 		"leagues": ["Серия B", "Серия A", "MLS"],
-
 		"coaches": [
 			"Marcello Lippi",
 			"Fabio Capello",
@@ -1186,7 +1002,6 @@
 			"Andrea Pirlo",
 			"Andrea Barzagli "
 		],
-
 		"trophies": [
 			"Серия А",
 			"Кубок Италии",
@@ -1194,37 +1009,31 @@
 			"Лига наций УЕФА",
 			"Евро"
 		],
-
+		"max_overall": 89,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 153079,
 		"name": "Sergio Leonel Agüero del Castillo",
 		"short_name": "S. Agüero",
 		"role": "player",
-
-		"nationality": "Аргентина",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Аргентина"],
 		"clubs": [
 			"Independiente",
 			"Atlético Madrid",
 			"Manchester City",
 			"FC Barcelona"
 		],
-
 		"leagues": ["Аргентинская Примера", "Ла Лига", "АПЛ"],
-
 		"coaches": [
 			"Diego Simeone",
 			"Manuel Pellegrini",
 			"Roberto Mancini",
 			"Pep Guardiola"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Ла Лига",
@@ -1232,21 +1041,18 @@
 			"Кубок лиги Англии",
 			"Суперкубок Англии"
 		],
-
+		"max_overall": 89,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 164240,
 		"name": "Thiago Emiliano da Silva",
 		"short_name": "Thiago Silva",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Бразилия"],
 		"clubs": [
 			"RS Futebol",
 			"Juventude",
@@ -1257,7 +1063,6 @@
 			"Paris Saint-Germain",
 			"Chelsea"
 		],
-
 		"leagues": [
 			"Бразильская Серия A",
 			"Серия А",
@@ -1265,7 +1070,6 @@
 			"АПЛ",
 			"Российская Премьер-лига"
 		],
-
 		"coaches": [
 			"Carlo Ancelotti",
 			"Leonardo",
@@ -1277,7 +1081,6 @@
 			"Graham Potter",
 			"Frank Lampard"
 		],
-
 		"trophies": [
 			"Лига Чемпионов",
 			"Серия А",
@@ -1288,30 +1091,25 @@
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 168542,
 		"name": "David Josué Jiménez Silva",
 		"short_name": "David Silva",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Испания"],
 		"clubs": [
 			"Valencia CF",
 			"Eibar (loan)",
 			"Manchester City",
 			"Real Sociedad"
 		],
-
 		"leagues": ["Ла Лига", "АПЛ"],
-
 		"coaches": [
 			"Rafa Benítez",
 			"Quique Sánchez Flores",
@@ -1321,7 +1119,6 @@
 			"Mikel Arteta",
 			"Imanol Alguacil"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Кубок Англии",
@@ -1331,21 +1128,18 @@
 			"Ла Лига",
 			"Кубок Испании"
 		],
-
+		"max_overall": 89,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 176635,
 		"name": "Mesut Özil",
 		"short_name": "M. Özil",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Германия"],
 		"clubs": [
 			"Schalke 04",
 			"Werder Bremen",
@@ -1354,9 +1148,7 @@
 			"Fenerbahçe",
 			"İstanbul Başakşehir"
 		],
-
 		"leagues": ["Бундеслига", "Ла Лига", "АПЛ", "Турецкая Суперлига"],
-
 		"coaches": [
 			"Thomas Schaaf",
 			"José Mourinho",
@@ -1366,7 +1158,6 @@
 			"Unai Emery",
 			"Mikel Arteta"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Кубок Испании",
@@ -1375,25 +1166,20 @@
 			"Кубок Германии",
 			"Суперкубок Англии"
 		],
-
+		"max_overall": 89,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 178603,
 		"name": "Mats Hummels",
 		"short_name": "M. Hummels",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Германия"],
 		"clubs": ["FC Bayern München", "Borussia Dortmund", "AS Roma"],
-
 		"leagues": ["Бундеслига", "Серия А"],
-
 		"coaches": [
 			"Jürgen Klopp",
 			"Louis van Gaal",
@@ -1403,28 +1189,24 @@
 			"Edin Terzić",
 			"José Mourinho "
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Кубок Германии",
 			"Суперкубок Германии",
 			"Чемпион мира"
 		],
-
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 179813,
 		"name": "Edinson Roberto Cavani Gómez",
 		"short_name": "E. Cavani",
 		"role": "player",
-
-		"nationality": "Уругвай",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Уругвай"],
 		"clubs": [
 			"Danubio",
 			"Palermo",
@@ -1434,7 +1216,6 @@
 			"Valencia",
 			"Boca Juniors"
 		],
-
 		"leagues": [
 			"Уругвайская Примера",
 			"Серия А",
@@ -1443,7 +1224,6 @@
 			"Ла Лига",
 			"Аргентинская Примера"
 		],
-
 		"coaches": [
 			"Walter Mazzarri",
 			"Rafa Benítez",
@@ -1454,7 +1234,6 @@
 			"Erik ten Hag",
 			"Gennaro Gattuso"
 		],
-
 		"trophies": [
 			"Лига 1",
 			"АПЛ",
@@ -1464,21 +1243,18 @@
 			"Кубок Италии",
 			"Суперкубок Франции"
 		],
-
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 184941,
 		"name": "Alexis Alejandro Sánchez Sánchez",
 		"short_name": "A. Sánchez",
 		"role": "player",
-
-		"nationality": "Чили",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Чили"],
 		"clubs": [
 			"Cobreloa",
 			"River Plate",
@@ -1490,7 +1266,6 @@
 			"Olympique de Marseille",
 			"Sevilla"
 		],
-
 		"leagues": [
 			"Чилийская Примера",
 			"Аргентинская Примера",
@@ -1499,7 +1274,6 @@
 			"АПЛ",
 			"Лига 1"
 		],
-
 		"coaches": [
 			"Marcelo Bielsa",
 			"Alberto Zaccheroni",
@@ -1512,7 +1286,6 @@
 			"Luciano Spalletti",
 			"Rudi Garcia"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"АПЛ",
@@ -1522,25 +1295,20 @@
 			"Кубок Испании",
 			"Кубок конфедераций"
 		],
-
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 189511,
 		"name": "Sergio Busquets i Burgos",
 		"short_name": "Sergio Busquets",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Испания"],
 		"clubs": ["FC Barcelona", "Inter Miami CF"],
-
 		"leagues": ["Ла Лига", "MLS"],
-
 		"coaches": [
 			"Pep Guardiola",
 			"Tito Vilanova",
@@ -1551,7 +1319,6 @@
 			"Ronald Koeman",
 			"Xavi Hernández"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Лига Чемпионов",
@@ -1561,30 +1328,25 @@
 			"Евро",
 			"Чемпион мира"
 		],
-
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 194765,
 		"name": "Antoine Griezmann",
 		"short_name": "A. Griezmann",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Франция"],
 		"clubs": [
 			"Real Sociedad",
 			"Atlético Madrid",
 			"FC Barcelona",
 			"Orlando City"
 		],
-
 		"leagues": ["Ла Лига", "MLS"],
-
 		"coaches": [
 			"Philippe Montanier",
 			"Diego Simeone",
@@ -1593,7 +1355,6 @@
 			"Quique Setién",
 			"Ronald Koeman"
 		],
-
 		"trophies": [
 			"Лига Европы",
 			"Суперкубок УЕФА",
@@ -1602,21 +1363,18 @@
 			"Кубок мира",
 			"Лига наций УЕФА"
 		],
-
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 197781,
 		"name": "Francisco Román Alarcón Suárez",
 		"short_name": "Isco",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Испания"],
 		"clubs": [
 			"Valencia CF",
 			"Málaga CF",
@@ -1624,9 +1382,7 @@
 			"Sevilla FC",
 			"Real Betis"
 		],
-
 		"leagues": ["Ла Лига"],
-
 		"coaches": [
 			"Unai Emery",
 			"Manuel Pellegrini",
@@ -1636,7 +1392,6 @@
 			"Julen Lopetegui",
 			"Ernesto Valverde"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Лига Чемпионов",
@@ -1644,21 +1399,18 @@
 			"Суперкубок Испании",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 200104,
 		"name": "Son Heung-min",
 		"short_name": "H. Son",
 		"role": "player",
-
-		"nationality": "Южная Корея",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Южная Корея"],
 		"clubs": [
 			"FC Seoul",
 			"Hamburger SV",
@@ -1666,9 +1418,7 @@
 			"Tottenham Hotspur",
 			"Los Angeles FC"
 		],
-
 		"leagues": ["K League 1", "Бундеслига", "АПЛ", "MLS"],
-
 		"coaches": [
 			"Roger Schmidt",
 			"André Villas-Boas",
@@ -1677,27 +1427,21 @@
 			"Antonio Conte",
 			"Ange Postecoglou"
 		],
-
 		"trophies": ["Лига Европы"],
-
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 200145,
 		"name": "Carlos Henrique Venancio Casimiro",
 		"short_name": "Casemiro",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Бразилия"],
 		"clubs": ["São Paulo", "Real Madrid", "FC Porto", "Manchester United"],
-
 		"leagues": ["Бразильская Серия A", "Ла Лига", "Примейра-лига", "АПЛ"],
-
 		"coaches": [
 			"Muricy Ramalho",
 			"José Mourinho",
@@ -1711,7 +1455,6 @@
 			"Ruben Amorim",
 			"Michael Carrick"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Лига Чемпионов",
@@ -1720,23 +1463,19 @@
 			"АПЛ",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 201024,
 		"name": "Kalidou Koulibaly",
 		"short_name": "K. Koulibaly",
 		"role": "player",
-
-		"nationality": "Сенегал",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Сенегал"],
 		"clubs": ["Metz", "KRC Genk", "Napoli", "Chelsea", "Al Hilal"],
-
 		"leagues": [
 			"Лига 1",
 			"Бельгийская Про-лига",
@@ -1744,7 +1483,6 @@
 			"АПЛ",
 			"Саудовская Про-лига"
 		],
-
 		"coaches": [
 			"Claudio Ranieri",
 			"Rafael Benítez",
@@ -1757,28 +1495,24 @@
 			"Mauricio Pochettino",
 			"Jorge Jesus"
 		],
-
 		"trophies": [
 			"Кубок Италии",
 			"Суперкубок Италии",
 			"АПЛ",
 			"Саудовская Про-лига"
 		],
-
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 210257,
 		"name": "Ederson Santana de Moraes",
 		"short_name": "Ederson",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Бразилия"],
 		"clubs": [
 			"São Paulo",
 			"Rio Ave",
@@ -1786,16 +1520,13 @@
 			"Manchester City",
 			"Fenerbahçe"
 		],
-
 		"leagues": [
 			"Бразильская Серия A",
 			"Примейра-лига",
 			"АПЛ",
 			"Турецкая Суперлига"
 		],
-
 		"coaches": ["Rui Vitória", "Nuno Espírito Santo", "Pep Guardiola"],
-
 		"trophies": [
 			"АПЛ",
 			"Лига Чемпионов",
@@ -1804,25 +1535,20 @@
 			"Суперкубок Англии",
 			"Примейра-лига"
 		],
-
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 211110,
 		"name": "Paulo Bruno Exequiel Dybala",
 		"short_name": "P. Dybala",
 		"role": "player",
-
-		"nationality": "Аргентина",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Аргентина"],
 		"clubs": ["Instituto ACC", "Palermo", "Juventus", "Roma"],
-
 		"leagues": ["Аргентинская Примера", "Серия А"],
-
 		"coaches": [
 			"Gustavo Zapata",
 			"Gian Piero Gasperini",
@@ -1832,32 +1558,26 @@
 			"Maurizio Sarri",
 			"José Mourinho"
 		],
-
 		"trophies": [
 			"Серия А",
 			"Кубок Италии",
 			"Суперкубок Италии",
 			"Лига наций CONMEBOL"
 		],
-
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 212622,
 		"name": "Joshua Walter Kimmich",
 		"short_name": "J. Kimmich",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Германия"],
 		"clubs": ["RB Leipzig", "FC Bayern München"],
-
 		"leagues": ["Бундеслига"],
-
 		"coaches": [
 			"Ralf Rangnick",
 			"Pep Guardiola",
@@ -1869,7 +1589,6 @@
 			"Thomas Tuchel",
 			"Vincent Kompany"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Лига Чемпионов",
@@ -1877,25 +1596,20 @@
 			"Суперкубок Германии",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 230621,
 		"name": "Gianluigi Donnarumma",
 		"short_name": "G. Donnarumma",
 		"role": "player",
-
-		"nationality": "Италия",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Италия"],
 		"clubs": ["AC Milan", "Paris Saint-Germain", "Manchester City"],
-
 		"leagues": ["Серия А", "Лига 1", "АПЛ"],
-
 		"coaches": [
 			"Sinisa Mihajlovic",
 			"Vincenzo Montella",
@@ -1907,7 +1621,6 @@
 			"Luis Enrique",
 			"Pep Guardiola"
 		],
-
 		"trophies": [
 			"Евро",
 			"Лига 1",
@@ -1916,27 +1629,21 @@
 			"Кубок Англии",
 			"Кубок Футбольной лиги"
 		],
-
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 231866,
 		"name": "Rodrigo Hernández Cascante",
 		"short_name": "Rodri",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-		"max_overall": 89,
-
+		"nationality": ["Испания"],
 		"clubs": ["Villarreal", "Atlético Madrid", "Manchester City"],
-
 		"leagues": ["Ла Лига", "АПЛ"],
-
 		"coaches": ["Marcelino García Toral", "Diego Simeone", "Pep Guardiola"],
-
 		"trophies": [
 			"Ла Лига",
 			"АПЛ",
@@ -1945,26 +1652,20 @@
 			"Суперкубок Англии",
 			"Кубок Испании"
 		],
-
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": true,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 238794,
 		"name": "Vinícius José Paixão de Oliveira Júnior",
 		"short_name": "Vini Jr.",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 89,
-
+		"nationality": ["Бразилия"],
 		"clubs": ["Flamengo", "Real Madrid"],
-
 		"leagues": ["Бразильская Серия A", "Ла Лига"],
-
 		"coaches": [
 			"Zé Ricardo",
 			"Reinaldo Rueda",
@@ -1976,7 +1677,6 @@
 			"Alvaro Arbeloa",
 			"José Mourinho"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Лига Чемпионов",
@@ -1984,28 +1684,21 @@
 			"Кубок Испании",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 239818,
 		"name": "Rúben dos Santos Gato Alves Dias",
 		"short_name": "Rúben Dias",
 		"role": "player",
-
-		"nationality": "Португалия",
-		"nationality_valid": true,
-
-		"max_overall": 89,
-
+		"nationality": ["Португалия"],
 		"clubs": ["Benfica", "Manchester City"],
-
 		"leagues": ["Примейра-лига", "АПЛ"],
-
 		"coaches": ["Rui Vitória", "Bruno Lage", "Pep Guardiola"],
-
 		"trophies": [
 			"Примейра-лига",
 			"АПЛ",
@@ -2014,33 +1707,26 @@
 			"Кубок Лиги Англии",
 			"Суперкубок Англии"
 		],
-
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 7826,
 		"name": "Robin van Persie",
 		"short_name": "R. van Persie",
 		"role": "player",
-
-		"nationality": "Нидерланды",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Нидерланды"],
 		"clubs": ["Feyenoord", "Arsenal", "Manchester United", "Fenerbahçe"],
-
 		"leagues": ["Эредивизи", "АПЛ", "Турецкая Суперлига"],
-
 		"coaches": [
 			"Arsène Wenger",
 			"Alex Ferguson",
 			"Dick Advocaat",
 			"Erwin Koeman"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Эредивизи",
@@ -2048,26 +1734,20 @@
 			"Суперкубок Англии",
 			"Суперкубок Нидерландов"
 		],
-
+		"max_overall": 88,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 48940,
 		"name": "Petr Čech",
 		"short_name": "P. Čech",
 		"role": "player",
-
-		"nationality": "Чехия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Чехия"],
 		"clubs": ["Sparta Praha", "Rennes", "Chelsea", "Arsenal"],
-
 		"leagues": ["Чешская лига", "Лига 1", "АПЛ"],
-
 		"coaches": [
 			"Claudio Ranieri",
 			"José Mourinho",
@@ -2076,7 +1756,6 @@
 			"Roberto Di Matteo",
 			"Arsène Wenger"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Лига Чемпионов",
@@ -2085,26 +1764,20 @@
 			"Суперкубок Англии",
 			"Кубок Франции"
 		],
-
+		"max_overall": 88,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 120533,
 		"name": "Kléper Laveran de Lima Ferreira",
 		"short_name": "Pepe",
 		"role": "player",
-
-		"nationality": "Португалия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Португалия"],
 		"clubs": ["Marítimo", "Porto", "Real Madrid", "Beşiktaş"],
-
 		"leagues": ["Примейра-лига", "Ла Лига", "Турецкая Суперлига"],
-
 		"coaches": [
 			"José Mourinho",
 			"Manuel Pellegrini",
@@ -2113,7 +1786,6 @@
 			"Julen Lopetegui",
 			"Sérgio Conceição"
 		],
-
 		"trophies": [
 			"Примейра-лига",
 			"Ла Лига",
@@ -2123,26 +1795,20 @@
 			"Суперкубок Испании",
 			"Суперкубок Португалии"
 		],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 121939,
 		"name": "Philipp Lahm",
 		"short_name": "P. Lahm",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Германия"],
 		"clubs": ["FC Bayern München", "VfB Stuttgart"],
-
 		"leagues": ["Бундеслига"],
-
 		"coaches": [
 			"Felix Magath",
 			"Jürgen Klinsmann",
@@ -2150,7 +1816,6 @@
 			"Jupp Heynckes",
 			"Pep Guardiola"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Лига Чемпионов",
@@ -2159,26 +1824,20 @@
 			"Клубный чемпионат мира",
 			"Чемпионат мира"
 		],
-
+		"max_overall": 88,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 121944,
 		"name": "Bastian Schweinsteiger",
 		"short_name": "B. Schweinsteiger",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Германия"],
 		"clubs": ["FC Bayern München", "Manchester United", "Chicago Fire"],
-
 		"leagues": ["Бундеслига", "АПЛ", "MLS"],
-
 		"coaches": [
 			"Ottmar Hitzfeld",
 			"Louis van Gaal",
@@ -2188,7 +1847,6 @@
 			"Louis van Gaal (Man United)",
 			"José Mourinho"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Лига Чемпионов",
@@ -2199,26 +1857,20 @@
 			"Кубок Англии",
 			"MLS"
 		],
-
+		"max_overall": 88,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 152729,
 		"name": "Gerard Piqué Bernabéu",
 		"short_name": "Piqué",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Испания"],
 		"clubs": ["Manchester United", "Real Zaragoza", "FC Barcelona"],
-
 		"leagues": ["АПЛ", "Ла Лига"],
-
 		"coaches": [
 			"Sir Alex Ferguson",
 			"Rafael Benítez",
@@ -2231,7 +1883,6 @@
 			"Quique Setién",
 			"Ronald Koeman"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Лига Чемпионов",
@@ -2240,22 +1891,18 @@
 			"Чемпионат мира",
 			"Чемпионат Европы"
 		],
-
+		"max_overall": 88,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 156616,
 		"name": "Franck Bilal Ribéry",
 		"short_name": "F. Ribéry",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Франция"],
 		"clubs": [
 			"US Boulogne",
 			"Galatasaray",
@@ -2264,9 +1911,7 @@
 			"Fiorentina",
 			"Salernitana"
 		],
-
 		"leagues": ["Лига 1", "Суперлига Турции", "Бундеслига", "Серия А"],
-
 		"coaches": [
 			"Jean Fernandez",
 			"Didier Deschamps",
@@ -2280,7 +1925,6 @@
 			"Hans-Dieter Flick",
 			"Vicenzo Italiano"
 		],
-
 		"trophies": [
 			"Лига Чемпионов",
 			"Бундеслига",
@@ -2289,26 +1933,20 @@
 			"Серия А",
 			"Кубок Франции"
 		],
-
+		"max_overall": 88,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 162835,
 		"name": "Samir Handanovič",
 		"short_name": "S. Handanovič",
 		"role": "player",
-
-		"nationality": "Словения",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Словения"],
 		"clubs": ["Domžale", "Udinese", "Inter"],
-
 		"leagues": ["Словенская лига", "Серия А"],
-
 		"coaches": [
 			"Giovanni Galeone",
 			"Pasquale Marino",
@@ -2316,24 +1954,19 @@
 			"Antonio Conte",
 			"Simone Inzaghi"
 		],
-
 		"trophies": ["Серия А", "Кубок Италии", "Суперкубок Италии"],
-
+		"max_overall": 88,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 167397,
 		"name": "Radamel Falcao García Zárate",
 		"short_name": "Falcao",
 		"role": "player",
-
-		"nationality": "Колумбия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Колумбия"],
 		"clubs": [
 			"Lanceros Boyacá",
 			"River Plate",
@@ -2345,7 +1978,6 @@
 			"Galatasaray",
 			"Rayo Vallecano"
 		],
-
 		"leagues": [
 			"Колумбийская Примера B",
 			"Аргентинская Примера",
@@ -2355,7 +1987,6 @@
 			"АПЛ",
 			"Турецкая Суперлига"
 		],
-
 		"coaches": [
 			"Reinaldo Rueda",
 			"Diego Simeone",
@@ -2365,7 +1996,6 @@
 			"José Mourinho",
 			"Louis van Gaal"
 		],
-
 		"trophies": [
 			"Лига Европы",
 			"Суперкубок УЕФА",
@@ -2374,31 +2004,25 @@
 			"Примейра-лига",
 			"Кубок Испании"
 		],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 167948,
 		"name": "Hugo Lloris",
 		"short_name": "H. Lloris",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Франция"],
 		"clubs": [
 			"OGC Nice",
 			"Olympique Lyonnais",
 			"Tottenham Hotspur",
 			"Los Angeles FC"
 		],
-
 		"leagues": ["Лига 1", "АПЛ", "MLS"],
-
 		"coaches": [
 			"Frédéric Antonetti",
 			"Claude Puel",
@@ -2410,28 +2034,21 @@
 			"Antonio Conte",
 			"Ange Postecoglou"
 		],
-
 		"trophies": ["Лига 1", "Суперкубок Франции", "Чемпион мира"],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 176676,
 		"name": "Marcelo Vieira da Silva Júnior",
 		"short_name": "Marcelo",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Бразилия"],
 		"clubs": ["Fluminense", "Real Madrid", "Olympiacos", "Fluminense"],
-
 		"leagues": ["Бразильская Серия A", "Ла Лига", "Суперлига Греции"],
-
 		"coaches": [
 			"Carlos Alberto Parreira",
 			"Mano Menezes",
@@ -2443,7 +2060,6 @@
 			"Julen Lopetegui",
 			"Manuel Pellegrini"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Лига Чемпионов",
@@ -2452,22 +2068,18 @@
 			"Клубный чемпионат мира",
 			"Серия А Греции"
 		],
-
+		"max_overall": 88,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 184344,
 		"name": "Leonardo Bonucci",
 		"short_name": "L. Bonucci",
 		"role": "player",
-
-		"nationality": "Италия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Италия"],
 		"clubs": [
 			"Inter Milan",
 			"Treviso",
@@ -2478,9 +2090,7 @@
 			"Fenerbahçe",
 			"Union Berlin"
 		],
-
 		"leagues": ["Серия А", "Турецкая Суперлига", "Бундеслига"],
-
 		"coaches": [
 			"Antonio Conte",
 			"Massimiliano Allegri",
@@ -2489,7 +2099,6 @@
 			"Carlo Ancelotti",
 			"Luciano Spalletti"
 		],
-
 		"trophies": [
 			"Серия А",
 			"Кубок Италии",
@@ -2497,31 +2106,25 @@
 			"Серия B",
 			"Евро"
 		],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 188350,
 		"name": "Marco Reus",
 		"short_name": "M. Reus",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Германия"],
 		"clubs": [
 			"Rot Weiss Ahlen",
 			"Borussia Mönchengladbach",
 			"Borussia Dortmund",
 			"LA Galaxy"
 		],
-
 		"leagues": ["Региональная лига Германии", "Бундеслига", "MLS"],
-
 		"coaches": [
 			"Jürgen Klopp",
 			"Lucien Favre",
@@ -2531,24 +2134,19 @@
 			"Edin Terzić",
 			"Marco Rose"
 		],
-
 		"trophies": ["Бундеслига", "Кубок Германии", "Суперкубок Германии"],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 188567,
 		"name": "Pierre-Emerick Aubameyang",
 		"short_name": "P. Aubameyang",
 		"role": "player",
-
-		"nationality": "Габон",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Габон"],
 		"clubs": [
 			"AC Milan",
 			"Dijon",
@@ -2562,7 +2160,6 @@
 			"Olympique de Marseille",
 			"Al-Qadsiah"
 		],
-
 		"leagues": [
 			"Серия А",
 			"Лига 1",
@@ -2571,7 +2168,6 @@
 			"Ла Лига",
 			"Саудовская Про-лига"
 		],
-
 		"coaches": [
 			"Carlo Ancelotti",
 			"Walter Mazzarri",
@@ -2583,7 +2179,6 @@
 			"Mikel Arteta",
 			"Xavi"
 		],
-
 		"trophies": [
 			"Кубок Англии",
 			"Суперкубок Англии",
@@ -2591,22 +2186,18 @@
 			"Суперкубок Испании",
 			"Суперкубок Германии"
 		],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 189242,
 		"name": "Philippe Coutinho Correia",
 		"short_name": "Coutinho",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Бразилия"],
 		"clubs": [
 			"Vasco da Gama",
 			"Inter Milan",
@@ -2617,7 +2208,6 @@
 			"Aston Villa",
 			"Al-Duhail"
 		],
-
 		"leagues": [
 			"Бразильская Серия A",
 			"Серия А",
@@ -2626,7 +2216,6 @@
 			"АПЛ",
 			"Катарская лига"
 		],
-
 		"coaches": [
 			"Rafael Benítez",
 			"Roy Hodgson",
@@ -2637,7 +2226,6 @@
 			"Hansi Flick",
 			"Steven Gerrard"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Бундеслига",
@@ -2646,26 +2234,20 @@
 			"Клубный чемпионат мира",
 			"Лига Чемпионов"
 		],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 189509,
 		"name": "Thiago Alcântara do Nascimento",
 		"short_name": "Thiago",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Испания"],
 		"clubs": ["FC Barcelona", "FC Bayern München", "Liverpool"],
-
 		"leagues": ["Ла Лига", "Бундеслига", "АПЛ"],
-
 		"coaches": [
 			"Pep Guardiola",
 			"Jupp Heynckes",
@@ -2674,7 +2256,6 @@
 			"Hansi Flick",
 			"Jürgen Klopp"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Бундеслига",
@@ -2684,22 +2265,18 @@
 			"Кубок Германии",
 			"Суперкубок УЕФА"
 		],
-
+		"max_overall": 88,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 190460,
 		"name": "Christian Dannemann Eriksen",
 		"short_name": "C. Eriksen",
 		"role": "player",
-
-		"nationality": "Дания",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Дания"],
 		"clubs": [
 			"Ajax",
 			"Tottenham Hotspur",
@@ -2708,9 +2285,7 @@
 			"Manchester United",
 			"Wolfsburg"
 		],
-
 		"leagues": ["Эредивизи", "АПЛ", "Серия А", "Бундеслига"],
-
 		"coaches": [
 			"Frank de Boer",
 			"Peter Bosz",
@@ -2719,24 +2294,19 @@
 			"Ralf Rangnick",
 			"Erik ten Hag"
 		],
-
 		"trophies": ["Эредивизи", "Серия А", "Кубок Англии", "Суперкубок Англии"],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 192505,
 		"name": "Romelu Lukaku Menama",
 		"short_name": "R. Lukaku",
 		"role": "player",
-
-		"nationality": "Бельгия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Бельгия"],
 		"clubs": [
 			"Anderlecht",
 			"Chelsea",
@@ -2747,9 +2317,7 @@
 			"Roma",
 			"Napoli"
 		],
-
 		"leagues": ["Бельгийская Про-лига", "АПЛ", "Серия А"],
-
 		"coaches": [
 			"Frank Lampard",
 			"José Mourinho",
@@ -2758,24 +2326,19 @@
 			"Antonio Conte",
 			"Simone Inzaghi"
 		],
-
 		"trophies": ["Серия А", "АПЛ", "Суперкубок Италии", "Кубок Англии"],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 193041,
 		"name": "Keylor Navas Gamboa",
 		"short_name": "K. Navas",
 		"role": "player",
-
-		"nationality": "Коста-Рика",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Коста-Рика"],
 		"clubs": [
 			"Saprissa",
 			"Albacete",
@@ -2786,7 +2349,6 @@
 			"Newell's Old Boys",
 			"UNAM Pumas"
 		],
-
 		"leagues": [
 			"Костариканская лига",
 			"Сегунда",
@@ -2796,7 +2358,6 @@
 			"Аргентинская Примера",
 			"Лига МХ"
 		],
-
 		"coaches": [
 			"Joaquín Caparrós",
 			"Juan Ignacio Martínez",
@@ -2806,7 +2367,6 @@
 			"Mauricio Pochettino",
 			"Steve Cooper"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Лига Чемпионов",
@@ -2815,22 +2375,18 @@
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 195864,
 		"name": "Paul Pogba",
 		"short_name": "P. Pogba",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Франция"],
 		"clubs": [
 			"Le Havre",
 			"Manchester United",
@@ -2838,9 +2394,7 @@
 			"Manchester United",
 			"AS Monaco"
 		],
-
 		"leagues": ["Лига 2 Франции", "АПЛ", "Серия А"],
-
 		"coaches": [
 			"Sir Alex Ferguson",
 			"David Moyes",
@@ -2850,7 +2404,6 @@
 			"Antonio Conte",
 			"Didier Deschamps"
 		],
-
 		"trophies": [
 			"Лига Европы",
 			"Серия А",
@@ -2859,26 +2412,20 @@
 			"Кубок Лиги Франции",
 			"Чемпион мира"
 		],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 198219,
 		"name": "Lorenzo Insigne",
 		"short_name": "L. Insigne",
 		"role": "player",
-
-		"nationality": "Италия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Италия"],
 		"clubs": ["Napoli", "Foggia", "Pescara", "Toronto FC"],
-
 		"leagues": ["Серия А", "Серия B", "MLS"],
-
 		"coaches": [
 			"Walter Mazzarri",
 			"Rafael Benítez",
@@ -2888,24 +2435,19 @@
 			"Luciano Spalletti",
 			"Bob Bradley"
 		],
-
 		"trophies": ["Кубок Италии", "Суперкубок Италии", "Чемпион Европы"],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 198710,
 		"name": "James David Rodríguez Rubio",
 		"short_name": "J. Rodríguez",
 		"role": "player",
-
-		"nationality": "Колумбия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Колумбия"],
 		"clubs": [
 			"Envigado",
 			"Banfield",
@@ -2919,7 +2461,6 @@
 			"León",
 			"Minnesota United"
 		],
-
 		"leagues": [
 			"Колумбийская Примера A",
 			"Аргентинская Примера",
@@ -2933,7 +2474,6 @@
 			"Лига MX",
 			"MLS"
 		],
-
 		"coaches": [
 			"Carlos Queiroz",
 			"José Pekerman",
@@ -2944,7 +2484,6 @@
 			"Niko Kovač",
 			"Marcelo Gallardo"
 		],
-
 		"trophies": [
 			"Лига Чемпионов",
 			"Ла Лига",
@@ -2953,22 +2492,18 @@
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 202652,
 		"name": "Raheem Sterling",
 		"short_name": "R. Sterling",
 		"role": "player",
-
-		"nationality": "Англия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Англия"],
 		"clubs": [
 			"Queens Park Rangers",
 			"Liverpool",
@@ -2977,9 +2512,7 @@
 			"Arsenal",
 			"Feyenoord"
 		],
-
 		"leagues": ["АПЛ", "Эредивизи"],
-
 		"coaches": [
 			"Brendan Rodgers",
 			"Jürgen Klopp",
@@ -2989,33 +2522,26 @@
 			"Mauricio Pochettino",
 			"Mikel Arteta"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Кубок Англии",
 			"Кубок Лиги Англии",
 			"Суперкубок Англии"
 		],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 207865,
 		"name": "Marcos Aoás Corrêa",
 		"short_name": "Marquinhos",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Бразилия"],
 		"clubs": ["Corinthians", "Roma", "Paris Saint-Germain"],
-
 		"leagues": ["Бразильская Серия A", "Серия A", "Лига 1"],
-
 		"coaches": [
 			"Tite",
 			"Claudio Ranieri",
@@ -3026,30 +2552,26 @@
 			"Christophe Galtier",
 			"Luis Enrique"
 		],
-
 		"trophies": [
 			"Лига 1",
 			"Кубок Франции",
 			"Суперкубок Франции",
 			"Кубок Италии",
-			"Серия A"
+			"Серия A",
+			"ЛЧ"
 		],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 210514,
 		"name": "João Pedro Cavaco Cancelo",
 		"short_name": "João Cancelo",
 		"role": "player",
-
-		"nationality": "Португалия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Португалия"],
 		"clubs": [
 			"Barreirense",
 			"Benfica",
@@ -3061,7 +2583,6 @@
 			"Barcelona",
 			"Al Hilal"
 		],
-
 		"leagues": [
 			"Примейра-лига",
 			"Ла Лига",
@@ -3070,7 +2591,6 @@
 			"Бундеслига",
 			"Саудовская Про-лига"
 		],
-
 		"coaches": [
 			"Nuno Espírito Santo",
 			"Marcelino",
@@ -3082,7 +2602,6 @@
 			"Xavi",
 			"Hansi Flick"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Бундеслига",
@@ -3091,22 +2610,18 @@
 			"Суперкубок УЕФА",
 			"Кубок Англии"
 		],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 212198,
 		"name": "Bruno Miguel Borges Fernandes",
 		"short_name": "Bruno Fernandes",
 		"role": "player",
-
-		"nationality": "Португалия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Португалия"],
 		"clubs": [
 			"Boavista",
 			"Novara",
@@ -3115,9 +2630,7 @@
 			"Sporting CP",
 			"Manchester United"
 		],
-
 		"leagues": ["Примейра-лига", "Серия A", "АПЛ"],
-
 		"coaches": [
 			"Giuseppe Iachini",
 			"Sinisa Mihajlovic",
@@ -3131,35 +2644,27 @@
 			"Ruben Amorim",
 			"Michael Carrick"
 		],
-
 		"trophies": [
 			"Кубок Португалии",
 			"Кубок Лиги Португалии",
 			"АПЛ",
 			"Кубок Англии"
 		],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 218667,
 		"name": "Bernardo Mota Veiga de Carvalho e Silva",
 		"short_name": "Bernardo Silva",
 		"role": "player",
-
-		"nationality": "Португалия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Португалия"],
 		"clubs": ["Benfica", "Monaco", "Manchester City"],
-
 		"leagues": ["Примейра-лига", "Лига 1", "АПЛ"],
-
 		"coaches": ["Jorge Jesus", "Leonardo Jardim", "Pep Guardiola"],
-
 		"trophies": [
 			"АПЛ",
 			"Лига 1",
@@ -3167,22 +2672,18 @@
 			"Кубок Лиги Англии",
 			"Суперкубок Англии"
 		],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 232293,
 		"name": "Victor James Osimhen",
 		"short_name": "V. Osimhen",
 		"role": "player",
-
-		"nationality": "Нигерия",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Нигерия"],
 		"clubs": [
 			"Ultimate Strikers Academy",
 			"VfL Wolfsburg",
@@ -3191,7 +2692,6 @@
 			"Napoli",
 			"Galatasaray"
 		],
-
 		"leagues": [
 			"Нигерийская лига",
 			"Бундеслига",
@@ -3200,7 +2700,6 @@
 			"Серия А",
 			"Суперлига Турции"
 		],
-
 		"coaches": [
 			"Emmanuel Amuneke",
 			"Felice Mazzù",
@@ -3210,28 +2709,21 @@
 			"Rudi Garcia",
 			"Antonio Conte"
 		],
-
 		"trophies": ["Лига 1", "Серия А", "Суперкубок Италии"],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 239053,
 		"name": "Federico Santiago Valverde Dipetta",
 		"short_name": "F. Valverde",
 		"role": "player",
-
-		"nationality": "Уругвай",
-		"nationality_valid": true,
-
-		"max_overall": 88,
-
+		"nationality": ["Уругвай"],
 		"clubs": ["Peñarol", "Real Madrid", "Deportivo de La Coruña"],
-
 		"leagues": ["Уругвайская Примера", "Ла Лига"],
-
 		"coaches": [
 			"Diego Aguirre",
 			"Zinédine Zidane",
@@ -3242,7 +2734,6 @@
 			"Xabi Alonso",
 			"Alvaro Arbeloa"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Лига Чемпионов",
@@ -3251,33 +2742,26 @@
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 88,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 135507,
 		"name": "Fernando Luiz Rosa",
 		"short_name": "Fernandinho",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Бразилия"],
 		"clubs": ["Atlético Paranaense", "Shakhtar Donetsk", "Manchester City"],
-
 		"leagues": ["Бразильская Серия A", "Премьер-лига Украины", "АПЛ"],
-
 		"coaches": [
 			"Mircea Lucescu",
 			"Roberto Mancini",
 			"Manuel Pellegrini",
 			"Pep Guardiola"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Кубок Англии",
@@ -3286,26 +2770,20 @@
 			"Премьер-лига Украины",
 			"Лига Европы"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 162895,
 		"name": "Francesc Fàbregas i Soler",
 		"short_name": "Cesc Fàbregas",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Испания"],
 		"clubs": ["FC Barcelona", "Arsenal", "Chelsea", "Monaco", "Como"],
-
 		"leagues": ["Ла Лига", "АПЛ", "Лига 1", "Серия B"],
-
 		"coaches": [
 			"Frank Rijkaard",
 			"Pep Guardiola",
@@ -3314,7 +2792,6 @@
 			"Antonio Conte",
 			"Thierry Henry"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"АПЛ",
@@ -3324,31 +2801,25 @@
 			"Чемпион мира",
 			"Чемпион Европы"
 		],
-
+		"max_overall": 87,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 168651,
 		"name": "Ivan Rakitić",
 		"short_name": "I. Rakitić",
 		"role": "player",
-
-		"nationality": "Хорватия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Хорватия"],
 		"clubs": ["FC Basel", "Schalke 04", "Sevilla", "FC Barcelona", "Al-Shabab"],
-
 		"leagues": [
 			"Суперлига Швейцарии",
 			"Бундеслига",
 			"Ла Лига",
 			"Саудовская Про-лига"
 		],
-
 		"coaches": [
 			"Thomas Schaaf",
 			"Manuel Pellegrini",
@@ -3359,7 +2830,6 @@
 			"Julen Lopetegui",
 			"Rudi Garcia"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Лига Европы",
@@ -3368,22 +2838,18 @@
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 171877,
 		"name": "Marek Hamšík",
 		"short_name": "M. Hamšík",
 		"role": "player",
-
-		"nationality": "Словакия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Словакия"],
 		"clubs": [
 			"Slovan Bratislava",
 			"Brescia",
@@ -3392,7 +2858,6 @@
 			"Trabzonspor",
 			"IFK Göteborg"
 		],
-
 		"leagues": [
 			"Словацкая лига",
 			"Серия B",
@@ -3401,7 +2866,6 @@
 			"Суперлига Турции",
 			"Аллсвенскан"
 		],
-
 		"coaches": [
 			"Dušan Uhrin",
 			"Giovanni Galeone",
@@ -3413,33 +2877,26 @@
 			"Gennaro Gattuso",
 			"Şenol Güneş"
 		],
-
 		"trophies": [
 			"Кубок Италии",
 			"Суперкубок Италии",
 			"Суперкубок Турции",
 			"Кубок Турции"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 172871,
 		"name": "Jan Bert Lieve Vertonghen",
 		"short_name": "J. Vertonghen",
 		"role": "player",
-
-		"nationality": "Бельгия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Бельгия"],
 		"clubs": ["Ajax", "Tottenham Hotspur", "Benfica", "Anderlecht"],
-
 		"leagues": ["Эредивизи", "АПЛ", "Примейра-лига", "Жюпиле Про Лига"],
-
 		"coaches": [
 			"Ronald Koeman",
 			"Martin Jol",
@@ -3448,28 +2905,21 @@
 			"José Mourinho",
 			"Roger Schmidt"
 		],
-
 		"trophies": ["Эредивизи", "АПЛ", "Кубок Нидерландов", "Кубок Португалии"],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 175943,
 		"name": "Dries Mertens",
 		"short_name": "D. Mertens",
 		"role": "player",
-
-		"nationality": "Бельгия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Бельгия"],
 		"clubs": ["AGOVV Apeldoorn", "Utrecht", "PSV", "Napoli", "Galatasaray"],
-
 		"leagues": ["Эредивизи", "Серия A", "Суперлига Турции"],
-
 		"coaches": [
 			"Ron Jans",
 			"Fred Rutten",
@@ -3481,29 +2931,24 @@
 			"Gennaro Gattuso",
 			"Okan Buruk"
 		],
-
 		"trophies": [
 			"Серия A",
 			"Суперкубок Италии",
 			"Кубок Турции",
 			"Суперкубок Турции"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 181872,
 		"name": "Arturo Erasmo Vidal Pardo",
 		"short_name": "A. Vidal",
 		"role": "player",
-
-		"nationality": "Чили",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Чили"],
 		"clubs": [
 			"Colo-Colo",
 			"Bayer Leverkusen",
@@ -3514,7 +2959,6 @@
 			"Flamengo",
 			"Athletico Paranaense"
 		],
-
 		"leagues": [
 			"Чилийская Примера",
 			"Бундеслига",
@@ -3522,7 +2966,6 @@
 			"Ла Лига",
 			"Бразильская Серия A"
 		],
-
 		"coaches": [
 			"Marcelo Bielsa",
 			"Claudio Borghi",
@@ -3534,7 +2977,6 @@
 			"Antonio Conte",
 			"Simone Inzaghi"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Серия A",
@@ -3544,22 +2986,18 @@
 			"Клубный чемпионат мира",
 			"Кубок Бразилии"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 183898,
 		"name": "Ángel Fabián Di María Hernández",
 		"short_name": "Á. Di María",
 		"role": "player",
-
-		"nationality": "Аргентина",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Аргентина"],
 		"clubs": [
 			"Rosario Central",
 			"Benfica",
@@ -3569,7 +3007,6 @@
 			"Juventus",
 			"Benfica"
 		],
-
 		"leagues": [
 			"Аргентинская Примера",
 			"Примейра-лига",
@@ -3578,7 +3015,6 @@
 			"Лига 1",
 			"Серия A"
 		],
-
 		"coaches": [
 			"Miguel Ángel Russo",
 			"Manuel Pellegrini",
@@ -3591,7 +3027,6 @@
 			"Massimiliano Allegri",
 			"Roger Schmidt"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"АПЛ",
@@ -3602,22 +3037,18 @@
 			"Клубный чемпионат мира",
 			"Кубок Португалии"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 184087,
 		"name": "Toby Albertine Maurits Alderweireld",
 		"short_name": "T. Alderweireld",
 		"role": "player",
-
-		"nationality": "Бельгия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Бельгия"],
 		"clubs": [
 			"Beerschot",
 			"Ajax",
@@ -3627,7 +3058,6 @@
 			"Al-Duhail",
 			"Royal Antwerp"
 		],
-
 		"leagues": [
 			"Жюпиле Про Лига",
 			"Эредивизи",
@@ -3635,7 +3065,6 @@
 			"АПЛ",
 			"Катарская Звёздная лига"
 		],
-
 		"coaches": [
 			"Ronald Koeman",
 			"Frank de Boer",
@@ -3645,7 +3074,6 @@
 			"Antonio Conte",
 			"Mark van Bommel"
 		],
-
 		"trophies": [
 			"Эредивизи",
 			"Ла Лига",
@@ -3654,26 +3082,20 @@
 			"Кубок Бельгии",
 			"Чемпион Катарской лиги"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 186153,
 		"name": "Wojciech Tomasz Szczęsny",
 		"short_name": "W. Szczęsny",
 		"role": "player",
-
-		"nationality": "Польша",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Польша"],
 		"clubs": ["Legia Warszawa", "Arsenal", "Roma", "Juventus", "Barcelona"],
-
 		"leagues": ["Экстракласа", "АПЛ", "Серия A", "Ла Лига"],
-
 		"coaches": [
 			"Arsène Wenger",
 			"Steve Bould",
@@ -3684,7 +3106,6 @@
 			"Xavi",
 			"Hansi Flick"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Серия A",
@@ -3693,22 +3114,18 @@
 			"Кубок Англии",
 			"Ла Лига"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 189332,
 		"name": "Jordi Alba Ramos",
 		"short_name": "Jordi Alba",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Испания"],
 		"clubs": [
 			"Hospitalet",
 			"Cornellà",
@@ -3716,9 +3133,7 @@
 			"FC Barcelona",
 			"Inter Miami"
 		],
-
 		"leagues": ["Сегунда B", "Ла Лига", "MLS"],
-
 		"coaches": [
 			"Unai Emery",
 			"Ronald Koeman",
@@ -3727,7 +3142,6 @@
 			"Xavi Hernández",
 			"Tata Martino"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Лига Чемпионов",
@@ -3737,26 +3151,20 @@
 			"Клубный чемпионат мира",
 			"MLS Supporters’ Shield"
 		],
-
+		"max_overall": 87,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 189596,
 		"name": "Thomas Müller",
 		"short_name": "T. Müller",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Германия"],
 		"clubs": ["FC Bayern München", "Vancouver Whitecaps"],
-
 		"leagues": ["Бундеслига", "MLS"],
-
 		"coaches": [
 			"Louis van Gaal",
 			"Jupp Heynckes",
@@ -3767,7 +3175,6 @@
 			"Julian Nagelsmann",
 			"Thomas Tuchel"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Кубок Германии",
@@ -3776,22 +3183,18 @@
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 192387,
 		"name": "Ciro Immobile",
 		"short_name": "C. Immobile",
 		"role": "player",
-
-		"nationality": "Италия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Италия"],
 		"clubs": [
 			"Sorrento",
 			"Juve Stabia",
@@ -3806,7 +3209,6 @@
 			"Bologna",
 			"Paris FC"
 		],
-
 		"leagues": [
 			"Серия C",
 			"Серия B",
@@ -3816,7 +3218,6 @@
 			"Суперлига Турции",
 			"Лига 2"
 		],
-
 		"coaches": [
 			"Zdeněk Zeman",
 			"Gian Piero Ventura",
@@ -3827,24 +3228,19 @@
 			"Simone Inzaghi",
 			"Maurizio Sarri"
 		],
-
 		"trophies": ["Серия B", "Суперкубок Италии", "Кубок Турции"],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 197445,
 		"name": "David Olatukunbo Alaba",
 		"short_name": "D. Alaba",
 		"role": "player",
-
-		"nationality": "Австрия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Австрия"],
 		"clubs": [
 			"SV Aspern",
 			"Austria Wien",
@@ -3852,9 +3248,7 @@
 			"TSG Hoffenheim",
 			"Real Madrid"
 		],
-
 		"leagues": ["Региональные лиги Австрии", "Бундеслига", "Ла Лига"],
-
 		"coaches": [
 			"Hermann Gerland",
 			"Louis van Gaal",
@@ -3865,7 +3259,6 @@
 			"Xabi Alonso",
 			"Alvaro Arbeloa"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Кубок Германии",
@@ -3874,26 +3267,20 @@
 			"Ла Лига",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 199556,
 		"name": "Marco Verratti",
 		"short_name": "M. Verratti",
 		"role": "player",
-
-		"nationality": "Италия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Италия"],
 		"clubs": ["Pescara", "Paris Saint-Germain", "Al-Arabi", "Al-Duhail"],
-
 		"leagues": ["Серия B", "Лига 1", "Катарская Звёздная лига"],
-
 		"coaches": [
 			"Zdeněk Zeman",
 			"Carlo Ancelotti",
@@ -3903,33 +3290,26 @@
 			"Mauricio Pochettino",
 			"Christophe Galtier"
 		],
-
 		"trophies": [
 			"Лига 1",
 			"Кубок Франции",
 			"Суперкубок Франции",
 			"Кубок лиги Франции"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 201399,
 		"name": "Mauro Emanuel Icardi Rivero",
 		"short_name": "M. Icardi",
 		"role": "player",
-
-		"nationality": "Аргентина",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Аргентина"],
 		"clubs": ["Sampdoria", "Inter", "Paris Saint-Germain", "Galatasaray"],
-
 		"leagues": ["Серия A", "Лига 1", "Суперлига Турции"],
-
 		"coaches": [
 			"Sinisa Mihajlovic",
 			"Walter Mazzarri",
@@ -3941,29 +3321,24 @@
 			"Mauricio Pochettino",
 			"Okan Buruk"
 		],
-
 		"trophies": [
 			"Серия A",
 			"Лига 1",
 			"Суперкубок Франции",
 			"Суперкубок Турции"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 201942,
 		"name": "Roberto Firmino Barbosa de Oliveira",
 		"short_name": "Roberto Firmino",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Бразилия"],
 		"clubs": [
 			"Figueirense",
 			"TSG Hoffenheim",
@@ -3971,7 +3346,6 @@
 			"Al Ahli Jeddah",
 			"Al-Sadd"
 		],
-
 		"leagues": [
 			"Серия B Бразилии",
 			"Бундеслига",
@@ -3979,7 +3353,6 @@
 			"Саудовская Про-лига",
 			"Катарская Звёздная лига"
 		],
-
 		"coaches": [
 			"Armin Veh",
 			"Markus Gisdol",
@@ -3988,7 +3361,6 @@
 			"Matthias Jaissle",
 			"Roberto Mancini"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Лига Чемпионов",
@@ -3997,26 +3369,20 @@
 			"Суперкубок Англии",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 205452,
 		"name": "Antonio Rüdiger",
 		"short_name": "A. Rüdiger",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Германия"],
 		"clubs": ["VfB Stuttgart", "Roma", "Chelsea", "Real Madrid"],
-
 		"leagues": ["Бундеслига", "Серия A", "АПЛ", "Ла Лига"],
-
 		"coaches": [
 			"Bruno Labbadia",
 			"Hannes Wolf",
@@ -4029,7 +3395,6 @@
 			"Alvaro Arbeloa",
 			"José Mourinho"
 		],
-
 		"trophies": [
 			"Серия A",
 			"АПЛ",
@@ -4039,26 +3404,20 @@
 			"Лига Чемпионов",
 			"Суперкубок УЕФА"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 205600,
 		"name": "Samuel Yves Umtiti",
 		"short_name": "S. Umtiti",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Франция"],
 		"clubs": ["Olympique Lyonnais", "FC Barcelona", "Lecce", "Lille"],
-
 		"leagues": ["Лига 1", "Ла Лига", "Серия A"],
-
 		"coaches": [
 			"Rémi Garde",
 			"Bruno Génésio",
@@ -4068,7 +3427,6 @@
 			"Xavi Hernández",
 			"Marco Baroni"
 		],
-
 		"trophies": [
 			"Лига 1",
 			"Кубок Франции",
@@ -4077,22 +3435,18 @@
 			"Кубок Испании",
 			"Чемпион мира"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 209499,
 		"name": "Fábio Henrique Tavares",
 		"short_name": "Fabinho",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Бразилия"],
 		"clubs": [
 			"Paulínia",
 			"Fluminense",
@@ -4102,7 +3456,6 @@
 			"Liverpool",
 			"Al-Ittihad"
 		],
-
 		"leagues": [
 			"Серия D Бразилии",
 			"Ла Лига",
@@ -4110,7 +3463,6 @@
 			"АПЛ",
 			"Саудовская Про-лига"
 		],
-
 		"coaches": [
 			"Zinedine Zidane",
 			"José Mourinho",
@@ -4120,7 +3472,6 @@
 			"Laurent Blanc",
 			"Rudi Garcia"
 		],
-
 		"trophies": [
 			"Лига Чемпионов",
 			"АПЛ",
@@ -4129,26 +3480,20 @@
 			"Кубок Англии",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 209658,
 		"name": "Leon Christoph Goretzka",
 		"short_name": "L. Goretzka",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Германия"],
 		"clubs": ["VfL Bochum", "Schalke 04", "FC Bayern München"],
-
 		"leagues": ["Бундеслига"],
-
 		"coaches": [
 			"Peter Neururer",
 			"Huub Stevens",
@@ -4160,7 +3505,6 @@
 			"Thomas Tuchel",
 			"Vincent Kompany"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Кубок Германии",
@@ -4169,36 +3513,30 @@
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 212218,
 		"name": "Aymeric Laporte",
 		"short_name": "A. Laporte",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Испания"],
 		"clubs": [
 			"Aviron Bayonnais",
 			"Athletic Club",
 			"Manchester City",
 			"Al-Nassr"
 		],
-
 		"leagues": [
 			"Французские региональные лиги",
 			"Ла Лига",
 			"АПЛ",
 			"Саудовская Про-лига"
 		],
-
 		"coaches": [
 			"Ernesto Valverde",
 			"Joaquín Caparrós",
@@ -4206,7 +3544,6 @@
 			"Mikel Arteta",
 			"Luis Castro"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Ла Лига",
@@ -4216,26 +3553,20 @@
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 215698,
 		"name": "Mike Maignan",
 		"short_name": "M. Maignan",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Франция"],
 		"clubs": ["Paris Saint-Germain", "Lille", "AC Milan"],
-
 		"leagues": ["Лига 1", "Серия A"],
-
 		"coaches": [
 			"Laurent Blanc",
 			"Unai Emery",
@@ -4243,24 +3574,19 @@
 			"Stefano Pioli",
 			"Sérgio Conceição"
 		],
-
 		"trophies": ["Лига 1", "Серия A", "Суперкубок Италии"],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 216267,
 		"name": "Andrew Robertson",
 		"short_name": "A. Robertson",
 		"role": "player",
-
-		"nationality": "Шотландия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Шотландия"],
 		"clubs": [
 			"Queen's Park",
 			"Dundee United",
@@ -4268,9 +3594,7 @@
 			"Liverpool",
 			"Tottenham Hotspur"
 		],
-
 		"leagues": ["Шотландская Лига 2", "Шотландский Чемпионшип", "АПЛ"],
-
 		"coaches": [
 			"Jackie McNamara",
 			"Robbie Neilson",
@@ -4279,7 +3603,6 @@
 			"Arne Slot",
 			"Roberto De Zerbi"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Лига Чемпионов",
@@ -4288,22 +3611,18 @@
 			"Суперкубок Англии",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 222665,
 		"name": "Martin Ødegaard",
 		"short_name": "M. Ødegaard",
 		"role": "player",
-
-		"nationality": "Норвегия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Норвегия"],
 		"clubs": [
 			"Strømsgodset",
 			"Real Madrid",
@@ -4312,9 +3631,7 @@
 			"Real Sociedad",
 			"Arsenal"
 		],
-
 		"leagues": ["Элитсериен", "Ла Лига", "Эредивизи", "АПЛ"],
-
 		"coaches": [
 			"Tor Ole Skullerud",
 			"Zinedine Zidane",
@@ -4322,28 +3639,21 @@
 			"Imanol Alguacil",
 			"Mikel Arteta"
 		],
-
 		"trophies": ["Ла Лига", "Кубок Испании", "Суперкубок Испании", "АПЛ"],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 228702,
 		"name": "Frenkie de Jong",
 		"short_name": "F. de Jong",
 		"role": "player",
-
-		"nationality": "Нидерланды",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Нидерланды"],
 		"clubs": ["Willem II", "Ajax", "FC Barcelona"],
-
 		"leagues": ["Эредивизи", "Ла Лига"],
-
 		"coaches": [
 			"Erwin van de Looi",
 			"Peter Bosz",
@@ -4355,7 +3665,6 @@
 			"Xavi Hernández",
 			"Hansi Flick"
 		],
-
 		"trophies": [
 			"Эредивизи",
 			"Кубок Нидерландов",
@@ -4363,26 +3672,20 @@
 			"Кубок Испании",
 			"Суперкубок Испании"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 231281,
 		"name": "Trent Alexander-Arnold",
 		"short_name": "T. Alexander-Arnold",
 		"role": "player",
-
-		"nationality": "Англия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Англия"],
 		"clubs": ["Liverpool", "Real Madrid"],
-
 		"leagues": ["АПЛ", "Ла Лига"],
-
 		"coaches": [
 			"Steven Gerrard",
 			"Brendan Rodgers",
@@ -4392,7 +3695,6 @@
 			"Alvaro Arbeloa",
 			"José Mourinho"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Лига Чемпионов",
@@ -4401,26 +3703,20 @@
 			"Суперкубок Англии",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 231478,
 		"name": "Lautaro Javier Martínez",
 		"short_name": "L. Martínez",
 		"role": "player",
-
-		"nationality": "Аргентина",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Аргентина"],
 		"clubs": ["Racing Club", "Inter"],
-
 		"leagues": ["Аргентинская Примера", "Серия A"],
-
 		"coaches": [
 			"Diego Cocca",
 			"Eduardo Coudet",
@@ -4429,29 +3725,24 @@
 			"Simone Inzaghi",
 			"Christian Kivu"
 		],
-
 		"trophies": [
 			"Серия A",
 			"Кубок Италии",
 			"Суперкубок Италии",
 			"Кубок Америки"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 233049,
 		"name": "Jadon Sancho",
 		"short_name": "J. Sancho",
 		"role": "player",
-
-		"nationality": "Англия",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Англия"],
 		"clubs": [
 			"Manchester City",
 			"Borussia Dortmund",
@@ -4459,9 +3750,7 @@
 			"Chelsea",
 			"Aston Villa"
 		],
-
 		"leagues": ["АПЛ", "Бундеслига"],
-
 		"coaches": [
 			"Pep Guardiola",
 			"Lucien Favre",
@@ -4470,33 +3759,26 @@
 			"Mauricio Pochettino",
 			"Unai Emery"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Кубок Германии",
 			"Суперкубок Германии",
 			"Лига Европы"
 		],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 235073,
 		"name": "Gregor Kobel",
 		"short_name": "G. Kobel",
 		"role": "player",
-
-		"nationality": "Швейцария",
-		"nationality_valid": true,
-
-		"max_overall": 87,
-
+		"nationality": ["Швейцария"],
 		"clubs": ["TSG Hoffenheim", "VfB Stuttgart", "Borussia Dortmund"],
-
 		"leagues": ["Бундеслига"],
-
 		"coaches": [
 			"Julian Nagelsmann",
 			"Markus Weinzierl",
@@ -4506,28 +3788,21 @@
 			"Nuri Şahin",
 			"Niko Kovac"
 		],
-
 		"trophies": ["Бундеслига U19", "Кубок Германии"],
-
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 10535,
 		"name": "Xavier Hernández Creus",
 		"short_name": "Xavi",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Испания"],
 		"clubs": ["FC Barcelona", "Al-Sadd"],
-
 		"leagues": ["Ла Лига", "Лига звёзд Катара"],
-
 		"coaches": [
 			"Frank Rijkaard",
 			"Pep Guardiola",
@@ -4536,7 +3811,6 @@
 			"Quique Setién",
 			"Ronald Koeman"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Кубок Испании",
@@ -4546,22 +3820,18 @@
 			"Клубный чемпионат мира",
 			"Кубок эмира Катара"
 		],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 20289,
 		"name": "Gnégnéri Yaya Touré",
 		"short_name": "Y. Touré",
 		"role": "player",
-
-		"nationality": "Кот-д’Ивуар",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Кот-д’Ивуар"],
 		"clubs": [
 			"ASEC Mimosas",
 			"Beveren",
@@ -4571,7 +3841,6 @@
 			"Barcelona",
 			"Manchester City"
 		],
-
 		"leagues": [
 			"Лига Кот-д’Ивуара",
 			"Бельгийская Про-лига",
@@ -4580,7 +3849,6 @@
 			"Ла Лига",
 			"АПЛ"
 		],
-
 		"coaches": [
 			"Jean-Marc Guillou",
 			"Ernesto Valverde",
@@ -4590,7 +3858,6 @@
 			"Manuel Pellegrini",
 			"Hervé Renard"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Кубок Испании",
@@ -4600,26 +3867,20 @@
 			"Кубок Лиги Англии",
 			"Кубок Африки (AFCON)"
 		],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 54050,
 		"name": "Wayne Mark Rooney",
 		"short_name": "W. Rooney",
 		"role": "player",
-
-		"nationality": "Англия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Англия"],
 		"clubs": ["Everton", "Manchester United", "D.C. United", "Derby County"],
-
 		"leagues": ["АПЛ", "MLS", "Чемпионшип"],
-
 		"coaches": [
 			"David Moyes",
 			"Sir Alex Ferguson",
@@ -4628,7 +3889,6 @@
 			"Ole Gunnar Solskjær",
 			"Frank Lampard"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Кубок Англии",
@@ -4637,26 +3897,20 @@
 			"Клубный чемпионат мира",
 			"MLS Cup"
 		],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 137186,
 		"name": "Andrea Barzagli",
 		"short_name": "A. Barzagli",
 		"role": "player",
-
-		"nationality": "Италия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Италия"],
 		"clubs": ["Pistoiese", "Ascoli", "Palermo", "VfL Wolfsburg", "Juventus"],
-
 		"leagues": ["Серия C", "Серия B", "Серия A", "Бундеслига"],
-
 		"coaches": [
 			"Claudio Ranieri",
 			"Delio Rossi",
@@ -4666,28 +3920,21 @@
 			"Massimiliano Allegri",
 			"Andrea Pirlo"
 		],
-
 		"trophies": ["Бундеслига", "Серия A", "Кубок Италии", "Суперкубок Италии"],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 139720,
 		"name": "Vincent Jean Mpoy Kompany",
 		"short_name": "V. Kompany",
 		"role": "player",
-
-		"nationality": "Бельгия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Бельгия"],
 		"clubs": ["Anderlecht", "Hamburger SV", "Manchester City"],
-
 		"leagues": ["Жюпиле Про Лига", "Бундеслига", "АПЛ"],
-
 		"coaches": [
 			"Franky Vercauteren",
 			"Ariël Jacobs",
@@ -4697,7 +3944,6 @@
 			"Manuel Pellegrini",
 			"Pep Guardiola"
 		],
-
 		"trophies": [
 			"Жюпиле Про Лига",
 			"АПЛ",
@@ -4706,22 +3952,18 @@
 			"Суперкубок Англии",
 			"Бундеслига (игрок-тренер этап)"
 		],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 143001,
 		"name": "Carlos Alberto Tévez",
 		"short_name": "C. Tévez",
 		"role": "player",
-
-		"nationality": "Аргентина",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Аргентина"],
 		"clubs": [
 			"Boca Juniors",
 			"Corinthians",
@@ -4731,7 +3973,6 @@
 			"Juventus",
 			"Shanghai Shenhua"
 		],
-
 		"leagues": [
 			"Примера Аргентины",
 			"Серия A Бразилии",
@@ -4739,7 +3980,6 @@
 			"Серия A",
 			"Китайская Суперлига"
 		],
-
 		"coaches": [
 			"Carlos Bianchi",
 			"Tite",
@@ -4749,7 +3989,6 @@
 			"Antonio Conte",
 			"Marcelo Gallardo"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Серия A",
@@ -4758,22 +3997,18 @@
 			"Кубок Либертадорес",
 			"Китайская Суперлига"
 		],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 143076,
 		"name": "Alejandro Darío Gómez",
 		"short_name": "A. Gómez",
 		"role": "player",
-
-		"nationality": "Аргентина",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Аргентина"],
 		"clubs": [
 			"Arsenal de Sarandí",
 			"San Lorenzo",
@@ -4782,9 +4017,7 @@
 			"Sevilla",
 			"Monza"
 		],
-
 		"leagues": ["Примера Аргентины", "Серия A", "Ла Лига"],
-
 		"coaches": [
 			"Miguel Ángel Russo",
 			"Diego Simeone",
@@ -4794,24 +4027,19 @@
 			"José Luis Mendilibar",
 			"Raffaele Palladino"
 		],
-
 		"trophies": ["Кубок Италии", "Лига Европы", "Суперкубок Европы"],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 146562,
 		"name": "Santiago Cazorla González",
 		"short_name": "Santi Cazorla",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Испания"],
 		"clubs": [
 			"Real Oviedo",
 			"Villarreal",
@@ -4820,9 +4048,7 @@
 			"Arsenal",
 			"Al-Sadd"
 		],
-
 		"leagues": ["Сегунда", "Ла Лига", "АПЛ", "Лига звёзд Катара"],
-
 		"coaches": [
 			"Manuel Preciado",
 			"Marcelino García Toral",
@@ -4831,24 +4057,19 @@
 			"Unai Emery",
 			"Xavi Hernández"
 		],
-
 		"trophies": ["Кубок Испании", "АПЛ", "Кубок Англии", "Кубок эмира Катара"],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 168609,
 		"name": "João Miranda de Souza Filho",
 		"short_name": "Miranda",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Бразилия"],
 		"clubs": [
 			"Coritiba",
 			"São Paulo",
@@ -4856,14 +4077,12 @@
 			"Inter",
 			"Jiangsu Suning"
 		],
-
 		"leagues": [
 			"Серия A Бразилии",
 			"Ла Лига",
 			"Серия A",
 			"Китайская Суперлига"
 		],
-
 		"coaches": [
 			"Muricy Ramalho",
 			"Ricardo Gomes",
@@ -4872,7 +4091,6 @@
 			"Roberto Mancini",
 			"Luciano Spalletti"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Кубок Испании",
@@ -4881,22 +4099,18 @@
 			"Китайская Суперлига",
 			"Кубок Италии"
 		],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 170890,
 		"name": "Blaise Matuidi",
 		"short_name": "B. Matuidi",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Франция"],
 		"clubs": [
 			"Troyes",
 			"Saint-Étienne",
@@ -4904,9 +4118,7 @@
 			"Juventus",
 			"Inter Miami"
 		],
-
 		"leagues": ["Лига 1", "Серия A", "MLS"],
-
 		"coaches": [
 			"Jean-Marc Furlan",
 			"Alain Perrin",
@@ -4916,7 +4128,6 @@
 			"Massimiliano Allegri",
 			"Diego Alonso"
 		],
-
 		"trophies": [
 			"Лига 1",
 			"Серия A",
@@ -4925,22 +4136,18 @@
 			"Суперкубок Франции",
 			"MLS Cup"
 		],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 171919,
 		"name": "Ronaldo Aparecido Rodrigues",
 		"short_name": "Naldo",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Бразилия"],
 		"clubs": [
 			"RS Futebol",
 			"EC Juventude",
@@ -4949,9 +4156,7 @@
 			"Schalke 04",
 			"Monaco"
 		],
-
 		"leagues": ["Серия C Бразилии", "Серия A Бразилии", "Бундеслига", "Лига 1"],
-
 		"coaches": [
 			"Ivo Wortmann",
 			"Vanderlei Luxemburgo",
@@ -4960,29 +4165,24 @@
 			"Dieter Hecking",
 			"Manuel Pellegrini"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Кубок Германии",
 			"Суперкубок Германии",
 			"Кубок Франции"
 		],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 172879,
 		"name": "Sokratis Papastathopoulos",
 		"short_name": "Sokratis",
 		"role": "player",
-
-		"nationality": "Греция",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Греция"],
 		"clubs": [
 			"AEK Athens",
 			"Genoa",
@@ -4992,9 +4192,7 @@
 			"Arsenal",
 			"Olympiacos"
 		],
-
 		"leagues": ["Суперлига Греции", "Серия A", "Бундеслига", "АПЛ"],
-
 		"coaches": [
 			"Fernando Santos",
 			"Gian Piero Gasperini",
@@ -5004,7 +4202,6 @@
 			"Arsène Wenger",
 			"Mikel Arteta"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Кубок Германии",
@@ -5012,26 +4209,20 @@
 			"Кубок Англии",
 			"Суперкубок Англии"
 		],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 173210,
 		"name": "Claudio Marchisio",
 		"short_name": "C. Marchisio",
 		"role": "player",
-
-		"nationality": "Италия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Италия"],
 		"clubs": ["Juventus", "Empoli"],
-
 		"leagues": ["Серия A"],
-
 		"coaches": [
 			"Alessio Secco",
 			"Claudio Ranieri",
@@ -5040,24 +4231,19 @@
 			"Antonio Conte",
 			"Massimiliano Allegri"
 		],
-
 		"trophies": ["Серия A", "Кубок Италии", "Суперкубок Италии"],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 177388,
 		"name": "Dimitri Payet",
 		"short_name": "D. Payet",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Франция"],
 		"clubs": [
 			"AS Saint-Étienne",
 			"Nantes",
@@ -5066,9 +4252,7 @@
 			"West Ham United",
 			"Vasco da Gama"
 		],
-
 		"leagues": ["Лига 1", "АПЛ", "Бразильская Серия A"],
-
 		"coaches": [
 			"Christophe Galtier",
 			"Rudi Garcia",
@@ -5076,24 +4260,19 @@
 			"Jorge Sampaoli",
 			"Jean-Louis Gasset"
 		],
-
 		"trophies": ["Кубок Франции", "Кубок Лиги Франции", "Суперкубок Франции"],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 177509,
 		"name": "Medhi Amine El Mouttaqi Benatia",
 		"short_name": "M. Benatia",
 		"role": "player",
-
-		"nationality": "Марокко",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Марокко"],
 		"clubs": [
 			"Marseille",
 			"Udinese",
@@ -5103,9 +4282,7 @@
 			"Al-Duhail",
 			"Fatih Karagümrük"
 		],
-
 		"leagues": ["Лига 1", "Серия A", "Бундеслига", "Турецкая Суперлига"],
-
 		"coaches": [
 			"Didier Deschamps",
 			"Francesco Guidolin",
@@ -5115,7 +4292,6 @@
 			"Massimiliano Allegri",
 			"Xavi Hernández"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Серия A",
@@ -5123,26 +4299,20 @@
 			"Кубок Италии",
 			"Суперкубок Италии"
 		],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 177610,
 		"name": "Javier Martínez Aginaga",
 		"short_name": "Javi Martínez",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Испания"],
 		"clubs": ["Osasuna", "Athletic Bilbao", "FC Bayern München", "Qatar SC"],
-
 		"leagues": ["Ла Лига", "Бундеслига", "Катарская лига"],
-
 		"coaches": [
 			"Joaquín Caparrós",
 			"Marcelo Bielsa",
@@ -5152,7 +4322,6 @@
 			"Hansi Flick",
 			"Julian Nagelsmann"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Кубок Испании",
@@ -5162,22 +4331,18 @@
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 177683,
 		"name": "Yann Sommer",
 		"short_name": "Y. Sommer",
 		"role": "player",
-
-		"nationality": "Швейцария",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Швейцария"],
 		"clubs": [
 			"FC Basel",
 			"Grasshopper",
@@ -5186,9 +4351,7 @@
 			"Bayern München",
 			"Inter"
 		],
-
 		"leagues": ["Суперлига Швейцарии", "Бундеслига", "Серия A"],
-
 		"coaches": [
 			"Heiko Vogel",
 			"Paulo Sousa",
@@ -5198,33 +4361,26 @@
 			"Simone Inzaghi",
 			"Christian Kivu"
 		],
-
 		"trophies": [
 			"Суперлига Швейцарии",
 			"Кубок Швейцарии",
 			"Суперкубок Германии",
 			"Серия A"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 178518,
 		"name": "Radja Nainggolan",
 		"short_name": "R. Nainggolan",
 		"role": "player",
-
-		"nationality": "Бельгия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Бельгия"],
 		"clubs": ["Piacenza", "Cagliari", "Roma", "Inter", "Royal Antwerp", "Spal"],
-
 		"leagues": ["Серия A", "Бельгийская Про-лига"],
-
 		"coaches": [
 			"Massimiliano Allegri",
 			"Davide Ballardini",
@@ -5233,24 +4389,19 @@
 			"Antonio Conte",
 			"Walter Mazzarri"
 		],
-
 		"trophies": ["Серия A", "Суперкубок Италии", "Кубок Бельгии"],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 179844,
 		"name": "Diego da Silva Costa",
 		"short_name": "Diego Costa",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Испания"],
 		"clubs": [
 			"Barcelona Esportivo Capela",
 			"Braga",
@@ -5264,7 +4415,6 @@
 			"Botafogo",
 			"Grêmio"
 		],
-
 		"leagues": [
 			"Серия D Бразилии",
 			"Лига Португалии",
@@ -5273,7 +4423,6 @@
 			"АПЛ",
 			"Серия A Бразилии"
 		],
-
 		"coaches": [
 			"Jesús García Pitarch",
 			"Quique Sánchez Flores",
@@ -5282,7 +4431,6 @@
 			"Antonio Conte",
 			"Nuno Espírito Santo"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Суперкубок Испании",
@@ -5291,22 +4439,18 @@
 			"Суперкубок Англии",
 			"Лига Европы УЕФА"
 		],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 179944,
 		"name": "David Luiz Moreira Marinho",
 		"short_name": "David Luiz",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Бразилия"],
 		"clubs": [
 			"Vitoria",
 			"Benfica",
@@ -5317,7 +4461,6 @@
 			"Fortaleza",
 			"Pafos"
 		],
-
 		"leagues": [
 			"Серия A Бразилии",
 			"Примейра-лига",
@@ -5326,7 +4469,6 @@
 			"Бразильская Серия A",
 			"Чемпионат Кипра"
 		],
-
 		"coaches": [
 			"Fernando Santos",
 			"André Villas-Boas",
@@ -5337,7 +4479,6 @@
 			"Mikel Arteta",
 			"Jorge Jesus"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Кубок Англии",
@@ -5346,22 +4487,18 @@
 			"Лига 1",
 			"Кубок Франции"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 180206,
 		"name": "Miralem Pjanić",
 		"short_name": "M. Pjanić",
 		"role": "player",
-
-		"nationality": "Босния и Герцеговина",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Босния и Герцеговина"],
 		"clubs": [
 			"Metz",
 			"Lyon",
@@ -5372,7 +4509,6 @@
 			"Sharjah FC",
 			"CSKA Moscow"
 		],
-
 		"leagues": [
 			"Лига 1",
 			"Серия A",
@@ -5381,7 +4517,6 @@
 			"Лига ОАЭ",
 			"Российская Премьер-Лига"
 		],
-
 		"coaches": [
 			"Alain Perrin",
 			"Claude Puel",
@@ -5391,7 +4526,6 @@
 			"Ronald Koeman",
 			"Valérien Ismaël"
 		],
-
 		"trophies": [
 			"Серия A",
 			"Кубок Италии",
@@ -5399,22 +4533,18 @@
 			"Ла Лига",
 			"Кубок Франции"
 		],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 181458,
 		"name": "Ivan Perišić",
 		"short_name": "I. Perišić",
 		"role": "player",
-
-		"nationality": "Хорватия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Хорватия"],
 		"clubs": [
 			"Hajduk Split",
 			"Sochaux",
@@ -5427,7 +4557,6 @@
 			"Tottenham Hotspur",
 			"PSV Eindhoven"
 		],
-
 		"leagues": [
 			"Хорватская лига",
 			"Лига 1",
@@ -5437,7 +4566,6 @@
 			"АПЛ",
 			"Эредивизи"
 		],
-
 		"coaches": [
 			"Ante Miše",
 			"Ivan Katalinić",
@@ -5450,7 +4578,6 @@
 			"Julian Nagelsmann",
 			"Ange Postecoglou"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Серия A",
@@ -5461,22 +4588,18 @@
 			"Эредивизи",
 			"Суперкубок Нидерландов"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 183711,
 		"name": "Jordan Henderson",
 		"short_name": "J. Henderson",
 		"role": "player",
-
-		"nationality": "Англия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Англия"],
 		"clubs": [
 			"Sunderland",
 			"Coventry City (loan)",
@@ -5485,9 +4608,7 @@
 			"Ajax",
 			"Brentford"
 		],
-
 		"leagues": ["АПЛ", "Чемпионшип", "Саудовская Про-лига", "Эредивизи"],
-
 		"coaches": [
 			"Steve Bruce",
 			"Roy Hodgson",
@@ -5496,7 +4617,6 @@
 			"Steven Gerrard",
 			"Mauricio Pochettino"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Лига Чемпионов",
@@ -5505,22 +4625,18 @@
 			"Суперкубок Англии",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 184432,
 		"name": "César Azpilicueta Tanco",
 		"short_name": "Azpilicueta",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Испания"],
 		"clubs": [
 			"Osasuna",
 			"Olympique Marseille",
@@ -5528,9 +4644,7 @@
 			"Atlético Madrid",
 			"Sevilla"
 		],
-
 		"leagues": ["Ла Лига", "Лига 1", "АПЛ"],
-
 		"coaches": [
 			"José Ángel Ziganda",
 			"Javier Aguirre",
@@ -5544,7 +4658,6 @@
 			"Mauricio Pochettino",
 			"Diego Simeone"
 		],
-
 		"trophies": [
 			"Лига 1",
 			"АПЛ",
@@ -5554,22 +4667,18 @@
 			"Кубок Лиги Англии",
 			"Суперкубок Англии"
 		],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 186942,
 		"name": "İlkay Gündoğan",
 		"short_name": "İ. Gündoğan",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Германия"],
 		"clubs": [
 			"SV Gelsenkirchen-Hessler 06",
 			"VfL Bochum",
@@ -5578,7 +4687,6 @@
 			"FC Barcelona",
 			"Galatasaray"
 		],
-
 		"leagues": [
 			"Региональные лиги Германии",
 			"Бундеслига",
@@ -5586,7 +4694,6 @@
 			"Ла Лига",
 			"Турецкая Суперлига"
 		],
-
 		"coaches": [
 			"Thomas Schneider",
 			"Jürgen Klopp",
@@ -5594,7 +4701,6 @@
 			"Pep Guardiola",
 			"Xavi Hernández"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Кубок Германии",
@@ -5604,31 +4710,25 @@
 			"Клубный чемпионат мира",
 			"Ла Лига"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 188943,
 		"name": "Kevin Trapp",
 		"short_name": "K. Trapp",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Германия"],
 		"clubs": [
 			"Kaiserslautern",
 			"Eintracht Frankfurt",
 			"Paris Saint-Germain",
 			"Paris FC"
 		],
-
 		"leagues": ["Бундеслига", "Лига 1"],
-
 		"coaches": [
 			"Marco Kurz",
 			"Armin Veh",
@@ -5638,29 +4738,24 @@
 			"Adi Hütter",
 			"Oliver Glasner"
 		],
-
 		"trophies": [
 			"Лига 1",
 			"Кубок Франции",
 			"Суперкубок Франции",
 			"Лига Европы УЕФА"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 189513,
 		"name": "Daniel Parejo Muñoz",
 		"short_name": "Parejo",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Испания"],
 		"clubs": [
 			"Real Madrid",
 			"Queens Park Rangers",
@@ -5668,9 +4763,7 @@
 			"Valencia",
 			"Villarreal"
 		],
-
 		"leagues": ["Ла Лига", "Чемпионшип Англии"],
-
 		"coaches": [
 			"Manuel Pellegrini",
 			"Bernd Schuster",
@@ -5681,24 +4774,19 @@
 			"Marcelino García Toral",
 			"José Bordalás"
 		],
-
 		"trophies": ["Ла Лига", "Кубок Испании", "Лига Европы УЕФА"],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 190483,
 		"name": "Douglas Costa de Souza",
 		"short_name": "Douglas Costa",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Бразилия"],
 		"clubs": [
 			"Grêmio",
 			"Shakhtar Donetsk",
@@ -5709,7 +4797,6 @@
 			"Sydney FC",
 			"Chievo Verona"
 		],
-
 		"leagues": [
 			"Серия A Бразилии",
 			"Премьер-лига Украины",
@@ -5718,7 +4805,6 @@
 			"MLS",
 			"A-League"
 		],
-
 		"coaches": [
 			"Renato Gaúcho",
 			"Luiz Felipe Scolari",
@@ -5728,7 +4814,6 @@
 			"Andrea Pirlo",
 			"Robert Moreno"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Серия A",
@@ -5736,22 +4821,18 @@
 			"Кубок Италии",
 			"MLS Cup"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 191043,
 		"name": "Alex Sandro Lobo Silva",
 		"short_name": "Alex Sandro",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Бразилия"],
 		"clubs": [
 			"Athletico Paranaense",
 			"Santos",
@@ -5759,9 +4840,7 @@
 			"Juventus",
 			"Flamengo"
 		],
-
 		"leagues": ["Серия A Бразилии", "Примейра-лига", "Серия A"],
-
 		"coaches": [
 			"Vagner Mancini",
 			"Dorival Júnior",
@@ -5773,7 +4852,6 @@
 			"Thiago Motta",
 			"Leonardo Jardim"
 		],
-
 		"trophies": [
 			"Примейра-лига",
 			"Серия A",
@@ -5781,22 +4859,18 @@
 			"Кубок Италии",
 			"Суперкубок Италии"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 191202,
 		"name": "Nemanja Matić",
 		"short_name": "N. Matić",
 		"role": "player",
-
-		"nationality": "Сербия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Сербия"],
 		"clubs": [
 			"Kolubara",
 			"Košice",
@@ -5809,7 +4883,6 @@
 			"Olympique Lyonnais",
 			"Sassuolo"
 		],
-
 		"leagues": [
 			"Суперлига Сербии",
 			"Эредивизи",
@@ -5818,7 +4891,6 @@
 			"Серия A",
 			"Лига 1"
 		],
-
 		"coaches": [
 			"Ján Kozák",
 			"José Mourinho",
@@ -5832,7 +4904,6 @@
 			"Paulo Fonseca",
 			"Daniele De Rossi"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Кубок Англии",
@@ -5842,22 +4913,18 @@
 			"Серия A",
 			"Лига Европы УЕФА"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 192366,
 		"name": "Nicolás Hernán Gonzalo Otamendi",
 		"short_name": "N. Otamendi",
 		"role": "player",
-
-		"nationality": "Аргентина",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Аргентина"],
 		"clubs": [
 			"Vélez Sarsfield",
 			"Porto",
@@ -5865,9 +4932,7 @@
 			"Manchester City",
 			"Benfica"
 		],
-
 		"leagues": ["Примера Аргентины", "Примейра-лига", "Ла Лига", "АПЛ"],
-
 		"coaches": [
 			"Ricardo Gareca",
 			"Jesualdo Ferreira",
@@ -5878,7 +4943,6 @@
 			"Roger Schmidt",
 			"José Mourinho"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Примейра-лига",
@@ -5887,26 +4951,20 @@
 			"Кубок Лиги Англии",
 			"Суперкубок Англии"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 192563,
 		"name": "Bernd Leno",
 		"short_name": "B. Leno",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Германия"],
 		"clubs": ["VfB Stuttgart", "Bayer Leverkusen", "Arsenal", "Fulham"],
-
 		"leagues": ["Бундеслига", "АПЛ"],
-
 		"coaches": [
 			"Bruno Labbadia",
 			"Sami Hyypiä",
@@ -5916,24 +4974,19 @@
 			"Mikel Arteta",
 			"Marco Silva"
 		],
-
 		"trophies": ["Кубок Германии", "Кубок Англии", "Суперкубок Англии"],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 192984,
 		"name": "Koen Casteels",
 		"short_name": "K. Casteels",
 		"role": "player",
-
-		"nationality": "Бельгия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Бельгия"],
 		"clubs": [
 			"KRC Genk",
 			"1899 Hoffenheim",
@@ -5941,9 +4994,7 @@
 			"VfL Wolfsburg",
 			"Al-Qadsiah"
 		],
-
 		"leagues": ["Жюпиле Про Лига", "Бундеслига", "Саудовская Про-лига"],
-
 		"coaches": [
 			"Mario Been",
 			"Frank Vercauteren",
@@ -5953,28 +5004,21 @@
 			"Oliver Glasner",
 			"Niko Kovač"
 		],
-
 		"trophies": ["Жюпиле Про Лига", "Кубок Бельгии", "Бундеслига"],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 193301,
 		"name": "Alexandre Lacazette",
 		"short_name": "A. Lacazette",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Франция"],
 		"clubs": ["Olympique Lyonnais", "Arsenal", "Neom SC"],
-
 		"leagues": ["Лига 1", "АПЛ", "Саудовская Про-лига"],
-
 		"coaches": [
 			"Claude Puel",
 			"Rémi Garde",
@@ -5985,33 +5029,26 @@
 			"Mikel Arteta",
 			"Pierre Sage"
 		],
-
 		"trophies": [
 			"Кубок Франции",
 			"Суперкубок Франции",
 			"Кубок Англии",
 			"Суперкубок Англии"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 201535,
 		"name": "Raphaël Varane",
 		"short_name": "R. Varane",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Франция"],
 		"clubs": ["Lens", "Real Madrid", "Manchester United", "Como"],
-
 		"leagues": ["Лига 1", "Ла Лига", "АПЛ", "Серия A"],
-
 		"coaches": [
 			"Guy Roux",
 			"José Mourinho",
@@ -6021,7 +5058,6 @@
 			"Ole Gunnar Solskjær",
 			"Erik ten Hag"
 		],
-
 		"trophies": [
 			"Лига 1",
 			"Ла Лига",
@@ -6031,22 +5067,18 @@
 			"Лига Чемпионов",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 204485,
 		"name": "Riyad Mahrez",
 		"short_name": "R. Mahrez",
 		"role": "player",
-
-		"nationality": "Алжир",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Алжир"],
 		"clubs": [
 			"AAS Sarcelles",
 			"Quimper Kerfeunteun",
@@ -6055,9 +5087,7 @@
 			"Manchester City",
 			"Al-Ahli"
 		],
-
 		"leagues": ["Лига 2 Франции", "АПЛ", "Саудовская Про-лига"],
-
 		"coaches": [
 			"Thierry Goudet",
 			"Claudio Ranieri",
@@ -6066,7 +5096,6 @@
 			"Pep Guardiola",
 			"Matthias Jaissle"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Кубок Англии",
@@ -6074,26 +5103,20 @@
 			"Лига Чемпионов",
 			"Кубок Африки"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 204963,
 		"name": "Daniel Carvajal Ramos",
 		"short_name": "Carvajal",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Испания"],
 		"clubs": ["Real Madrid", "Bayer Leverkusen"],
-
 		"leagues": ["Ла Лига", "Бундеслига"],
-
 		"coaches": [
 			"José Mourinho",
 			"Carlo Ancelotti",
@@ -6103,7 +5126,6 @@
 			"Xabi Alonso",
 			"Alvaro Arbeloa"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Кубок Испании",
@@ -6114,26 +5136,20 @@
 			"Евро",
 			"Лига наций УЕФА"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 208093,
 		"name": "Gerard Moreno Balagueró",
 		"short_name": "Gerard Moreno",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Испания"],
 		"clubs": ["Damm", "Mallorca", "Villarreal B", "Espanyol", "Villarreal"],
-
 		"leagues": ["Терсера Дивизион Испании", "Сегунда", "Ла Лига"],
-
 		"coaches": [
 			"Sergi Barjuán",
 			"Mauricio Pochettino",
@@ -6143,24 +5159,19 @@
 			"Unai Emery",
 			"Marcelino García Toral"
 		],
-
 		"trophies": ["Лига Европы УЕФА", "Суперкубок УЕФА"],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 208830,
 		"name": "Jamie Vardy",
 		"short_name": "J. Vardy",
 		"role": "player",
-
-		"nationality": "Англия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Англия"],
 		"clubs": [
 			"Stocksbridge Park Steels",
 			"FC Halifax Town",
@@ -6168,7 +5179,6 @@
 			"Leicester City",
 			"Cremonese"
 		],
-
 		"leagues": [
 			"Национальная лига Англии",
 			"Лига 2 Англии",
@@ -6177,7 +5187,6 @@
 			"АПЛ",
 			"Серия A"
 		],
-
 		"coaches": [
 			"Steve Burr",
 			"Micky Adams",
@@ -6188,28 +5197,21 @@
 			"Dean Smith",
 			"Enzo Maresca"
 		],
-
 		"trophies": ["АПЛ", "Кубок Англии", "Суперкубок Англии"],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 213345,
 		"name": "Kingsley Junior Coman",
 		"short_name": "K. Coman",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Франция"],
 		"clubs": ["Paris Saint-Germain", "Juventus", "Bayern München", "Al Nassr"],
-
 		"leagues": ["Лига 1", "Серия A", "Бундеслига", "Саудовская Про-лига"],
-
 		"coaches": [
 			"Laurent Blanc",
 			"Carlo Ancelotti",
@@ -6221,7 +5223,6 @@
 			"Julian Nagelsmann",
 			"Thomas Tuchel"
 		],
-
 		"trophies": [
 			"Лига 1",
 			"Серия A",
@@ -6230,26 +5231,20 @@
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 216352,
 		"name": "Marcelo Brozović",
 		"short_name": "M. Brozović",
 		"role": "player",
-
-		"nationality": "Хорватия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Хорватия"],
 		"clubs": ["Lokomotiva Zagreb", "Dinamo Zagreb", "Inter", "Al-Nassr"],
-
 		"leagues": ["Хорватская лига", "Серия A", "Саудовская Про-лига"],
-
 		"coaches": [
 			"Krunoslav Jurčić",
 			"Zoran Mamić",
@@ -6261,29 +5256,24 @@
 			"Simone Inzaghi",
 			"Luís Castro"
 		],
-
 		"trophies": [
 			"Хорватская лига",
 			"Серия A",
 			"Кубок Хорватии",
 			"Суперкубок Италии"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 222492,
 		"name": "Leroy Aziz Sané",
 		"short_name": "L. Sané",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Германия"],
 		"clubs": [
 			"SG Wattenscheid 09",
 			"Schalke 04",
@@ -6291,14 +5281,12 @@
 			"Bayern München",
 			"Galatasaray"
 		],
-
 		"leagues": [
 			"Региональные лиги Германии",
 			"Бундеслига",
 			"АПЛ",
 			"Турецкая Суперлига"
 		],
-
 		"coaches": [
 			"Horst Hrubesch",
 			"Roberto Di Matteo",
@@ -6309,7 +5297,6 @@
 			"Julian Nagelsmann",
 			"Thomas Tuchel"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Бундеслига",
@@ -6320,31 +5307,25 @@
 			"Лига Чемпионов",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 223848,
 		"name": "Sergej Milinković-Savić",
 		"short_name": "S. Milinković-Savić",
 		"role": "player",
-
-		"nationality": "Сербия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Сербия"],
 		"clubs": ["Vojvodina", "Genk", "Lazio", "Al Hilal"],
-
 		"leagues": [
 			"Суперлига Сербии",
 			"Жюпиле Про Лига",
 			"Серия A",
 			"Саудовская Про-лига"
 		],
-
 		"coaches": [
 			"Zoran Marić",
 			"Hein Vanhaezebrouck",
@@ -6355,7 +5336,6 @@
 			"Jorge Jesus",
 			"Slaven Bilić"
 		],
-
 		"trophies": [
 			"Жюпиле Про Лига",
 			"Кубок Сербии",
@@ -6363,26 +5343,20 @@
 			"Суперкубок Италии",
 			"Саудовская Про-лига"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 224232,
 		"name": "Nicolò Barella",
 		"short_name": "N. Barella",
 		"role": "player",
-
-		"nationality": "Италия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Италия"],
 		"clubs": ["Cagliari", "Como", "Inter"],
-
 		"leagues": ["Серия A"],
-
 		"coaches": [
 			"Massimo Rastelli",
 			"Rolando Maran",
@@ -6391,35 +5365,27 @@
 			"Simone Inzaghi",
 			"Christian Kivu"
 		],
-
 		"trophies": ["Серия A", "Суперкубок Италии", "Кубок Италии"],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 226161,
 		"name": "Marcos Llorente Moreno",
 		"short_name": "Marcos Llorente",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Испания"],
 		"clubs": ["Real Madrid", "Deportivo Alavés", "Atlético Madrid"],
-
 		"leagues": ["Ла Лига"],
-
 		"coaches": [
 			"Zinedine Zidane",
 			"Santiago Solari",
 			"Diego Simeone",
 			"Óscar Fernández"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Суперкубок Испании",
@@ -6427,31 +5393,25 @@
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 231443,
 		"name": "Ousmane Dembélé",
 		"short_name": "O. Dembélé",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Франция"],
 		"clubs": [
 			"Rennes",
 			"Borussia Dortmund",
 			"FC Barcelona",
 			"Paris Saint-Germain"
 		],
-
 		"leagues": ["Лига 1", "Бундеслига", "Ла Лига"],
-
 		"coaches": [
 			"Philippe Montanier",
 			"Ralph Hasenhüttl",
@@ -6462,7 +5422,6 @@
 			"Xavi Hernández",
 			"Luis Enrique"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Ла Лига",
@@ -6470,22 +5429,18 @@
 			"Лига Чемпионов",
 			"Кубок Германии"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": true,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 232363,
 		"name": "Milan Škriniar",
 		"short_name": "M. Škriniar",
 		"role": "player",
-
-		"nationality": "Словакия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Словакия"],
 		"clubs": [
 			"ŽP Šport Podbrezová",
 			"MŠK Žilina",
@@ -6494,9 +5449,7 @@
 			"Paris Saint-Germain",
 			"Fenerbahçe"
 		],
-
 		"leagues": ["Словацкая лига", "Серия A", "Лига 1", "Турецкая Суперлига"],
-
 		"coaches": [
 			"Adrián Guľa",
 			"Ivaylo Petev",
@@ -6506,28 +5459,21 @@
 			"Simone Inzaghi",
 			"Luis Enrique"
 		],
-
 		"trophies": ["Серия A", "Суперкубок Италии", "Лига 1", "Кубок Италии"],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 232411,
 		"name": "Christopher Nkunku",
 		"short_name": "C. Nkunku",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Франция"],
 		"clubs": ["Paris Saint-Germain", "RB Leipzig", "Chelsea", "AC Milan"],
-
 		"leagues": ["Лига 1", "Бундеслига", "АПЛ", "Серия А"],
-
 		"coaches": [
 			"Laurent Blanc",
 			"Unai Emery",
@@ -6539,7 +5485,6 @@
 			"Enzo Maresca",
 			"Massimiliano Allegri"
 		],
-
 		"trophies": [
 			"Лига 1",
 			"Бундеслига",
@@ -6547,22 +5492,18 @@
 			"Суперкубок Германии",
 			"Кубок Англии"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 234642,
 		"name": "Édouard Mendy",
 		"short_name": "É. Mendy",
 		"role": "player",
-
-		"nationality": "Сенегал",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Сенегал"],
 		"clubs": [
 			"Le Havre",
 			"Cherbourg",
@@ -6572,9 +5513,7 @@
 			"Chelsea",
 			"Al-Ahli"
 		],
-
 		"leagues": ["Лига 1", "АПЛ", "Саудовская Про-лига"],
-
 		"coaches": [
 			"Olivier Guégan",
 			"David Guion",
@@ -6586,33 +5525,26 @@
 			"Mauricio Pochettino",
 			"Matthias Jaissle"
 		],
-
 		"trophies": [
 			"Лига Чемпионов",
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира",
 			"Кубок Англии"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 235243,
 		"name": "Matthijs de Ligt",
 		"short_name": "M. de Ligt",
 		"role": "player",
-
-		"nationality": "Нидерланды",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Нидерланды"],
 		"clubs": ["Ajax", "Juventus", "Bayern München", "Manchester United"],
-
 		"leagues": ["Эредивизи", "Серия A", "Бундеслига", "АПЛ"],
-
 		"coaches": [
 			"Peter Bosz",
 			"Erik ten Hag",
@@ -6624,7 +5556,6 @@
 			"Ruben Amorim",
 			"Michael Carrick"
 		],
-
 		"trophies": [
 			"Эредивизи",
 			"Серия A",
@@ -6632,26 +5563,20 @@
 			"Кубок Италии",
 			"Кубок Германии"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 240130,
 		"name": "Éder Gabriel Militão",
 		"short_name": "Éder Militão",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Бразилия"],
 		"clubs": ["São Paulo", "Porto", "Real Madrid"],
-
 		"leagues": ["Серия A Бразилии", "Примейра-лига", "Ла Лига"],
-
 		"coaches": [
 			"Rogério Ceni",
 			"Nelsinho Baptista",
@@ -6662,7 +5587,6 @@
 			"Alvaro Arbeloa",
 			"José Mourinho"
 		],
-
 		"trophies": [
 			"Примейра-лига",
 			"Ла Лига",
@@ -6671,54 +5595,41 @@
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 241096,
 		"name": "Sandro Tonali",
 		"short_name": "S. Tonali",
 		"role": "player",
-
-		"nationality": "Италия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Италия"],
 		"clubs": ["Brescia", "AC Milan", "Newcastle United"],
-
 		"leagues": ["Серия B", "Серия A", "АПЛ"],
-
 		"coaches": [
 			"Pasquale Marino",
 			"Eugenio Corini",
 			"Stefano Pioli",
 			"Eddie Howe"
 		],
-
 		"trophies": ["Серия A", "Суперкубок Италии"],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 241721,
 		"name": "Rafael Alexandre Conceição Leão",
 		"short_name": "Rafael Leão",
 		"role": "player",
-
-		"nationality": "Португалия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Португалия"],
 		"clubs": ["Sporting CP", "Lille", "AC Milan"],
-
 		"leagues": ["Примейра-лига", "Лига 1", "Серия A"],
-
 		"coaches": [
 			"Jorge Jesus",
 			"Rui Jorge",
@@ -6727,47 +5638,35 @@
 			"Sérgio Conceição",
 			"Massimiliano Allegri"
 		],
-
 		"trophies": ["Лига 1", "Серия A", "Суперкубок Италии"],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 246669,
 		"name": "Bukayo Saka",
 		"short_name": "B. Saka",
 		"role": "player",
-
-		"nationality": "Англия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Англия"],
 		"clubs": ["Arsenal"],
-
 		"leagues": ["АПЛ"],
-
 		"coaches": ["Unai Emery", "Mikel Arteta"],
-
 		"trophies": ["Кубок Англии", "Суперкубок Англии"],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 247635,
 		"name": "Khvicha Kvaratskhelia",
 		"short_name": "K. Kvaratskhelia",
 		"role": "player",
-
-		"nationality": "Грузия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Грузия"],
 		"clubs": [
 			"Dinamo Tbilisi",
 			"Rustavi",
@@ -6777,9 +5676,7 @@
 			"Napoli",
 			"Paris Saint-Germain"
 		],
-
 		"leagues": ["Эровнули Лига", "РПЛ", "Серия A", "Лига 1"],
-
 		"coaches": [
 			"Giorgi Chiabrishvili",
 			"Kurban Berdyev",
@@ -6788,28 +5685,21 @@
 			"Francesco Calzona",
 			"Luis Enrique"
 		],
-
 		"trophies": ["Серия A", "Лига 1", "Суперкубок Франции", "Лига Чемпионов"],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 251854,
 		"name": "Pedro González López",
 		"short_name": "Pedri",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Испания"],
 		"clubs": ["UD Las Palmas", "FC Barcelona"],
-
 		"leagues": ["Сегунда", "Ла Лига"],
-
 		"coaches": [
 			"José Luis Martí",
 			"Pimienta",
@@ -6817,7 +5707,6 @@
 			"Xavi Hernández",
 			"Hansi Flick"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Кубок Испании",
@@ -6825,26 +5714,20 @@
 			"Лига Наций УЕФА",
 			"Евро"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 252371,
 		"name": "Jude Victor William Bellingham",
 		"short_name": "J. Bellingham",
 		"role": "player",
-
-		"nationality": "Англия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Англия"],
 		"clubs": ["Birmingham City", "Borussia Dortmund", "Real Madrid"],
-
 		"leagues": ["Чемпионшип", "Бундеслига", "Ла Лига"],
-
 		"coaches": [
 			"Pep Clotet",
 			"Aitor Karanka",
@@ -6855,33 +5738,26 @@
 			"Alvaro Arbeloa",
 			"José Mourinho"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Суперкубок Испании",
 			"Лига Чемпионов",
 			"Суперкубок УЕФА"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 253163,
 		"name": "Ronald Federico Araújo da Silva",
 		"short_name": "R. Araujo",
 		"role": "player",
-
-		"nationality": "Уругвай",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Уругвай"],
 		"clubs": ["Rentistas", "Boston River", "FC Barcelona B", "FC Barcelona"],
-
 		"leagues": ["Примера Уругвая", "Сегунда B", "Ла Лига"],
-
 		"coaches": [
 			"Alejandro Cappuccio",
 			"García Pimienta",
@@ -6890,66 +5766,52 @@
 			"Xavi Hernández",
 			"Hansi Flick"
 		],
-
 		"trophies": ["Ла Лига", "Кубок Испании", "Суперкубок Испании"],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 256790,
 		"name": "Jamal Musiala",
 		"short_name": "J. Musiala",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 86,
-
+		"nationality": ["Германия"],
 		"clubs": ["Chelsea Youth", "Bayern München II", "Bayern München"],
-
 		"leagues": [
 			"Премьер-лига 2",
 			"Регионаллига Бавария",
 			"3. Лига",
 			"Бундеслига"
 		],
-
 		"coaches": [
 			"Hansi Flick",
 			"Julian Nagelsmann",
 			"Thomas Tuchel",
 			"Vincent Kompany"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Суперкубок Германии",
 			"Клубный чемпионат мира",
 			"Суперкубок УЕФА"
 		],
-
+		"max_overall": 86,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 13732,
 		"name": "John Terry",
 		"short_name": "J. Terry",
 		"role": "player",
-
-		"nationality": "Англия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Англия"],
 		"clubs": ["Chelsea", "Nottingham Forest", "Aston Villa"],
-
 		"leagues": ["АПЛ", "Чемпионшип"],
-
 		"coaches": [
 			"Claudio Ranieri",
 			"José Mourinho",
@@ -6961,7 +5823,6 @@
 			"Antonio Conte",
 			"Steve Bruce"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Кубок Англии",
@@ -6970,22 +5831,18 @@
 			"Лига Чемпионов",
 			"Лига Европы УЕФА"
 		],
-
+		"max_overall": 85,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 142754,
 		"name": "Javier Alejandro Mascherano",
 		"short_name": "J. Mascherano",
 		"role": "player",
-
-		"nationality": "Аргентина",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Аргентина"],
 		"clubs": [
 			"River Plate",
 			"Corinthians",
@@ -6995,7 +5852,6 @@
 			"Hebei China Fortune",
 			"Estudiantes"
 		],
-
 		"leagues": [
 			"Примера Аргентины",
 			"Бразилейрао",
@@ -7003,7 +5859,6 @@
 			"Ла Лига",
 			"Китайская Суперлига"
 		],
-
 		"coaches": [
 			"Daniel Passarella",
 			"Carlos Alberto Parreira",
@@ -7015,7 +5870,6 @@
 			"Luis Enrique",
 			"Ernesto Valverde"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Кубок Испании",
@@ -7024,22 +5878,18 @@
 			"Клубный чемпионат мира",
 			"Олимпийские игры"
 		],
-
+		"max_overall": 85,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 146530,
 		"name": "Daniel Alves da Silva",
 		"short_name": "Dani Alves",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Бразилия"],
 		"clubs": [
 			"Bahia",
 			"Sevilla",
@@ -7049,9 +5899,7 @@
 			"São Paulo",
 			"UNAM Pumas"
 		],
-
 		"leagues": ["Серия A Бразилии", "Ла Лига", "Серия A", "Лига 1", "Лига MX"],
-
 		"coaches": [
 			"Joaquín Caparrós",
 			"Juande Ramos",
@@ -7063,7 +5911,6 @@
 			"Thomas Tuchel",
 			"Hernán Crespo"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Серия A",
@@ -7078,22 +5925,18 @@
 			"Кубок Америки",
 			"Олимпийские игры"
 		],
-
+		"max_overall": 85,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 163587,
 		"name": "Kasper Peter Schmeichel",
 		"short_name": "K. Schmeichel",
 		"role": "player",
-
-		"nationality": "Дания",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Дания"],
 		"clubs": [
 			"Manchester City",
 			"Cardiff City (loan)",
@@ -7105,7 +5948,6 @@
 			"Anderlecht",
 			"Celtic"
 		],
-
 		"leagues": [
 			"АПЛ",
 			"Чемпионшип",
@@ -7113,7 +5955,6 @@
 			"Жюпиле Про Лига",
 			"Шотландская Премьер-лига"
 		],
-
 		"coaches": [
 			"Sven-Göran Eriksson",
 			"Mark Hughes",
@@ -7125,28 +5966,21 @@
 			"Lucien Favre",
 			"Franck Haise"
 		],
-
 		"trophies": ["АПЛ", "Кубок Англии", "Суперкубок Англии", "Чемпионшип"],
-
+		"max_overall": 85,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 163705,
 		"name": "Steve Mandanda",
 		"short_name": "S. Mandanda",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Франция"],
 		"clubs": ["Le Havre", "Olympique de Marseille", "Crystal Palace", "Rennes"],
-
 		"leagues": ["Лига 1", "АПЛ"],
-
 		"coaches": [
 			"Alain Perrin",
 			"Éric Gerets",
@@ -7158,29 +5992,24 @@
 			"Igor Tudor",
 			"Bruno Génésio"
 		],
-
 		"trophies": [
 			"Лига 1",
 			"Кубок Франции",
 			"Кубок Лиги Франции",
 			"Суперкубок Франции"
 		],
-
+		"max_overall": 85,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 164169,
 		"name": "Filipe Luís Kasmirski",
 		"short_name": "Filipe Luís",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Бразилия"],
 		"clubs": [
 			"Figueirense",
 			"Ajax (youth)",
@@ -7189,9 +6018,7 @@
 			"Chelsea",
 			"Flamengo"
 		],
-
 		"leagues": ["Серия A Бразилии", "Ла Лига", "АПЛ"],
-
 		"coaches": [
 			"Dorival Júnior",
 			"Abel Braga",
@@ -7201,7 +6028,6 @@
 			"José Mourinho",
 			"Guus Hiddink"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Кубок Испании",
@@ -7212,26 +6038,20 @@
 			"Кубок Либертадорес",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 85,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 165229,
 		"name": "Laurent Koscielny",
 		"short_name": "L. Koscielny",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Франция"],
 		"clubs": ["Guingamp", "Tours", "Lorient", "Arsenal", "Bordeaux"],
-
 		"leagues": ["Лига 2 Франции", "Лига 1", "АПЛ"],
-
 		"coaches": [
 			"Christian Gourcuff",
 			"Arsène Wenger",
@@ -7240,28 +6060,21 @@
 			"Paulo Sousa",
 			"Jean-Louis Gasset"
 		],
-
 		"trophies": ["Кубок Англии", "Суперкубок Англии"],
-
+		"max_overall": 85,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 167628,
 		"name": "Stéphane Ruffier",
 		"short_name": "S. Ruffier",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Франция"],
 		"clubs": ["Monaco", "Saint-Étienne"],
-
 		"leagues": ["Лига 1", "Лига 2 Франции"],
-
 		"coaches": [
 			"Frédéric Antonetti",
 			"Didier Deschamps",
@@ -7270,29 +6083,24 @@
 			"Claude Puel",
 			"Jean-Louis Gasset"
 		],
-
 		"trophies": [
 			"Лига 2 Франции",
 			"Кубок Франции",
 			"Кубок Лиги Франции",
 			"Суперкубок Франции"
 		],
-
+		"max_overall": 85,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 174543,
 		"name": "Claudio Andrés Bravo Muñoz",
 		"short_name": "C. Bravo",
 		"role": "player",
-
-		"nationality": "Чили",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Чили"],
 		"clubs": [
 			"Colo-Colo",
 			"Real Sociedad",
@@ -7300,9 +6108,7 @@
 			"Manchester City",
 			"Real Betis"
 		],
-
 		"leagues": ["Примера Чили", "Ла Лига", "АПЛ"],
-
 		"coaches": [
 			"Fernando Carvallo",
 			"Claudio Borghi",
@@ -7313,7 +6119,6 @@
 			"Ernesto Valverde",
 			"Quique Setién"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Кубок Испании",
@@ -7323,22 +6128,18 @@
 			"Суперкубок Испании",
 			"Кубок Лиги Англии"
 		],
-
+		"max_overall": 85,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 177413,
 		"name": "Axel Laurent Angel Lambert Witsel",
 		"short_name": "A. Witsel",
 		"role": "player",
-
-		"nationality": "Бельгия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Бельгия"],
 		"clubs": [
 			"Standard Liège",
 			"Benfica",
@@ -7348,7 +6149,6 @@
 			"Atlético Madrid",
 			"Girona"
 		],
-
 		"leagues": [
 			"Жюпиле Про Лига",
 			"Примейра-лига",
@@ -7357,7 +6157,6 @@
 			"Бундеслига",
 			"Ла Лига"
 		],
-
 		"coaches": [
 			"Michel Preud'homme",
 			"José Mourinho",
@@ -7369,7 +6168,6 @@
 			"Thomas Tuchel",
 			"Diego Simeone"
 		],
-
 		"trophies": [
 			"Жюпиле Про Лига",
 			"Примейра-лига",
@@ -7379,22 +6177,18 @@
 			"Китайский Кубок",
 			"Ла Лига"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 178088,
 		"name": "Juan Manuel Mata García",
 		"short_name": "Juan Mata",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Испания"],
 		"clubs": [
 			"Real Oviedo",
 			"Valencia",
@@ -7405,9 +6199,7 @@
 			"Western Sydney Wanderers",
 			"Melbourne Victory"
 		],
-
 		"leagues": ["Ла Лига", "АПЛ", "Суперлига Турции", "J1 League", "A-League"],
-
 		"coaches": [
 			"Quique Sánchez Flores",
 			"Unai Emery",
@@ -7419,7 +6211,6 @@
 			"Erik ten Hag",
 			"Okan Buruk"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Кубок Испании",
@@ -7430,26 +6221,20 @@
 			"Лига Европы УЕФА",
 			"Суперкубок Англии"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 179846,
 		"name": "Sami Khedira",
 		"short_name": "S. Khedira",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Германия"],
 		"clubs": ["VfB Stuttgart", "Real Madrid", "Juventus", "Hertha BSC"],
-
 		"leagues": ["Бундеслига", "Ла Лига", "Серия A"],
-
 		"coaches": [
 			"Armin Veh",
 			"Christian Gross",
@@ -7460,7 +6245,6 @@
 			"Massimiliano Allegri",
 			"Antonio Conte"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Ла Лига",
@@ -7472,22 +6256,18 @@
 			"Клубный чемпионат мира",
 			"Чемпионат мира FIFA"
 		],
-
+		"max_overall": 85,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 180403,
 		"name": "Willian Borges da Silva",
 		"short_name": "Willian",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Бразилия"],
 		"clubs": [
 			"Corinthians",
 			"Shakhtar Donetsk",
@@ -7498,7 +6278,6 @@
 			"Olympiacos",
 			"Grêmio"
 		],
-
 		"leagues": [
 			"Серия A Бразилии",
 			"РПЛ",
@@ -7506,7 +6285,6 @@
 			"АПЛ",
 			"Суперлига Греции"
 		],
-
 		"coaches": [
 			"Mano Menezes",
 			"Luiz Felipe Scolari",
@@ -7519,7 +6297,6 @@
 			"Mikel Arteta",
 			"Marco Silva"
 		],
-
 		"trophies": [
 			"Серия A Бразилии",
 			"Премьер-лига Украины",
@@ -7530,22 +6307,18 @@
 			"Лига Европы УЕФА",
 			"Суперкубок Англии"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 180930,
 		"name": "Edin Džeko",
 		"short_name": "E. Džeko",
 		"role": "player",
-
-		"nationality": "Босния и Герцеговина",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Босния и Герцеговина"],
 		"clubs": [
 			"Željezničar",
 			"Teplice",
@@ -7557,7 +6330,6 @@
 			"Fiorentina",
 			"Schalke 04"
 		],
-
 		"leagues": [
 			"Премьер-лига Боснии",
 			"Чешская лига",
@@ -7566,7 +6338,6 @@
 			"Серия A",
 			"Суперлига Турции"
 		],
-
 		"coaches": [
 			"Adem Čurić",
 			"Mark Hughes",
@@ -7577,7 +6348,6 @@
 			"Simone Inzaghi",
 			"Ismail Kartal"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Кубок Германии",
@@ -7587,22 +6357,18 @@
 			"Серия A",
 			"Суперкубок Италии"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 181291,
 		"name": "Georginio Gregion Emile Wijnaldum",
 		"short_name": "G. Wijnaldum",
 		"role": "player",
-
-		"nationality": "Нидерланды",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Нидерланды"],
 		"clubs": [
 			"Feyenoord",
 			"PSV",
@@ -7612,9 +6378,7 @@
 			"Roma",
 			"Al Ettifaq"
 		],
-
 		"leagues": ["Эредивизи", "АПЛ", "Лига 1", "Серия A", "Саудовская Про-лига"],
-
 		"coaches": [
 			"Ronald Koeman",
 			"Fred Rutten",
@@ -7626,7 +6390,6 @@
 			"José Mourinho",
 			"Steven Gerrard"
 		],
-
 		"trophies": [
 			"Эредивизи",
 			"Кубок Нидерландов",
@@ -7635,22 +6398,18 @@
 			"Суперкубок УЕФА",
 			"Суперкубок Англии"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 184144,
 		"name": "Osvaldo Nicolás Fabián Gaitán",
 		"short_name": "N. Gaitán",
 		"role": "player",
-
-		"nationality": "Аргентина",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Аргентина"],
 		"clubs": [
 			"Boca Juniors",
 			"Benfica",
@@ -7660,7 +6419,6 @@
 			"Braga",
 			"Paços de Ferreira"
 		],
-
 		"leagues": [
 			"Примера Аргентины",
 			"Примейра-лига",
@@ -7668,7 +6426,6 @@
 			"Суперлига Китая",
 			"MLS"
 		],
-
 		"coaches": [
 			"Carlos Bianchi",
 			"Ricardo La Volpe",
@@ -7678,7 +6435,6 @@
 			"José Mourinho",
 			"Veljko Paunović"
 		],
-
 		"trophies": [
 			"Примейра-лига",
 			"Кубок Португалии",
@@ -7687,22 +6443,18 @@
 			"Суперкубок УЕФА",
 			"Лига Европы УЕФА"
 		],
-
+		"max_overall": 85,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 184267,
 		"name": "Yacine Brahimi",
 		"short_name": "Y. Brahimi",
 		"role": "player",
-
-		"nationality": "Алжир",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Алжир"],
 		"clubs": [
 			"Rennes",
 			"Clermont Foot",
@@ -7711,7 +6463,6 @@
 			"Al-Rayyan",
 			"Al-Gharafa"
 		],
-
 		"leagues": [
 			"Лига 1",
 			"Лига 2 Франции",
@@ -7719,7 +6470,6 @@
 			"Примейра-лига",
 			"Катар Старс Лига"
 		],
-
 		"coaches": [
 			"Guy Lacombe",
 			"Philippe Montanier",
@@ -7729,29 +6479,24 @@
 			"Sérgio Conceição",
 			"Laurent Blanc"
 		],
-
 		"trophies": [
 			"Примейра-лига",
 			"Кубок Португалии",
 			"Суперкубок Португалии",
 			"Лига Европы УЕФА"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 185122,
 		"name": "Péter Gulácsi",
 		"short_name": "P. Gulácsi",
 		"role": "player",
-
-		"nationality": "Венгрия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Венгрия"],
 		"clubs": [
 			"MTK Budapest",
 			"Liverpool",
@@ -7761,14 +6506,12 @@
 			"RB Salzburg",
 			"RB Leipzig"
 		],
-
 		"leagues": [
 			"Немзети Байноксаг I",
 			"АПЛ",
 			"Бундеслига",
 			"Австрийская Бундеслига"
 		],
-
 		"coaches": [
 			"Jürgen Klopp",
 			"Roy Hodgson",
@@ -7778,24 +6521,19 @@
 			"Julian Nagelsmann",
 			"Marco Rose"
 		],
-
 		"trophies": ["Австрийская Бундеслига", "Кубок Австрии", "Кубок Германии"],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 186345,
 		"name": "Kieran Trippier",
 		"short_name": "K. Trippier",
 		"role": "player",
-
-		"nationality": "Англия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Англия"],
 		"clubs": [
 			"Manchester City (youth)",
 			"Barnsley (loan)",
@@ -7804,9 +6542,7 @@
 			"Atlético Madrid",
 			"Newcastle United"
 		],
-
 		"leagues": ["АПЛ", "Ла Лига"],
-
 		"coaches": [
 			"Sean Dyche",
 			"Mauricio Pochettino",
@@ -7814,24 +6550,19 @@
 			"Eddie Howe",
 			"Roy Hodgson"
 		],
-
 		"trophies": ["Ла Лига", "Суперкубок Испании", "Кубок Английской лиги"],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 187961,
 		"name": "José Paulo Bezzera Maciel Júnior",
 		"short_name": "Paulinho",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Бразилия"],
 		"clubs": [
 			"Vasco da Gama",
 			"Corinthians",
@@ -7840,7 +6571,6 @@
 			"FC Barcelona",
 			"Al Ahli Jeddah"
 		],
-
 		"leagues": [
 			"Серия A Бразилии",
 			"АПЛ",
@@ -7848,7 +6578,6 @@
 			"Ла Лига",
 			"Саудовская Про-лига"
 		],
-
 		"coaches": [
 			"Tite",
 			"Vanderlei Luxemburgo",
@@ -7859,7 +6588,6 @@
 			"Quique Setién",
 			"Jorge Jesus"
 		],
-
 		"trophies": [
 			"Бразилейрао",
 			"Кубок Бразилии",
@@ -7871,22 +6599,18 @@
 			"Суперкубок Испании",
 			"Лига Чемпионов АФК"
 		],
-
+		"max_overall": 85,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 188377,
 		"name": "Kyle Walker",
 		"short_name": "K. Walker",
 		"role": "player",
-
-		"nationality": "Англия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Англия"],
 		"clubs": [
 			"Sheffield United",
 			"Queens Park Rangers (loan)",
@@ -7896,9 +6620,7 @@
 			"Burnley",
 			"AC Milan"
 		],
-
 		"leagues": ["АПЛ", "Чемпионшип"],
-
 		"coaches": [
 			"Nigel Adkins",
 			"Harry Redknapp",
@@ -7908,7 +6630,6 @@
 			"Sean Dyche",
 			"Vincent Kompany"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Кубок Англии",
@@ -7916,22 +6637,18 @@
 			"Суперкубок Англии",
 			"Лига Чемпионов УЕФА"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 189117,
 		"name": "Roman Bürki",
 		"short_name": "R. Bürki",
 		"role": "player",
-
-		"nationality": "Швейцария",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Швейцария"],
 		"clubs": [
 			"FC Thun",
 			"Young Boys",
@@ -7940,9 +6657,7 @@
 			"Borussia Dortmund",
 			"St. Louis City SC"
 		],
-
 		"leagues": ["Суперлига Швейцарии", "Бундеслига", "MLS"],
-
 		"coaches": [
 			"Urs Fischer",
 			"Adi Hütter",
@@ -7954,29 +6669,24 @@
 			"Edin Terzić",
 			"Bradley Carnell"
 		],
-
 		"trophies": [
 			"Кубок Швейцарии",
 			"Кубок Германии",
 			"Суперкубок Германии",
 			"MLS Cup"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 190547,
 		"name": "Kamil Jacek Glik",
 		"short_name": "K. Glik",
 		"role": "player",
-
-		"nationality": "Польша",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Польша"],
 		"clubs": [
 			"MOSiR Jastrzębie",
 			"Horadada (youth)",
@@ -7989,9 +6699,7 @@
 			"Benevento",
 			"Cracovia"
 		],
-
 		"leagues": ["Экстракласа", "Серия B Италии", "Серия A", "Лига 1"],
-
 		"coaches": [
 			"Marcin Brosz",
 			"Giampiero Ventura",
@@ -8001,24 +6709,19 @@
 			"Filippo Inzaghi",
 			"Jacek Zieliński"
 		],
-
 		"trophies": ["Серия B Италии", "Кубок Польши", "Суперкубок Польши"],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 191180,
 		"name": "Javier Matías Pastore",
 		"short_name": "J. Pastore",
 		"role": "player",
-
-		"nationality": "Аргентина",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Аргентина"],
 		"clubs": [
 			"Talleres",
 			"Huracán",
@@ -8028,7 +6731,6 @@
 			"Elche",
 			"Qatar SC"
 		],
-
 		"leagues": [
 			"Примера Аргентины",
 			"Серия A",
@@ -8036,7 +6738,6 @@
 			"Ла Лига",
 			"Звездная лига Катара"
 		],
-
 		"coaches": [
 			"Miguel Ángel Russo",
 			"Roberto Mancini",
@@ -8049,7 +6750,6 @@
 			"Paulo Fonseca",
 			"José Bordalás"
 		],
-
 		"trophies": [
 			"Серия A Аргентины (низшие дивизионы не включены)",
 			"Серия A Италии",
@@ -8059,31 +6759,25 @@
 			"Суперкубок Франции",
 			"Суперкубок Италии"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 192318,
 		"name": "Mario Götze",
 		"short_name": "M. Götze",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Германия"],
 		"clubs": [
 			"Borussia Dortmund",
 			"FC Bayern München",
 			"PSV",
 			"Eintracht Frankfurt"
 		],
-
 		"leagues": ["Бундеслига", "Эредивизи"],
-
 		"coaches": [
 			"Jürgen Klopp",
 			"Thomas Tuchel",
@@ -8094,7 +6788,6 @@
 			"Adi Hütter",
 			"Oliver Glasner"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Кубок Германии",
@@ -8103,26 +6796,20 @@
 			"Кубок Нидерландов",
 			"Чемпионат мира FIFA"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 192593,
 		"name": "Danijel Subašić",
 		"short_name": "D. Subašić",
 		"role": "player",
-
-		"nationality": "Хорватия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Хорватия"],
 		"clubs": ["Zadar", "HNK Zadar", "Hajduk Split", "AS Monaco"],
-
 		"leagues": ["Хорватская первая лига", "Лига 1"],
-
 		"coaches": [
 			"Stanko Mršić",
 			"Ivan Katalinić",
@@ -8132,7 +6819,6 @@
 			"Thierry Henry",
 			"Niko Kovač"
 		],
-
 		"trophies": [
 			"Лига 2 Франции",
 			"Лига 1",
@@ -8140,26 +6826,20 @@
 			"Суперкубок Франции",
 			"Хорватский кубок"
 		],
-
+		"max_overall": 85,
+		"retired": true,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": true
+		"nationality_valid": true
 	},
 	{
 		"id": 192629,
 		"name": "Iago Aspas Juncal",
 		"short_name": "Iago Aspas",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Испания"],
 		"clubs": ["Celta de Vigo", "Sevilla", "Liverpool"],
-
 		"leagues": ["Ла Лига", "АПЛ"],
-
 		"coaches": [
 			"Unai Emery",
 			"Eduardo Berizzo",
@@ -8170,24 +6850,19 @@
 			"Claudio Giráldez",
 			"Brendan Rodgers"
 		],
-
 		"trophies": ["Лига Европы УЕФА", "Кубок Испании"],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 192774,
 		"name": "Konstantinos Manolas",
 		"short_name": "K. Manolas",
 		"role": "player",
-
-		"nationality": "Греция",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Греция"],
 		"clubs": [
 			"Thrasyvoulos",
 			"AEK Athens",
@@ -8198,9 +6873,7 @@
 			"Salernitana",
 			"Panathinaikos"
 		],
-
 		"leagues": ["Суперлига Греции", "Серия A", "Ла Лига ОАЭ"],
-
 		"coaches": [
 			"Dusan Bajevic",
 			"Ernesto Valverde",
@@ -8210,7 +6883,6 @@
 			"Carlo Ancelotti",
 			"Gennaro Gattuso"
 		],
-
 		"trophies": [
 			"Суперлига Греции",
 			"Кубок Греции",
@@ -8219,22 +6891,18 @@
 			"Суперкубок Италии",
 			"Кубок Греции"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 192883,
 		"name": "Henrikh Mkhitaryan",
 		"short_name": "H. Mkhitaryan",
 		"role": "player",
-
-		"nationality": "Армения",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Армения"],
 		"clubs": [
 			"Shakhtar Donetsk",
 			"Borussia Dortmund",
@@ -8243,9 +6911,7 @@
 			"Roma",
 			"Inter"
 		],
-
 		"leagues": ["Премьер-лига Украины", "Бундеслига", "АПЛ", "Серия A"],
-
 		"coaches": [
 			"Mircea Lucescu",
 			"Jürgen Klopp",
@@ -8256,7 +6922,6 @@
 			"Paulo Fonseca",
 			"Simone Inzaghi"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Кубок Германии",
@@ -8266,28 +6931,21 @@
 			"Серия A",
 			"Суперкубок Англии"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 193747,
 		"name": "Jorge Resurrección Merodio",
 		"short_name": "Koke",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Испания"],
 		"clubs": ["Atlético Madrid"],
-
 		"leagues": ["Ла Лига"],
-
 		"coaches": ["Quique Sánchez Flores", "Gregorio Manzano", "Diego Simeone"],
-
 		"trophies": [
 			"Ла Лига",
 			"Кубок Испании",
@@ -8295,22 +6953,18 @@
 			"Лига Европы УЕФА",
 			"Суперкубок УЕФА"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 194404,
 		"name": "Norberto Murara Neto",
 		"short_name": "Neto",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Бразилия"],
 		"clubs": [
 			"Cruzeiro",
 			"Fiorentina",
@@ -8321,9 +6975,7 @@
 			"Arsenal",
 			"Botafogo"
 		],
-
 		"leagues": ["Серия A Бразилии", "Серия A", "Ла Лига", "АПЛ"],
-
 		"coaches": [
 			"Adilson Batista",
 			"Cesare Prandelli",
@@ -8335,7 +6987,6 @@
 			"Xavi Hernández",
 			"Andoni Iraola"
 		],
-
 		"trophies": [
 			"Серия A",
 			"Кубок Италии",
@@ -8345,26 +6996,20 @@
 			"АПЛ",
 			"Кубок Английской лиги"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 198176,
 		"name": "Stefan de Vrij",
 		"short_name": "S. de Vrij",
 		"role": "player",
-
-		"nationality": "Нидерланды",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Нидерланды"],
 		"clubs": ["Feyenoord", "Lazio", "Inter"],
-
 		"leagues": ["Эредивизи", "Серия A"],
-
 		"coaches": [
 			"Ronald Koeman",
 			"Giovanni van Bronckhorst",
@@ -8373,7 +7018,6 @@
 			"Antonio Conte",
 			"Christian Kivu"
 		],
-
 		"trophies": [
 			"Эредивизи",
 			"Суперкубок Нидерландов",
@@ -8381,22 +7025,18 @@
 			"Кубок Италии",
 			"Суперкубок Италии"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 198706,
 		"name": "Luis Alberto Romero Alconchel",
 		"short_name": "Luis Alberto",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Испания"],
 		"clubs": [
 			"Sevilla",
 			"Barcelona B",
@@ -8406,9 +7046,7 @@
 			"Lazio",
 			"Al-Duhail"
 		],
-
 		"leagues": ["Ла Лига", "Сегунда", "АПЛ", "Серия A", "Лига звёзд Катара"],
-
 		"coaches": [
 			"Unai Emery",
 			"Brendan Rodgers",
@@ -8418,33 +7056,26 @@
 			"Simone Inzaghi",
 			"Maurizio Sarri"
 		],
-
 		"trophies": [
 			"Суперкубок Испании",
 			"Кубок Италии",
 			"Суперкубок Италии",
 			"Лига звёзд Катара"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 199482,
 		"name": "Anthony Lopes",
 		"short_name": "A. Lopes",
 		"role": "player",
-
-		"nationality": "Португалия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Португалия"],
 		"clubs": ["Olympique Lyonnais", "FC Nantes"],
-
 		"leagues": ["Лига 1"],
-
 		"coaches": [
 			"Rémi Garde",
 			"Hubert Fournier",
@@ -8455,24 +7086,19 @@
 			"Pierre Sage",
 			"Antoine Kombouaré"
 		],
-
 		"trophies": ["Кубок Франции", "Суперкубок Франции"],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 199914,
 		"name": "Allan Marques Loureiro",
 		"short_name": "Allan",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Бразилия"],
 		"clubs": [
 			"Vasco da Gama",
 			"Udinese",
@@ -8481,9 +7107,7 @@
 			"Al-Wahda",
 			"Botafogo"
 		],
-
 		"leagues": ["Серия A Бразилии", "Серия A", "АПЛ", "Про-лига ОАЭ"],
-
 		"coaches": [
 			"Cristóvão Borges",
 			"Francesco Guidolin",
@@ -8495,24 +7119,19 @@
 			"Frank Lampard",
 			"Sean Dyche"
 		],
-
 		"trophies": ["Кубок Италии", "Суперкубок Италии", "Кубок Бразилии"],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 202556,
 		"name": "Memphis Depay",
 		"short_name": "M. Depay",
 		"role": "player",
-
-		"nationality": "Нидерланды",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Нидерланды"],
 		"clubs": [
 			"PSV",
 			"Manchester United",
@@ -8521,9 +7140,7 @@
 			"Atlético Madrid",
 			"Corinthians"
 		],
-
 		"leagues": ["Эредивизи", "АПЛ", "Лига 1", "Ла Лига", "Серия A Бразилии"],
-
 		"coaches": [
 			"Phillip Cocu",
 			"Louis van Gaal",
@@ -8535,7 +7152,6 @@
 			"Diego Simeone",
 			"Ramón Díaz"
 		],
-
 		"trophies": [
 			"Эредивизи",
 			"Кубок Нидерландов",
@@ -8545,22 +7161,18 @@
 			"Ла Лига",
 			"Суперкубок Испании"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 202811,
 		"name": "Damián Emiliano Martínez",
 		"short_name": "E. Martínez",
 		"role": "player",
-
-		"nationality": "Аргентина",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Аргентина"],
 		"clubs": [
 			"Independiente",
 			"Arsenal",
@@ -8572,9 +7184,7 @@
 			"Reading",
 			"Aston Villa"
 		],
-
 		"leagues": ["Примера Аргентины", "АПЛ", "Чемпионшип", "Ла Лига"],
-
 		"coaches": [
 			"Arsène Wenger",
 			"Unai Emery",
@@ -8585,7 +7195,6 @@
 			"Steven Gerrard",
 			"Unai Emery"
 		],
-
 		"trophies": [
 			"Кубок Англии",
 			"Суперкубок Англии",
@@ -8593,26 +7202,20 @@
 			"Кубок Америки",
 			"Финалиссимa"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 203574,
 		"name": "John Stones",
 		"short_name": "J. Stones",
 		"role": "player",
-
-		"nationality": "Англия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Англия"],
 		"clubs": ["Barnsley", "Everton", "Manchester City"],
-
 		"leagues": ["Чемпионшип", "АПЛ"],
-
 		"coaches": [
 			"David Flitcroft",
 			"Sean Dyche",
@@ -8620,33 +7223,26 @@
 			"Ronald Koeman",
 			"Pep Guardiola"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Кубок Англии",
 			"Кубок Английской лиги",
 			"Суперкубок Англии"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 205498,
 		"name": "Luiz Frello Filho Jorge",
 		"short_name": "Jorginho",
 		"role": "player",
-
-		"nationality": "Италия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Италия"],
 		"clubs": ["Hellas Verona", "Napoli", "Chelsea", "Arsenal", "Flamengo"],
-
 		"leagues": ["Серия A", "АПЛ"],
-
 		"coaches": [
 			"Andrea Mandorlini",
 			"Rafael Benítez",
@@ -8655,7 +7251,6 @@
 			"Thomas Tuchel",
 			"Mikel Arteta"
 		],
-
 		"trophies": [
 			"Серия A",
 			"Кубок Италии",
@@ -8665,22 +7260,18 @@
 			"Лига Чемпионов УЕФА",
 			"Суперкубок УЕФА"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 206113,
 		"name": "Serge David Gnabry",
 		"short_name": "S. Gnabry",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Германия"],
 		"clubs": [
 			"VfB Stuttgart (youth)",
 			"Arsenal",
@@ -8689,9 +7280,7 @@
 			"TSG Hoffenheim (loan)",
 			"FC Bayern München"
 		],
-
 		"leagues": ["АПЛ", "Бундеслига"],
-
 		"coaches": [
 			"Arsène Wenger",
 			"Tony Pulis",
@@ -8702,7 +7291,6 @@
 			"Thomas Tuchel",
 			"Vincent Kompany"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Кубок Германии",
@@ -8711,26 +7299,20 @@
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 206517,
 		"name": "Jack Grealish",
 		"short_name": "J. Grealish",
 		"role": "player",
-
-		"nationality": "Англия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Англия"],
 		"clubs": ["Aston Villa", "Manchester City", "Everton"],
-
 		"leagues": ["АПЛ", "Чемпионшип"],
-
 		"coaches": [
 			"Paul Lambert",
 			"Tim Sherwood",
@@ -8739,7 +7321,6 @@
 			"Dean Smith",
 			"Pep Guardiola"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Кубок Англии",
@@ -8747,22 +7328,18 @@
 			"Кубок Английской лиги",
 			"Лига Чемпионов УЕФА"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 208128,
 		"name": "Hakan Çalhanoğlu",
 		"short_name": "H. Çalhanoğlu",
 		"role": "player",
-
-		"nationality": "Турция",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Турция"],
 		"clubs": [
 			"Karlsruher SC",
 			"Hamburger SV",
@@ -8770,9 +7347,7 @@
 			"Milan",
 			"Inter"
 		],
-
 		"leagues": ["Бундеслига", "Серия A"],
-
 		"coaches": [
 			"Kosta Runjaić",
 			"Thorsten Fink",
@@ -8783,33 +7358,26 @@
 			"Simone Inzaghi",
 			"Christian Kivu"
 		],
-
 		"trophies": ["Серия A", "Кубок Италии", "Суперкубок Италии"],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 208418,
 		"name": "Yannick Ferreira Carrasco",
 		"short_name": "Y. Carrasco",
 		"role": "player",
-
-		"nationality": "Бельгия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Бельгия"],
 		"clubs": [
 			"AS Monaco",
 			"Atlético Madrid",
 			"Dalian Professional",
 			"Al Shabab"
 		],
-
 		"leagues": ["Лига 1", "Ла Лига", "Суперлига Китая", "Саудовская Про-лига"],
-
 		"coaches": [
 			"Claudio Ranieri",
 			"Leonardo Jardim",
@@ -8817,7 +7385,6 @@
 			"Javier Aguirre",
 			"Jorge Jesus"
 		],
-
 		"trophies": [
 			"Лига 1",
 			"Суперкубок Франции",
@@ -8826,22 +7393,18 @@
 			"Кубок Китая",
 			"Лига чемпионов АФК"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 208421,
 		"name": "Saúl Ñíguez Esclápez",
 		"short_name": "Saúl",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Испания"],
 		"clubs": [
 			"Atlético Madrid",
 			"Chelsea",
@@ -8849,9 +7412,7 @@
 			"Sevilla FC",
 			"Flamengo"
 		],
-
 		"leagues": ["Ла Лига", "АПЛ", "Бразильская Серия A"],
-
 		"coaches": [
 			"Diego Simeone",
 			"Maurizio Sarri",
@@ -8859,7 +7420,6 @@
 			"Thomas Tuchel",
 			"Graham Potter"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Кубок Испании",
@@ -8867,22 +7427,18 @@
 			"Лига Европы УЕФА",
 			"Суперкубок УЕФА"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 208574,
 		"name": "Filip Kostić",
 		"short_name": "F. Kostić",
 		"role": "player",
-
-		"nationality": "Сербия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Сербия"],
 		"clubs": [
 			"Radnički Kragujevac",
 			"Groningen",
@@ -8892,7 +7448,6 @@
 			"Juventus",
 			"Fenerbahçe"
 		],
-
 		"leagues": [
 			"Суперлига Сербии",
 			"Эредивизи",
@@ -8900,7 +7455,6 @@
 			"Серия A",
 			"Суперлига Турции"
 		],
-
 		"coaches": [
 			"Slaviša Stojanović",
 			"Peter Bosz",
@@ -8911,24 +7465,19 @@
 			"Massimiliano Allegri",
 			"José Mourinho"
 		],
-
 		"trophies": ["Кубок Германии", "Лига Европы УЕФА", "Суперкубок Италии"],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 208670,
 		"name": "Hakim Ziyech",
 		"short_name": "H. Ziyech",
 		"role": "player",
-
-		"nationality": "Марокко",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Марокко"],
 		"clubs": [
 			"SC Heerenveen",
 			"FC Twente",
@@ -8938,7 +7487,6 @@
 			"Al-Duhail",
 			"Wydad AC"
 		],
-
 		"leagues": [
 			"Эредивизи",
 			"АПЛ",
@@ -8946,7 +7494,6 @@
 			"Лига Звёзд Катара",
 			"Ботола"
 		],
-
 		"coaches": [
 			"Marco van Basten",
 			"Alfred Schreuder",
@@ -8957,7 +7504,6 @@
 			"Okan Buruk",
 			"Hussein Ammouta"
 		],
-
 		"trophies": [
 			"Эредивизи",
 			"Кубок Нидерландов",
@@ -8966,22 +7512,18 @@
 			"Лига чемпионов УЕФА",
 			"Суперкубок УЕФА"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 209981,
 		"name": "Yassine Bounou",
 		"short_name": "Y. Bounou",
 		"role": "player",
-
-		"nationality": "Марокко",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Марокко"],
 		"clubs": [
 			"Wydad AC",
 			"Atlético Madrid B",
@@ -8990,9 +7532,7 @@
 			"Sevilla",
 			"Al-Hilal"
 		],
-
 		"leagues": ["Ботола", "Сегунда", "Ла Лига", "Саудовская Про-лига"],
-
 		"coaches": [
 			"Juan Ignacio Martínez",
 			"Pablo Machín",
@@ -9002,7 +7542,6 @@
 			"José Luis Mendilibar",
 			"Jorge Jesus"
 		],
-
 		"trophies": [
 			"Лига Европы УЕФА",
 			"Суперкубок УЕФА",
@@ -9010,22 +7549,18 @@
 			"Ла Лига",
 			"Суперкубок Саудовской Аравии"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 209989,
 		"name": "Thomas Partey",
 		"short_name": "T. Partey",
 		"role": "player",
-
-		"nationality": "Гана",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Гана"],
 		"clubs": [
 			"Atlético Madrid",
 			"Almería (loan)",
@@ -9033,37 +7568,28 @@
 			"Arsenal",
 			"Villarreal"
 		],
-
 		"leagues": ["Ла Лига", "АПЛ"],
-
 		"coaches": ["Diego Simeone", "Unai Emery", "Mikel Arteta"],
-
 		"trophies": [
 			"Ла Лига",
 			"Суперкубок Испании",
 			"Лига Европы УЕФА",
 			"Суперкубок УЕФА"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 210243,
 		"name": "Ricardo Domingos Barbosa Pereira",
 		"short_name": "Ricardo Pereira",
 		"role": "player",
-
-		"nationality": "Португалия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Португалия"],
 		"clubs": ["Vitória Guimarães", "FC Porto", "OGC Nice", "Leicester City"],
-
 		"leagues": ["Примейра-лига", "Лига 1", "АПЛ"],
-
 		"coaches": [
 			"Rui Vitória",
 			"Nuno Espírito Santo",
@@ -9072,7 +7598,6 @@
 			"Dean Smith",
 			"Enzo Maresca"
 		],
-
 		"trophies": [
 			"Примейра-лига",
 			"Кубок Португалии",
@@ -9080,50 +7605,39 @@
 			"АПЛ",
 			"Кубок Английской лиги"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 210935,
 		"name": "Domenico Berardi",
 		"short_name": "D. Berardi",
 		"role": "player",
-
-		"nationality": "Италия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Италия"],
 		"clubs": ["Sassuolo", "Juventus (loan)"],
-
 		"leagues": ["Серия A"],
-
 		"coaches": [
 			"Eusebio Di Francesco",
 			"Alessio Dionisi",
 			"Roberto De Zerbi",
 			"Fabio Grosso"
 		],
-
 		"trophies": ["Чемпионат Европы UEFA", "Серия B Италии"],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 212188,
 		"name": "Timo Werner",
 		"short_name": "T. Werner",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Германия"],
 		"clubs": [
 			"VfB Stuttgart",
 			"RB Leipzig",
@@ -9131,9 +7645,7 @@
 			"Tottenham Hotspur",
 			"San Jose Earthquakes"
 		],
-
 		"leagues": ["Бундеслига", "АПЛ", "MLS"],
-
 		"coaches": [
 			"Huub Stevens",
 			"Jürgen Kramny",
@@ -9143,33 +7655,26 @@
 			"Mauricio Pochettino",
 			"Antonio Conte"
 		],
-
 		"trophies": [
 			"Кубок Германии",
 			"Лига Чемпионов УЕФА",
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 212190,
 		"name": "Niklas Süle",
 		"short_name": "N. Süle",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Германия"],
 		"clubs": ["TSG Hoffenheim", "FC Bayern München", "Borussia Dortmund"],
-
 		"leagues": ["Бундеслига"],
-
 		"coaches": [
 			"Markus Gisdol",
 			"Julian Nagelsmann",
@@ -9178,7 +7683,6 @@
 			"Thomas Tuchel",
 			"Edin Terzić"
 		],
-
 		"trophies": [
 			"Бундеслига",
 			"Кубок Германии",
@@ -9186,28 +7690,21 @@
 			"Лига Чемпионов УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 216460,
 		"name": "José María Giménez de Vargas",
 		"short_name": "J. Giménez",
 		"role": "player",
-
-		"nationality": "Уругвай",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Уругвай"],
 		"clubs": ["Atlético Madrid"],
-
 		"leagues": ["Ла Лига"],
-
 		"coaches": ["Óscar Tabárez", "Diego Simeone"],
-
 		"trophies": [
 			"Ла Лига",
 			"Кубок Испании",
@@ -9215,26 +7712,20 @@
 			"Лига Европы УЕФА",
 			"Суперкубок УЕФА"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 216594,
 		"name": "Nabil Fekir",
 		"short_name": "N. Fekir",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Франция"],
 		"clubs": ["Olympique Lyonnais", "Real Betis", "Al-Jazira"],
-
 		"leagues": ["Лига 1", "Ла Лига", "Про-лига ОАЭ"],
-
 		"coaches": [
 			"Rémi Garde",
 			"Bruno Génésio",
@@ -9243,33 +7734,26 @@
 			"Michel",
 			"Nuno Espírito Santo"
 		],
-
 		"trophies": [
 			"Кубок Франции",
 			"Суперкубок Франции",
 			"Кубок Испании",
 			"Ла Лига"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 217870,
 		"name": "Giovanni Di Lorenzo",
 		"short_name": "G. Di Lorenzo",
 		"role": "player",
-
-		"nationality": "Италия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Италия"],
 		"clubs": ["Reggina", "Matera", "Empoli", "Napoli"],
-
 		"leagues": ["Серия C Италии", "Серия B Италии", "Серия A"],
-
 		"coaches": [
 			"Marco Baroni",
 			"Vincenzo Vivarini",
@@ -9280,29 +7764,24 @@
 			"Walter Mazzarri",
 			"Antonio Conte"
 		],
-
 		"trophies": [
 			"Серия B Италии",
 			"Серия A",
 			"Кубок Италии",
 			"Суперкубок Италии"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 220440,
 		"name": "Clément Nicolas Laurent Lenglet",
 		"short_name": "C. Lenglet",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Франция"],
 		"clubs": [
 			"AS Nancy",
 			"Sevilla",
@@ -9311,9 +7790,7 @@
 			"Aston Villa",
 			"Atlético Madrid"
 		],
-
 		"leagues": ["Лига 1", "Ла Лига", "АПЛ"],
-
 		"coaches": [
 			"Patrick Gabriel",
 			"Claudio Ranieri",
@@ -9326,7 +7803,6 @@
 			"Mauricio Pochettino",
 			"Diego Simeone"
 		],
-
 		"trophies": [
 			"Лига Европы УЕФА",
 			"Суперкубок УЕФА",
@@ -9334,22 +7810,18 @@
 			"Суперкубок Испании",
 			"Кубок Английской лиги"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 220834,
 		"name": "Marco Asensio Willemsen",
 		"short_name": "Marco Asensio",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Испания"],
 		"clubs": [
 			"Mallorca",
 			"Espanyol (loan)",
@@ -9358,9 +7830,7 @@
 			"Aston Villa",
 			"Fenerbahçe"
 		],
-
 		"leagues": ["Сегунда", "Ла Лига", "Лига 1"],
-
 		"coaches": [
 			"Valery Karpin",
 			"Albert Ferrer",
@@ -9371,7 +7841,6 @@
 			"Luis Enrique",
 			"Unai Emery"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Кубок Испании",
@@ -9381,26 +7850,20 @@
 			"Клубный чемпионат мира",
 			"Лига 1"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 224334,
 		"name": "Marcos Javier Acuña",
 		"short_name": "M. Acuña",
 		"role": "player",
-
-		"nationality": "Аргентина",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Аргентина"],
 		"clubs": ["Racing Club", "Sporting CP", "Sevilla", "River Plate"],
-
 		"leagues": ["Примера Аргентины", "Примейра-лига", "Ла Лига"],
-
 		"coaches": [
 			"Diego Cocca",
 			"Eduardo Coudet",
@@ -9409,7 +7872,6 @@
 			"José Luis Mendilibar",
 			"Quique Sánchez Flores"
 		],
-
 		"trophies": [
 			"Примера Аргентины",
 			"Кубок Аргентины",
@@ -9419,22 +7881,18 @@
 			"Лига Европы УЕФА",
 			"Кубок Испании"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 224458,
 		"name": "Diogo José Teixeira da Silva",
 		"short_name": "Diogo Jota",
 		"role": "player",
-
-		"nationality": "Португалия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Португалия"],
 		"clubs": [
 			"Paços de Ferreira",
 			"Atlético Madrid",
@@ -9442,9 +7900,7 @@
 			"Wolverhampton Wanderers",
 			"Liverpool"
 		],
-
 		"leagues": ["Примейра-лига", "Чемпионшип", "АПЛ"],
-
 		"coaches": [
 			"Carlos Pinto",
 			"Nuno Espírito Santo",
@@ -9452,29 +7908,24 @@
 			"Jürgen Klopp",
 			"Arne Slot"
 		],
-
 		"trophies": [
 			"Чемпионшип",
 			"АПЛ",
 			"Кубок Английской лиги",
 			"Кубок Португалии"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 226753,
 		"name": "André Onana",
 		"short_name": "A. Onana",
 		"role": "player",
-
-		"nationality": "Камерун",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Камерун"],
 		"clubs": [
 			"Barcelona (youth)",
 			"Ajax",
@@ -9482,9 +7933,7 @@
 			"Manchester United",
 			"Trabzonspor"
 		],
-
 		"leagues": ["Эредивизи", "Серия A", "АПЛ", "Турецкая Суперлига"],
-
 		"coaches": [
 			"Frank de Boer",
 			"Peter Bosz",
@@ -9493,7 +7942,6 @@
 			"Simone Inzaghi",
 			"Erik ten Hag"
 		],
-
 		"trophies": [
 			"Эредивизи",
 			"Кубок Нидерландов",
@@ -9502,31 +7950,25 @@
 			"Кубок Италии",
 			"Суперкубок Италии"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 226790,
 		"name": "Onyinye Wilfred Ndidi",
 		"short_name": "W. Ndidi",
 		"role": "player",
-
-		"nationality": "Нигерия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Нигерия"],
 		"clubs": ["Nathaniel Boys Academy", "Genk", "Leicester City", "Beşiktaş"],
-
 		"leagues": [
 			"Лига Pro Нигерии",
 			"Юпилер Про Лига",
 			"АПЛ",
 			"Турецкая Суперлига"
 		],
-
 		"coaches": [
 			"Manu Garba",
 			"Alex McLeish",
@@ -9537,56 +7979,42 @@
 			"Enzo Maresca",
 			"Vicenzo Italiano"
 		],
-
 		"trophies": [
 			"Кубок Бельгии",
 			"АПЛ",
 			"Кубок Англии",
 			"Кубок Английской лиги"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 230142,
 		"name": "Mikel Oyarzabal Ugarte",
 		"short_name": "Oyarzabal",
 		"role": "player",
-
-		"nationality": "Испания",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Испания"],
 		"clubs": ["Real Sociedad"],
-
 		"leagues": ["Ла Лига"],
-
 		"coaches": ["David Moyes", "Eusebio Sacristán", "Imanol Alguacil"],
-
 		"trophies": ["Кубок Испании", "Суперкубок Испании", "Олимпийские игры"],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 231677,
 		"name": "Marcus Rashford",
 		"short_name": "M. Rashford",
 		"role": "player",
-
-		"nationality": "Англия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Англия"],
 		"clubs": ["Manchester United", "Aston Villa", "FC Barcelona"],
-
 		"leagues": ["АПЛ"],
-
 		"coaches": [
 			"Louis van Gaal",
 			"José Mourinho",
@@ -9597,7 +8025,6 @@
 			"Hansi Flick",
 			"Michael Carrick"
 		],
-
 		"trophies": [
 			"АПЛ",
 			"Кубок Англии",
@@ -9606,22 +8033,18 @@
 			"Ла Лига",
 			"Суперкубок Испании"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 232656,
 		"name": "Theo Bernard François Hernández",
 		"short_name": "T. Hernández",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Франция"],
 		"clubs": [
 			"Atlético Madrid",
 			"Deportivo Alavés (loan)",
@@ -9630,9 +8053,7 @@
 			"AC Milan",
 			"Al Hilal"
 		],
-
 		"leagues": ["Ла Лига", "Серия A", "Саудовская Про-лига"],
-
 		"coaches": [
 			"Diego Simeone",
 			"Zinedine Zidane",
@@ -9641,7 +8062,6 @@
 			"Stefano Pioli",
 			"Sergio Conceição"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Суперкубок Испании",
@@ -9649,22 +8069,18 @@
 			"Суперкубок Италии",
 			"Лига чемпионов УЕФА"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 234236,
 		"name": "Patrik Schick",
 		"short_name": "P. Schick",
 		"role": "player",
-
-		"nationality": "Чехия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Чехия"],
 		"clubs": [
 			"Bohemians Praha",
 			"Sampdoria",
@@ -9672,9 +8088,7 @@
 			"RB Leipzig (loan)",
 			"Bayer 04 Leverkusen"
 		],
-
 		"leagues": ["Чешская лига", "Серия A", "Бундеслига"],
-
 		"coaches": [
 			"Roman Pivarník",
 			"Marco Giampaolo",
@@ -9683,61 +8097,47 @@
 			"Peter Bosz",
 			"Xabi Alonso"
 		],
-
 		"trophies": ["Кубок Италии", "Суперкубок Германии", "Бундеслига"],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 234378,
 		"name": "Declan Rice",
 		"short_name": "D. Rice",
 		"role": "player",
-
-		"nationality": "Англия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Англия"],
 		"clubs": ["Chelsea (youth)", "West Ham United", "Arsenal"],
-
 		"leagues": ["АПЛ"],
-
 		"coaches": ["Mark Noble", "Slaven Bilić", "David Moyes", "Mikel Arteta"],
-
 		"trophies": [
 			"Лига конференций УЕФА",
 			"АПЛ",
 			"Кубок Англии",
 			"Суперкубок Англии"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 235212,
 		"name": "Achraf Hakimi Mouh",
 		"short_name": "A. Hakimi",
 		"role": "player",
-
-		"nationality": "Марокко",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Марокко"],
 		"clubs": [
 			"Real Madrid",
 			"Borussia Dortmund (loan)",
 			"Inter",
 			"Paris Saint-Germain"
 		],
-
 		"leagues": ["Ла Лига", "Бундеслига", "Серия A", "Лига 1"],
-
 		"coaches": [
 			"Zinedine Zidane",
 			"Santiago Solari",
@@ -9747,7 +8147,6 @@
 			"Christophe Galtier",
 			"Luis Enrique"
 		],
-
 		"trophies": [
 			"Ла Лига",
 			"Суперкубок Испании",
@@ -9757,26 +8156,20 @@
 			"Суперкубок Франции",
 			"Кубок Италии"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 235790,
 		"name": "Kai Lukas Havertz",
 		"short_name": "K. Havertz",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Германия"],
 		"clubs": ["Bayer 04 Leverkusen", "Chelsea", "Arsenal"],
-
 		"leagues": ["Бундеслига", "АПЛ"],
-
 		"coaches": [
 			"Roger Schmidt",
 			"Heiko Herrlich",
@@ -9786,7 +8179,6 @@
 			"Frank Lampard",
 			"Mikel Arteta"
 		],
-
 		"trophies": [
 			"Лига чемпионов УЕФА",
 			"Суперкубок УЕФА",
@@ -9795,26 +8187,20 @@
 			"Кубок Англии",
 			"Суперкубок Англии"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 237383,
 		"name": "Alessandro Bastoni",
 		"short_name": "A. Bastoni",
 		"role": "player",
-
-		"nationality": "Италия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Италия"],
 		"clubs": ["Atalanta", "Parma", "Inter"],
-
 		"leagues": ["Серия A"],
-
 		"coaches": [
 			"Gian Piero Gasperini",
 			"Roberto D'Aversa",
@@ -9823,30 +8209,22 @@
 			"Simone Inzaghi",
 			"Christian Kivu"
 		],
-
 		"trophies": ["Серия A", "Кубок Италии", "Суперкубок Италии"],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 237692,
 		"name": "Phil Foden",
 		"short_name": "P. Foden",
 		"role": "player",
-
-		"nationality": "Англия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Англия"],
 		"clubs": ["Manchester City"],
-
 		"leagues": ["АПЛ"],
-
 		"coaches": ["Pep Guardiola", "Enzo Maresca"],
-
 		"trophies": [
 			"АПЛ",
 			"Кубок Англии",
@@ -9856,26 +8234,20 @@
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 241486,
 		"name": "Jules Koundé",
 		"short_name": "J. Koundé",
 		"role": "player",
-
-		"nationality": "Франция",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Франция"],
 		"clubs": ["Bordeaux", "Sevilla", "FC Barcelona"],
-
 		"leagues": ["Лига 1", "Ла Лига"],
-
 		"coaches": [
 			"Paulo Sousa",
 			"Gustavo Poyet",
@@ -9885,35 +8257,27 @@
 			"Xavi",
 			"Hansi Flick"
 		],
-
 		"trophies": [
 			"Лига Европы УЕФА",
 			"Суперкубок УЕФА",
 			"Кубок Испании",
 			"Суперкубок Испании"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 243812,
 		"name": "Rodrygo Silva de Goes",
 		"short_name": "Rodrygo",
 		"role": "player",
-
-		"nationality": "Бразилия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Бразилия"],
 		"clubs": ["Santos", "Real Madrid"],
-
 		"leagues": ["Серия A Бразилии", "Ла Лига"],
-
 		"coaches": ["Jorge Sampaoli", "Cuca", "Zinedine Zidane", "Carlo Ancelotti"],
-
 		"trophies": [
 			"Ла Лига",
 			"Суперкубок Испании",
@@ -9922,26 +8286,20 @@
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	},
 	{
 		"id": 256630,
 		"name": "Florian Richard Wirtz",
 		"short_name": "F. Wirtz",
 		"role": "player",
-
-		"nationality": "Германия",
-		"nationality_valid": true,
-
-		"max_overall": 85,
-
+		"nationality": ["Германия"],
 		"clubs": ["1. FC Köln (youth)", "Bayer 04 Leverkusen", "Liverpool"],
-
 		"leagues": ["Бундеслига", "АПЛ"],
-
 		"coaches": [
 			"Markus Gisdol",
 			"Peter Bosz",
@@ -9950,11 +8308,11 @@
 			"Arne Slot",
 			"Andoni Iraola"
 		],
-
 		"trophies": ["Бундеслига", "Кубок Германии", "Суперкубок Германии"],
-
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
-		"retired": false
+		"nationality_valid": true
 	}
 ]

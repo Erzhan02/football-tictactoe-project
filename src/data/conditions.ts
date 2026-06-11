@@ -74,7 +74,11 @@ export const CONDITIONS_CATALOG: Condition[] = [
 	{ id: 'cond-turkey', label: 'Турция (сборная)', tag: 'turkey' },
 	{ id: 'cond-denmark', label: 'Дания (сборная)', tag: 'denmark' },
 	{ id: 'cond-ukraine', label: 'Украина (сборная)', tag: 'ukraine' },
-	{ id: 'cond-ivory-coast', label: 'Кот-д\'Ивуар (сборная)', tag: 'ivory-coast' },
+	{
+		id: 'cond-ivory-coast',
+		label: "Кот-д'Ивуар (сборная)",
+		tag: 'ivory-coast',
+	},
 	{ id: 'cond-egypt', label: 'Египет (сборная)', tag: 'egypt' },
 	{ id: 'cond-norway', label: 'Норвегия (сборная)', tag: 'norway' },
 	{ id: 'cond-chile', label: 'Чили (сборная)', tag: 'chile' },

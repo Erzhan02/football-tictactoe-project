@@ -157,6 +157,31 @@ const CLUB_NAME_MAP: Record<string, string> = {
   "Делхи Динамос": "delhi-dynamos"
 };
 
+// Dynamically load all clubs from seed.ts to automatically map their names to tags
+try {
+  const seedPath = '/Users/erzhan/Desktop/football-tictactoe-project/server/prisma/seed.ts';
+  const seedContent = fs.readFileSync(seedPath, 'utf8');
+  const clubsStartMatch = seedContent.match(/const CLUBS = \[\r?\n/);
+  if (clubsStartMatch) {
+    const startIndex = seedContent.indexOf('const CLUBS = [');
+    const endIndex = seedContent.indexOf('];', startIndex) + 2;
+    const clubsSliceStr = seedContent.slice(startIndex, endIndex);
+    
+    // Extract each club object: { tag: '...', name: '...' }
+    const regex = /\{\s*tag:\s*'([^']+)',\s*name:\s*'([^']+)'/g;
+    let match;
+    while ((match = regex.exec(clubsSliceStr)) !== null) {
+      const tag = match[1];
+      const name = match[2];
+      if (!CLUB_NAME_MAP[name]) {
+        CLUB_NAME_MAP[name] = tag;
+      }
+    }
+  }
+} catch (e) {
+  console.warn('⚠️ Warning: Could not dynamically load CLUBS from seed.ts', e);
+}
+
 const uniqueClubs = new Map<string, string>(); // name -> tag
 const uniqueManagers = new Map<string, string>(); // name -> tag
 const uniqueLeagues = new Map<string, string>(); // name -> tag
@@ -285,6 +310,7 @@ const frontendPlayersFileContent = `import type { Player } from '@/types';
 export const PLAYERS: Player[] = ${JSON.stringify(frontendPlayers, null, 2)};
 `;
 
+fs.writeFileSync('/Users/erzhan/Desktop/football-tictactoe-project/frontend/src/data/players.ts', frontendPlayersFileContent, 'utf8');
 fs.writeFileSync('/Users/erzhan/Desktop/football-tictactoe-project/src/data/players.ts', frontendPlayersFileContent, 'utf8');
 console.log('✓ Wrote frontend players.ts');
 
