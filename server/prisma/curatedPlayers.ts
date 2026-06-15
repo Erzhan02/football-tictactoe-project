@@ -914,18 +914,34 @@ export const PLAYERS: PlayerSeed[] = [
     "position": "Player",
     "clubs": [
       "chelsea",
-      "astonvilla"
+      "astonvilla",
+      "nottinghamforest"
     ],
     "leagues": [
-      "premier-league"
+      "premier-league",
+      "chempionship"
     ],
     "managers": [
       "mourinho",
       "ancelotti",
-      "conte"
+      "conte",
+      "claudioranieri",
+      "josmourinho",
+      "avramgrant",
+      "luizfelipescolari",
+      "carloancelotti",
+      "robertodimatteo",
+      "rafabentez",
+      "antonioconte",
+      "stevebruce"
     ],
     "tournaments": [
-      "ucl"
+      "ucl",
+      "apl",
+      "kubokanglii",
+      "kubokligianglii",
+      "superkubokanglii",
+      "uel"
     ]
   },
   {
@@ -1726,18 +1742,40 @@ export const PLAYERS: PlayerSeed[] = [
       "kordekhesus",
       "vestkhem",
       "liverpool",
-      "barcelona"
+      "barcelona",
+      "riverplate",
+      "corinthians",
+      "westhamunited",
+      "hebeichinafortune",
+      "estudiantes"
     ],
     "leagues": [
       "premier-league",
       "laliga",
-      "serie-a"
+      "serie-a",
+      "primeraargentiny",
+      "brazileyrao",
+      "kitayskayasuperliga"
     ],
     "managers": [
-      "luis-enrique"
+      "luis-enrique",
+      "danielpassarella",
+      "carlosalbertoparreira",
+      "alanpardew",
+      "rafaelbentez",
+      "kennydalglish",
+      "pepguardiola",
+      "titovilanova",
+      "luisenrique",
+      "ernestovalverde"
     ],
     "tournaments": [
-      "ucl"
+      "ucl",
+      "laliga",
+      "kubokispanii",
+      "superkubokuefa",
+      "klubnyychempionatmira",
+      "olimpiyskieigry"
     ]
   },
   {
@@ -1756,19 +1794,39 @@ export const PLAYERS: PlayerSeed[] = [
       "manchester-united",
       "korintians",
       "juventus",
-      "manchester-city"
+      "manchester-city",
+      "bocajuniors",
+      "corinthians",
+      "westhamunited",
+      "shanghaishenhua"
     ],
     "leagues": [
       "premier-league",
       "serie-a",
-      "bundesliga"
+      "bundesliga",
+      "primeraargentiny",
+      "seriyaabrazilii",
+      "seriyaa",
+      "kitayskayasuperliga"
     ],
     "managers": [
       "ferguson",
-      "conte"
+      "conte",
+      "carlosbianchi",
+      "tite",
+      "alanpardew",
+      "siralexferguson",
+      "robertomancini",
+      "antonioconte",
+      "marcelogallardo"
     ],
     "tournaments": [
-      "ucl"
+      "ucl",
+      "apl",
+      "seriyaa",
+      "kubokanglii",
+      "kuboklibertadores",
+      "kitayskayasuperliga"
     ]
   },
   {
@@ -2099,11 +2157,23 @@ export const PLAYERS: PlayerSeed[] = [
       "ligue1"
     ],
     "managers": [
-      "conte"
+      "conte",
+      "carloancelotti",
+      "marcellolippi",
+      "fabiocapello",
+      "antonioconte",
+      "massimilianoallegri",
+      "mauriziosarri",
+      "gianpierogasperini"
     ],
     "tournaments": [
       "worldcup-winner",
-      "worldcup"
+      "worldcup",
+      "seriyaa",
+      "liga1",
+      "kubokitalii",
+      "superkubokitalii",
+      "uel"
     ]
   },
   {
@@ -2422,22 +2492,36 @@ export const PLAYERS: PlayerSeed[] = [
       "barcelona",
       "juventus",
       "chelsea",
-      "monaco"
+      "monaco",
+      "como"
     ],
     "leagues": [
       "premier-league",
       "laliga",
-      "serie-a"
+      "serie-a",
+      "ligue1",
+      "seriyab"
     ],
     "managers": [
       "wenger",
       "mourinho",
-      "conte"
+      "conte",
+      "frankrijkaard",
+      "pepguardiola",
+      "arsnewenger",
+      "josmourinho",
+      "antonioconte",
+      "thierryhenry"
     ],
     "tournaments": [
       "worldcup-winner",
       "worldcup",
-      "euro"
+      "euro",
+      "laliga",
+      "apl",
+      "liga1",
+      "kubokanglii",
+      "kubokispanii"
     ]
   },
   {
@@ -2836,19 +2920,38 @@ export const PLAYERS: PlayerSeed[] = [
       "shalke",
       "barcelona",
       "juventus",
-      "sevilla"
+      "sevilla",
+      "fcbasel",
+      "schalke04",
+      "al-shabab"
     ],
     "leagues": [
       "premier-league",
       "laliga",
       "bundesliga",
-      "ligaportugal"
+      "ligaportugal",
+      "superligashveytsarii",
+      "saudovskayapro-liga"
     ],
     "managers": [
-      "luis-enrique"
+      "luis-enrique",
+      "thomasschaaf",
+      "manuelpellegrini",
+      "unaiemery",
+      "luisenrique",
+      "ernestovalverde",
+      "quiquesetin",
+      "julenlopetegui",
+      "rudigarcia"
     ],
     "tournaments": [
-      "ucl"
+      "ucl",
+      "laliga",
+      "uel",
+      "kubokispanii",
+      "superkubokispanii",
+      "superkubokuefa",
+      "klubnyychempionatmira"
     ]
   },
   {
@@ -2984,11 +3087,16 @@ export const PLAYERS: PlayerSeed[] = [
     "managers": [
       "mourinho",
       "conte",
-      "zidane"
+      "zidane",
+      "ancelotti",
+      "maurisiosarri",
+      "rafaelbenites",
+      "rudigarsiya"
     ],
     "tournaments": [
       "ucl",
-      "uel"
+      "uel",
+      "apl"
     ]
   },
   {
@@ -3027,16 +3135,33 @@ export const PLAYERS: PlayerSeed[] = [
     "clubs": [
       "anderlekht",
       "tuluza",
-      "manchester-city"
+      "manchester-city",
+      "anderlecht",
+      "hamburgersv"
     ],
     "leagues": [
       "premier-league",
-      "bundesliga"
+      "bundesliga",
+      "zhyupileproliga"
     ],
     "managers": [
-      "pep"
+      "pep",
+      "frankyvercauteren",
+      "ariljacobs",
+      "thomasdoll",
+      "markhughes",
+      "robertomancini",
+      "manuelpellegrini",
+      "pepguardiola"
     ],
-    "tournaments": []
+    "tournaments": [
+      "zhyupileproliga",
+      "apl",
+      "kubokanglii",
+      "kubokligianglii",
+      "superkubokanglii",
+      "bundesligaigrok-treneretap"
+    ]
   },
   {
     "id": "drismertens",
@@ -3052,15 +3177,35 @@ export const PLAYERS: PlayerSeed[] = [
       "anderlekht",
       "bryugge",
       "psv",
-      "napoli"
+      "napoli",
+      "agovvapeldoorn",
+      "utrecht",
+      "galatasaray"
     ],
     "leagues": [
       "serie-a",
       "eredivisie",
-      "superlig"
+      "superlig",
+      "seriyaa",
+      "superligaturtsii"
     ],
-    "managers": [],
-    "tournaments": []
+    "managers": [
+      "ronjans",
+      "fredrutten",
+      "dickadvocaat",
+      "waltermazzarri",
+      "rafaelbentez",
+      "mauriziosarri",
+      "carloancelotti",
+      "gennarogattuso",
+      "okanburuk"
+    ],
+    "tournaments": [
+      "seriyaa",
+      "superkubokitalii",
+      "kubokturtsii",
+      "superkubokturtsii"
+    ]
   },
   {
     "id": "tomasmyuller",
@@ -3073,21 +3218,37 @@ export const PLAYERS: PlayerSeed[] = [
     "nationality": "Germany",
     "position": "Player",
     "clubs": [
-      "bavaria"
+      "bavaria",
+      "fcbayernmnchen",
+      "vancouverwhitecaps"
     ],
     "leagues": [
-      "bundesliga"
+      "bundesliga",
+      "mls"
     ],
     "managers": [
       "pep",
       "ancelotti",
       "heynckes",
-      "flick"
+      "flick",
+      "louisvangaal",
+      "juppheynckes",
+      "pepguardiola",
+      "carloancelotti",
+      "nikokova",
+      "hansiflick",
+      "juliannagelsmann",
+      "thomastuchel"
     ],
     "tournaments": [
       "ucl",
       "worldcup-winner",
-      "worldcup"
+      "worldcup",
+      "bundesliga",
+      "kubokgermanii",
+      "superkubokgermanii",
+      "superkubokuefa",
+      "klubnyychempionatmira"
     ]
   },
   {
@@ -3104,20 +3265,36 @@ export const PLAYERS: PlayerSeed[] = [
       "vfbshtutgart",
       "bavaria",
       "manchester-united",
-      "beshiktash"
+      "beshiktash",
+      "fcbayernmnchen",
+      "chicagofire"
     ],
     "leagues": [
       "premier-league",
-      "bundesliga"
+      "bundesliga",
+      "mls"
     ],
     "managers": [
       "pep",
-      "heynckes"
+      "heynckes",
+      "ottmarhitzfeld",
+      "louisvangaal",
+      "juppheynckes",
+      "pepguardiola",
+      "carloancelotti",
+      "louisvangaalmanunited",
+      "josmourinho"
     ],
     "tournaments": [
       "ucl",
       "worldcup-winner",
-      "worldcup"
+      "worldcup",
+      "bundesliga",
+      "kubokgermanii",
+      "superkubokgermanii",
+      "klubnyychempionatmira",
+      "kubokanglii",
+      "mls"
     ]
   },
   {
@@ -3133,7 +3310,9 @@ export const PLAYERS: PlayerSeed[] = [
     "clubs": [
       "verderbremen",
       "dortmund",
-      "bavaria"
+      "bavaria",
+      "fcbayernmnchen",
+      "roma"
     ],
     "leagues": [
       "bundesliga",
@@ -3142,12 +3321,22 @@ export const PLAYERS: PlayerSeed[] = [
     "managers": [
       "pep",
       "heynckes",
-      "tuchel"
+      "tuchel",
+      "jrgenklopp",
+      "louisvangaal",
+      "juppheynckes",
+      "pepguardiola",
+      "lucienfavre",
+      "edinterzi",
+      "josmourinho"
     ],
     "tournaments": [
       "ucl",
       "worldcup-winner",
-      "worldcup"
+      "worldcup",
+      "bundesliga",
+      "kubokgermanii",
+      "superkubokgermanii"
     ]
   },
   {
@@ -3161,19 +3350,30 @@ export const PLAYERS: PlayerSeed[] = [
     "nationality": "Germany",
     "position": "Player",
     "clubs": [
-      "bavaria"
+      "bavaria",
+      "fcbayernmnchen",
+      "vfbstuttgart"
     ],
     "leagues": [
       "bundesliga"
     ],
     "managers": [
       "pep",
-      "heynckes"
+      "heynckes",
+      "felixmagath",
+      "jrgenklinsmann",
+      "louisvangaal",
+      "juppheynckes",
+      "pepguardiola"
     ],
     "tournaments": [
       "ucl",
       "worldcup-winner",
-      "worldcup"
+      "worldcup",
+      "bundesliga",
+      "kubokgermanii",
+      "superkubokgermanii",
+      "klubnyychempionatmira"
     ]
   },
   {
@@ -4271,16 +4471,31 @@ export const PLAYERS: PlayerSeed[] = [
     "clubs": [
       "everton",
       "manchester-united",
-      "dsyunayted"
+      "dsyunayted",
+      "dcunited",
+      "derbycounty"
     ],
     "leagues": [
-      "premier-league"
+      "premier-league",
+      "mls",
+      "chempionship"
     ],
     "managers": [
-      "ferguson"
+      "ferguson",
+      "davidmoyes",
+      "siralexferguson",
+      "louisvangaal",
+      "josmourinho",
+      "olegunnarsolskjr",
+      "franklampard"
     ],
     "tournaments": [
-      "ucl"
+      "ucl",
+      "apl",
+      "kubokanglii",
+      "kubokligianglii",
+      "klubnyychempionatmira",
+      "mlscup"
     ]
   },
   {
@@ -4922,19 +5137,29 @@ export const PLAYERS: PlayerSeed[] = [
     "clubs": [
       "tottenham",
       "real-madrid",
-      "astonvilla"
+      "astonvilla",
+      "southampton",
+      "losangelesfc"
     ],
     "leagues": [
       "premier-league",
       "laliga",
-      "bundesliga"
+      "bundesliga",
+      "mls"
     ],
     "managers": [
       "zidane",
-      "ancelotti"
+      "ancelotti",
+      "kharrirednapp",
+      "andrevillash-boash",
+      "maurisiopochettino",
+      "rafaelbenites",
+      "stivkuper"
     ],
     "tournaments": [
-      "ucl"
+      "ucl",
+      "laliga",
+      "kubokmls"
     ]
   },
   {
@@ -5381,18 +5606,30 @@ export const PLAYERS: PlayerSeed[] = [
       "independente",
       "atletico",
       "manchester-city",
-      "bokakhuniors"
+      "bokakhuniors",
+      "independiente",
+      "barcelona"
     ],
     "leagues": [
       "premier-league",
-      "laliga"
+      "laliga",
+      "argentinskayaprimera"
     ],
     "managers": [
       "pep",
-      "simeone"
+      "simeone",
+      "diegosimeone",
+      "manuelpellegrini",
+      "robertomancini",
+      "pepguardiola"
     ],
     "tournaments": [
-      "ucl"
+      "ucl",
+      "apl",
+      "laliga",
+      "kubokanglii",
+      "kubokligianglii",
+      "superkubokanglii"
     ]
   },
   {
@@ -5654,17 +5891,35 @@ export const PLAYERS: PlayerSeed[] = [
     "clubs": [
       "khoffenkhaym",
       "arsenal",
-      "bavaria"
+      "bavaria",
+      "vfbstuttgartyouth",
+      "westbromwichalbionloan",
+      "werderbremen",
+      "tsghoffenheimloan",
+      "fcbayernmnchen"
     ],
     "leagues": [
       "premier-league",
       "bundesliga"
     ],
     "managers": [
-      "flick"
+      "flick",
+      "arsnewenger",
+      "tonypulis",
+      "alexandernouri",
+      "juliannagelsmann",
+      "nikokova",
+      "hansiflick",
+      "thomastuchel",
+      "vincentkompany"
     ],
     "tournaments": [
-      "ucl"
+      "ucl",
+      "bundesliga",
+      "kubokgermanii",
+      "superkubokgermanii",
+      "superkubokuefa",
+      "klubnyychempionatmira"
     ]
   },
   {
@@ -6481,12 +6736,24 @@ export const PLAYERS: PlayerSeed[] = [
     ],
     "managers": [
       "tuchel",
-      "luis-enrique"
+      "luis-enrique",
+      "philippemontanier",
+      "ralphhasenhttl",
+      "thomastuchel",
+      "lucienfavre",
+      "ernestovalverde",
+      "ronaldkoeman",
+      "xavihernndez",
+      "luisenrique"
     ],
     "tournaments": [
       "worldcup-winner",
       "worldcup",
-      "ucl"
+      "ucl",
+      "bundesliga",
+      "laliga",
+      "kubokispanii",
+      "kubokgermanii"
     ]
   },
   {
@@ -6840,39 +7107,6 @@ export const PLAYERS: PlayerSeed[] = [
     ]
   },
   {
-    "id": "edenazar",
-    "name": "Эден Азар",
-    "aliases": [
-      "эден азар",
-      "eden azar",
-      "азар"
-    ],
-    "nationality": "Belgium",
-    "position": "Player",
-    "clubs": [
-      "lille",
-      "chelsea",
-      "real-madrid"
-    ],
-    "leagues": [
-      "ligue1",
-      "premier-league",
-      "laliga"
-    ],
-    "managers": [
-      "ancelotti",
-      "mourinho",
-      "conte",
-      "maurisiosarri",
-      "rafaelbenites",
-      "rudigarsiya"
-    ],
-    "tournaments": [
-      "apl",
-      "uel"
-    ]
-  },
-  {
     "id": "kevindebryoyne",
     "name": "Кевин Де Брёйне",
     "aliases": [
@@ -7184,42 +7418,6 @@ export const PLAYERS: PlayerSeed[] = [
       "laliga",
       "seriyaa",
       "apl"
-    ]
-  },
-  {
-    "id": "garetbeyl",
-    "name": "Гарет Бейл",
-    "aliases": [
-      "гарет бейл",
-      "garet beyl",
-      "бейл"
-    ],
-    "nationality": "Wales",
-    "position": "Player",
-    "clubs": [
-      "southampton",
-      "tottenham",
-      "real-madrid",
-      "losangelesfc"
-    ],
-    "leagues": [
-      "premier-league",
-      "laliga",
-      "mls"
-    ],
-    "managers": [
-      "kharrirednapp",
-      "andrevillash-boash",
-      "maurisiopochettino",
-      "ancelotti",
-      "zidane",
-      "rafaelbenites",
-      "stivkuper"
-    ],
-    "tournaments": [
-      "ucl",
-      "laliga",
-      "kubokmls"
     ]
   },
   {
@@ -7651,42 +7849,6 @@ export const PLAYERS: PlayerSeed[] = [
     ]
   },
   {
-    "id": "dzhanluidzhibuffon",
-    "name": "Джанлуиджи Буффон",
-    "aliases": [
-      "джанлуиджи буффон",
-      "dzhanluidzhi buffon",
-      "буффон"
-    ],
-    "nationality": "Italy",
-    "position": "Player",
-    "clubs": [
-      "parma",
-      "juventus",
-      "psg"
-    ],
-    "leagues": [
-      "serie-a",
-      "ligue1"
-    ],
-    "managers": [
-      "carloancelotti",
-      "marcellolippi",
-      "fabiocapello",
-      "antonioconte",
-      "massimilianoallegri",
-      "mauriziosarri",
-      "gianpierogasperini"
-    ],
-    "tournaments": [
-      "seriyaa",
-      "liga1",
-      "kubokitalii",
-      "superkubokitalii",
-      "uel"
-    ]
-  },
-  {
     "id": "dzhordzhokellini",
     "name": "Джорджо Кьеллини",
     "aliases": [
@@ -7723,41 +7885,6 @@ export const PLAYERS: PlayerSeed[] = [
       "superkubokitalii",
       "liganatsiyuefa",
       "euro"
-    ]
-  },
-  {
-    "id": "serkhioaguero",
-    "name": "Серхио Агуэро",
-    "aliases": [
-      "серхио агуэро",
-      "serkhio aguero",
-      "агуэро"
-    ],
-    "nationality": "Argentina",
-    "position": "Player",
-    "clubs": [
-      "independiente",
-      "atletico",
-      "manchester-city",
-      "barcelona"
-    ],
-    "leagues": [
-      "argentinskayaprimera",
-      "laliga",
-      "premier-league"
-    ],
-    "managers": [
-      "diegosimeone",
-      "manuelpellegrini",
-      "robertomancini",
-      "pepguardiola"
-    ],
-    "tournaments": [
-      "apl",
-      "laliga",
-      "kubokanglii",
-      "kubokligianglii",
-      "superkubokanglii"
     ]
   },
   {
@@ -7807,42 +7934,6 @@ export const PLAYERS: PlayerSeed[] = [
       "kubokanglii",
       "superkubokuefa",
       "klubnyychempionatmira"
-    ]
-  },
-  {
-    "id": "matskhummels",
-    "name": "Матс Хуммельс",
-    "aliases": [
-      "матс хуммельс",
-      "mats khummels",
-      "хуммельс"
-    ],
-    "nationality": "Germany",
-    "position": "Player",
-    "clubs": [
-      "fcbayernmnchen",
-      "dortmund",
-      "roma"
-    ],
-    "leagues": [
-      "bundesliga",
-      "serie-a"
-    ],
-    "managers": [
-      "jrgenklopp",
-      "louisvangaal",
-      "juppheynckes",
-      "pepguardiola",
-      "lucienfavre",
-      "edinterzi",
-      "josmourinho"
-    ],
-    "tournaments": [
-      "bundesliga",
-      "kubokgermanii",
-      "superkubokgermanii",
-      "worldcup-winner",
-      "worldcup"
     ]
   },
   {
@@ -8562,81 +8653,6 @@ export const PLAYERS: PlayerSeed[] = [
       "kubokispanii",
       "superkubokispanii",
       "superkubokportugalii"
-    ]
-  },
-  {
-    "id": "filipplam",
-    "name": "Филипп Лам",
-    "aliases": [
-      "филипп лам",
-      "filipp lam",
-      "лам"
-    ],
-    "nationality": "Germany",
-    "position": "Player",
-    "clubs": [
-      "fcbayernmnchen",
-      "vfbstuttgart"
-    ],
-    "leagues": [
-      "bundesliga"
-    ],
-    "managers": [
-      "felixmagath",
-      "jrgenklinsmann",
-      "louisvangaal",
-      "juppheynckes",
-      "pepguardiola"
-    ],
-    "tournaments": [
-      "bundesliga",
-      "ucl",
-      "kubokgermanii",
-      "superkubokgermanii",
-      "klubnyychempionatmira",
-      "worldcup-winner",
-      "worldcup"
-    ]
-  },
-  {
-    "id": "bastianshvaynshtayger",
-    "name": "Бастиан Швайнштайгер",
-    "aliases": [
-      "бастиан швайнштайгер",
-      "bastian shvaynshtayger",
-      "швайнштайгер"
-    ],
-    "nationality": "Germany",
-    "position": "Player",
-    "clubs": [
-      "fcbayernmnchen",
-      "manchester-united",
-      "chicagofire"
-    ],
-    "leagues": [
-      "bundesliga",
-      "premier-league",
-      "mls"
-    ],
-    "managers": [
-      "ottmarhitzfeld",
-      "louisvangaal",
-      "juppheynckes",
-      "pepguardiola",
-      "carloancelotti",
-      "louisvangaalmanunited",
-      "josmourinho"
-    ],
-    "tournaments": [
-      "bundesliga",
-      "ucl",
-      "kubokgermanii",
-      "superkubokgermanii",
-      "klubnyychempionatmira",
-      "worldcup-winner",
-      "worldcup",
-      "kubokanglii",
-      "mls"
     ]
   },
   {
@@ -9628,90 +9644,6 @@ export const PLAYERS: PlayerSeed[] = [
     ]
   },
   {
-    "id": "seskfabregas",
-    "name": "Сеск Фабрегас",
-    "aliases": [
-      "сеск фабрегас",
-      "sesk fabregas",
-      "фабрегас"
-    ],
-    "nationality": "Spain",
-    "position": "Player",
-    "clubs": [
-      "barcelona",
-      "arsenal",
-      "chelsea",
-      "monaco",
-      "como"
-    ],
-    "leagues": [
-      "laliga",
-      "premier-league",
-      "ligue1",
-      "seriyab"
-    ],
-    "managers": [
-      "frankrijkaard",
-      "pepguardiola",
-      "arsnewenger",
-      "josmourinho",
-      "antonioconte",
-      "thierryhenry"
-    ],
-    "tournaments": [
-      "laliga",
-      "apl",
-      "liga1",
-      "kubokanglii",
-      "kubokispanii",
-      "worldcup-winner",
-      "worldcup",
-      "euro"
-    ]
-  },
-  {
-    "id": "ivanrakitich",
-    "name": "Иван Ракитич",
-    "aliases": [
-      "иван ракитич",
-      "ivan rakitich",
-      "ракитич"
-    ],
-    "nationality": "Croatia",
-    "position": "Player",
-    "clubs": [
-      "fcbasel",
-      "schalke04",
-      "sevilla",
-      "barcelona",
-      "al-shabab"
-    ],
-    "leagues": [
-      "superligashveytsarii",
-      "bundesliga",
-      "laliga",
-      "saudovskayapro-liga"
-    ],
-    "managers": [
-      "thomasschaaf",
-      "manuelpellegrini",
-      "unaiemery",
-      "luisenrique",
-      "ernestovalverde",
-      "quiquesetin",
-      "julenlopetegui",
-      "rudigarcia"
-    ],
-    "tournaments": [
-      "laliga",
-      "uel",
-      "kubokispanii",
-      "superkubokispanii",
-      "superkubokuefa",
-      "klubnyychempionatmira"
-    ]
-  },
-  {
     "id": "marekgamshik",
     "name": "Марек Гамшик",
     "aliases": [
@@ -9790,46 +9722,6 @@ export const PLAYERS: PlayerSeed[] = [
       "apl",
       "kubokniderlandov",
       "kubokportugalii"
-    ]
-  },
-  {
-    "id": "drismertens",
-    "name": "Дрис Мертенс",
-    "aliases": [
-      "дрис мертенс",
-      "dris mertens",
-      "мертенс"
-    ],
-    "nationality": "Belgium",
-    "position": "Player",
-    "clubs": [
-      "agovvapeldoorn",
-      "utrecht",
-      "psv",
-      "napoli",
-      "galatasaray"
-    ],
-    "leagues": [
-      "eredivisie",
-      "seriyaa",
-      "superligaturtsii"
-    ],
-    "managers": [
-      "ronjans",
-      "fredrutten",
-      "dickadvocaat",
-      "waltermazzarri",
-      "rafaelbentez",
-      "mauriziosarri",
-      "carloancelotti",
-      "gennarogattuso",
-      "okanburuk"
-    ],
-    "tournaments": [
-      "seriyaa",
-      "superkubokitalii",
-      "kubokturtsii",
-      "superkubokturtsii"
     ]
   },
   {
@@ -10053,43 +9945,6 @@ export const PLAYERS: PlayerSeed[] = [
       "superkubokuefa",
       "klubnyychempionatmira",
       "mlssupportersshield"
-    ]
-  },
-  {
-    "id": "tomasmyuller",
-    "name": "Томас Мюллер",
-    "aliases": [
-      "томас мюллер",
-      "tomas myuller",
-      "мюллер"
-    ],
-    "nationality": "Germany",
-    "position": "Player",
-    "clubs": [
-      "fcbayernmnchen",
-      "vancouverwhitecaps"
-    ],
-    "leagues": [
-      "bundesliga",
-      "mls"
-    ],
-    "managers": [
-      "louisvangaal",
-      "juppheynckes",
-      "pepguardiola",
-      "carloancelotti",
-      "nikokova",
-      "hansiflick",
-      "juliannagelsmann",
-      "thomastuchel"
-    ],
-    "tournaments": [
-      "bundesliga",
-      "kubokgermanii",
-      "superkubokgermanii",
-      "ucl",
-      "superkubokuefa",
-      "klubnyychempionatmira"
     ]
   },
   {
@@ -10849,44 +10704,6 @@ export const PLAYERS: PlayerSeed[] = [
     ]
   },
   {
-    "id": "ueynruni",
-    "name": "Уэйн Руни",
-    "aliases": [
-      "уэйн руни",
-      "ueyn runi",
-      "руни"
-    ],
-    "nationality": "England",
-    "position": "Player",
-    "clubs": [
-      "everton",
-      "manchester-united",
-      "dcunited",
-      "derbycounty"
-    ],
-    "leagues": [
-      "premier-league",
-      "mls",
-      "chempionship"
-    ],
-    "managers": [
-      "davidmoyes",
-      "siralexferguson",
-      "louisvangaal",
-      "josmourinho",
-      "olegunnarsolskjr",
-      "franklampard"
-    ],
-    "tournaments": [
-      "apl",
-      "kubokanglii",
-      "kubokligianglii",
-      "ucl",
-      "klubnyychempionatmira",
-      "mlscup"
-    ]
-  },
-  {
     "id": "andreabartsali",
     "name": "Андреа Барцальи",
     "aliases": [
@@ -10923,88 +10740,6 @@ export const PLAYERS: PlayerSeed[] = [
       "seriyaa",
       "kubokitalii",
       "superkubokitalii"
-    ]
-  },
-  {
-    "id": "vensankompani",
-    "name": "Венсан Компани",
-    "aliases": [
-      "венсан компани",
-      "vensan kompani",
-      "компани"
-    ],
-    "nationality": "Belgium",
-    "position": "Player",
-    "clubs": [
-      "anderlecht",
-      "hamburgersv",
-      "manchester-city"
-    ],
-    "leagues": [
-      "zhyupileproliga",
-      "bundesliga",
-      "premier-league"
-    ],
-    "managers": [
-      "frankyvercauteren",
-      "ariljacobs",
-      "thomasdoll",
-      "markhughes",
-      "robertomancini",
-      "manuelpellegrini",
-      "pepguardiola"
-    ],
-    "tournaments": [
-      "zhyupileproliga",
-      "apl",
-      "kubokanglii",
-      "kubokligianglii",
-      "superkubokanglii",
-      "bundesligaigrok-treneretap"
-    ]
-  },
-  {
-    "id": "karlosteves",
-    "name": "Карлос Тевес",
-    "aliases": [
-      "карлос тевес",
-      "karlos teves",
-      "тевес"
-    ],
-    "nationality": "Argentina",
-    "position": "Player",
-    "clubs": [
-      "bocajuniors",
-      "corinthians",
-      "westhamunited",
-      "manchester-united",
-      "manchester-city",
-      "juventus",
-      "shanghaishenhua"
-    ],
-    "leagues": [
-      "primeraargentiny",
-      "seriyaabrazilii",
-      "premier-league",
-      "seriyaa",
-      "kitayskayasuperliga"
-    ],
-    "managers": [
-      "carlosbianchi",
-      "tite",
-      "alanpardew",
-      "siralexferguson",
-      "robertomancini",
-      "antonioconte",
-      "marcelogallardo"
-    ],
-    "tournaments": [
-      "apl",
-      "seriyaa",
-      "kubokanglii",
-      "ucl",
-      "kuboklibertadores",
-      "kitayskayasuperliga"
     ]
   },
   {
@@ -12536,45 +12271,6 @@ export const PLAYERS: PlayerSeed[] = [
     ]
   },
   {
-    "id": "usmandembele",
-    "name": "Усман Дембеле",
-    "aliases": [
-      "усман дембеле",
-      "usman dembele",
-      "дембеле"
-    ],
-    "nationality": "France",
-    "position": "Player",
-    "clubs": [
-      "rennes",
-      "dortmund",
-      "barcelona",
-      "psg"
-    ],
-    "leagues": [
-      "ligue1",
-      "bundesliga",
-      "laliga"
-    ],
-    "managers": [
-      "philippemontanier",
-      "ralphhasenhttl",
-      "thomastuchel",
-      "lucienfavre",
-      "ernestovalverde",
-      "ronaldkoeman",
-      "xavihernndez",
-      "luisenrique"
-    ],
-    "tournaments": [
-      "bundesliga",
-      "laliga",
-      "kubokispanii",
-      "ucl",
-      "kubokgermanii"
-    ]
-  },
-  {
     "id": "milanshkriniar",
     "name": "Милан Шкриниар",
     "aliases": [
@@ -13043,91 +12739,6 @@ export const PLAYERS: PlayerSeed[] = [
       "superkubokgermanii",
       "klubnyychempionatmira",
       "superkubokuefa"
-    ]
-  },
-  {
-    "id": "dzhonterri",
-    "name": "Джон Терри",
-    "aliases": [
-      "джон терри",
-      "dzhon terri",
-      "терри"
-    ],
-    "nationality": "England",
-    "position": "Player",
-    "clubs": [
-      "chelsea",
-      "nottinghamforest",
-      "astonvilla"
-    ],
-    "leagues": [
-      "premier-league",
-      "chempionship"
-    ],
-    "managers": [
-      "claudioranieri",
-      "josmourinho",
-      "avramgrant",
-      "luizfelipescolari",
-      "carloancelotti",
-      "robertodimatteo",
-      "rafabentez",
-      "antonioconte",
-      "stevebruce"
-    ],
-    "tournaments": [
-      "apl",
-      "kubokanglii",
-      "kubokligianglii",
-      "superkubokanglii",
-      "ucl",
-      "uel"
-    ]
-  },
-  {
-    "id": "khavermaskerano",
-    "name": "Хавьер Маскерано",
-    "aliases": [
-      "хавьер маскерано",
-      "khaver maskerano",
-      "маскерано"
-    ],
-    "nationality": "Argentina",
-    "position": "Player",
-    "clubs": [
-      "riverplate",
-      "corinthians",
-      "westhamunited",
-      "liverpool",
-      "barcelona",
-      "hebeichinafortune",
-      "estudiantes"
-    ],
-    "leagues": [
-      "primeraargentiny",
-      "brazileyrao",
-      "premier-league",
-      "laliga",
-      "kitayskayasuperliga"
-    ],
-    "managers": [
-      "danielpassarella",
-      "carlosalbertoparreira",
-      "alanpardew",
-      "rafaelbentez",
-      "kennydalglish",
-      "pepguardiola",
-      "titovilanova",
-      "luisenrique",
-      "ernestovalverde"
-    ],
-    "tournaments": [
-      "laliga",
-      "kubokispanii",
-      "ucl",
-      "superkubokuefa",
-      "klubnyychempionatmira",
-      "olimpiyskieigry"
     ]
   },
   {
@@ -14616,47 +14227,6 @@ export const PLAYERS: PlayerSeed[] = [
       "kubokanglii",
       "ucl",
       "superkubokuefa"
-    ]
-  },
-  {
-    "id": "serzhgnabri",
-    "name": "Серж Гнабри",
-    "aliases": [
-      "серж гнабри",
-      "serzh gnabri",
-      "гнабри"
-    ],
-    "nationality": "Germany",
-    "position": "Player",
-    "clubs": [
-      "vfbstuttgartyouth",
-      "arsenal",
-      "westbromwichalbionloan",
-      "werderbremen",
-      "tsghoffenheimloan",
-      "fcbayernmnchen"
-    ],
-    "leagues": [
-      "premier-league",
-      "bundesliga"
-    ],
-    "managers": [
-      "arsnewenger",
-      "tonypulis",
-      "alexandernouri",
-      "juliannagelsmann",
-      "nikokova",
-      "hansiflick",
-      "thomastuchel",
-      "vincentkompany"
-    ],
-    "tournaments": [
-      "bundesliga",
-      "kubokgermanii",
-      "superkubokgermanii",
-      "ucl",
-      "superkubokuefa",
-      "klubnyychempionatmira"
     ]
   },
   {

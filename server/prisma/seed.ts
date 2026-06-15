@@ -375,7 +375,6 @@ const CLUBS = [
   { tag: 'duklaprague', name: 'Dukla Prague', country: '', leagueTag: '' },
   { tag: 'spartaprague', name: 'Sparta Prague', country: '', leagueTag: '' },
   { tag: 'argentinosjuniors', name: 'Argentinos Juniors', country: '', leagueTag: '' },
-  { tag: 'newellsoldboys', name: 'Newell\'s Old Boys', country: '', leagueTag: '' },
   { tag: 'talleres', name: 'Talleres', country: '', leagueTag: '' },
   { tag: 'banfield', name: 'Banfield', country: '', leagueTag: '' },
   { tag: 'santos', name: 'Santos', country: '', leagueTag: '' },
@@ -506,7 +505,6 @@ const CLUBS = [
   { tag: 'vflbochum', name: 'VfL Bochum', country: '', leagueTag: '' },
   { tag: 'avironbayonnais', name: 'Aviron Bayonnais', country: '', leagueTag: '' },
   { tag: 'athleticclub', name: 'Athletic Club', country: '', leagueTag: '' },
-  { tag: 'queenspark', name: 'Queen\'s Park', country: '', leagueTag: '' },
   { tag: 'dundeeunited', name: 'Dundee United', country: '', leagueTag: '' },
   { tag: 'hullcity', name: 'Hull City', country: '', leagueTag: '' },
   { tag: 'strmsgodset', name: 'Strømsgodset', country: '', leagueTag: '' },
@@ -680,7 +678,9 @@ const CLUBS = [
   { tag: 'bohemianspraha', name: 'Bohemians Praha', country: '', leagueTag: '' },
   { tag: 'rbleipzigloan', name: 'RB Leipzig (loan)', country: '', leagueTag: '' },
   { tag: 'borussiadortmundloan', name: 'Borussia Dortmund (loan)', country: '', leagueTag: '' },
-  { tag: '1fcklnyouth', name: '1. FC Köln (youth)', country: '', leagueTag: '' }
+  { tag: '1fcklnyouth', name: '1. FC Köln (youth)', country: '', leagueTag: '' },
+  { tag: 'newellsoldboys', name: 'Newell\'s Old Boys', country: '', leagueTag: '' },
+  { tag: 'queenspark', name: 'Queen\'s Park', country: '', leagueTag: '' }
 ];
 
 const TOURNAMENTS = [

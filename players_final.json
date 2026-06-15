@@ -1000,24 +1000,47 @@
 		],
 		"clubs": [
 			"Челси",
-			"Астон Вилла"
+			"Астон Вилла",
+			"Chelsea FC",
+			"Nottingham Forest",
+			"Aston Villa"
 		],
 		"leagues": [
-			"АПЛ"
+			"АПЛ",
+			"Чемпионшип"
 		],
 		"coaches": [
 			"Жозе Моуринью",
 			"Карло Анчелотти",
-			"Антонио Конте"
+			"Антонио Конте",
+			"Claudio Ranieri",
+			"José Mourinho",
+			"Avram Grant",
+			"Luiz Felipe Scolari",
+			"Carlo Ancelotti",
+			"Roberto Di Matteo",
+			"Rafa Benítez",
+			"Antonio Conte",
+			"Steve Bruce"
 		],
 		"trophies": [
-			"ЛЧ"
+			"ЛЧ",
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Суперкубок Англии",
+			"ЛЕ"
 		],
-		"max_overall": null,
-		"retired": null,
+		"aliases": [
+			"Терри Джон",
+			"Терри, Джон",
+			"джон терри"
+		],
+		"max_overall": 85,
+		"retired": true,
 		"ballon_dor": null,
-		"is_legend": null,
-		"nationality_valid": null
+		"is_legend": true,
+		"nationality_valid": true
 	},
 	{
 		"id": 30,
@@ -1915,24 +1938,55 @@
 			"Кор. де Хесус",
 			"Вест Хэм",
 			"Ливерпуль",
-			"Барселона"
+			"Барселона",
+			"River Plate",
+			"Corinthians",
+			"West Ham United",
+			"Liverpool FC",
+			"FC Barcelona",
+			"Hebei China Fortune",
+			"Estudiantes"
 		],
 		"leagues": [
 			"АПЛ",
 			"Ла Лига",
-			"Серия А"
+			"Серия А",
+			"Примера Аргентины",
+			"Бразилейрао",
+			"Китайская Суперлига"
 		],
 		"coaches": [
-			"Луис Энрике"
+			"Луис Энрике",
+			"Daniel Passarella",
+			"Carlos Alberto Parreira",
+			"Alan Pardew",
+			"Rafael Benítez",
+			"Kenny Dalglish",
+			"Pep Guardiola",
+			"Tito Vilanova",
+			"Luis Enrique",
+			"Ernesto Valverde"
 		],
 		"trophies": [
-			"ЛЧ"
+			"ЛЧ",
+			"Ла Лига",
+			"Кубок Испании",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира",
+			"Олимпийские игры"
 		],
-		"max_overall": null,
-		"retired": null,
+		"aliases": [
+			"Маскерано Хавьер",
+			"Маскерано",
+			"Маскерано Х.",
+			"Маскерано, Хавьер",
+			"хавьер маскерано"
+		],
+		"max_overall": 85,
+		"retired": true,
 		"ballon_dor": null,
-		"is_legend": null,
-		"nationality_valid": null
+		"is_legend": true,
+		"nationality_valid": true
 	},
 	{
 		"id": 57,
@@ -1948,25 +2002,49 @@
 			"Манчестер Юнайтед",
 			"Коринтианс",
 			"Ювентус",
-			"Манчестер Сити"
+			"Манчестер Сити",
+			"Boca Juniors",
+			"Corinthians",
+			"West Ham United",
+			"Manchester United",
+			"Manchester City",
+			"Juventus FC",
+			"Shanghai Shenhua"
 		],
 		"leagues": [
 			"АПЛ",
 			"Серия А",
-			"Бундеслига"
+			"Бундеслига",
+			"Примера Аргентины",
+			"Серия A Бразилии",
+			"Серия A",
+			"Китайская Суперлига"
 		],
 		"coaches": [
 			"Алекс Фергюсон",
-			"Антонио Конте"
+			"Антонио Конте",
+			"Carlos Bianchi",
+			"Tite",
+			"Alan Pardew",
+			"Sir Alex Ferguson",
+			"Roberto Mancini",
+			"Antonio Conte",
+			"Marcelo Gallardo"
 		],
 		"trophies": [
-			"ЛЧ"
+			"ЛЧ",
+			"АПЛ",
+			"Серия A",
+			"Кубок Англии",
+			"Кубок Либертадорес",
+			"Китайская Суперлига"
 		],
-		"max_overall": null,
-		"retired": null,
+		"aliases": [],
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": null,
-		"is_legend": null,
-		"nationality_valid": null
+		"is_legend": true,
+		"nationality_valid": true
 	},
 	{
 		"id": 58,
@@ -2337,16 +2415,29 @@
 			"Лига 1"
 		],
 		"coaches": [
-			"Антонио Конте"
+			"Антонио Конте",
+			"Carlo Ancelotti",
+			"Marcello Lippi",
+			"Fabio Capello",
+			"Antonio Conte",
+			"Massimiliano Allegri",
+			"Maurizio Sarri",
+			"Gian Piero Gasperini"
 		],
 		"trophies": [
-			"ЧМ"
+			"ЧМ",
+			"Серия А",
+			"Лига 1",
+			"Кубок Италии",
+			"Суперкубок Италии",
+			"ЛЕ"
 		],
+		"aliases": [],
 		"max_overall": 95,
 		"retired": true,
 		"ballon_dor": null,
-		"is_legend": null,
-		"nationality_valid": null
+		"is_legend": true,
+		"nationality_valid": true
 	},
 	{
 		"id": 70,
@@ -2690,27 +2781,46 @@
 			"Барселона",
 			"Ювентус",
 			"Челси",
-			"Монако"
+			"Монако",
+			"FC Barcelona",
+			"Arsenal FC",
+			"Chelsea FC",
+			"Monaco",
+			"Como"
 		],
 		"leagues": [
 			"АПЛ",
 			"Ла Лига",
-			"Серия А"
+			"Серия А",
+			"Лига 1",
+			"Серия B"
 		],
 		"coaches": [
 			"Арсен Венгер",
 			"Жозе Моуринью",
-			"Антонио Конте"
+			"Антонио Конте",
+			"Frank Rijkaard",
+			"Pep Guardiola",
+			"Arsène Wenger",
+			"José Mourinho",
+			"Antonio Conte",
+			"Thierry Henry"
 		],
 		"trophies": [
 			"ЧМ",
-			"Евро"
+			"Евро",
+			"Ла Лига",
+			"АПЛ",
+			"Лига 1",
+			"Кубок Англии",
+			"Кубок Испании"
 		],
-		"max_overall": null,
-		"retired": null,
+		"aliases": [],
+		"max_overall": 87,
+		"retired": true,
 		"ballon_dor": null,
-		"is_legend": null,
-		"nationality_valid": null
+		"is_legend": true,
+		"nationality_valid": true
 	},
 	{
 		"id": 82,
@@ -3144,25 +3254,47 @@
 			"Шальке",
 			"Барселона",
 			"Ювентус",
-			"Севилья"
+			"Севилья",
+			"FC Basel",
+			"Schalke 04",
+			"Sevilla",
+			"FC Barcelona",
+			"Al-Shabab"
 		],
 		"leagues": [
 			"АПЛ",
 			"Ла Лига",
 			"Бундеслига",
-			"Примейра-лига"
+			"Примейра-лига",
+			"Суперлига Швейцарии",
+			"Саудовская Про-лига"
 		],
 		"coaches": [
-			"Луис Энрике"
+			"Луис Энрике",
+			"Thomas Schaaf",
+			"Manuel Pellegrini",
+			"Unai Emery",
+			"Luis Enrique",
+			"Ernesto Valverde",
+			"Quique Setién",
+			"Julen Lopetegui",
+			"Rudi Garcia"
 		],
 		"trophies": [
-			"ЛЧ"
+			"ЛЧ",
+			"Ла Лига",
+			"ЛЕ",
+			"Кубок Испании",
+			"Суперкубок Испании",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
 		],
-		"max_overall": null,
-		"retired": null,
+		"aliases": [],
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": null,
-		"is_legend": null,
-		"nationality_valid": null
+		"is_legend": true,
+		"nationality_valid": true
 	},
 	{
 		"id": 96,
@@ -3299,7 +3431,10 @@
 		"clubs": [
 			"Лилль",
 			"Челси",
-			"Реал Мадрид"
+			"Реал Мадрид",
+			"Lille",
+			"Chelsea FC",
+			"Real Madrid"
 		],
 		"leagues": [
 			"АПЛ",
@@ -3309,17 +3444,23 @@
 		"coaches": [
 			"Жозе Моуринью",
 			"Антонио Конте",
-			"Зинедин Зидан"
+			"Зинедин Зидан",
+			"Карло Анчелотти",
+			"Маурисио Сарри",
+			"Рафаэль Бенитес",
+			"Руди Гарсия"
 		],
 		"trophies": [
 			"ЛЧ",
-			"ЛЕ"
+			"ЛЕ",
+			"АПЛ"
 		],
-		"max_overall": null,
-		"retired": null,
+		"aliases": [],
+		"max_overall": 91,
+		"retired": true,
 		"ballon_dor": null,
-		"is_legend": null,
-		"nationality_valid": null
+		"is_legend": true,
+		"nationality_valid": true
 	},
 	{
 		"id": 101,
@@ -3358,21 +3499,40 @@
 		"clubs": [
 			"Андерлехт",
 			"Тулуза",
-			"Манчестер Сити"
+			"Манчестер Сити",
+			"Anderlecht",
+			"Hamburger SV",
+			"Manchester City"
 		],
 		"leagues": [
 			"АПЛ",
-			"Бундеслига"
+			"Бундеслига",
+			"Жюпиле Про Лига"
 		],
 		"coaches": [
-			"Хосеп Гвардиола"
+			"Хосеп Гвардиола",
+			"Franky Vercauteren",
+			"Ariël Jacobs",
+			"Thomas Doll",
+			"Mark Hughes",
+			"Roberto Mancini",
+			"Manuel Pellegrini",
+			"Pep Guardiola"
 		],
-		"trophies": [],
-		"max_overall": null,
-		"retired": null,
+		"trophies": [
+			"Жюпиле Про Лига",
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Суперкубок Англии",
+			"Бундеслига (игрок-тренер этап)"
+		],
+		"aliases": [],
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": null,
-		"is_legend": null,
-		"nationality_valid": null
+		"is_legend": true,
+		"nationality_valid": true
 	},
 	{
 		"id": 103,
@@ -3386,20 +3546,43 @@
 			"Андерлехт",
 			"Брюгге",
 			"ПСВ",
-			"Наполи"
+			"Наполи",
+			"AGOVV Apeldoorn",
+			"Utrecht",
+			"PSV",
+			"Napoli",
+			"Galatasaray"
 		],
 		"leagues": [
 			"Серия А",
 			"Эредивизи",
-			"Турецкая Суперлига"
+			"Турецкая Суперлига",
+			"Серия A",
+			"Суперлига Турции"
 		],
-		"coaches": [],
-		"trophies": [],
-		"max_overall": null,
-		"retired": null,
+		"coaches": [
+			"Ron Jans",
+			"Fred Rutten",
+			"Dick Advocaat",
+			"Walter Mazzarri",
+			"Rafael Benítez",
+			"Maurizio Sarri",
+			"Carlo Ancelotti",
+			"Gennaro Gattuso",
+			"Okan Buruk"
+		],
+		"trophies": [
+			"Серия A",
+			"Суперкубок Италии",
+			"Кубок Турции",
+			"Суперкубок Турции"
+		],
+		"aliases": [],
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": null,
-		"is_legend": null,
-		"nationality_valid": null
+		"is_legend": true,
+		"nationality_valid": true
 	},
 	{
 		"id": 104,
@@ -3410,26 +3593,43 @@
 			"Германия"
 		],
 		"clubs": [
-			"Байерн Мюнхен"
+			"Байерн Мюнхен",
+			"FC Bayern München",
+			"Vancouver Whitecaps"
 		],
 		"leagues": [
-			"Бундеслига"
+			"Бундеслига",
+			"MLS"
 		],
 		"coaches": [
 			"Хосеп Гвардиола",
 			"Карло Анчелотти",
 			"Юпп Хайнкес",
-			"Ханс-Дитер Флик"
+			"Ханс-Дитер Флик",
+			"Louis van Gaal",
+			"Jupp Heynckes",
+			"Pep Guardiola",
+			"Carlo Ancelotti",
+			"Niko Kovač",
+			"Hansi Flick",
+			"Julian Nagelsmann",
+			"Thomas Tuchel"
 		],
 		"trophies": [
 			"ЛЧ",
-			"ЧМ"
+			"ЧМ",
+			"Бундеслига",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
 		],
-		"max_overall": null,
-		"retired": null,
+		"aliases": [],
+		"max_overall": 87,
+		"retired": false,
 		"ballon_dor": null,
-		"is_legend": null,
-		"nationality_valid": null
+		"is_legend": true,
+		"nationality_valid": true
 	},
 	{
 		"id": 105,
@@ -3443,25 +3643,43 @@
 			"ВФБ Штутгарт",
 			"Байерн Мюнхен",
 			"Манчестер Юнайтед",
-			"Бешикташ"
+			"Бешикташ",
+			"FC Bayern München",
+			"Manchester United",
+			"Chicago Fire"
 		],
 		"leagues": [
 			"АПЛ",
-			"Бундеслига"
+			"Бундеслига",
+			"MLS"
 		],
 		"coaches": [
 			"Хосеп Гвардиола",
-			"Юпп Хайнкес"
+			"Юпп Хайнкес",
+			"Ottmar Hitzfeld",
+			"Louis van Gaal",
+			"Jupp Heynckes",
+			"Pep Guardiola",
+			"Carlo Ancelotti",
+			"Louis van Gaal (Man United)",
+			"José Mourinho"
 		],
 		"trophies": [
 			"ЛЧ",
-			"ЧМ"
+			"ЧМ",
+			"Бундеслига",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Клубный чемпионат мира",
+			"Кубок Англии",
+			"MLS"
 		],
-		"max_overall": null,
-		"retired": null,
+		"aliases": [],
+		"max_overall": 88,
+		"retired": true,
 		"ballon_dor": null,
-		"is_legend": null,
-		"nationality_valid": null
+		"is_legend": true,
+		"nationality_valid": true
 	},
 	{
 		"id": 106,
@@ -3474,7 +3692,10 @@
 		"clubs": [
 			"Вердер Бремен",
 			"Боруссия Дортмунд",
-			"Байерн Мюнхен"
+			"Байерн Мюнхен",
+			"FC Bayern München",
+			"Borussia Dortmund",
+			"AS Roma"
 		],
 		"leagues": [
 			"Бундеслига",
@@ -3483,17 +3704,28 @@
 		"coaches": [
 			"Хосеп Гвардиола",
 			"Юпп Хайнкес",
-			"Томас Тухель"
+			"Томас Тухель",
+			"Jürgen Klopp",
+			"Louis van Gaal",
+			"Jupp Heynckes",
+			"Pep Guardiola",
+			"Lucien Favre",
+			"Edin Terzić",
+			"José Mourinho "
 		],
 		"trophies": [
 			"ЛЧ",
-			"ЧМ"
+			"ЧМ",
+			"Бундеслига",
+			"Кубок Германии",
+			"Суперкубок Германии"
 		],
-		"max_overall": null,
-		"retired": null,
+		"aliases": [],
+		"max_overall": 89,
+		"retired": false,
 		"ballon_dor": null,
-		"is_legend": null,
-		"nationality_valid": null
+		"is_legend": true,
+		"nationality_valid": true
 	},
 	{
 		"id": 107,
@@ -3504,24 +3736,36 @@
 			"Германия"
 		],
 		"clubs": [
-			"Байерн Мюнхен"
+			"Байерн Мюнхен",
+			"FC Bayern München",
+			"VfB Stuttgart"
 		],
 		"leagues": [
 			"Бундеслига"
 		],
 		"coaches": [
 			"Хосеп Гвардиола",
-			"Юпп Хайнкес"
+			"Юпп Хайнкес",
+			"Felix Magath",
+			"Jürgen Klinsmann",
+			"Louis van Gaal",
+			"Jupp Heynckes",
+			"Pep Guardiola"
 		],
 		"trophies": [
 			"ЛЧ",
-			"ЧМ"
+			"ЧМ",
+			"Бундеслига",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Клубный чемпионат мира"
 		],
-		"max_overall": null,
-		"retired": null,
+		"aliases": [],
+		"max_overall": 88,
+		"retired": true,
 		"ballon_dor": null,
-		"is_legend": null,
-		"nationality_valid": null
+		"is_legend": true,
+		"nationality_valid": true
 	},
 	{
 		"id": 108,
@@ -4755,22 +4999,40 @@
 		"clubs": [
 			"Эвертон",
 			"Манчестер Юнайтед",
-			"ДС Юнайтед"
+			"ДС Юнайтед",
+			"Everton",
+			"Manchester United",
+			"D.C. United",
+			"Derby County"
 		],
 		"leagues": [
-			"АПЛ"
+			"АПЛ",
+			"MLS",
+			"Чемпионшип"
 		],
 		"coaches": [
-			"Алекс Фергюсон"
+			"Алекс Фергюсон",
+			"David Moyes",
+			"Sir Alex Ferguson",
+			"Louis van Gaal",
+			"José Mourinho",
+			"Ole Gunnar Solskjær",
+			"Frank Lampard"
 		],
 		"trophies": [
-			"ЛЧ"
+			"ЛЧ",
+			"АПЛ",
+			"Кубок Англии",
+			"Кубок Лиги Англии",
+			"Клубный чемпионат мира",
+			"MLS Cup"
 		],
-		"max_overall": null,
-		"retired": null,
+		"aliases": [],
+		"max_overall": 86,
+		"retired": true,
 		"ballon_dor": null,
-		"is_legend": null,
-		"nationality_valid": null
+		"is_legend": true,
+		"nationality_valid": true
 	},
 	{
 		"id": 147,
@@ -5492,25 +5754,38 @@
 		"clubs": [
 			"Тоттенхэм",
 			"Реал Мадрид",
-			"Астон Вилла"
+			"Астон Вилла",
+			"Southampton",
+			"Tottenham Hotspur",
+			"Real Madrid",
+			"Los Angeles FC"
 		],
 		"leagues": [
 			"АПЛ",
 			"Ла Лига",
-			"Бундеслига"
+			"Бундеслига",
+			"MLS"
 		],
 		"coaches": [
 			"Зинедин Зидан",
-			"Карло Анчелотти"
+			"Карло Анчелотти",
+			"Харри Реднапп",
+			"Андре Виллаш-Боаш",
+			"Маурисио Почеттино",
+			"Рафаэль Бенитес",
+			"Стив Купер"
 		],
 		"trophies": [
-			"ЛЧ"
+			"ЛЧ",
+			"Ла Лига",
+			"Кубок MLS"
 		],
-		"max_overall": null,
-		"retired": null,
+		"aliases": [],
+		"max_overall": 90,
+		"retired": true,
 		"ballon_dor": null,
-		"is_legend": null,
-		"nationality_valid": null
+		"is_legend": true,
+		"nationality_valid": true
 	},
 	{
 		"id": 172,
@@ -6004,24 +6279,39 @@
 			"Индепендьенте",
 			"Атлетико Мадрид",
 			"Манчестер Сити",
-			"Бока Хуниорс"
+			"Бока Хуниорс",
+			"Independiente",
+			"Atlético Madrid",
+			"Manchester City",
+			"FC Barcelona"
 		],
 		"leagues": [
 			"АПЛ",
-			"Ла Лига"
+			"Ла Лига",
+			"Аргентинская Примера"
 		],
 		"coaches": [
 			"Хосеп Гвардиола",
-			"Диего Симеоне"
+			"Диего Симеоне",
+			"Diego Simeone",
+			"Manuel Pellegrini",
+			"Roberto Mancini",
+			"Pep Guardiola"
 		],
 		"trophies": [
-			"ЛЧ"
+			"ЛЧ",
+			"АПЛ",
+			"Ла Лига",
+			"Кубок Англии",
+			"Кубок лиги Англии",
+			"Суперкубок Англии"
 		],
-		"max_overall": null,
-		"retired": null,
+		"aliases": [],
+		"max_overall": 89,
+		"retired": true,
 		"ballon_dor": null,
-		"is_legend": null,
-		"nationality_valid": null
+		"is_legend": true,
+		"nationality_valid": true
 	},
 	{
 		"id": 190,
@@ -6305,23 +6595,46 @@
 		"clubs": [
 			"Хоффенхайм",
 			"Арсенал",
-			"Байерн Мюнхен"
+			"Байерн Мюнхен",
+			"VfB Stuttgart (youth)",
+			"Arsenal FC",
+			"West Bromwich Albion (loan)",
+			"Werder Bremen",
+			"TSG Hoffenheim (loan)",
+			"FC Bayern München"
 		],
 		"leagues": [
 			"АПЛ",
 			"Бундеслига"
 		],
 		"coaches": [
-			"Ханс-Дитер Флик"
+			"Ханс-Дитер Флик",
+			"Arsène Wenger",
+			"Tony Pulis",
+			"Alexander Nouri",
+			"Julian Nagelsmann",
+			"Niko Kovač",
+			"Hansi Flick",
+			"Thomas Tuchel",
+			"Vincent Kompany"
 		],
 		"trophies": [
-			"ЛЧ"
+			"ЛЧ",
+			"Бундеслига",
+			"Кубок Германии",
+			"Суперкубок Германии",
+			"Суперкубок УЕФА",
+			"Клубный чемпионат мира"
 		],
-		"max_overall": null,
-		"retired": null,
+		"aliases": [
+			"Гнабри, Серж",
+			"серж гнабри"
+		],
+		"max_overall": 85,
+		"retired": false,
 		"ballon_dor": null,
 		"is_legend": null,
-		"nationality_valid": null
+		"nationality_valid": true
 	},
 	{
 		"id": 200,
@@ -7225,17 +7538,33 @@
 		],
 		"coaches": [
 			"Томас Тухель",
-			"Луис Энрике"
+			"Луис Энрике",
+			"Philippe Montanier",
+			"Ralph Hasenhüttl",
+			"Thomas Tuchel",
+			"Lucien Favre",
+			"Ernesto Valverde",
+			"Ronald Koeman",
+			"Xavi Hernández",
+			"Luis Enrique"
 		],
 		"trophies": [
 			"ЧМ",
-			"ЛЧ"
+			"ЛЧ",
+			"Бундеслига",
+			"Ла Лига",
+			"Кубок Испании",
+			"Кубок Германии"
+		],
+		"aliases": [
+			"Дембеле, Усман",
+			"усман дембеле"
 		],
 		"max_overall": 88,
 		"retired": false,
-		"ballon_dor": null,
+		"ballon_dor": true,
 		"is_legend": null,
-		"nationality_valid": null
+		"nationality_valid": true
 	},
 	{
 		"id": 231,
@@ -7615,42 +7944,6 @@
 	},
 	{
 		"id": 240,
-		"name": "Эден Азар",
-		"short_name": "Азар",
-		"role": "player",
-		"nationality": [
-			"Бельгия"
-		],
-		"clubs": [
-			"Lille",
-			"Chelsea FC",
-			"Real Madrid"
-		],
-		"leagues": [
-			"Лига 1",
-			"АПЛ",
-			"Ла Лига"
-		],
-		"coaches": [
-			"Карло Анчелотти",
-			"Жозе Моуринью",
-			"Антонио Конте",
-			"Маурисио Сарри",
-			"Рафаэль Бенитес",
-			"Руди Гарсия"
-		],
-		"trophies": [
-			"АПЛ",
-			"ЛЕ"
-		],
-		"max_overall": 91,
-		"retired": true,
-		"ballon_dor": false,
-		"is_legend": true,
-		"nationality_valid": true
-	},
-	{
-		"id": 241,
 		"name": "Кевин Де Брёйне",
 		"short_name": "Брёйне",
 		"role": "player",
@@ -7691,7 +7984,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 242,
+		"id": 241,
 		"name": "Давид де Хеа",
 		"short_name": "Хеа",
 		"role": "player",
@@ -7730,7 +8023,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 243,
+		"id": 242,
 		"name": "Ян Облак",
 		"short_name": "Облак",
 		"role": "player",
@@ -7765,7 +8058,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 244,
+		"id": 243,
 		"name": "Килиан Мбаппе",
 		"short_name": "Мбаппе",
 		"role": "player",
@@ -7803,7 +8096,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 245,
+		"id": 244,
 		"name": "Эрлинг Холанн",
 		"short_name": "Холанн",
 		"role": "player",
@@ -7845,7 +8138,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 246,
+		"id": 245,
 		"name": "Арьен Роббен",
 		"short_name": "Роббен",
 		"role": "player",
@@ -7888,7 +8181,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 247,
+		"id": 246,
 		"name": "Златан Ибрагимович",
 		"short_name": "Ибрагимович",
 		"role": "player",
@@ -7941,7 +8234,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 248,
+		"id": 247,
 		"name": "Гонсало Игуаин",
 		"short_name": "Игуаин",
 		"role": "player",
@@ -7987,46 +8280,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 249,
-		"name": "Гарет Бейл",
-		"short_name": "Бейл",
-		"role": "player",
-		"nationality": [
-			"Уэльс"
-		],
-		"clubs": [
-			"Southampton",
-			"Tottenham Hotspur",
-			"Real Madrid",
-			"Los Angeles FC"
-		],
-		"leagues": [
-			"АПЛ",
-			"Ла Лига",
-			"MLS"
-		],
-		"coaches": [
-			"Харри Реднапп",
-			"Андре Виллаш-Боаш",
-			"Маурисио Почеттино",
-			"Карло Анчелотти",
-			"Зинедин Зидан",
-			"Рафаэль Бенитес",
-			"Стив Купер"
-		],
-		"trophies": [
-			"ЛЧ",
-			"Ла Лига",
-			"Кубок MLS"
-		],
-		"max_overall": 90,
-		"retired": true,
-		"ballon_dor": false,
-		"is_legend": true,
-		"nationality_valid": true
-	},
-	{
-		"id": 250,
+		"id": 248,
 		"name": "Диего Годин",
 		"short_name": "Годин",
 		"role": "player",
@@ -8066,7 +8320,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 251,
+		"id": 249,
 		"name": "Жером Боатенг",
 		"short_name": "Боатенг",
 		"role": "player",
@@ -8110,7 +8364,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 252,
+		"id": 250,
 		"name": "Тибо Куртуа",
 		"short_name": "Куртуа",
 		"role": "player",
@@ -8152,7 +8406,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 253,
+		"id": 251,
 		"name": "Марк Андре тер Штеген",
 		"short_name": "Штеген",
 		"role": "player",
@@ -8188,7 +8442,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 254,
+		"id": 252,
 		"name": "Гарри Кейн",
 		"short_name": "Кейн",
 		"role": "player",
@@ -8228,7 +8482,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 255,
+		"id": 253,
 		"name": "Вирджил ван Дейк",
 		"short_name": "Дейк",
 		"role": "player",
@@ -8269,7 +8523,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 256,
+		"id": 254,
 		"name": "Садио Мане",
 		"short_name": "Мане",
 		"role": "player",
@@ -8315,7 +8569,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 257,
+		"id": 255,
 		"name": "Мохаммед Салах",
 		"short_name": "Салах",
 		"role": "player",
@@ -8357,7 +8611,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 258,
+		"id": 256,
 		"name": "Алисон Бекер",
 		"short_name": "Бекер",
 		"role": "player",
@@ -8395,7 +8649,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 259,
+		"id": 257,
 		"name": "Н’Голо Канте",
 		"short_name": "Канте",
 		"role": "player",
@@ -8442,7 +8696,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 260,
+		"id": 258,
 		"name": "Андрес Иньеста",
 		"short_name": "Иньеста",
 		"role": "player",
@@ -8485,46 +8739,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 261,
-		"name": "Джанлуиджи Буффон",
-		"short_name": "Буффон",
-		"role": "player",
-		"nationality": [
-			"Италия"
-		],
-		"clubs": [
-			"Parma",
-			"Juventus FC",
-			"Paris Saint-Germain"
-		],
-		"leagues": [
-			"Серия А",
-			"Лига 1"
-		],
-		"coaches": [
-			"Carlo Ancelotti",
-			"Marcello Lippi",
-			"Fabio Capello",
-			"Antonio Conte",
-			"Massimiliano Allegri",
-			"Maurizio Sarri",
-			"Gian Piero Gasperini"
-		],
-		"trophies": [
-			"Серия А",
-			"Лига 1",
-			"Кубок Италии",
-			"Суперкубок Италии",
-			"ЛЕ"
-		],
-		"max_overall": 89,
-		"retired": true,
-		"ballon_dor": false,
-		"is_legend": true,
-		"nationality_valid": true
-	},
-	{
-		"id": 262,
+		"id": 259,
 		"name": "Джорджо Кьеллини",
 		"short_name": "Кьеллини",
 		"role": "player",
@@ -8566,45 +8781,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 263,
-		"name": "Серхио Агуэро",
-		"short_name": "Агуэро",
-		"role": "player",
-		"nationality": [
-			"Аргентина"
-		],
-		"clubs": [
-			"Independiente",
-			"Atlético Madrid",
-			"Manchester City",
-			"FC Barcelona"
-		],
-		"leagues": [
-			"Аргентинская Примера",
-			"Ла Лига",
-			"АПЛ"
-		],
-		"coaches": [
-			"Diego Simeone",
-			"Manuel Pellegrini",
-			"Roberto Mancini",
-			"Pep Guardiola"
-		],
-		"trophies": [
-			"АПЛ",
-			"Ла Лига",
-			"Кубок Англии",
-			"Кубок лиги Англии",
-			"Суперкубок Англии"
-		],
-		"max_overall": 89,
-		"retired": true,
-		"ballon_dor": false,
-		"is_legend": true,
-		"nationality_valid": true
-	},
-	{
-		"id": 264,
+		"id": 260,
 		"name": "Тиагу Силва",
 		"short_name": "Силва",
 		"role": "player",
@@ -8656,45 +8833,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 265,
-		"name": "Матс Хуммельс",
-		"short_name": "Хуммельс",
-		"role": "player",
-		"nationality": [
-			"Германия"
-		],
-		"clubs": [
-			"FC Bayern München",
-			"Borussia Dortmund",
-			"AS Roma"
-		],
-		"leagues": [
-			"Бундеслига",
-			"Серия А"
-		],
-		"coaches": [
-			"Jürgen Klopp",
-			"Louis van Gaal",
-			"Jupp Heynckes",
-			"Pep Guardiola",
-			"Lucien Favre",
-			"Edin Terzić",
-			"José Mourinho "
-		],
-		"trophies": [
-			"Бундеслига",
-			"Кубок Германии",
-			"Суперкубок Германии",
-			"ЧМ"
-		],
-		"max_overall": 89,
-		"retired": false,
-		"ballon_dor": false,
-		"is_legend": true,
-		"nationality_valid": true
-	},
-	{
-		"id": 266,
+		"id": 261,
 		"name": "Эдинсон Кавани",
 		"short_name": "Кавани",
 		"role": "player",
@@ -8744,7 +8883,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 267,
+		"id": 262,
 		"name": "Алексис Санчес",
 		"short_name": "Санчес",
 		"role": "player",
@@ -8798,7 +8937,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 268,
+		"id": 263,
 		"name": "Серхио Бускетс",
 		"short_name": "Бускетс",
 		"role": "player",
@@ -8839,7 +8978,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 269,
+		"id": 264,
 		"name": "Антуан Гризманн",
 		"short_name": "Гризманн",
 		"role": "player",
@@ -8879,7 +9018,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 270,
+		"id": 265,
 		"name": "Франсиско Роман Аларкон",
 		"short_name": "Аларкон",
 		"role": "player",
@@ -8919,7 +9058,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 271,
+		"id": 266,
 		"name": "Сон Хын Мин",
 		"short_name": "Мин",
 		"role": "player",
@@ -8957,7 +9096,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 272,
+		"id": 267,
 		"name": "Carlos Henrique Venancio Casimiro",
 		"short_name": "Casemiro",
 		"role": "player",
@@ -9004,7 +9143,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 273,
+		"id": 268,
 		"name": "Калиду Кулибали",
 		"short_name": "Кулибали",
 		"role": "player",
@@ -9050,7 +9189,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 274,
+		"id": 269,
 		"name": "Эдерсон Сантана ди Мораес",
 		"short_name": "Мораес",
 		"role": "player",
@@ -9090,7 +9229,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 275,
+		"id": 270,
 		"name": "Паоло Дибала",
 		"short_name": "Дибала",
 		"role": "player",
@@ -9129,7 +9268,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 276,
+		"id": 271,
 		"name": "Йозуа Киммих",
 		"short_name": "Киммих",
 		"role": "player",
@@ -9168,7 +9307,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 277,
+		"id": 272,
 		"name": "Джанлуиджи Доннарумма",
 		"short_name": "Доннарумма",
 		"role": "player",
@@ -9211,7 +9350,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 278,
+		"id": 273,
 		"name": "Родриго Эрнандес",
 		"short_name": "Эрнандес",
 		"role": "player",
@@ -9247,7 +9386,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 279,
+		"id": 274,
 		"name": "José Paulo Bezzera Maciel Júnior",
 		"short_name": "Paulinho",
 		"role": "player",
@@ -9312,7 +9451,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 280,
+		"id": 275,
 		"name": "Рубен Диаш",
 		"short_name": "Диаш",
 		"role": "player",
@@ -9347,7 +9486,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 281,
+		"id": 276,
 		"name": "Робин Ван Перси",
 		"short_name": "Перси",
 		"role": "player",
@@ -9385,7 +9524,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 282,
+		"id": 277,
 		"name": "Петр Чех",
 		"short_name": "Чех",
 		"role": "player",
@@ -9426,7 +9565,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 283,
+		"id": 278,
 		"name": "Kléper Laveran de Lima Ferreira",
 		"short_name": "Pepe",
 		"role": "player",
@@ -9468,86 +9607,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 284,
-		"name": "Филипп Лам",
-		"short_name": "Лам",
-		"role": "player",
-		"nationality": [
-			"Германия"
-		],
-		"clubs": [
-			"FC Bayern München",
-			"VfB Stuttgart"
-		],
-		"leagues": [
-			"Бундеслига"
-		],
-		"coaches": [
-			"Felix Magath",
-			"Jürgen Klinsmann",
-			"Louis van Gaal",
-			"Jupp Heynckes",
-			"Pep Guardiola"
-		],
-		"trophies": [
-			"Бундеслига",
-			"ЛЧ",
-			"Кубок Германии",
-			"Суперкубок Германии",
-			"Клубный чемпионат мира",
-			"ЧМ"
-		],
-		"max_overall": 88,
-		"retired": true,
-		"ballon_dor": false,
-		"is_legend": true,
-		"nationality_valid": true
-	},
-	{
-		"id": 285,
-		"name": "Бастиан Швайнштайгер",
-		"short_name": "Швайнштайгер",
-		"role": "player",
-		"nationality": [
-			"Германия"
-		],
-		"clubs": [
-			"FC Bayern München",
-			"Manchester United",
-			"Chicago Fire"
-		],
-		"leagues": [
-			"Бундеслига",
-			"АПЛ",
-			"MLS"
-		],
-		"coaches": [
-			"Ottmar Hitzfeld",
-			"Louis van Gaal",
-			"Jupp Heynckes",
-			"Pep Guardiola",
-			"Carlo Ancelotti",
-			"Louis van Gaal (Man United)",
-			"José Mourinho"
-		],
-		"trophies": [
-			"Бундеслига",
-			"ЛЧ",
-			"Кубок Германии",
-			"Суперкубок Германии",
-			"Клубный чемпионат мира",
-			"ЧМ",
-			"Кубок Англии",
-			"MLS"
-		],
-		"max_overall": 88,
-		"retired": true,
-		"ballon_dor": false,
-		"is_legend": true,
-		"nationality_valid": true
-	},
-	{
-		"id": 286,
+		"id": 279,
 		"name": "Жерар Пике",
 		"short_name": "Пике",
 		"role": "player",
@@ -9590,7 +9650,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 287,
+		"id": 280,
 		"name": "Франк Рибери",
 		"short_name": "Рибери",
 		"role": "player",
@@ -9639,7 +9699,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 288,
+		"id": 281,
 		"name": "Самир Ханданович",
 		"short_name": "Ханданович",
 		"role": "player",
@@ -9674,7 +9734,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 289,
+		"id": 282,
 		"name": "Радамель Фалькао Гарсия",
 		"short_name": "Гарсия",
 		"role": "player",
@@ -9725,7 +9785,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 290,
+		"id": 283,
 		"name": "Юго Льорис",
 		"short_name": "Льорис",
 		"role": "player",
@@ -9766,7 +9826,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 291,
+		"id": 284,
 		"name": "Леонардо Бонуччи",
 		"short_name": "Бонуччи",
 		"role": "player",
@@ -9810,7 +9870,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 292,
+		"id": 285,
 		"name": "Марко Ройс",
 		"short_name": "Ройс",
 		"role": "player",
@@ -9849,7 +9909,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 293,
+		"id": 286,
 		"name": "Пьер-Эмерик Обамейянг",
 		"short_name": "Обамейянг",
 		"role": "player",
@@ -9902,7 +9962,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 294,
+		"id": 287,
 		"name": "Филипе Коутиньо",
 		"short_name": "Коутиньо",
 		"role": "player",
@@ -9952,7 +10012,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 295,
+		"id": 288,
 		"name": "Тьяго Алкантара",
 		"short_name": "Алкантара",
 		"role": "player",
@@ -9993,7 +10053,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 296,
+		"id": 289,
 		"name": "Кристиан Эриксен",
 		"short_name": "Эриксен",
 		"role": "player",
@@ -10035,7 +10095,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 297,
+		"id": 290,
 		"name": "Romelu Lukaku Menama",
 		"short_name": "R. Lukaku",
 		"role": "player",
@@ -10078,7 +10138,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 298,
+		"id": 291,
 		"name": "Кейлор Навас",
 		"short_name": "Навас",
 		"role": "player",
@@ -10128,7 +10188,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 299,
+		"id": 292,
 		"name": "Поль Погба",
 		"short_name": "Погба",
 		"role": "player",
@@ -10170,7 +10230,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 300,
+		"id": 293,
 		"name": "Лоренцо Инсинье",
 		"short_name": "Инсинье",
 		"role": "player",
@@ -10209,7 +10269,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 301,
+		"id": 294,
 		"name": "Хамес Родригес",
 		"short_name": "Родригес",
 		"role": "player",
@@ -10267,7 +10327,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 302,
+		"id": 295,
 		"name": "Рахим Стерлинг",
 		"short_name": "Стерлинг",
 		"role": "player",
@@ -10308,7 +10368,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 303,
+		"id": 296,
 		"name": "Маркиньос",
 		"short_name": "Маркиньос",
 		"role": "player",
@@ -10350,7 +10410,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 304,
+		"id": 297,
 		"name": "Жуан Канселу",
 		"short_name": "Канселу",
 		"role": "player",
@@ -10402,7 +10462,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 305,
+		"id": 298,
 		"name": "Бруну Фернандеш",
 		"short_name": "Фернандеш",
 		"role": "player",
@@ -10448,7 +10508,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 306,
+		"id": 299,
 		"name": "Бернарду Силва",
 		"short_name": "Силва",
 		"role": "player",
@@ -10484,7 +10544,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 307,
+		"id": 300,
 		"name": "Виктор Осимхен",
 		"short_name": "Осимхен",
 		"role": "player",
@@ -10528,7 +10588,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 308,
+		"id": 301,
 		"name": "Федерико Вальверде",
 		"short_name": "Вальверде",
 		"role": "player",
@@ -10569,7 +10629,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 309,
+		"id": 302,
 		"name": "Фернандиньо",
 		"short_name": "Фернандиньо",
 		"role": "player",
@@ -10607,96 +10667,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 310,
-		"name": "Сеск Фабрегас",
-		"short_name": "Фабрегас",
-		"role": "player",
-		"nationality": [
-			"Испания"
-		],
-		"clubs": [
-			"FC Barcelona",
-			"Arsenal FC",
-			"Chelsea FC",
-			"Monaco",
-			"Como"
-		],
-		"leagues": [
-			"Ла Лига",
-			"АПЛ",
-			"Лига 1",
-			"Серия B"
-		],
-		"coaches": [
-			"Frank Rijkaard",
-			"Pep Guardiola",
-			"Arsène Wenger",
-			"José Mourinho",
-			"Antonio Conte",
-			"Thierry Henry"
-		],
-		"trophies": [
-			"Ла Лига",
-			"АПЛ",
-			"Лига 1",
-			"Кубок Англии",
-			"Кубок Испании",
-			"ЧМ",
-			"Евро"
-		],
-		"max_overall": 87,
-		"retired": true,
-		"ballon_dor": false,
-		"is_legend": true,
-		"nationality_valid": true
-	},
-	{
-		"id": 311,
-		"name": "Иван Ракитич",
-		"short_name": "Ракитич",
-		"role": "player",
-		"nationality": [
-			"Хорватия"
-		],
-		"clubs": [
-			"FC Basel",
-			"Schalke 04",
-			"Sevilla",
-			"FC Barcelona",
-			"Al-Shabab"
-		],
-		"leagues": [
-			"Суперлига Швейцарии",
-			"Бундеслига",
-			"Ла Лига",
-			"Саудовская Про-лига"
-		],
-		"coaches": [
-			"Thomas Schaaf",
-			"Manuel Pellegrini",
-			"Unai Emery",
-			"Luis Enrique",
-			"Ernesto Valverde",
-			"Quique Setién",
-			"Julen Lopetegui",
-			"Rudi Garcia"
-		],
-		"trophies": [
-			"Ла Лига",
-			"ЛЕ",
-			"Кубок Испании",
-			"Суперкубок Испании",
-			"Суперкубок УЕФА",
-			"Клубный чемпионат мира"
-		],
-		"max_overall": 87,
-		"retired": false,
-		"ballon_dor": false,
-		"is_legend": true,
-		"nationality_valid": true
-	},
-	{
-		"id": 312,
+		"id": 303,
 		"name": "Марек Гамшик",
 		"short_name": "Гамшик",
 		"role": "player",
@@ -10743,7 +10714,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 313,
+		"id": 304,
 		"name": "Ян Вертонген",
 		"short_name": "Вертонген",
 		"role": "player",
@@ -10783,50 +10754,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 314,
-		"name": "Дрис Мертенс",
-		"short_name": "Мертенс",
-		"role": "player",
-		"nationality": [
-			"Бельгия"
-		],
-		"clubs": [
-			"AGOVV Apeldoorn",
-			"Utrecht",
-			"PSV",
-			"Napoli",
-			"Galatasaray"
-		],
-		"leagues": [
-			"Эредивизи",
-			"Серия A",
-			"Суперлига Турции"
-		],
-		"coaches": [
-			"Ron Jans",
-			"Fred Rutten",
-			"Dick Advocaat",
-			"Walter Mazzarri",
-			"Rafael Benítez",
-			"Maurizio Sarri",
-			"Carlo Ancelotti",
-			"Gennaro Gattuso",
-			"Okan Buruk"
-		],
-		"trophies": [
-			"Серия A",
-			"Суперкубок Италии",
-			"Кубок Турции",
-			"Суперкубок Турции"
-		],
-		"max_overall": 87,
-		"retired": false,
-		"ballon_dor": false,
-		"is_legend": true,
-		"nationality_valid": true
-	},
-	{
-		"id": 315,
+		"id": 305,
 		"name": "Артуро Видаль",
 		"short_name": "Видаль",
 		"role": "player",
@@ -10877,7 +10805,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 316,
+		"id": 306,
 		"name": "Анхель Ди Мария",
 		"short_name": "Мария",
 		"role": "player",
@@ -10929,7 +10857,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 317,
+		"id": 307,
 		"name": "Тоби Алдервейрелд",
 		"short_name": "Алдервейрелд",
 		"role": "player",
@@ -10976,7 +10904,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 318,
+		"id": 308,
 		"name": "Войцех Щенсный",
 		"short_name": "Щенсный",
 		"role": "player",
@@ -11021,7 +10949,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 319,
+		"id": 309,
 		"name": "Жорди Альба",
 		"short_name": "Альба",
 		"role": "player",
@@ -11064,47 +10992,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 320,
-		"name": "Томас Мюллер",
-		"short_name": "Мюллер",
-		"role": "player",
-		"nationality": [
-			"Германия"
-		],
-		"clubs": [
-			"FC Bayern München",
-			"Vancouver Whitecaps"
-		],
-		"leagues": [
-			"Бундеслига",
-			"MLS"
-		],
-		"coaches": [
-			"Louis van Gaal",
-			"Jupp Heynckes",
-			"Pep Guardiola",
-			"Carlo Ancelotti",
-			"Niko Kovač",
-			"Hansi Flick",
-			"Julian Nagelsmann",
-			"Thomas Tuchel"
-		],
-		"trophies": [
-			"Бундеслига",
-			"Кубок Германии",
-			"Суперкубок Германии",
-			"ЛЧ",
-			"Суперкубок УЕФА",
-			"Клубный чемпионат мира"
-		],
-		"max_overall": 87,
-		"retired": false,
-		"ballon_dor": false,
-		"is_legend": true,
-		"nationality_valid": true
-	},
-	{
-		"id": 321,
+		"id": 310,
 		"name": "Чиро Иммобиле",
 		"short_name": "Иммобиле",
 		"role": "player",
@@ -11156,7 +11044,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 322,
+		"id": 311,
 		"name": "Марко Верратти",
 		"short_name": "Верратти",
 		"role": "player",
@@ -11196,7 +11084,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 323,
+		"id": 312,
 		"name": "Мауро Икарди",
 		"short_name": "Икарди",
 		"role": "player",
@@ -11238,7 +11126,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 324,
+		"id": 313,
 		"name": "Роберто Фирмино",
 		"short_name": "Фирмино",
 		"role": "player",
@@ -11282,7 +11170,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 325,
+		"id": 314,
 		"name": "Антонио Рюдигер",
 		"short_name": "Рюдигер",
 		"role": "player",
@@ -11329,7 +11217,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 326,
+		"id": 315,
 		"name": "Самюэль Умтити",
 		"short_name": "Умтити",
 		"role": "player",
@@ -11371,7 +11259,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 327,
+		"id": 316,
 		"name": "Фабиньо Энрике Таварес",
 		"short_name": "Таварес",
 		"role": "player",
@@ -11418,7 +11306,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 328,
+		"id": 317,
 		"name": "Леон Горецка",
 		"short_name": "Горецка",
 		"role": "player",
@@ -11459,7 +11347,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 329,
+		"id": 318,
 		"name": "Эмерик Ляпорт",
 		"short_name": "Ляпорт",
 		"role": "player",
@@ -11501,7 +11389,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 330,
+		"id": 319,
 		"name": "Майк Меньян",
 		"short_name": "Меньян",
 		"role": "player",
@@ -11536,7 +11424,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 331,
+		"id": 320,
 		"name": "Эндрю Робертсон",
 		"short_name": "Робертсон",
 		"role": "player",
@@ -11578,7 +11466,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 332,
+		"id": 321,
 		"name": "Мартин Эдегор",
 		"short_name": "Эдегор",
 		"role": "player",
@@ -11619,7 +11507,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 333,
+		"id": 322,
 		"name": "Френки Де Йонг",
 		"short_name": "Йонг",
 		"role": "player",
@@ -11660,7 +11548,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 334,
+		"id": 323,
 		"name": "Трент Александер-Арнольд",
 		"short_name": "Александер-Арнольд",
 		"role": "player",
@@ -11699,7 +11587,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 335,
+		"id": 324,
 		"name": "Хави Мартинес",
 		"short_name": "Мартинес",
 		"role": "player",
@@ -11757,7 +11645,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 336,
+		"id": 325,
 		"name": "Джейдон Санчо",
 		"short_name": "Санчо",
 		"role": "player",
@@ -11796,7 +11684,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 337,
+		"id": 326,
 		"name": "Грегор Кобель",
 		"short_name": "Кобель",
 		"role": "player",
@@ -11831,7 +11719,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 338,
+		"id": 327,
 		"name": "Хави",
 		"short_name": "Хави",
 		"role": "player",
@@ -11870,7 +11758,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 339,
+		"id": 328,
 		"name": "Яя Туре",
 		"short_name": "Туре",
 		"role": "player",
@@ -11919,48 +11807,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 340,
-		"name": "Уэйн Руни",
-		"short_name": "Руни",
-		"role": "player",
-		"nationality": [
-			"Англия"
-		],
-		"clubs": [
-			"Everton",
-			"Manchester United",
-			"D.C. United",
-			"Derby County"
-		],
-		"leagues": [
-			"АПЛ",
-			"MLS",
-			"Чемпионшип"
-		],
-		"coaches": [
-			"David Moyes",
-			"Sir Alex Ferguson",
-			"Louis van Gaal",
-			"José Mourinho",
-			"Ole Gunnar Solskjær",
-			"Frank Lampard"
-		],
-		"trophies": [
-			"АПЛ",
-			"Кубок Англии",
-			"Кубок Лиги Англии",
-			"ЛЧ",
-			"Клубный чемпионат мира",
-			"MLS Cup"
-		],
-		"max_overall": 86,
-		"retired": true,
-		"ballon_dor": false,
-		"is_legend": true,
-		"nationality_valid": true
-	},
-	{
-		"id": 341,
+		"id": 329,
 		"name": "Андреа Барцальи",
 		"short_name": "Барцальи",
 		"role": "player",
@@ -12002,95 +11849,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 342,
-		"name": "Венсан Компани",
-		"short_name": "Компани",
-		"role": "player",
-		"nationality": [
-			"Бельгия"
-		],
-		"clubs": [
-			"Anderlecht",
-			"Hamburger SV",
-			"Manchester City"
-		],
-		"leagues": [
-			"Жюпиле Про Лига",
-			"Бундеслига",
-			"АПЛ"
-		],
-		"coaches": [
-			"Franky Vercauteren",
-			"Ariël Jacobs",
-			"Thomas Doll",
-			"Mark Hughes",
-			"Roberto Mancini",
-			"Manuel Pellegrini",
-			"Pep Guardiola"
-		],
-		"trophies": [
-			"Жюпиле Про Лига",
-			"АПЛ",
-			"Кубок Англии",
-			"Кубок Лиги Англии",
-			"Суперкубок Англии",
-			"Бундеслига (игрок-тренер этап)"
-		],
-		"max_overall": 86,
-		"retired": true,
-		"ballon_dor": false,
-		"is_legend": true,
-		"nationality_valid": true
-	},
-	{
-		"id": 343,
-		"name": "Карлос Тевес",
-		"short_name": "Тевес",
-		"role": "player",
-		"nationality": [
-			"Аргентина"
-		],
-		"clubs": [
-			"Boca Juniors",
-			"Corinthians",
-			"West Ham United",
-			"Manchester United",
-			"Manchester City",
-			"Juventus FC",
-			"Shanghai Shenhua"
-		],
-		"leagues": [
-			"Примера Аргентины",
-			"Серия A Бразилии",
-			"АПЛ",
-			"Серия A",
-			"Китайская Суперлига"
-		],
-		"coaches": [
-			"Carlos Bianchi",
-			"Tite",
-			"Alan Pardew",
-			"Sir Alex Ferguson",
-			"Roberto Mancini",
-			"Antonio Conte",
-			"Marcelo Gallardo"
-		],
-		"trophies": [
-			"АПЛ",
-			"Серия A",
-			"Кубок Англии",
-			"ЛЧ",
-			"Кубок Либертадорес",
-			"Китайская Суперлига"
-		],
-		"max_overall": 86,
-		"retired": true,
-		"ballon_dor": false,
-		"is_legend": true,
-		"nationality_valid": true
-	},
-	{
-		"id": 344,
+		"id": 330,
 		"name": "Алехандро Гомес",
 		"short_name": "Гомес",
 		"role": "player",
@@ -12131,7 +11890,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 345,
+		"id": 331,
 		"name": "Санти Касорла",
 		"short_name": "Касорла",
 		"role": "player",
@@ -12173,7 +11932,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 346,
+		"id": 332,
 		"name": "Жуан Миранда",
 		"short_name": "Миранда",
 		"role": "player",
@@ -12216,7 +11975,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 347,
+		"id": 333,
 		"name": "Блез Матюйди",
 		"short_name": "Матюйди",
 		"role": "player",
@@ -12259,7 +12018,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 348,
+		"id": 334,
 		"name": "Налдо",
 		"short_name": "Налдо",
 		"role": "player",
@@ -12301,7 +12060,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 349,
+		"id": 335,
 		"name": "Сократис Папастатопулос",
 		"short_name": "Папастатопулос",
 		"role": "player",
@@ -12346,7 +12105,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 350,
+		"id": 336,
 		"name": "Клаудио Маркизио",
 		"short_name": "Маркизио",
 		"role": "player",
@@ -12380,7 +12139,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 351,
+		"id": 337,
 		"name": "Димитри Пайет",
 		"short_name": "Пайет",
 		"role": "player",
@@ -12419,7 +12178,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 352,
+		"id": 338,
 		"name": "Мехди Бенатиа",
 		"short_name": "Бенатиа",
 		"role": "player",
@@ -12464,7 +12223,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 353,
+		"id": 339,
 		"name": "Янн Зоммер",
 		"short_name": "Зоммер",
 		"role": "player",
@@ -12506,7 +12265,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 354,
+		"id": 340,
 		"name": "Раджа Наингголан",
 		"short_name": "Наингголан",
 		"role": "player",
@@ -12545,7 +12304,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 355,
+		"id": 341,
 		"name": "Диего Коста",
 		"short_name": "Коста",
 		"role": "player",
@@ -12595,7 +12354,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 356,
+		"id": 342,
 		"name": "Давид Луис",
 		"short_name": "Луис",
 		"role": "player",
@@ -12645,7 +12404,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 357,
+		"id": 343,
 		"name": "Миралем Пьянич",
 		"short_name": "Пьянич",
 		"role": "player",
@@ -12693,7 +12452,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 358,
+		"id": 344,
 		"name": "Иван Перишич",
 		"short_name": "Перишич",
 		"role": "player",
@@ -12750,7 +12509,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 359,
+		"id": 345,
 		"name": "Джордан Хендерсон",
 		"short_name": "Хендерсон",
 		"role": "player",
@@ -12794,7 +12553,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 360,
+		"id": 346,
 		"name": "Сесар Аспиликуэта",
 		"short_name": "Аспиликуэта",
 		"role": "player",
@@ -12842,7 +12601,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 361,
+		"id": 347,
 		"name": "Илкай Гюндоган",
 		"short_name": "Гюндоган",
 		"role": "player",
@@ -12887,7 +12646,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 362,
+		"id": 348,
 		"name": "Кевин Трапп",
 		"short_name": "Трапп",
 		"role": "player",
@@ -12926,7 +12685,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 363,
+		"id": 349,
 		"name": "Даниэль Парехо",
 		"short_name": "Парехо",
 		"role": "player",
@@ -12966,7 +12725,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 364,
+		"id": 350,
 		"name": "Дуглас Коста",
 		"short_name": "Коста",
 		"role": "player",
@@ -13014,7 +12773,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 365,
+		"id": 351,
 		"name": "Алекс Сандро",
 		"short_name": "Сандро",
 		"role": "player",
@@ -13058,7 +12817,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 366,
+		"id": 352,
 		"name": "Неманья Матич",
 		"short_name": "Матич",
 		"role": "player",
@@ -13114,7 +12873,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 367,
+		"id": 353,
 		"name": "Николас Отаменди",
 		"short_name": "Отаменди",
 		"role": "player",
@@ -13159,7 +12918,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 368,
+		"id": 354,
 		"name": "Бернд Лено",
 		"short_name": "Лено",
 		"role": "player",
@@ -13197,7 +12956,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 369,
+		"id": 355,
 		"name": "Кун Кастелс",
 		"short_name": "Кастелс",
 		"role": "player",
@@ -13237,7 +12996,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 370,
+		"id": 356,
 		"name": "Александр Ляказетт",
 		"short_name": "Ляказетт",
 		"role": "player",
@@ -13277,7 +13036,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 371,
+		"id": 357,
 		"name": "Рафаэль Варан",
 		"short_name": "Варан",
 		"role": "player",
@@ -13321,7 +13080,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 372,
+		"id": 358,
 		"name": "Рияд Махрез",
 		"short_name": "Махрез",
 		"role": "player",
@@ -13363,7 +13122,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 373,
+		"id": 359,
 		"name": "Даниэль Карвахаль",
 		"short_name": "Карвахаль",
 		"role": "player",
@@ -13404,7 +13163,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 374,
+		"id": 360,
 		"name": "Жерар Морено Балагеро",
 		"short_name": "Балагеро",
 		"role": "player",
@@ -13443,7 +13202,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 375,
+		"id": 361,
 		"name": "Джейми Варди",
 		"short_name": "Варди",
 		"role": "player",
@@ -13487,7 +13246,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 376,
+		"id": 362,
 		"name": "Кингсли Коман",
 		"short_name": "Коман",
 		"role": "player",
@@ -13532,7 +13291,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 377,
+		"id": 363,
 		"name": "Марцело Брозович",
 		"short_name": "Брозович",
 		"role": "player",
@@ -13574,7 +13333,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 378,
+		"id": 364,
 		"name": "Лерой Сане",
 		"short_name": "Сане",
 		"role": "player",
@@ -13621,7 +13380,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 379,
+		"id": 365,
 		"name": "Сергей Милинкович-Савич",
 		"short_name": "Милинкович-Савич",
 		"role": "player",
@@ -13664,7 +13423,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 380,
+		"id": 366,
 		"name": "Николо Барелла",
 		"short_name": "Барелла",
 		"role": "player",
@@ -13699,7 +13458,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 381,
+		"id": 367,
 		"name": "Маркос Льоренте",
 		"short_name": "Льоренте",
 		"role": "player",
@@ -13738,53 +13497,7 @@
 		]
 	},
 	{
-		"id": 382,
-		"name": "Усман Дембеле",
-		"short_name": "Дембеле",
-		"role": "player",
-		"nationality": [
-			"Франция"
-		],
-		"clubs": [
-			"Rennes",
-			"Borussia Dortmund",
-			"FC Barcelona",
-			"Paris Saint-Germain"
-		],
-		"leagues": [
-			"Лига 1",
-			"Бундеслига",
-			"Ла Лига"
-		],
-		"coaches": [
-			"Philippe Montanier",
-			"Ralph Hasenhüttl",
-			"Thomas Tuchel",
-			"Lucien Favre",
-			"Ernesto Valverde",
-			"Ronald Koeman",
-			"Xavi Hernández",
-			"Luis Enrique"
-		],
-		"trophies": [
-			"Бундеслига",
-			"Ла Лига",
-			"Кубок Испании",
-			"ЛЧ",
-			"Кубок Германии"
-		],
-		"max_overall": 86,
-		"retired": false,
-		"ballon_dor": true,
-		"is_legend": false,
-		"nationality_valid": true,
-		"aliases": [
-			"Дембеле, Усман",
-			"усман дембеле"
-		]
-	},
-	{
-		"id": 383,
+		"id": 368,
 		"name": "Милан Шкриниар",
 		"short_name": "Шкриниар",
 		"role": "player",
@@ -13830,7 +13543,7 @@
 		]
 	},
 	{
-		"id": 384,
+		"id": 369,
 		"name": "Кристофер Нкунку",
 		"short_name": "Нкунку",
 		"role": "player",
@@ -13878,7 +13591,7 @@
 		]
 	},
 	{
-		"id": 385,
+		"id": 370,
 		"name": "Эдуар Менди",
 		"short_name": "Менди",
 		"role": "player",
@@ -13927,7 +13640,7 @@
 		]
 	},
 	{
-		"id": 386,
+		"id": 371,
 		"name": "Матейс Де Лигт",
 		"short_name": "Лигт",
 		"role": "player",
@@ -13974,7 +13687,7 @@
 		]
 	},
 	{
-		"id": 387,
+		"id": 372,
 		"name": "Эдер Милитао",
 		"short_name": "Милитао",
 		"role": "player",
@@ -14020,7 +13733,7 @@
 		]
 	},
 	{
-		"id": 388,
+		"id": 373,
 		"name": "Сандро Тонали",
 		"short_name": "Тонали",
 		"role": "player",
@@ -14058,7 +13771,7 @@
 		]
 	},
 	{
-		"id": 389,
+		"id": 374,
 		"name": "Рафаэл Леан",
 		"short_name": "Леан",
 		"role": "player",
@@ -14100,7 +13813,7 @@
 		]
 	},
 	{
-		"id": 390,
+		"id": 375,
 		"name": "Букайо Сака",
 		"short_name": "Сака",
 		"role": "player",
@@ -14133,7 +13846,7 @@
 		]
 	},
 	{
-		"id": 391,
+		"id": 376,
 		"name": "Хвича Кварацхелия",
 		"short_name": "Кварацхелия",
 		"role": "player",
@@ -14181,7 +13894,7 @@
 		]
 	},
 	{
-		"id": 392,
+		"id": 377,
 		"name": "Педри",
 		"short_name": "Педри",
 		"role": "player",
@@ -14220,7 +13933,7 @@
 		]
 	},
 	{
-		"id": 393,
+		"id": 378,
 		"name": "Джуд Беллингем",
 		"short_name": "Беллингем",
 		"role": "player",
@@ -14265,7 +13978,7 @@
 		]
 	},
 	{
-		"id": 394,
+		"id": 379,
 		"name": "Рональд Араухо",
 		"short_name": "Араухо",
 		"role": "player",
@@ -14307,7 +14020,7 @@
 		]
 	},
 	{
-		"id": 395,
+		"id": 380,
 		"name": "Джамал Мусиала",
 		"short_name": "Мусиала",
 		"role": "player",
@@ -14348,110 +14061,7 @@
 		]
 	},
 	{
-		"id": 396,
-		"name": "Джон Терри",
-		"short_name": "Терри",
-		"role": "player",
-		"nationality": [
-			"Англия"
-		],
-		"clubs": [
-			"Chelsea FC",
-			"Nottingham Forest",
-			"Aston Villa"
-		],
-		"leagues": [
-			"АПЛ",
-			"Чемпионшип"
-		],
-		"coaches": [
-			"Claudio Ranieri",
-			"José Mourinho",
-			"Avram Grant",
-			"Luiz Felipe Scolari",
-			"Carlo Ancelotti",
-			"Roberto Di Matteo",
-			"Rafa Benítez",
-			"Antonio Conte",
-			"Steve Bruce"
-		],
-		"trophies": [
-			"АПЛ",
-			"Кубок Англии",
-			"Кубок Лиги Англии",
-			"Суперкубок Англии",
-			"ЛЧ",
-			"ЛЕ"
-		],
-		"max_overall": 85,
-		"retired": true,
-		"ballon_dor": false,
-		"is_legend": true,
-		"nationality_valid": true,
-		"aliases": [
-			"Терри Джон",
-			"Терри, Джон",
-			"джон терри"
-		]
-	},
-	{
-		"id": 397,
-		"name": "Хавьер Маскерано",
-		"short_name": "Маскерано",
-		"role": "player",
-		"nationality": [
-			"Аргентина"
-		],
-		"clubs": [
-			"River Plate",
-			"Corinthians",
-			"West Ham United",
-			"Liverpool FC",
-			"FC Barcelona",
-			"Hebei China Fortune",
-			"Estudiantes"
-		],
-		"leagues": [
-			"Примера Аргентины",
-			"Бразилейрао",
-			"АПЛ",
-			"Ла Лига",
-			"Китайская Суперлига"
-		],
-		"coaches": [
-			"Daniel Passarella",
-			"Carlos Alberto Parreira",
-			"Alan Pardew",
-			"Rafael Benítez",
-			"Kenny Dalglish",
-			"Pep Guardiola",
-			"Tito Vilanova",
-			"Luis Enrique",
-			"Ernesto Valverde"
-		],
-		"trophies": [
-			"Ла Лига",
-			"Кубок Испании",
-			"ЛЧ",
-			"Суперкубок УЕФА",
-			"Клубный чемпионат мира",
-			"Олимпийские игры"
-		],
-		"max_overall": 85,
-		"retired": true,
-		"ballon_dor": false,
-		"is_legend": true,
-		"nationality_valid": true,
-		"aliases": [
-			"Маскерано Хавьер",
-			"Маскерано",
-			"Маскерано Х.",
-			"Маскерано, Хавьер",
-			"хавьер маскерано"
-		]
-	},
-	{
-		"id": 398,
+		"id": 381,
 		"name": "Daniel Alves da Silva",
 		"short_name": "Dani Alves",
 		"role": "player",
@@ -14506,7 +14116,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 399,
+		"id": 382,
 		"name": "Каспер Шмейхель",
 		"short_name": "Шмейхель",
 		"role": "player",
@@ -14560,7 +14170,7 @@
 		]
 	},
 	{
-		"id": 400,
+		"id": 383,
 		"name": "Стив Манданда",
 		"short_name": "Манданда",
 		"role": "player",
@@ -14605,7 +14215,7 @@
 		]
 	},
 	{
-		"id": 401,
+		"id": 384,
 		"name": "Филипе Луис",
 		"short_name": "Луис",
 		"role": "player",
@@ -14656,7 +14266,7 @@
 		]
 	},
 	{
-		"id": 402,
+		"id": 385,
 		"name": "Лоран Косельни",
 		"short_name": "Косельни",
 		"role": "player",
@@ -14698,7 +14308,7 @@
 		]
 	},
 	{
-		"id": 403,
+		"id": 386,
 		"name": "Стефан Руффье",
 		"short_name": "Руффье",
 		"role": "player",
@@ -14738,7 +14348,7 @@
 		]
 	},
 	{
-		"id": 404,
+		"id": 387,
 		"name": "Клаудио Браво",
 		"short_name": "Браво",
 		"role": "player",
@@ -14789,7 +14399,7 @@
 		]
 	},
 	{
-		"id": 405,
+		"id": 388,
 		"name": "Аксель Витсель",
 		"short_name": "Витсель",
 		"role": "player",
@@ -14846,7 +14456,7 @@
 		]
 	},
 	{
-		"id": 406,
+		"id": 389,
 		"name": "Хуан Мануэль Мата",
 		"short_name": "Мата",
 		"role": "player",
@@ -14906,7 +14516,7 @@
 		]
 	},
 	{
-		"id": 407,
+		"id": 390,
 		"name": "Сами Хедира",
 		"short_name": "Хедира",
 		"role": "player",
@@ -14956,7 +14566,7 @@
 		]
 	},
 	{
-		"id": 408,
+		"id": 391,
 		"name": "Виллиан",
 		"short_name": "Виллиан",
 		"role": "player",
@@ -15015,7 +14625,7 @@
 		]
 	},
 	{
-		"id": 409,
+		"id": 392,
 		"name": "Эдин Джеко",
 		"short_name": "Джеко",
 		"role": "player",
@@ -15072,7 +14682,7 @@
 		]
 	},
 	{
-		"id": 410,
+		"id": 393,
 		"name": "Джорджиньо Вейналдум",
 		"short_name": "Вейналдум",
 		"role": "player",
@@ -15125,7 +14735,7 @@
 		]
 	},
 	{
-		"id": 411,
+		"id": 394,
 		"name": "Николас Гайтан",
 		"short_name": "Гайтан",
 		"role": "player",
@@ -15175,7 +14785,7 @@
 		]
 	},
 	{
-		"id": 412,
+		"id": 395,
 		"name": "Ясин Брахими",
 		"short_name": "Брахими",
 		"role": "player",
@@ -15223,7 +14833,7 @@
 		]
 	},
 	{
-		"id": 413,
+		"id": 396,
 		"name": "Петер Гулачи",
 		"short_name": "Гулачи",
 		"role": "player",
@@ -15274,7 +14884,7 @@
 		]
 	},
 	{
-		"id": 414,
+		"id": 397,
 		"name": "Киран Триппьер",
 		"short_name": "Триппьер",
 		"role": "player",
@@ -15316,7 +14926,7 @@
 		]
 	},
 	{
-		"id": 415,
+		"id": 398,
 		"name": "Кайл Уокер",
 		"short_name": "Уокер",
 		"role": "player",
@@ -15364,7 +14974,7 @@
 		]
 	},
 	{
-		"id": 416,
+		"id": 399,
 		"name": "Роман Бюрки",
 		"short_name": "Бюрки",
 		"role": "player",
@@ -15412,7 +15022,7 @@
 		]
 	},
 	{
-		"id": 417,
+		"id": 400,
 		"name": "Камиль Глик",
 		"short_name": "Глик",
 		"role": "player",
@@ -15461,7 +15071,7 @@
 		]
 	},
 	{
-		"id": 418,
+		"id": 401,
 		"name": "Хавьер Пасторе",
 		"short_name": "Пасторе",
 		"role": "player",
@@ -15516,7 +15126,7 @@
 		]
 	},
 	{
-		"id": 419,
+		"id": 402,
 		"name": "Марио Гётце",
 		"short_name": "Гётце",
 		"role": "player",
@@ -15564,7 +15174,7 @@
 		]
 	},
 	{
-		"id": 420,
+		"id": 403,
 		"name": "Даниел Субашич",
 		"short_name": "Субашич",
 		"role": "player",
@@ -15609,7 +15219,7 @@
 		]
 	},
 	{
-		"id": 421,
+		"id": 404,
 		"name": "Яго Аспас",
 		"short_name": "Аспас",
 		"role": "player",
@@ -15650,7 +15260,7 @@
 		]
 	},
 	{
-		"id": 422,
+		"id": 405,
 		"name": "Konstantinos Manolas",
 		"short_name": "K. Manolas",
 		"role": "player",
@@ -15695,7 +15305,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 423,
+		"id": 406,
 		"name": "Генрих Мхитарян",
 		"short_name": "Мхитарян",
 		"role": "player",
@@ -15750,7 +15360,7 @@
 		]
 	},
 	{
-		"id": 424,
+		"id": 407,
 		"name": "Коке",
 		"short_name": "Коке",
 		"role": "player",
@@ -15785,7 +15395,7 @@
 		]
 	},
 	{
-		"id": 425,
+		"id": 408,
 		"name": "Норберто Мурара Нето",
 		"short_name": "Нето",
 		"role": "player",
@@ -15840,7 +15450,7 @@
 		]
 	},
 	{
-		"id": 426,
+		"id": 409,
 		"name": "Стефан де Врей",
 		"short_name": "Врей",
 		"role": "player",
@@ -15881,7 +15491,7 @@
 		]
 	},
 	{
-		"id": 427,
+		"id": 410,
 		"name": "Луис Альберто Ромеро",
 		"short_name": "Ромеро",
 		"role": "player",
@@ -15933,7 +15543,7 @@
 		]
 	},
 	{
-		"id": 428,
+		"id": 411,
 		"name": "Антони Лопеш",
 		"short_name": "Лопеш",
 		"role": "player",
@@ -15972,7 +15582,7 @@
 		]
 	},
 	{
-		"id": 429,
+		"id": 412,
 		"name": "Аллан Маркес Лоурейро",
 		"short_name": "Лоурейро",
 		"role": "player",
@@ -16021,7 +15631,7 @@
 		]
 	},
 	{
-		"id": 430,
+		"id": 413,
 		"name": "Мемфис Депай",
 		"short_name": "Депай",
 		"role": "player",
@@ -16074,7 +15684,7 @@
 		]
 	},
 	{
-		"id": 431,
+		"id": 414,
 		"name": "Эмилиано Мартинес",
 		"short_name": "Мартинес",
 		"role": "player",
@@ -16126,7 +15736,7 @@
 		]
 	},
 	{
-		"id": 432,
+		"id": 415,
 		"name": "Джон Стоунз",
 		"short_name": "Стоунз",
 		"role": "player",
@@ -16166,7 +15776,7 @@
 		]
 	},
 	{
-		"id": 433,
+		"id": 416,
 		"name": "Luiz Frello Filho Jorge",
 		"short_name": "Jorginho",
 		"role": "player",
@@ -16208,55 +15818,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 434,
-		"name": "Серж Гнабри",
-		"short_name": "Гнабри",
-		"role": "player",
-		"nationality": [
-			"Германия"
-		],
-		"clubs": [
-			"VfB Stuttgart (youth)",
-			"Arsenal FC",
-			"West Bromwich Albion (loan)",
-			"Werder Bremen",
-			"TSG Hoffenheim (loan)",
-			"FC Bayern München"
-		],
-		"leagues": [
-			"АПЛ",
-			"Бундеслига"
-		],
-		"coaches": [
-			"Arsène Wenger",
-			"Tony Pulis",
-			"Alexander Nouri",
-			"Julian Nagelsmann",
-			"Niko Kovač",
-			"Hansi Flick",
-			"Thomas Tuchel",
-			"Vincent Kompany"
-		],
-		"trophies": [
-			"Бундеслига",
-			"Кубок Германии",
-			"Суперкубок Германии",
-			"ЛЧ",
-			"Суперкубок УЕФА",
-			"Клубный чемпионат мира"
-		],
-		"max_overall": 85,
-		"retired": false,
-		"ballon_dor": false,
-		"is_legend": false,
-		"nationality_valid": true,
-		"aliases": [
-			"Гнабри, Серж",
-			"серж гнабри"
-		]
-	},
-	{
-		"id": 435,
+		"id": 417,
 		"name": "Джек Грилиш",
 		"short_name": "Грилиш",
 		"role": "player",
@@ -16298,7 +15860,7 @@
 		]
 	},
 	{
-		"id": 436,
+		"id": 418,
 		"name": "Хакан Чалханоглу",
 		"short_name": "Чалханоглу",
 		"role": "player",
@@ -16342,7 +15904,7 @@
 		]
 	},
 	{
-		"id": 437,
+		"id": 419,
 		"name": "Янник Феррейра Карраско",
 		"short_name": "Карраско",
 		"role": "player",
@@ -16388,7 +15950,7 @@
 		]
 	},
 	{
-		"id": 438,
+		"id": 420,
 		"name": "Сауль Ньигес",
 		"short_name": "Ньигес",
 		"role": "player",
@@ -16432,7 +15994,7 @@
 		]
 	},
 	{
-		"id": 439,
+		"id": 421,
 		"name": "Филип Костич",
 		"short_name": "Костич",
 		"role": "player",
@@ -16481,7 +16043,7 @@
 		]
 	},
 	{
-		"id": 440,
+		"id": 422,
 		"name": "Хаким Зиеш",
 		"short_name": "Зиеш",
 		"role": "player",
@@ -16535,7 +16097,7 @@
 		]
 	},
 	{
-		"id": 441,
+		"id": 423,
 		"name": "Яссин Буну",
 		"short_name": "Буну",
 		"role": "player",
@@ -16583,7 +16145,7 @@
 		]
 	},
 	{
-		"id": 442,
+		"id": 424,
 		"name": "Thomas Partey",
 		"short_name": "T. Partey",
 		"role": "player",
@@ -16619,7 +16181,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 443,
+		"id": 425,
 		"name": "Рикарду Домингуш Барбоза Перейра",
 		"short_name": "Перейра",
 		"role": "player",
@@ -16664,7 +16226,7 @@
 		]
 	},
 	{
-		"id": 444,
+		"id": 426,
 		"name": "Доменико Берарди",
 		"short_name": "Берарди",
 		"role": "player",
@@ -16699,7 +16261,7 @@
 		]
 	},
 	{
-		"id": 445,
+		"id": 427,
 		"name": "Тимо Вернер",
 		"short_name": "Вернер",
 		"role": "player",
@@ -16744,7 +16306,7 @@
 		]
 	},
 	{
-		"id": 446,
+		"id": 428,
 		"name": "Никлас Зюле",
 		"short_name": "Зюле",
 		"role": "player",
@@ -16785,7 +16347,7 @@
 		]
 	},
 	{
-		"id": 447,
+		"id": 429,
 		"name": "Хосе Мария Хименес де Варгас",
 		"short_name": "Варгас",
 		"role": "player",
@@ -16822,7 +16384,7 @@
 		]
 	},
 	{
-		"id": 448,
+		"id": 430,
 		"name": "Набиль Фекир",
 		"short_name": "Фекир",
 		"role": "player",
@@ -16864,7 +16426,7 @@
 		]
 	},
 	{
-		"id": 449,
+		"id": 431,
 		"name": "Giovanni Di Lorenzo",
 		"short_name": "G. Di Lorenzo",
 		"role": "player",
@@ -16905,7 +16467,7 @@
 		"nationality_valid": true
 	},
 	{
-		"id": 450,
+		"id": 432,
 		"name": "Клеман Лангле",
 		"short_name": "Лангле",
 		"role": "player",
@@ -16954,7 +16516,7 @@
 		]
 	},
 	{
-		"id": 451,
+		"id": 433,
 		"name": "Марко Асенсио",
 		"short_name": "Асенсио",
 		"role": "player",
@@ -17005,7 +16567,7 @@
 		]
 	},
 	{
-		"id": 452,
+		"id": 434,
 		"name": "Маркос Акунья",
 		"short_name": "Акунья",
 		"role": "player",
@@ -17050,7 +16612,7 @@
 		]
 	},
 	{
-		"id": 453,
+		"id": 435,
 		"name": "Диогу Жота",
 		"short_name": "Жота",
 		"role": "player",
@@ -17095,7 +16657,7 @@
 		]
 	},
 	{
-		"id": 454,
+		"id": 436,
 		"name": "Андре Онана",
 		"short_name": "Онана",
 		"role": "player",
@@ -17142,7 +16704,7 @@
 		]
 	},
 	{
-		"id": 455,
+		"id": 437,
 		"name": "Вилфред Ндиди",
 		"short_name": "Ндиди",
 		"role": "player",
@@ -17188,7 +16750,7 @@
 		]
 	},
 	{
-		"id": 456,
+		"id": 438,
 		"name": "Микель Ойарсабаль",
 		"short_name": "Ойарсабаль",
 		"role": "player",
@@ -17222,7 +16784,7 @@
 		]
 	},
 	{
-		"id": 457,
+		"id": 439,
 		"name": "Маркус Рашфорд",
 		"short_name": "Рашфорд",
 		"role": "player",
@@ -17266,7 +16828,7 @@
 		]
 	},
 	{
-		"id": 458,
+		"id": 440,
 		"name": "Тео Эранандес",
 		"short_name": "Эранандес",
 		"role": "player",
@@ -17312,7 +16874,7 @@
 		]
 	},
 	{
-		"id": 459,
+		"id": 441,
 		"name": "Патрик Шик",
 		"short_name": "Шик",
 		"role": "player",
@@ -17355,7 +16917,7 @@
 		]
 	},
 	{
-		"id": 460,
+		"id": 442,
 		"name": "Деклан Райс",
 		"short_name": "Райс",
 		"role": "player",
@@ -17393,7 +16955,7 @@
 		]
 	},
 	{
-		"id": 461,
+		"id": 443,
 		"name": "Ашраф Хакими",
 		"short_name": "Хакими",
 		"role": "player",
@@ -17441,7 +17003,7 @@
 		]
 	},
 	{
-		"id": 462,
+		"id": 444,
 		"name": "Кай Хаверц",
 		"short_name": "Хаверц",
 		"role": "player",
@@ -17485,7 +17047,7 @@
 		]
 	},
 	{
-		"id": 463,
+		"id": 445,
 		"name": "Алессандро Бастони",
 		"short_name": "Бастони",
 		"role": "player",
@@ -17523,7 +17085,7 @@
 		]
 	},
 	{
-		"id": 464,
+		"id": 446,
 		"name": "Фил Фоден",
 		"short_name": "Фоден",
 		"role": "player",
@@ -17560,7 +17122,7 @@
 		]
 	},
 	{
-		"id": 465,
+		"id": 447,
 		"name": "Жюль Кунде",
 		"short_name": "Кунде",
 		"role": "player",
@@ -17602,7 +17164,7 @@
 		]
 	},
 	{
-		"id": 466,
+		"id": 448,
 		"name": "Родриго Силва де Гоис",
 		"short_name": "Гоис",
 		"role": "player",
@@ -17642,7 +17204,7 @@
 		]
 	},
 	{
-		"id": 467,
+		"id": 449,
 		"name": "Флориан Вирц",
 		"short_name": "Вирц",
 		"role": "player",
