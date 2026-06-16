@@ -2931,7 +2931,7 @@ export const PLAYERS: PlayerSeed[] = [
       "bundesliga",
       "ligaportugal",
       "superligashveytsarii",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "luis-enrique",
@@ -3220,11 +3220,13 @@ export const PLAYERS: PlayerSeed[] = [
     "clubs": [
       "bavaria",
       "fcbayernmnchen",
-      "vancouverwhitecaps"
+      "vancouverwhitecaps",
+      "vancouverwhitecapsfc"
     ],
     "leagues": [
       "bundesliga",
-      "mls"
+      "mls",
+      "majorleaguesoccer"
     ],
     "managers": [
       "pep",
@@ -3266,7 +3268,6 @@ export const PLAYERS: PlayerSeed[] = [
       "bavaria",
       "manchester-united",
       "beshiktash",
-      "fcbayernmnchen",
       "chicagofire"
     ],
     "leagues": [
@@ -3311,7 +3312,6 @@ export const PLAYERS: PlayerSeed[] = [
       "verderbremen",
       "dortmund",
       "bavaria",
-      "fcbayernmnchen",
       "roma"
     ],
     "leagues": [
@@ -4595,7 +4595,7 @@ export const PLAYERS: PlayerSeed[] = [
       "juventus",
       "real-madrid",
       "inter",
-      "al-ahli"
+      "al-akhli"
     ],
     "leagues": [
       "laliga",
@@ -5756,7 +5756,8 @@ export const PLAYERS: PlayerSeed[] = [
       "juventus",
       "liverpool",
       "roma",
-      "bavaria"
+      "bavaria",
+      "dortmund"
     ],
     "leagues": [
       "premier-league",
@@ -5895,8 +5896,7 @@ export const PLAYERS: PlayerSeed[] = [
       "vfbstuttgartyouth",
       "westbromwichalbionloan",
       "werderbremen",
-      "tsghoffenheimloan",
-      "fcbayernmnchen"
+      "tsghoffenheimloan"
     ],
     "leagues": [
       "premier-league",
@@ -5940,7 +5940,6 @@ export const PLAYERS: PlayerSeed[] = [
       "rbleyptsig",
       "svaspern",
       "austriawien",
-      "fcbayernmnchen",
       "tsghoffenheim"
     ],
     "leagues": [
@@ -6771,14 +6770,14 @@ export const PLAYERS: PlayerSeed[] = [
       "manchester-united",
       "real-madrid",
       "juventus",
-      "alnassr"
+      "al-nassr"
     ],
     "leagues": [
       "premier-league",
       "laliga",
       "serie-a",
       "ligaportugal",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "ferguson",
@@ -6810,7 +6809,8 @@ export const PLAYERS: PlayerSeed[] = [
     "leagues": [
       "laliga",
       "ligue1",
-      "mls"
+      "mls",
+      "majorleaguesoccer"
     ],
     "managers": [
       "frankraykard",
@@ -6828,7 +6828,7 @@ export const PLAYERS: PlayerSeed[] = [
       "ucl",
       "worldcup-winner",
       "worldcup",
-      "kopaamerika",
+      "copa-america",
       "ballondor"
     ]
   },
@@ -6844,7 +6844,7 @@ export const PLAYERS: PlayerSeed[] = [
     "position": "Player",
     "clubs": [
       "fcschalke04",
-      "fcbayernmnchen"
+      "bavaria"
     ],
     "leagues": [
       "bundesliga"
@@ -6910,7 +6910,7 @@ export const PLAYERS: PlayerSeed[] = [
       "ucl",
       "laliga",
       "apl",
-      "kopaamerika"
+      "copa-america"
     ]
   },
   {
@@ -6974,7 +6974,7 @@ export const PLAYERS: PlayerSeed[] = [
       "brazilskayaseriyaa",
       "laliga",
       "ligue1",
-      "saudovskayapro-liga",
+      "saudi-league",
       "superligagretsii"
     ],
     "managers": [
@@ -6997,7 +6997,7 @@ export const PLAYERS: PlayerSeed[] = [
     ],
     "tournaments": [
       "ucl",
-      "kopaamerika",
+      "copa-america",
       "laliga",
       "kubokispanii",
       "superkubokispanii",
@@ -7054,12 +7054,12 @@ export const PLAYERS: PlayerSeed[] = [
     "clubs": [
       "lyon",
       "real-madrid",
-      "alittihad"
+      "al-ittihad"
     ],
     "leagues": [
       "ligue1",
       "laliga",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "ancelotti",
@@ -7089,12 +7089,14 @@ export const PLAYERS: PlayerSeed[] = [
     "clubs": [
       "dinamozagreb",
       "tottenham",
-      "real-madrid"
+      "real-madrid",
+      "ac-milan"
     ],
     "leagues": [
       "khorvatskayaliga",
       "premier-league",
-      "laliga"
+      "laliga",
+      "serie-a"
     ],
     "managers": [
       "mourinho",
@@ -7127,7 +7129,8 @@ export const PLAYERS: PlayerSeed[] = [
     "leagues": [
       "belgiyskayaliga",
       "premier-league",
-      "bundesliga"
+      "bundesliga",
+      "serie-a"
     ],
     "managers": [
       "pep",
@@ -7586,7 +7589,7 @@ export const PLAYERS: PlayerSeed[] = [
       "millwall",
       "norwichcity",
       "leicestercity",
-      "fcbayernmnchen"
+      "bavaria"
     ],
     "leagues": [
       "premier-league",
@@ -7660,15 +7663,15 @@ export const PLAYERS: PlayerSeed[] = [
       "redbullsalzburg",
       "southampton",
       "liverpool",
-      "fcbayernmnchen",
-      "alnassr"
+      "bavaria",
+      "al-nassr"
     ],
     "leagues": [
       "ligue1",
       "avstriyskayabundesliga",
       "premier-league",
       "bundesliga",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "rodzhershmidt",
@@ -7685,7 +7688,7 @@ export const PLAYERS: PlayerSeed[] = [
       "bundesliga",
       "superkubokuefa",
       "klubnyychempionatmira",
-      "kubokafriki"
+      "afcon"
     ]
   },
   {
@@ -7777,14 +7780,14 @@ export const PLAYERS: PlayerSeed[] = [
       "smcaen",
       "leicestercity",
       "chelsea",
-      "alittihad",
+      "al-ittihad",
       "fenerbahe"
     ],
     "leagues": [
       "liga2",
       "ligue1",
       "premier-league",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "claudemakll",
@@ -8031,7 +8034,8 @@ export const PLAYERS: PlayerSeed[] = [
       "kubokitalii",
       "superkubokispanii",
       "kubokispanii",
-      "kubokkonfederatsiy"
+      "kubokkonfederatsiy",
+      "copa-america"
     ]
   },
   {
@@ -8050,7 +8054,8 @@ export const PLAYERS: PlayerSeed[] = [
     ],
     "leagues": [
       "laliga",
-      "mls"
+      "mls",
+      "majorleaguesoccer"
     ],
     "managers": [
       "pepguardiola",
@@ -8169,7 +8174,8 @@ export const PLAYERS: PlayerSeed[] = [
       "kleague1",
       "bundesliga",
       "premier-league",
-      "mls"
+      "mls",
+      "majorleaguesoccer"
     ],
     "managers": [
       "rogerschmidt",
@@ -8241,14 +8247,14 @@ export const PLAYERS: PlayerSeed[] = [
       "krcgenk",
       "napoli",
       "chelsea",
-      "alhilal"
+      "al-hilal"
     ],
     "leagues": [
       "ligue1",
       "belgiyskayapro-liga",
       "serie-a",
       "premier-league",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "claudioranieri",
@@ -8266,7 +8272,8 @@ export const PLAYERS: PlayerSeed[] = [
       "kubokitalii",
       "superkubokitalii",
       "apl",
-      "saudovskayapro-liga"
+      "saudovskayapro-liga",
+      "afcon"
     ]
   },
   {
@@ -8354,7 +8361,7 @@ export const PLAYERS: PlayerSeed[] = [
     "position": "Player",
     "clubs": [
       "rbleipzig",
-      "fcbayernmnchen"
+      "bavaria"
     ],
     "leagues": [
       "bundesliga"
@@ -8476,7 +8483,7 @@ export const PLAYERS: PlayerSeed[] = [
       "seriyaabrazilii",
       "premier-league",
       "superligakitaya",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "zricardo",
@@ -8967,7 +8974,7 @@ export const PLAYERS: PlayerSeed[] = [
       "bundesliga",
       "premier-league",
       "laliga",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "carloancelotti",
@@ -9424,7 +9431,7 @@ export const PLAYERS: PlayerSeed[] = [
       "manchester-city",
       "bavaria",
       "barcelona",
-      "alhilal"
+      "al-hilal"
     ],
     "leagues": [
       "ligaportugal",
@@ -9432,7 +9439,7 @@ export const PLAYERS: PlayerSeed[] = [
       "seriyaa",
       "premier-league",
       "bundesliga",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "nunoespritosanto",
@@ -9554,7 +9561,8 @@ export const PLAYERS: PlayerSeed[] = [
       "zhyupileproliga",
       "ligue1",
       "serie-a",
-      "superligaturtsii"
+      "superligaturtsii",
+      "superlig"
     ],
     "managers": [
       "emmanuelamuneke",
@@ -9769,7 +9777,8 @@ export const PLAYERS: PlayerSeed[] = [
       "kubokgermanii",
       "kubokitalii",
       "klubnyychempionatmira",
-      "kubokbrazilii"
+      "kubokbrazilii",
+      "copa-america"
     ]
   },
   {
@@ -9796,7 +9805,8 @@ export const PLAYERS: PlayerSeed[] = [
       "laliga",
       "premier-league",
       "ligue1",
-      "seriyaa"
+      "seriyaa",
+      "ligaprofesionaldeftbol"
     ],
     "managers": [
       "miguelngelrusso",
@@ -9818,7 +9828,8 @@ export const PLAYERS: PlayerSeed[] = [
       "kubokispanii",
       "ucl",
       "klubnyychempionatmira",
-      "kubokportugalii"
+      "kubokportugalii",
+      "copa-america"
     ]
   },
   {
@@ -10052,7 +10063,8 @@ export const PLAYERS: PlayerSeed[] = [
     "leagues": [
       "seriyaa",
       "ligue1",
-      "superligaturtsii"
+      "superligaturtsii",
+      "superlig"
     ],
     "managers": [
       "sinisamihajlovic",
@@ -10087,13 +10099,14 @@ export const PLAYERS: PlayerSeed[] = [
       "tsghoffenheim",
       "liverpool",
       "alahlijeddah",
-      "al-sadd"
+      "al-sadd",
+      "al-akhli"
     ],
     "leagues": [
       "seriyabbrazilii",
       "bundesliga",
       "premier-league",
-      "saudovskayapro-liga",
+      "saudi-league",
       "katarskayazvyozdnayaliga"
     ],
     "managers": [
@@ -10221,7 +10234,7 @@ export const PLAYERS: PlayerSeed[] = [
       "laliga",
       "ligue1",
       "premier-league",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "zinedinezidane",
@@ -10254,7 +10267,7 @@ export const PLAYERS: PlayerSeed[] = [
     "clubs": [
       "vflbochum",
       "schalke04",
-      "fcbayernmnchen"
+      "bavaria"
     ],
     "leagues": [
       "bundesliga"
@@ -10293,13 +10306,14 @@ export const PLAYERS: PlayerSeed[] = [
       "avironbayonnais",
       "athleticclub",
       "manchester-city",
-      "al-nassr"
+      "al-nassr",
+      "atletikbilbao"
     ],
     "leagues": [
       "frantsuzskieregionalnyeligi",
       "laliga",
       "premier-league",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "ernestovalverde",
@@ -10335,7 +10349,8 @@ export const PLAYERS: PlayerSeed[] = [
     ],
     "leagues": [
       "ligue1",
-      "seriyaa"
+      "seriyaa",
+      "serie-a"
     ],
     "managers": [
       "laurentblanc",
@@ -10544,7 +10559,7 @@ export const PLAYERS: PlayerSeed[] = [
       "seriyaa",
       "kubokitalii",
       "superkubokitalii",
-      "kopaamerika",
+      "copa-america",
       "laliga",
       "kubokispanii",
       "bundesliga",
@@ -10700,7 +10715,7 @@ export const PLAYERS: PlayerSeed[] = [
       "apl",
       "kubokanglii",
       "kubokligianglii",
-      "kubokafriki"
+      "afcon"
     ]
   },
   {
@@ -11109,7 +11124,8 @@ export const PLAYERS: PlayerSeed[] = [
     "leagues": [
       "superligashveytsarii",
       "bundesliga",
-      "seriyaa"
+      "seriyaa",
+      "serie-a"
     ],
     "managers": [
       "heikovogel",
@@ -11377,7 +11393,7 @@ export const PLAYERS: PlayerSeed[] = [
     "leagues": [
       "premier-league",
       "chempionship",
-      "saudovskayapro-liga",
+      "saudi-league",
       "eredivisie"
     ],
     "managers": [
@@ -11498,7 +11514,8 @@ export const PLAYERS: PlayerSeed[] = [
       "kaiserslautern",
       "eintrachtfrankfurt",
       "psg",
-      "parisfc"
+      "parisfc",
+      "parizhfk"
     ],
     "leagues": [
       "bundesliga",
@@ -11535,7 +11552,8 @@ export const PLAYERS: PlayerSeed[] = [
       "queensparkrangers",
       "getafe",
       "valencia",
-      "villarreal"
+      "villarreal",
+      "villarrealcf"
     ],
     "leagues": [
       "laliga",
@@ -11734,7 +11752,8 @@ export const PLAYERS: PlayerSeed[] = [
       "ligaportugalii",
       "kubokanglii",
       "kubokligianglii",
-      "superkubokanglii"
+      "superkubokanglii",
+      "copa-america"
     ]
   },
   {
@@ -11751,7 +11770,8 @@ export const PLAYERS: PlayerSeed[] = [
       "vfbstuttgart",
       "bayerleverkusen",
       "arsenal",
-      "fulham"
+      "fulham",
+      "fulkhem"
     ],
     "leagues": [
       "bundesliga",
@@ -11787,12 +11807,13 @@ export const PLAYERS: PlayerSeed[] = [
       "1899hoffenheim",
       "werderbremen",
       "wolfsburg",
-      "al-qadsiah"
+      "al-qadsiah",
+      "alqadsiahfc"
     ],
     "leagues": [
       "zhyupileproliga",
       "bundesliga",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "mariobeen",
@@ -11827,7 +11848,7 @@ export const PLAYERS: PlayerSeed[] = [
     "leagues": [
       "ligue1",
       "premier-league",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "claudepuel",
@@ -11903,12 +11924,12 @@ export const PLAYERS: PlayerSeed[] = [
       "lehavre",
       "leicestercity",
       "manchester-city",
-      "al-ahli"
+      "al-akhli"
     ],
     "leagues": [
       "liga2frantsii",
       "premier-league",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "thierrygoudet",
@@ -11923,7 +11944,7 @@ export const PLAYERS: PlayerSeed[] = [
       "kubokanglii",
       "superkubokanglii",
       "ucl",
-      "kubokafriki"
+      "afcon"
     ]
   },
   {
@@ -11979,7 +12000,8 @@ export const PLAYERS: PlayerSeed[] = [
       "mallorca",
       "villarrealb",
       "espanyol",
-      "villarreal"
+      "villarreal",
+      "villarrealcf"
     ],
     "leagues": [
       "terseradivizionispanii",
@@ -12055,13 +12077,13 @@ export const PLAYERS: PlayerSeed[] = [
       "psg",
       "juventus",
       "bavaria",
-      "alnassr"
+      "al-nassr"
     ],
     "leagues": [
       "ligue1",
       "seriyaa",
       "bundesliga",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "laurentblanc",
@@ -12102,7 +12124,7 @@ export const PLAYERS: PlayerSeed[] = [
     "leagues": [
       "khorvatskayaliga",
       "seriyaa",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "krunoslavjuri",
@@ -12180,13 +12202,13 @@ export const PLAYERS: PlayerSeed[] = [
       "vojvodina",
       "genk",
       "lazio",
-      "alhilal"
+      "al-hilal"
     ],
     "leagues": [
       "superligaserbii",
       "zhyupileproliga",
       "seriyaa",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "zoranmari",
@@ -12222,7 +12244,8 @@ export const PLAYERS: PlayerSeed[] = [
       "inter"
     ],
     "leagues": [
-      "seriyaa"
+      "seriyaa",
+      "serie-a"
     ],
     "managers": [
       "massimorastelli",
@@ -12286,7 +12309,8 @@ export const PLAYERS: PlayerSeed[] = [
       "sampdoria",
       "inter",
       "psg",
-      "fenerbahe"
+      "fenerbahe",
+      "fenerbahce"
     ],
     "leagues": [
       "slovatskayaliga",
@@ -12368,12 +12392,12 @@ export const PLAYERS: PlayerSeed[] = [
       "reims",
       "rennes",
       "chelsea",
-      "al-ahli"
+      "al-akhli"
     ],
     "leagues": [
       "ligue1",
       "premier-league",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "oliviergugan",
@@ -12788,7 +12812,7 @@ export const PLAYERS: PlayerSeed[] = [
       "uel",
       "superkubokuefa",
       "klubnyychempionatmira",
-      "kopaamerika",
+      "copa-america",
       "olimpiyskieigry"
     ]
   },
@@ -13026,7 +13050,8 @@ export const PLAYERS: PlayerSeed[] = [
       "kubokanglii",
       "superkubokanglii",
       "superkubokispanii",
-      "kubokligianglii"
+      "kubokligianglii",
+      "copa-america"
     ]
   },
   {
@@ -13246,7 +13271,8 @@ export const PLAYERS: PlayerSeed[] = [
       "bundesliga",
       "premier-league",
       "seriyaa",
-      "superligaturtsii"
+      "superligaturtsii",
+      "serie-a"
     ],
     "managers": [
       "ademuri",
@@ -13292,7 +13318,7 @@ export const PLAYERS: PlayerSeed[] = [
       "premier-league",
       "ligue1",
       "seriyaa",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "ronaldkoeman",
@@ -13416,7 +13442,8 @@ export const PLAYERS: PlayerSeed[] = [
       "tranmererovers",
       "hullcity",
       "rbsalzburg",
-      "rbleipzig"
+      "rbleipzig",
+      "rbleyptsig"
     ],
     "leagues": [
       "nemzetibaynoksagi",
@@ -13660,7 +13687,8 @@ export const PLAYERS: PlayerSeed[] = [
       "dortmund",
       "fcbayernmnchen",
       "psv",
-      "eintrachtfrankfurt"
+      "eintrachtfrankfurt",
+      "ayntrakhtfrankfurt"
     ],
     "leagues": [
       "bundesliga",
@@ -13736,7 +13764,8 @@ export const PLAYERS: PlayerSeed[] = [
     "clubs": [
       "celtadevigo",
       "sevilla",
-      "liverpool"
+      "liverpool",
+      "selta"
     ],
     "leagues": [
       "laliga",
@@ -13820,7 +13849,8 @@ export const PLAYERS: PlayerSeed[] = [
       "premer-ligaukrainy",
       "bundesliga",
       "premier-league",
-      "seriyaa"
+      "seriyaa",
+      "serie-a"
     ],
     "managers": [
       "mircealucescu",
@@ -13934,7 +13964,8 @@ export const PLAYERS: PlayerSeed[] = [
     ],
     "leagues": [
       "eredivisie",
-      "seriyaa"
+      "seriyaa",
+      "serie-a"
     ],
     "managers": [
       "ronaldkoeman",
@@ -14154,7 +14185,7 @@ export const PLAYERS: PlayerSeed[] = [
       "superkubokanglii",
       "worldcup-winner",
       "worldcup",
-      "kopaamerika",
+      "copa-america",
       "finalissima"
     ]
   },
@@ -14283,7 +14314,8 @@ export const PLAYERS: PlayerSeed[] = [
     ],
     "leagues": [
       "bundesliga",
-      "seriyaa"
+      "seriyaa",
+      "serie-a"
     ],
     "managers": [
       "kostarunjai",
@@ -14321,7 +14353,7 @@ export const PLAYERS: PlayerSeed[] = [
       "ligue1",
       "laliga",
       "superligakitaya",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "claudioranieri",
@@ -14400,7 +14432,8 @@ export const PLAYERS: PlayerSeed[] = [
       "eredivisie",
       "bundesliga",
       "seriyaa",
-      "superligaturtsii"
+      "superligaturtsii",
+      "serie-a"
     ],
     "managers": [
       "slaviastojanovi",
@@ -14485,7 +14518,7 @@ export const PLAYERS: PlayerSeed[] = [
       "botola",
       "segunda",
       "laliga",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "juanignaciomartnez",
@@ -14588,7 +14621,8 @@ export const PLAYERS: PlayerSeed[] = [
       "juventusloan"
     ],
     "leagues": [
-      "seriyaa"
+      "seriyaa",
+      "serie-a"
     ],
     "managers": [
       "eusebiodifrancesco",
@@ -14651,7 +14685,7 @@ export const PLAYERS: PlayerSeed[] = [
     "position": "Player",
     "clubs": [
       "tsghoffenheim",
-      "fcbayernmnchen",
+      "bavaria",
       "dortmund"
     ],
     "leagues": [
@@ -14832,12 +14866,14 @@ export const PLAYERS: PlayerSeed[] = [
       "real-madrid",
       "psg",
       "astonvilla",
-      "fenerbahe"
+      "fenerbahe",
+      "fenerbahce"
     ],
     "leagues": [
       "segunda",
       "laliga",
-      "ligue1"
+      "ligue1",
+      "superlig"
     ],
     "managers": [
       "valerykarpin",
@@ -15023,7 +15059,8 @@ export const PLAYERS: PlayerSeed[] = [
     "nationality": "Spain",
     "position": "Player",
     "clubs": [
-      "realsociedad"
+      "realsociedad",
+      "realsosedad"
     ],
     "leagues": [
       "laliga"
@@ -15055,7 +15092,8 @@ export const PLAYERS: PlayerSeed[] = [
       "barcelona"
     ],
     "leagues": [
-      "premier-league"
+      "premier-league",
+      "laliga"
     ],
     "managers": [
       "louisvangaal",
@@ -15097,7 +15135,7 @@ export const PLAYERS: PlayerSeed[] = [
     "leagues": [
       "laliga",
       "seriyaa",
-      "saudovskayapro-liga"
+      "saudi-league"
     ],
     "managers": [
       "diegosimeone",
@@ -15130,7 +15168,8 @@ export const PLAYERS: PlayerSeed[] = [
       "sampdoria",
       "roma",
       "rbleipzigloan",
-      "bayer04leverkusen"
+      "bayer04leverkusen",
+      "bayerleverkuzen"
     ],
     "leagues": [
       "cheshskayaliga",
@@ -15276,7 +15315,8 @@ export const PLAYERS: PlayerSeed[] = [
       "inter"
     ],
     "leagues": [
-      "seriyaa"
+      "seriyaa",
+      "serie-a"
     ],
     "managers": [
       "gianpierogasperini",
@@ -15422,5 +15462,7256 @@ export const PLAYERS: PlayerSeed[] = [
       "kubokgermanii",
       "superkubokgermanii"
     ]
+  },
+  {
+    "id": "federikodimarko",
+    "name": "Федерико Димарко",
+    "aliases": [
+      "федерико димарко",
+      "federiko dimarko",
+      "димарко"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "inter"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "aleksismakallister",
+    "name": "Алексис Макаллистер",
+    "aliases": [
+      "алексис макаллистер",
+      "aleksis makallister",
+      "макаллистер"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "clubs": [
+      "liverpool"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "teoernandes",
+    "name": "Тео Эрнандес",
+    "aliases": [
+      "тео эрнандес",
+      "teo ernandes",
+      "эрнандес"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "al-hilal"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "khulianalvares",
+    "name": "Хулиан Альварес",
+    "aliases": [
+      "хулиан альварес",
+      "khulian alvares",
+      "альварес"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "clubs": [
+      "atletico"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "oyansanset",
+    "name": "Ойан Сансет",
+    "aliases": [
+      "ойан сансет",
+      "oyan sanset",
+      "сансет"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "atletikbilbao"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "adrianrabo",
+    "name": "Адриан Рабьо",
+    "aliases": [
+      "адриан рабьо",
+      "adrian rabo",
+      "рабьо"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "ac-milan"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "rodrigodepaul",
+    "name": "Родриго Де Пауль",
+    "aliases": [
+      "родриго де пауль",
+      "rodrigo de paul",
+      "пауль"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "clubs": [
+      "intermiami"
+    ],
+    "leagues": [
+      "majorleaguesoccer"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "vitinya",
+    "name": "Витинья",
+    "aliases": [
+      "витинья",
+      "vitinya"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "psg"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "marselzabittser",
+    "name": "Марсель Забитцер",
+    "aliases": [
+      "марсель забитцер",
+      "marsel zabittser",
+      "забитцер"
+    ],
+    "nationality": "Austria",
+    "position": "Player",
+    "clubs": [
+      "dortmund"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "tidzhanireynders",
+    "name": "Тиджани Рейндерс",
+    "aliases": [
+      "тиджани рейндерс",
+      "tidzhani reynders",
+      "рейндерс"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "clubs": [
+      "manchester-city"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dominiksoboslai",
+    "name": "Доминик Собослаи",
+    "aliases": [
+      "доминик собослаи",
+      "dominik soboslai",
+      "собослаи"
+    ],
+    "nationality": "Венгрия",
+    "position": "Player",
+    "clubs": [
+      "liverpool"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "rafaeldiasbelloli",
+    "name": "Рафаэль Диас Беллоли",
+    "aliases": [
+      "рафаэль диас беллоли",
+      "rafael dias belloli",
+      "беллоли"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "barcelona"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "brunogimarayns",
+    "name": "Бруно Гимарайнс",
+    "aliases": [
+      "бруно гимарайнс",
+      "bruno gimarayns",
+      "гимарайнс"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "newcastle"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "zhuannevish",
+    "name": "Жуан Невиш",
+    "aliases": [
+      "жуан невиш",
+      "zhuan nevish",
+      "невиш"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "psg"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "rayangravenberkh",
+    "name": "Райан Гравенберх",
+    "aliases": [
+      "райан гравенберх",
+      "rayan gravenberkh",
+      "гравенберх"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "clubs": [
+      "liverpool"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "lautaromartines",
+    "name": "Лаутаро Мартинес",
+    "aliases": [
+      "лаутаро мартинес",
+      "lautaro martines",
+      "мартинес"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "clubs": [
+      "inter"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "tyonkopmeyners",
+    "name": "Тён Копмейнерс",
+    "aliases": [
+      "тён копмейнерс",
+      "tyon kopmeyners",
+      "копмейнерс"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "clubs": [
+      "juventus"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "alekhandrogrimaldo",
+    "name": "Алехандро Гримальдо",
+    "aliases": [
+      "алехандро гримальдо",
+      "alekhandro grimaldo",
+      "гримальдо"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "bayerleverkuzen"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "risdzheyms",
+    "name": "Рис Джеймс",
+    "aliases": [
+      "рис джеймс",
+      "ris dzheyms",
+      "джеймс"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "chelsea"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "konorgallakher",
+    "name": "Конор Галлахер",
+    "aliases": [
+      "конор галлахер",
+      "konor gallakher",
+      "галлахер"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "atletico"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "mikelmerino",
+    "name": "Микель Мерино",
+    "aliases": [
+      "микель мерино",
+      "mikel merino",
+      "мерино"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "arsenal"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "entsokheremiasfernandes",
+    "name": "Энцо Херемиас Фернандес",
+    "aliases": [
+      "энцо херемиас фернандес",
+      "entso kheremias fernandes",
+      "фернандес"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "clubs": [
+      "chelsea"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "frederikorodrigessantos",
+    "name": "Фредерико Родригес Сантос",
+    "aliases": [
+      "фредерико родригес сантос",
+      "frederiko rodriges santos",
+      "сантос"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "fenerbahce"
+    ],
+    "leagues": [
+      "superlig"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ismaelbennaser",
+    "name": "Исмаэль Беннасер",
+    "aliases": [
+      "исмаэль беннасер",
+      "ismael bennaser",
+      "беннасер"
+    ],
+    "nationality": "Algeria",
+    "position": "Player",
+    "clubs": [
+      "dinamozagreb"
+    ],
+    "leagues": [
+      "hrvatskanogometnaliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "baryshyylmaz",
+    "name": "Барыш Йылмаз",
+    "aliases": [
+      "барыш йылмаз",
+      "barysh yylmaz",
+      "йылмаз"
+    ],
+    "nationality": "Turkey",
+    "position": "Player",
+    "clubs": [
+      "galatasaray"
+    ],
+    "leagues": [
+      "superlig"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "pedroporro",
+    "name": "Педро Порро",
+    "aliases": [
+      "педро порро",
+      "pedro porro",
+      "порро"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "tottenham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "otavioedmilsondasilvamonteyro",
+    "name": "Отавио Эдмилсон да Силва Монтейрo",
+    "aliases": [
+      "отавио эдмилсон да силва монтейрo",
+      "otavio edmilson da silva monteyro",
+      "монтейрo"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "alqadsiahfc"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "orkunkyokchyu",
+    "name": "Оркун Кёкчю",
+    "aliases": [
+      "оркун кёкчю",
+      "orkun kyokchyu",
+      "кёкчю"
+    ],
+    "nationality": "Turkey",
+    "position": "Player",
+    "clubs": [
+      "beiktajk"
+    ],
+    "leagues": [
+      "superlig"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "skottmaktominey",
+    "name": "Скотт Мактоминей",
+    "aliases": [
+      "скотт мактоминей",
+      "skott maktominey",
+      "мактоминей"
+    ],
+    "nationality": "Scotland",
+    "position": "Player",
+    "clubs": [
+      "napoli"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "eduardukamavinga",
+    "name": "Эдуарду Камавинга",
+    "aliases": [
+      "эдуарду камавинга",
+      "eduardu kamavinga",
+      "камавинга"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "real-madrid"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "rubennevish",
+    "name": "Рубен Невиш",
+    "aliases": [
+      "рубен невиш",
+      "ruben nevish",
+      "невиш"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "al-hilal"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "feliksnmecha",
+    "name": "Феликс Нмеча",
+    "aliases": [
+      "феликс нмеча",
+      "feliks nmecha",
+      "нмеча"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "dortmund"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "karlosaugusto",
+    "name": "Карлос Аугусто",
+    "aliases": [
+      "карлос аугусто",
+      "karlos augusto",
+      "аугусто"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "inter"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dzhonmakginn",
+    "name": "Джон Макгинн",
+    "aliases": [
+      "джон макгинн",
+      "dzhon makginn",
+      "макгинн"
+    ],
+    "nationality": "Scotland",
+    "position": "Player",
+    "clubs": [
+      "astonvilla"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "aleksberenger",
+    "name": "Алекс Беренгер",
+    "aliases": [
+      "алекс беренгер",
+      "aleks berenger",
+      "беренгер"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "atletikbilbao"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "lorentsopellegrini",
+    "name": "Лоренцо Пеллегрини",
+    "aliases": [
+      "лоренцо пеллегрини",
+      "lorentso pellegrini",
+      "пеллегрини"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "roma"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "pedrugonsalvesh",
+    "name": "Педру Гонсалвеш",
+    "aliases": [
+      "педру гонсалвеш",
+      "pedru gonsalvesh",
+      "гонсалвеш"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "sportingcp"
+    ],
+    "leagues": [
+      "ligaportugal"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "zhoelinton",
+    "name": "Жоэлинтон",
+    "aliases": [
+      "жоэлинтон",
+      "zhoelinton"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "newcastle"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "nunualeshandretavarishmendesh",
+    "name": "Нуну Алешандре Тавариш Мендеш",
+    "aliases": [
+      "нуну алешандре тавариш мендеш",
+      "nunu aleshandre tavarish mendesh",
+      "мендеш"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "psg"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "robertlevandovski",
+    "name": "Роберт Левандовски",
+    "aliases": [
+      "роберт левандовски",
+      "robert levandovski",
+      "левандовски"
+    ],
+    "nationality": "Польша",
+    "position": "Player",
+    "clubs": [
+      "barcelona"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "khefrentyuram",
+    "name": "Хефрен Тюрам",
+    "aliases": [
+      "хефрен тюрам",
+      "khefren tyuram",
+      "тюрам"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "juventus"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "brianmbemo",
+    "name": "Бриан Мбемо",
+    "aliases": [
+      "бриан мбемо",
+      "brian mbemo",
+      "мбемо"
+    ],
+    "nationality": "Камерун",
+    "position": "Player",
+    "clubs": [
+      "manchester-united"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "yuritilemans",
+    "name": "Юри Тилеманс",
+    "aliases": [
+      "юри тилеманс",
+      "yuri tilemans",
+      "тилеманс"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "clubs": [
+      "astonvilla"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "markkukurelya",
+    "name": "Марк Кукурелья",
+    "aliases": [
+      "марк кукурелья",
+      "mark kukurelya",
+      "кукурелья"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "chelsea"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "lukastorreyra",
+    "name": "Лукас Торрейра",
+    "aliases": [
+      "лукас торрейра",
+      "lukas torreyra",
+      "торрейра"
+    ],
+    "nationality": "Uruguay",
+    "position": "Player",
+    "clubs": [
+      "galatasaray"
+    ],
+    "leagues": [
+      "superlig"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "frankkessi",
+    "name": "Франк Кесси",
+    "aliases": [
+      "франк кесси",
+      "frank kessi",
+      "кесси"
+    ],
+    "nationality": "Ivory Coast",
+    "position": "Player",
+    "clubs": [
+      "al-akhli"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dzhovannilochelso",
+    "name": "Джованни Ло Чельсо",
+    "aliases": [
+      "джованни ло чельсо",
+      "dzhovanni lo chelso",
+      "чельсо"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "clubs": [
+      "realbetis"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "fredrikeursnes",
+    "name": "Фредрик Эурснес",
+    "aliases": [
+      "фредрик эурснес",
+      "fredrik eursnes",
+      "эурснес"
+    ],
+    "nationality": "Norway",
+    "position": "Player",
+    "clubs": [
+      "benfica"
+    ],
+    "leagues": [
+      "ligaportugal"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "deyankulushevski",
+    "name": "Деян Кулушевски",
+    "aliases": [
+      "деян кулушевски",
+      "deyan kulushevski",
+      "кулушевски"
+    ],
+    "nationality": "Sweden",
+    "position": "Player",
+    "clubs": [
+      "tottenham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "rubenloftus-chik",
+    "name": "Рубен Лофтус-Чик",
+    "aliases": [
+      "рубен лофтус-чик",
+      "ruben loftus-chik",
+      "лофтус-чик"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "ac-milan"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "serkhidarder",
+    "name": "Серхи Дардер",
+    "aliases": [
+      "серхи дардер",
+      "serkhi darder",
+      "дардер"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "malorka"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "korententolisso",
+    "name": "Корентен Толиссо",
+    "aliases": [
+      "корентен толиссо",
+      "korenten tolisso",
+      "толиссо"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "lyon"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dekyoypermaksim",
+    "name": "Де Кёйпер, Максим",
+    "aliases": [
+      "де кёйпер, максим",
+      "de kyoyper, maksim",
+      "максим"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "clubs": [
+      "brayton"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "kvintentimber",
+    "name": "Квинтен Тимбер",
+    "aliases": [
+      "квинтен тимбер",
+      "kvinten timber",
+      "тимбер"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "clubs": [
+      "feyenoord"
+    ],
+    "leagues": [
+      "eredivisie"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "duglasluiz",
+    "name": "Дуглас Луиз",
+    "aliases": [
+      "дуглас луиз",
+      "duglas luiz",
+      "луиз"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "nottingham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ayoseperesguterres",
+    "name": "Айосе Перес Гутьеррес",
+    "aliases": [
+      "айосе перес гутьеррес",
+      "ayose peres guterres",
+      "гутьеррес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "villarrealcf"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "alfonsodeyvis",
+    "name": "Алфонсо Дейвис",
+    "aliases": [
+      "алфонсо дейвис",
+      "alfonso deyvis",
+      "дейвис"
+    ],
+    "nationality": "Канада",
+    "position": "Player",
+    "clubs": [
+      "bavaria"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "davidefrattezi",
+    "name": "Давиде Фраттези",
+    "aliases": [
+      "давиде фраттези",
+      "davide frattezi",
+      "фраттези"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "inter"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "matteogenduzi",
+    "name": "Маттео Гендузи",
+    "aliases": [
+      "маттео гендузи",
+      "matteo genduzi",
+      "гендузи"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "lazio"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "moyseskaysedo",
+    "name": "Мойсес Кайседо",
+    "aliases": [
+      "мойсес кайседо",
+      "moyses kaysedo",
+      "кайседо"
+    ],
+    "nationality": "Эквадор",
+    "position": "Player",
+    "clubs": [
+      "chelsea"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "yoshkogvardiol",
+    "name": "Йошко Гвардиол",
+    "aliases": [
+      "йошко гвардиол",
+      "yoshko gvardiol",
+      "гвардиол"
+    ],
+    "nationality": "Croatia",
+    "position": "Player",
+    "clubs": [
+      "manchester-city"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "andrezambo-angissa",
+    "name": "Андре Замбо-Ангисса",
+    "aliases": [
+      "андре замбо-ангисса",
+      "andre zambo-angissa",
+      "замбо-ангисса"
+    ],
+    "nationality": "Камерун",
+    "position": "Player",
+    "clubs": [
+      "napoli"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "lukaspaketa",
+    "name": "Лукас Пакета",
+    "aliases": [
+      "лукас пакета",
+      "lukas paketa",
+      "пакета"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "westhamunited"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "gabrielsara",
+    "name": "Габриэл Сара",
+    "aliases": [
+      "габриэл сара",
+      "gabriel sara",
+      "сара"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "galatasaray"
+    ],
+    "leagues": [
+      "superlig"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "mortenyulmann",
+    "name": "Мортен Юлманн",
+    "aliases": [
+      "мортен юлманн",
+      "morten yulmann",
+      "юлманн"
+    ],
+    "nationality": "Denmark",
+    "position": "Player",
+    "clubs": [
+      "sportingcp"
+    ],
+    "leagues": [
+      "ligaportugal"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "mauroarambarri",
+    "name": "Мауро Арамбарри",
+    "aliases": [
+      "мауро арамбарри",
+      "mauro arambarri",
+      "арамбарри"
+    ],
+    "nationality": "Uruguay",
+    "position": "Player",
+    "clubs": [
+      "khetafe"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "benzhamenpavar",
+    "name": "Бенжамен Павар",
+    "aliases": [
+      "бенжамен павар",
+      "benzhamen pavar",
+      "павар"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "marseille"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "elliotanderson",
+    "name": "Эллиот Андерсон",
+    "aliases": [
+      "эллиот андерсон",
+      "elliot anderson",
+      "андерсон"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "nottingham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "aleshgarsiya",
+    "name": "Алеш Гарсия",
+    "aliases": [
+      "алеш гарсия",
+      "alesh garsiya",
+      "гарсия"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "bayerleverkuzen"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "aleksbaena",
+    "name": "Алекс Баэна",
+    "aliases": [
+      "алекс баэна",
+      "aleks baena",
+      "баэна"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "atletico"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "maliktillman",
+    "name": "Малик Тиллман",
+    "aliases": [
+      "малик тиллман",
+      "malik tillman",
+      "тиллман"
+    ],
+    "nationality": "United States",
+    "position": "Player",
+    "clubs": [
+      "bayerleverkuzen"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "esekielpalasios",
+    "name": "Эсекиэль Паласиос",
+    "aliases": [
+      "эсекиэль паласиос",
+      "esekiel palasios",
+      "паласиос"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "clubs": [
+      "bayerleverkuzen"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dilorentsodzhovanni",
+    "name": "Ди Лоренцо, Джованни",
+    "aliases": [
+      "ди лоренцо, джованни",
+      "di lorentso, dzhovanni",
+      "джованни"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "napoli"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "koulpalmer",
+    "name": "Коул Палмер",
+    "aliases": [
+      "коул палмер",
+      "koul palmer",
+      "палмер"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "chelsea"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "yankhelerrera",
+    "name": "Янхель Эррера",
+    "aliases": [
+      "янхель эррера",
+      "yankhel errera",
+      "эррера"
+    ],
+    "nationality": "Venezuela",
+    "position": "Player",
+    "clubs": [
+      "realsosedad"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "migelguterres",
+    "name": "Мигель Гутьеррес",
+    "aliases": [
+      "мигель гутьеррес",
+      "migel guterres",
+      "гутьеррес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "napoli"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ederson",
+    "name": "Эдерсон",
+    "aliases": [
+      "эдерсон",
+      "ederson"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "atalanta",
+      "fenerbahce"
+    ],
+    "leagues": [
+      "serie-a",
+      "superlig"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "morgangibbs-uayt",
+    "name": "Морган Гиббс-Уайт",
+    "aliases": [
+      "морган гиббс-уайт",
+      "morgan gibbs-uayt",
+      "гиббс-уайт"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "nottingham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "manuellokatelli",
+    "name": "Мануэль Локателли",
+    "aliases": [
+      "мануэль локателли",
+      "manuel lokatelli",
+      "локателли"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "juventus"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "denzeldyumfris",
+    "name": "Дензел Дюмфрис",
+    "aliases": [
+      "дензел дюмфрис",
+      "denzel dyumfris",
+      "дюмфрис"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "clubs": [
+      "inter"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "lyukadin",
+    "name": "Люка Динь",
+    "aliases": [
+      "люка динь",
+      "lyuka din",
+      "динь"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "astonvilla"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "robertandrikh",
+    "name": "Роберт Андрих",
+    "aliases": [
+      "роберт андрих",
+      "robert andrikh",
+      "андрих"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "bayerleverkuzen"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "orelentchuameni",
+    "name": "Орельен Тчуамени",
+    "aliases": [
+      "орельен тчуамени",
+      "orelen tchuameni",
+      "тчуамени"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "real-madrid"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "serugirassi",
+    "name": "Серу Гирасси",
+    "aliases": [
+      "серу гирасси",
+      "seru girassi",
+      "гирасси"
+    ],
+    "nationality": "Гвинея",
+    "position": "Player",
+    "clubs": [
+      "dortmund"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "mattiadzakkani",
+    "name": "Маттиа Дзакканьи",
+    "aliases": [
+      "маттиа дзакканьи",
+      "mattia dzakkani",
+      "дзакканьи"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "lazio"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "martenderon",
+    "name": "Мартен де Рон",
+    "aliases": [
+      "мартен де рон",
+      "marten de ron",
+      "рон"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "clubs": [
+      "atalanta"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "braismendes",
+    "name": "Браис Мендес",
+    "aliases": [
+      "браис мендес",
+      "brais mendes",
+      "мендес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "realsosedad"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "robingosens",
+    "name": "Робин Госенс",
+    "aliases": [
+      "робин госенс",
+      "robin gosens",
+      "госенс"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "fiorentina"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "fabianruis",
+    "name": "Фабиан Руис",
+    "aliases": [
+      "фабиан руис",
+      "fabian ruis",
+      "руис"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "psg"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dzheymsmeddison",
+    "name": "Джеймс Мэддисон",
+    "aliases": [
+      "джеймс мэддисон",
+      "dzheyms meddison",
+      "мэддисон"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "tottenham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "paskalgros",
+    "name": "Паскаль Грос",
+    "aliases": [
+      "паскаль грос",
+      "paskal gros",
+      "грос"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "dortmund"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "rafaelgerreyru",
+    "name": "Рафаэл Геррейру",
+    "aliases": [
+      "рафаэл геррейру",
+      "rafael gerreyru",
+      "геррейру"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "bavaria"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "konradlaymer",
+    "name": "Конрад Лаймер",
+    "aliases": [
+      "конрад лаймер",
+      "konrad laymer",
+      "лаймер"
+    ],
+    "nationality": "Austria",
+    "position": "Player",
+    "clubs": [
+      "bavaria"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "morganrodzhers",
+    "name": "Морган Роджерс",
+    "aliases": [
+      "морган роджерс",
+      "morgan rodzhers",
+      "роджерс"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "astonvilla"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "deziredue",
+    "name": "Дезире Дуэ",
+    "aliases": [
+      "дезире дуэ",
+      "dezire due",
+      "дуэ"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "psg"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "markustyuram",
+    "name": "Маркус Тюрам",
+    "aliases": [
+      "маркус тюрам",
+      "markus tyuram",
+      "тюрам"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "inter"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "davidraum",
+    "name": "Давид Раум",
+    "aliases": [
+      "давид раум",
+      "david raum",
+      "раум"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "rbleyptsig"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "viktordyokeresh",
+    "name": "Виктор Дьёкереш",
+    "aliases": [
+      "виктор дьёкереш",
+      "viktor dyokeresh",
+      "дьёкереш"
+    ],
+    "nationality": "Sweden",
+    "position": "Player",
+    "clubs": [
+      "arsenal"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "georgiyviktorovichsudakov",
+    "name": "Георгий Викторович Судаков",
+    "aliases": [
+      "георгий викторович судаков",
+      "georgiy viktorovich sudakov",
+      "судаков"
+    ],
+    "nationality": "Ukraine",
+    "position": "Player",
+    "clubs": [
+      "benfica"
+    ],
+    "leagues": [
+      "ligaportugal"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "andersonsouzakonseysan",
+    "name": "Андерсон Соуза Консейсан",
+    "aliases": [
+      "андерсон соуза консейсан",
+      "anderson souza konseysan",
+      "консейсан"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "fenerbahce"
+    ],
+    "leagues": [
+      "superlig"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "karlosbaleba",
+    "name": "Карлос Балеба",
+    "aliases": [
+      "карлос балеба",
+      "karlos baleba",
+      "балеба"
+    ],
+    "nationality": "Камерун",
+    "position": "Player",
+    "clubs": [
+      "brayton"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "khavisimons",
+    "name": "Хави Симонс",
+    "aliases": [
+      "хави симонс",
+      "khavi simons",
+      "симонс"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "clubs": [
+      "tottenham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "granitdzhaka",
+    "name": "Гранит Джака",
+    "aliases": [
+      "гранит джака",
+      "granit dzhaka",
+      "джака"
+    ],
+    "nationality": "Switzerland",
+    "position": "Player",
+    "clubs": [
+      "sunderland"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "kristianpulishich",
+    "name": "Кристиан Пулишич",
+    "aliases": [
+      "кристиан пулишич",
+      "kristian pulishich",
+      "пулишич"
+    ],
+    "nationality": "United States",
+    "position": "Player",
+    "clubs": [
+      "ac-milan"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "inyakiuilyams",
+    "name": "Иньяки Уильямс",
+    "aliases": [
+      "иньяки уильямс",
+      "inyaki uilyams",
+      "уильямс"
+    ],
+    "nationality": "Ghana",
+    "position": "Player",
+    "clubs": [
+      "atletikbilbao"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "zhonatankloss",
+    "name": "Жонатан Клосс",
+    "aliases": [
+      "жонатан клосс",
+      "zhonatan kloss",
+      "клосс"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "ogcnice"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "miloshkerkez",
+    "name": "Милош Керкез",
+    "aliases": [
+      "милош керкез",
+      "milosh kerkez",
+      "керкез"
+    ],
+    "nationality": "Венгрия",
+    "position": "Player",
+    "clubs": [
+      "liverpool"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "oskarmingesa",
+    "name": "Оскар Мингеса",
+    "aliases": [
+      "оскар мингеса",
+      "oskar mingesa",
+      "мингеса"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "selta"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "luisfernandodias",
+    "name": "Луис Фернандо Диас",
+    "aliases": [
+      "луис фернандо диас",
+      "luis fernando dias",
+      "диас"
+    ],
+    "nationality": "Colombia",
+    "position": "Player",
+    "clubs": [
+      "bavaria"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "nadimamiri",
+    "name": "Надим Амири",
+    "aliases": [
+      "надим амири",
+      "nadim amiri",
+      "амири"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "1fsvmainz05"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "mateokovachich",
+    "name": "Матео Ковачич",
+    "aliases": [
+      "матео ковачич",
+      "mateo kovachich",
+      "ковачич"
+    ],
+    "nationality": "Croatia",
+    "position": "Player",
+    "clubs": [
+      "manchester-city"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "varrenzair-emri",
+    "name": "Варрен Заир-Эмри",
+    "aliases": [
+      "варрен заир-эмри",
+      "varren zair-emri",
+      "заир-эмри"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "psg"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "salimal-davsari",
+    "name": "Салим аль-Давсари",
+    "aliases": [
+      "салим аль-давсари",
+      "salim al-davsari",
+      "аль-давсари"
+    ],
+    "nationality": "Saudi Arabia",
+    "position": "Player",
+    "clubs": [
+      "al-hilal"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "kodigakpo",
+    "name": "Коди Гакпо",
+    "aliases": [
+      "коди гакпо",
+      "kodi gakpo",
+      "гакпо"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "clubs": [
+      "liverpool"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "andreysantos",
+    "name": "Андрей Сантос",
+    "aliases": [
+      "андрей сантос",
+      "andrey santos",
+      "сантос"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "chelsea"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dzhonnikardozo",
+    "name": "Джонни Кардозо",
+    "aliases": [
+      "джонни кардозо",
+      "dzhonni kardozo",
+      "кардозо"
+    ],
+    "nationality": "United States",
+    "position": "Player",
+    "clubs": [
+      "atletico"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "olliuotkins",
+    "name": "Олли Уоткинс",
+    "aliases": [
+      "олли уоткинс",
+      "olli uotkins",
+      "уоткинс"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "astonvilla"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "mayklolise",
+    "name": "Майкл Олисе",
+    "aliases": [
+      "майкл олисе",
+      "maykl olise",
+      "олисе"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "bavaria"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "martinsubimendi",
+    "name": "Мартин Субименди",
+    "aliases": [
+      "мартин субименди",
+      "martin subimendi",
+      "субименди"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "arsenal"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ferlanmendi",
+    "name": "Ферлан Менди",
+    "aliases": [
+      "ферлан менди",
+      "ferlan mendi",
+      "менди"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "real-madrid"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "danielmunosmekhiya",
+    "name": "Даниэль Муньос Мехия",
+    "aliases": [
+      "даниэль муньос мехия",
+      "daniel munos mekhiya",
+      "мехия"
+    ],
+    "nationality": "Colombia",
+    "position": "Player",
+    "clubs": [
+      "kristalpelas"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "pyotrzhelinskiy",
+    "name": "Пётр Желиньский",
+    "aliases": [
+      "пётр желиньский",
+      "pyotr zhelinskiy",
+      "желиньский"
+    ],
+    "nationality": "Польша",
+    "position": "Player",
+    "clubs": [
+      "inter"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "eberechieze",
+    "name": "Эберечи Эзе",
+    "aliases": [
+      "эберечи эзе",
+      "eberechi eze",
+      "эзе"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "arsenal"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "mateuskunya",
+    "name": "Матеус Кунья",
+    "aliases": [
+      "матеус кунья",
+      "mateus kunya",
+      "кунья"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "manchester-united"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "davidgantsko",
+    "name": "Давид Ганцко",
+    "aliases": [
+      "давид ганцко",
+      "david gantsko",
+      "ганцко"
+    ],
+    "nationality": "Slovakia",
+    "position": "Player",
+    "clubs": [
+      "atletico"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "malkom",
+    "name": "Малком",
+    "aliases": [
+      "малком",
+      "malkom"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "al-hilal"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ronaldukabraish",
+    "name": "Роналду Кабраиш",
+    "aliases": [
+      "роналду кабраиш",
+      "ronaldu kabraish",
+      "кабраиш"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "botafogo"
+    ],
+    "leagues": [
+      "brazilskayaseriyaa"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "stanislavlobotka",
+    "name": "Станислав Лоботка",
+    "aliases": [
+      "станислав лоботка",
+      "stanislav lobotka",
+      "лоботка"
+    ],
+    "nationality": "Slovakia",
+    "position": "Player",
+    "clubs": [
+      "napoli"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "deniszakariya",
+    "name": "Денис Закария",
+    "aliases": [
+      "денис закария",
+      "denis zakariya",
+      "закария"
+    ],
+    "nationality": "Switzerland",
+    "position": "Player",
+    "clubs": [
+      "monaco"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "mikkeldamsgor",
+    "name": "Миккель Дамсгор",
+    "aliases": [
+      "миккель дамсгор",
+      "mikkel damsgor",
+      "дамсгор"
+    ],
+    "nationality": "Denmark",
+    "position": "Player",
+    "clubs": [
+      "brentford"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "elesskhiri",
+    "name": "Эльес Схири",
+    "aliases": [
+      "эльес схири",
+      "eles skhiri",
+      "схири"
+    ],
+    "nationality": "Tunisia",
+    "position": "Player",
+    "clubs": [
+      "ayntrakhtfrankfurt"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "fabiansher",
+    "name": "Фабиан Шер",
+    "aliases": [
+      "фабиан шер",
+      "fabian sher",
+      "шер"
+    ],
+    "nationality": "Switzerland",
+    "position": "Player",
+    "clubs": [
+      "newcastle"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "nikoshlotterbek",
+    "name": "Нико Шлоттербек",
+    "aliases": [
+      "нико шлоттербек",
+      "niko shlotterbek",
+      "шлоттербек"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "dortmund"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "entonigordon",
+    "name": "Энтони Гордон",
+    "aliases": [
+      "энтони гордон",
+      "entoni gordon",
+      "гордон"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "newcastle"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "kyortisdzhons",
+    "name": "Кёртис Джонс",
+    "aliases": [
+      "кёртис джонс",
+      "kyortis dzhons",
+      "джонс"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "liverpool"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "mariopashalich",
+    "name": "Марио Пашалич",
+    "aliases": [
+      "марио пашалич",
+      "mario pashalich",
+      "пашалич"
+    ],
+    "nationality": "Croatia",
+    "position": "Player",
+    "clubs": [
+      "atalanta"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "inigoruisdegalarreta",
+    "name": "Иньиго Руис де Галаррета",
+    "aliases": [
+      "иньиго руис де галаррета",
+      "inigo ruis de galarreta",
+      "галаррета"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "atletikbilbao"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "destiniudodzhi",
+    "name": "Дестини Удоджи",
+    "aliases": [
+      "дестини удоджи",
+      "destini udodzhi",
+      "удоджи"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "tottenham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "omarmarmush",
+    "name": "Омар Мармуш",
+    "aliases": [
+      "омар мармуш",
+      "omar marmush",
+      "мармуш"
+    ],
+    "nationality": "Egypt",
+    "position": "Player",
+    "clubs": [
+      "manchester-city"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "rodrigobentankur",
+    "name": "Родриго Бентанкур",
+    "aliases": [
+      "родриго бентанкур",
+      "rodrigo bentankur",
+      "бентанкур"
+    ],
+    "nationality": "Uruguay",
+    "position": "Player",
+    "clubs": [
+      "tottenham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "lisandromartines",
+    "name": "Лисандро Мартинес",
+    "aliases": [
+      "лисандро мартинес",
+      "lisandro martines",
+      "мартинес"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "clubs": [
+      "manchester-united"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "tomasparti",
+    "name": "Томас Парти",
+    "aliases": [
+      "томас парти",
+      "tomas parti",
+      "парти"
+    ],
+    "nationality": "Ghana",
+    "position": "Player",
+    "clubs": [
+      "villarrealcf"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "maksimilianmittelshtadt",
+    "name": "Максимилиан Миттельштадт",
+    "aliases": [
+      "максимилиан миттельштадт",
+      "maksimilian mittelshtadt",
+      "миттельштадт"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "shtutgart"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "khoseluisgayya",
+    "name": "Хосе Луис Гайя",
+    "aliases": [
+      "хосе луис гайя",
+      "khose luis gayya",
+      "гайя"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "valencia"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "vangelispavlidis",
+    "name": "Вангелис Павлидис",
+    "aliases": [
+      "вангелис павлидис",
+      "vangelis pavlidis",
+      "павлидис"
+    ],
+    "nationality": "Greece",
+    "position": "Player",
+    "clubs": [
+      "benfica"
+    ],
+    "leagues": [
+      "ligaportugal"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "lyuiskholl",
+    "name": "Льюис Холл",
+    "aliases": [
+      "льюис холл",
+      "lyuis kholl",
+      "холл"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "newcastle"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ayventouni",
+    "name": "Айвен Тоуни",
+    "aliases": [
+      "айвен тоуни",
+      "ayven touni",
+      "тоуни"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "al-akhli"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "rikardoorta",
+    "name": "Рикардо Орта",
+    "aliases": [
+      "рикардо орта",
+      "rikardo orta",
+      "орта"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "braga"
+    ],
+    "leagues": [
+      "ligaportugal"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "deketelaresharl",
+    "name": "Де Кетеларе, Шарль",
+    "aliases": [
+      "де кетеларе, шарль",
+      "de ketelare, sharl",
+      "шарль"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "clubs": [
+      "atalanta"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dzharrodbouen",
+    "name": "Джаррод Боуэн",
+    "aliases": [
+      "джаррод боуэн",
+      "dzharrod bouen",
+      "боуэн"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "westhamunited"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dzheremifrimpong",
+    "name": "Джереми Фримпонг",
+    "aliases": [
+      "джереми фримпонг",
+      "dzheremi frimpong",
+      "фримпонг"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "clubs": [
+      "liverpool"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "aleksanderisak",
+    "name": "Александер Исак",
+    "aliases": [
+      "александер исак",
+      "aleksander isak",
+      "исак"
+    ],
+    "nationality": "Sweden",
+    "position": "Player",
+    "clubs": [
+      "liverpool"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "alvarofernandes",
+    "name": "Альваро Фернандес",
+    "aliases": [
+      "альваро фернандес",
+      "alvaro fernandes",
+      "фернандес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "real-madrid"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "matteopolitano",
+    "name": "Маттео Политано",
+    "aliases": [
+      "маттео политано",
+      "matteo politano",
+      "политано"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "napoli"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "mokhamedelaminamura",
+    "name": "Мохамед Эль Амин Амура",
+    "aliases": [
+      "мохамед эль амин амура",
+      "mokhamed el amin amura",
+      "амура"
+    ],
+    "nationality": "Algeria",
+    "position": "Player",
+    "clubs": [
+      "wolfsburg"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "yussuffofana",
+    "name": "Юссуф Фофана",
+    "aliases": [
+      "юссуф фофана",
+      "yussuf fofana",
+      "фофана"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "ac-milan"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "brayankristante",
+    "name": "Брайан Кристанте",
+    "aliases": [
+      "брайан кристанте",
+      "brayan kristante",
+      "кристанте"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "roma"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dzheykobmyorfi",
+    "name": "Джейкоб Мёрфи",
+    "aliases": [
+      "джейкоб мёрфи",
+      "dzheykob myorfi",
+      "мёрфи"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "newcastle"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "mokhammedkudus",
+    "name": "Мохаммед Кудус",
+    "aliases": [
+      "мохаммед кудус",
+      "mokhammed kudus",
+      "кудус"
+    ],
+    "nationality": "Ghana",
+    "position": "Player",
+    "clubs": [
+      "tottenham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "rikkardoorsolini",
+    "name": "Риккардо Орсолини",
+    "aliases": [
+      "риккардо орсолини",
+      "rikkardo orsolini",
+      "орсолини"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "bologna"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "nussairmazraui",
+    "name": "Нуссаир Мазрауи",
+    "aliases": [
+      "нуссаир мазрауи",
+      "nussair mazraui",
+      "мазрауи"
+    ],
+    "nationality": "Morocco",
+    "position": "Player",
+    "clubs": [
+      "manchester-united"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "per-emilkhyoyberg",
+    "name": "Пьер-Эмиль Хёйбьерг",
+    "aliases": [
+      "пьер-эмиль хёйбьерг",
+      "per-emil khyoyberg",
+      "хёйбьерг"
+    ],
+    "nationality": "Denmark",
+    "position": "Player",
+    "clubs": [
+      "marseille"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "danisebalos",
+    "name": "Дани Себальос",
+    "aliases": [
+      "дани себальос",
+      "dani sebalos",
+      "себальос"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "real-madrid"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "velingtondano",
+    "name": "Велингтон Дано",
+    "aliases": [
+      "велингтон дано",
+      "velington dano",
+      "дано"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "atlticomineiro"
+    ],
+    "leagues": [
+      "brazilskayaseriyaa"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "daniolmo",
+    "name": "Дани Ольмо",
+    "aliases": [
+      "дани ольмо",
+      "dani olmo",
+      "ольмо"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "barcelona"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "gavi",
+    "name": "Гави",
+    "aliases": [
+      "гави",
+      "gavi"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "barcelona"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "frankonora",
+    "name": "Франк Онора",
+    "aliases": [
+      "франк онора",
+      "frank onora",
+      "онора"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "gladbach"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "benzhamenandre",
+    "name": "Бенжамен Андре",
+    "aliases": [
+      "бенжамен андре",
+      "benzhamen andre",
+      "андре"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "lille"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "gabrielmartinelli",
+    "name": "Габриэл Мартинелли",
+    "aliases": [
+      "габриэл мартинелли",
+      "gabriel martinelli",
+      "мартинелли"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "arsenal"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "rayanay-nuri",
+    "name": "Райан Ай-Нури",
+    "aliases": [
+      "райан ай-нури",
+      "rayan ay-nuri",
+      "ай-нури"
+    ],
+    "nationality": "Algeria",
+    "position": "Player",
+    "clubs": [
+      "manchester-city"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ksavershlager",
+    "name": "Ксавер Шлагер",
+    "aliases": [
+      "ксавер шлагер",
+      "ksaver shlager",
+      "шлагер"
+    ],
+    "nationality": "Austria",
+    "position": "Player",
+    "clubs": [
+      "rbleyptsig"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "pablobarrios",
+    "name": "Пабло Барриос",
+    "aliases": [
+      "пабло барриос",
+      "pablo barrios",
+      "барриос"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "atletico"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "khavigalan",
+    "name": "Хави Галан",
+    "aliases": [
+      "хави галан",
+      "khavi galan",
+      "галан"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "atletico"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "khansvanaken",
+    "name": "Ханс Ванакен",
+    "aliases": [
+      "ханс ванакен",
+      "khans vanaken",
+      "ванакен"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "clubs": [
+      "clubbruggekv"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "antoni",
+    "name": "Антони",
+    "aliases": [
+      "антони",
+      "antoni"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "realbetis"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "matteodarmian",
+    "name": "Маттео Дармиан",
+    "aliases": [
+      "маттео дармиан",
+      "matteo darmian",
+      "дармиан"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "inter"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "rosivaldurado",
+    "name": "Росиваль Дурадо",
+    "aliases": [
+      "росиваль дурадо",
+      "rosival durado",
+      "дурадо"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "corinthians"
+    ],
+    "leagues": [
+      "brazilskayaseriyaa"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "remofroyler",
+    "name": "Ремо Фройлер",
+    "aliases": [
+      "ремо фройлер",
+      "remo froyler",
+      "фройлер"
+    ],
+    "nationality": "Switzerland",
+    "position": "Player",
+    "clubs": [
+      "bologna"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "kaorumitoma",
+    "name": "Каору Митома",
+    "aliases": [
+      "каору митома",
+      "kaoru mitoma",
+      "митома"
+    ],
+    "nationality": "Japan",
+    "position": "Player",
+    "clubs": [
+      "brayton"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "olaayna",
+    "name": "Ола Айна",
+    "aliases": [
+      "ола айна",
+      "ola ayna",
+      "айна"
+    ],
+    "nationality": "Nigeria",
+    "position": "Player",
+    "clubs": [
+      "nottingham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "inigomartines",
+    "name": "Иньиго Мартинес",
+    "aliases": [
+      "иньиго мартинес",
+      "inigo martines",
+      "мартинес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "al-nassr"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "yulianbrandt",
+    "name": "Юлиан Брандт",
+    "aliases": [
+      "юлиан брандт",
+      "yulian brandt",
+      "брандт"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "dortmund"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "andreykramarich",
+    "name": "Андрей Крамарич",
+    "aliases": [
+      "андрей крамарич",
+      "andrey kramarich",
+      "крамарич"
+    ],
+    "nationality": "Croatia",
+    "position": "Player",
+    "clubs": [
+      "khoffenkhaym"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "aleksivobi",
+    "name": "Алекс Ивоби",
+    "aliases": [
+      "алекс ивоби",
+      "aleks ivobi",
+      "ивоби"
+    ],
+    "nationality": "Nigeria",
+    "position": "Player",
+    "clubs": [
+      "fulkhem"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "nikouilyams",
+    "name": "Нико Уильямс",
+    "aliases": [
+      "нико уильямс",
+      "niko uilyams",
+      "уильямс"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "atletikbilbao"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "vinisiuszhunior",
+    "name": "Винисиус Жуниор",
+    "aliases": [
+      "винисиус жуниор",
+      "vinisius zhunior",
+      "жуниор"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "real-madrid"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "kazemiro",
+    "name": "Каземиро",
+    "aliases": [
+      "каземиро",
+      "kazemiro"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "manchester-united"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "angeloshtiller",
+    "name": "Ангело Штиллер",
+    "aliases": [
+      "ангело штиллер",
+      "angelo shtiller",
+      "штиллер"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "shtutgart"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "entonirobinson",
+    "name": "Энтони Робинсон",
+    "aliases": [
+      "энтони робинсон",
+      "entoni robinson",
+      "робинсон"
+    ],
+    "nationality": "United States",
+    "position": "Player",
+    "clubs": [
+      "fulkhem"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "benyaminkhenriks",
+    "name": "Беньямин Хенрикс",
+    "aliases": [
+      "беньямин хенрикс",
+      "benyamin khenriks",
+      "хенрикс"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "rbleyptsig"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "fransishkutrinkan",
+    "name": "Франсишку Тринкан",
+    "aliases": [
+      "франсишку тринкан",
+      "fransishku trinkan",
+      "тринкан"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "sportingcp"
+    ],
+    "leagues": [
+      "ligaportugal"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "noalang",
+    "name": "Ноа Ланг",
+    "aliases": [
+      "ноа ланг",
+      "noa lang",
+      "ланг"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "clubs": [
+      "napoli"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "gabrielzhezus",
+    "name": "Габриэл Жезус",
+    "aliases": [
+      "габриэл жезус",
+      "gabriel zhezus",
+      "жезус"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "arsenal"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "konstantinosfortunis",
+    "name": "Константинос Фортунис",
+    "aliases": [
+      "константинос фортунис",
+      "konstantinos fortunis",
+      "фортунис"
+    ],
+    "nationality": "Greece",
+    "position": "Player",
+    "clubs": [
+      "alkhaleej"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "valentinkastelyanos",
+    "name": "Валентин Кастельянос",
+    "aliases": [
+      "валентин кастельянос",
+      "valentin kastelyanos",
+      "кастельянос"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "clubs": [
+      "lazio"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ferrantorres",
+    "name": "Ферран Торрес",
+    "aliases": [
+      "ферран торрес",
+      "ferran torres",
+      "торрес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "barcelona"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "zhuanpalinya",
+    "name": "Жуан Пальинья",
+    "aliases": [
+      "жуан пальинья",
+      "zhuan palinya",
+      "пальинья"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "tottenham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "federikokeza",
+    "name": "Федерико Кьеза",
+    "aliases": [
+      "федерико кьеза",
+      "federiko keza",
+      "кьеза"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "liverpool"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "stivenbergveyn",
+    "name": "Стивен Бергвейн",
+    "aliases": [
+      "стивен бергвейн",
+      "stiven bergveyn",
+      "бергвейн"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "clubs": [
+      "al-ittihad"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "romelulukaku",
+    "name": "Ромелу Лукаку",
+    "aliases": [
+      "ромелу лукаку",
+      "romelu lukaku",
+      "лукаку"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "clubs": [
+      "napoli"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "rafaelleau",
+    "name": "Рафаэл Леау",
+    "aliases": [
+      "рафаэл леау",
+      "rafael leau",
+      "леау"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "ac-milan"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ademolalukman",
+    "name": "Адемола Лукман",
+    "aliases": [
+      "адемола лукман",
+      "ademola lukman",
+      "лукман"
+    ],
+    "nationality": "Nigeria",
+    "position": "Player",
+    "clubs": [
+      "atalanta"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dzhulianosimeone",
+    "name": "Джулиано Симеоне",
+    "aliases": [
+      "джулиано симеоне",
+      "dzhuliano simeone",
+      "симеоне"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "clubs": [
+      "atletico"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "vilfredsingo",
+    "name": "Вильфред Синго",
+    "aliases": [
+      "вильфред синго",
+      "vilfred singo",
+      "синго"
+    ],
+    "nationality": "Ivory Coast",
+    "position": "Player",
+    "clubs": [
+      "galatasaray"
+    ],
+    "leagues": [
+      "superlig"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "kristiannyorgor",
+    "name": "Кристиан Нёргор",
+    "aliases": [
+      "кристиан нёргор",
+      "kristian nyorgor",
+      "нёргор"
+    ],
+    "nationality": "Denmark",
+    "position": "Player",
+    "clubs": [
+      "arsenal"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "vinchentsogrifo",
+    "name": "Винченцо Грифо",
+    "aliases": [
+      "винченцо грифо",
+      "vinchentso grifo",
+      "грифо"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "frayburg"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "loiopenda",
+    "name": "Лои Опенда",
+    "aliases": [
+      "лои опенда",
+      "loi openda",
+      "опенда"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "clubs": [
+      "juventus"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "meysongrinvud",
+    "name": "Мейсон Гринвуд",
+    "aliases": [
+      "мейсон гринвуд",
+      "meyson grinvud",
+      "гринвуд"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "marseille"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "khristostzolis",
+    "name": "Христос Тзолис",
+    "aliases": [
+      "христос тзолис",
+      "khristos tzolis",
+      "тзолис"
+    ],
+    "nationality": "Greece",
+    "position": "Player",
+    "clubs": [
+      "clubbruggekv"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "karimadeyemi",
+    "name": "Карим Адейеми",
+    "aliases": [
+      "карим адейеми",
+      "karim adeyemi",
+      "адейеми"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "dortmund"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "natanake",
+    "name": "Натан Аке",
+    "aliases": [
+      "натан аке",
+      "natan ake",
+      "аке"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "clubs": [
+      "manchester-city"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "nayltonsudzuki",
+    "name": "Найлтон Судзуки",
+    "aliases": [
+      "найлтон судзуки",
+      "naylton sudzuki",
+      "судзуки"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "atlticomineiro"
+    ],
+    "leagues": [
+      "brazilskayaseriyaa"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "isipalason",
+    "name": "Иси Паласон",
+    "aliases": [
+      "иси паласон",
+      "isi palason",
+      "паласон"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "rayovallecano"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "nonimadueke",
+    "name": "Нони Мадуэке",
+    "aliases": [
+      "нони мадуэке",
+      "noni madueke",
+      "мадуэке"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "arsenal"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ferminlopes",
+    "name": "Фермин Лопес",
+    "aliases": [
+      "фермин лопес",
+      "fermin lopes",
+      "лопес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "barcelona"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "rafasilva",
+    "name": "Рафа Силва",
+    "aliases": [
+      "рафа силва",
+      "rafa silva",
+      "силва"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "beiktajk"
+    ],
+    "leagues": [
+      "superlig"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ayubel-kaabi",
+    "name": "Аюб Эль-Кааби",
+    "aliases": [
+      "аюб эль-кааби",
+      "ayub el-kaabi",
+      "эль-кааби"
+    ],
+    "nationality": "Morocco",
+    "position": "Player",
+    "clubs": [
+      "olimpiakos"
+    ],
+    "leagues": [
+      "grecheskayasuperliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dzhonatanburkardt",
+    "name": "Джонатан Буркардт",
+    "aliases": [
+      "джонатан буркардт",
+      "dzhonatan burkardt",
+      "буркардт"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "ayntrakhtfrankfurt"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "antuansemeno",
+    "name": "Антуан Семеньо",
+    "aliases": [
+      "антуан семеньо",
+      "antuan semeno",
+      "семеньо"
+    ],
+    "nationality": "Ghana",
+    "position": "Player",
+    "clubs": [
+      "bornmut"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "tomiokubota",
+    "name": "Томио Кубота",
+    "aliases": [
+      "томио кубота",
+      "tomio kubota",
+      "кубота"
+    ],
+    "nationality": "Japan",
+    "position": "Player",
+    "clubs": [
+      "realsosedad"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ardagyuler",
+    "name": "Арда Гюлер",
+    "aliases": [
+      "арда гюлер",
+      "arda gyuler",
+      "гюлер"
+    ],
+    "nationality": "Turkey",
+    "position": "Player",
+    "clubs": [
+      "real-madrid"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "bredlibarkola",
+    "name": "Брэдли Баркола",
+    "aliases": [
+      "брэдли баркола",
+      "bredli barkola",
+      "баркола"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "psg"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "igorpayshan",
+    "name": "Игор Пайшан",
+    "aliases": [
+      "игор пайшан",
+      "igor payshan",
+      "пайшан"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "marseille"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ezrikonsa",
+    "name": "Эзри Конса",
+    "aliases": [
+      "эзри конса",
+      "ezri konsa",
+      "конса"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "astonvilla"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "mussadiabi",
+    "name": "Мусса Диаби",
+    "aliases": [
+      "мусса диаби",
+      "mussa diabi",
+      "диаби"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "al-ittihad"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "nikolyapepe",
+    "name": "Николя Пепе",
+    "aliases": [
+      "николя пепе",
+      "nikolya pepe",
+      "пепе"
+    ],
+    "nationality": "Ivory Coast",
+    "position": "Player",
+    "clubs": [
+      "villarrealcf"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "vendersongaleno",
+    "name": "Вендерсон Галено",
+    "aliases": [
+      "вендерсон галено",
+      "venderson galeno",
+      "галено"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "al-akhli"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dushanvlakhovich",
+    "name": "Душан Влахович",
+    "aliases": [
+      "душан влахович",
+      "dushan vlakhovich",
+      "влахович"
+    ],
+    "nationality": "Сербия",
+    "position": "Player",
+    "clubs": [
+      "juventus"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "bubakarkamara",
+    "name": "Бубакар Камара",
+    "aliases": [
+      "бубакар камара",
+      "bubakar kamara",
+      "камара"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "astonvilla"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "tinolivramento",
+    "name": "Тино Ливраменто",
+    "aliases": [
+      "тино ливраменто",
+      "tino livramento",
+      "ливраменто"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "newcastle"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "leandrotrossard",
+    "name": "Леандро Троссард",
+    "aliases": [
+      "леандро троссард",
+      "leandro trossard",
+      "троссард"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "clubs": [
+      "arsenal"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "pedrunetu",
+    "name": "Педру Нету",
+    "aliases": [
+      "педру нету",
+      "pedru netu",
+      "нету"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "chelsea"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "khuliankuinones",
+    "name": "Хулиан Куиньонес",
+    "aliases": [
+      "хулиан куиньонес",
+      "khulian kuinones",
+      "куиньонес"
+    ],
+    "nationality": "Mexico",
+    "position": "Player",
+    "clubs": [
+      "alqadsiahfc"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "yurrientimber",
+    "name": "Юрриен Тимбер",
+    "aliases": [
+      "юрриен тимбер",
+      "yurrien timber",
+      "тимбер"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "clubs": [
+      "arsenal"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ritsudoan",
+    "name": "Ритсу Доан",
+    "aliases": [
+      "ритсу доан",
+      "ritsu doan",
+      "доан"
+    ],
+    "nationality": "Japan",
+    "position": "Player",
+    "clubs": [
+      "ayntrakhtfrankfurt"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "davidneres",
+    "name": "Давид Нерес",
+    "aliases": [
+      "давид нерес",
+      "david neres",
+      "нерес"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "napoli"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "denizundav",
+    "name": "Дениз Ундав",
+    "aliases": [
+      "дениз ундав",
+      "deniz undav",
+      "ундав"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "shtutgart"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dinkhyoysen",
+    "name": "Дин Хёйсен",
+    "aliases": [
+      "дин хёйсен",
+      "din khyoysen",
+      "хёйсен"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "real-madrid"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "khuanmestres",
+    "name": "Хуан Местрес",
+    "aliases": [
+      "хуан местрес",
+      "khuan mestres",
+      "местрес"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "atlticomineiro"
+    ],
+    "leagues": [
+      "brazilskayaseriyaa"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "davinsonsanches",
+    "name": "Давинсон Санчес",
+    "aliases": [
+      "давинсон санчес",
+      "davinson sanches",
+      "санчес"
+    ],
+    "nationality": "Colombia",
+    "position": "Player",
+    "clubs": [
+      "galatasaray"
+    ],
+    "leagues": [
+      "superlig"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "murillosantyagokostadossantos",
+    "name": "Мурилло Сантьяго Коста дос Сантос",
+    "aliases": [
+      "мурилло сантьяго коста дос сантос",
+      "murillo santyago kosta dos santos",
+      "сантос"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "nottingham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "armanloriente",
+    "name": "Арман Лориенте",
+    "aliases": [
+      "арман лориенте",
+      "arman loriente",
+      "лориенте"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "sassuolo"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "entonielanga",
+    "name": "Энтони Эланга",
+    "aliases": [
+      "энтони эланга",
+      "entoni elanga",
+      "эланга"
+    ],
+    "nationality": "Sweden",
+    "position": "Player",
+    "clubs": [
+      "newcastle"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "aleksandersyorlot",
+    "name": "Александер Сёрлот",
+    "aliases": [
+      "александер сёрлот",
+      "aleksander syorlot",
+      "сёрлот"
+    ],
+    "nationality": "Norway",
+    "position": "Player",
+    "clubs": [
+      "atletico"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "gonsaluramush",
+    "name": "Гонсалу Рамуш",
+    "aliases": [
+      "гонсалу рамуш",
+      "gonsalu ramush",
+      "рамуш"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "psg"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "perkalyulyu",
+    "name": "Пьер Калюлю",
+    "aliases": [
+      "пьер калюлю",
+      "per kalyulyu",
+      "калюлю"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "juventus"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "kharvibarns",
+    "name": "Харви Барнс",
+    "aliases": [
+      "харви барнс",
+      "kharvi barns",
+      "барнс"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "newcastle"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ermedindemirovich",
+    "name": "Эрмедин Демирович",
+    "aliases": [
+      "эрмедин демирович",
+      "ermedin demirovich",
+      "демирович"
+    ],
+    "nationality": "Босния и Герцеговина",
+    "position": "Player",
+    "clubs": [
+      "shtutgart"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "bulaydia",
+    "name": "Булай Диа",
+    "aliases": [
+      "булай диа",
+      "bulay dia",
+      "диа"
+    ],
+    "nationality": "Сенегал",
+    "position": "Player",
+    "clubs": [
+      "lazio"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "zhan-filippmateta",
+    "name": "Жан-Филипп Матета",
+    "aliases": [
+      "жан-филипп матета",
+      "zhan-filipp mateta",
+      "матета"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "kristalpelas"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dzhonatandevid",
+    "name": "Джонатан Дэвид",
+    "aliases": [
+      "джонатан дэвид",
+      "dzhonatan devid",
+      "дэвид"
+    ],
+    "nationality": "Канада",
+    "position": "Player",
+    "clubs": [
+      "juventus"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "benyaminsheshko",
+    "name": "Беньямин Шешко",
+    "aliases": [
+      "беньямин шешко",
+      "benyamin sheshko",
+      "шешко"
+    ],
+    "nationality": "Словения",
+    "position": "Player",
+    "clubs": [
+      "manchester-united"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "artyomaleksandrovichdovbik",
+    "name": "Артём Александрович Довбик",
+    "aliases": [
+      "артём александрович довбик",
+      "artyom aleksandrovich dovbik",
+      "довбик"
+    ],
+    "nationality": "Ukraine",
+    "position": "Player",
+    "clubs": [
+      "roma"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "randalkolomuani",
+    "name": "Рандаль Коло Муани",
+    "aliases": [
+      "рандаль коло муани",
+      "randal kolo muani",
+      "муани"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "tottenham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "lukasernandes",
+    "name": "Лукас Эрнандес",
+    "aliases": [
+      "лукас эрнандес",
+      "lukas ernandes",
+      "эрнандес"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "psg"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "yoanvissa",
+    "name": "Йоан Висса",
+    "aliases": [
+      "йоан висса",
+      "yoan vissa",
+      "висса"
+    ],
+    "nationality": "ДР Конго",
+    "position": "Player",
+    "clubs": [
+      "newcastle"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "marioermoso",
+    "name": "Марио Эрмосо",
+    "aliases": [
+      "марио эрмосо",
+      "mario ermoso",
+      "эрмосо"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "roma"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "danilupereyra",
+    "name": "Данилу Перейра",
+    "aliases": [
+      "данилу перейра",
+      "danilu pereyra",
+      "перейра"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "al-ittihad"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dodilukebakio",
+    "name": "Доди Лукебакио",
+    "aliases": [
+      "доди лукебакио",
+      "dodi lukebakio",
+      "лукебакио"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "clubs": [
+      "benfica"
+    ],
+    "leagues": [
+      "ligaportugal"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "maykelkatarino",
+    "name": "Майкел Катарино",
+    "aliases": [
+      "майкел катарино",
+      "maykel katarino",
+      "катарино"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "corinthians"
+    ],
+    "leagues": [
+      "brazilskayaseriyaa"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "alekhandrobalde",
+    "name": "Алехандро Бальде",
+    "aliases": [
+      "алехандро бальде",
+      "alekhandro balde",
+      "бальде"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "barcelona"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "laminyamal",
+    "name": "Ламин Ямаль",
+    "aliases": [
+      "ламин ямаль",
+      "lamin yamal",
+      "ямаль"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "barcelona"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dominiksolanke",
+    "name": "Доминик Соланке",
+    "aliases": [
+      "доминик соланке",
+      "dominik solanke",
+      "соланке"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "tottenham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "abdyulkerimbardakdzhi",
+    "name": "Абдюлькерим Бардакджи",
+    "aliases": [
+      "абдюлькерим бардакджи",
+      "abdyulkerim bardakdzhi",
+      "бардакджи"
+    ],
+    "nationality": "Turkey",
+    "position": "Player",
+    "clubs": [
+      "galatasaray"
+    ],
+    "leagues": [
+      "superlig"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "nikolasdzhekson",
+    "name": "Николас Джексон",
+    "aliases": [
+      "николас джексон",
+      "nikolas dzhekson",
+      "джексон"
+    ],
+    "nationality": "Сенегал",
+    "position": "Player",
+    "clubs": [
+      "bavaria"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "borkhaiglesias",
+    "name": "Борха Иглесиас",
+    "aliases": [
+      "борха иглесиас",
+      "borkha iglesias",
+      "иглесиас"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "selta"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "alvaromorata",
+    "name": "Альваро Мората",
+    "aliases": [
+      "альваро мората",
+      "alvaro morata",
+      "мората"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "como"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "eronuan-bissaka",
+    "name": "Эрон Уан-Биссака",
+    "aliases": [
+      "эрон уан-биссака",
+      "eron uan-bissaka",
+      "уан-биссака"
+    ],
+    "nationality": "ДР Конго",
+    "position": "Player",
+    "clubs": [
+      "westhamunited"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "yugoekitike",
+    "name": "Юго Экитике",
+    "aliases": [
+      "юго экитике",
+      "yugo ekitike",
+      "экитике"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "liverpool"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "edmondtapsoba",
+    "name": "Эдмонд Тапсоба",
+    "aliases": [
+      "эдмонд тапсоба",
+      "edmond tapsoba",
+      "тапсоба"
+    ],
+    "nationality": "Буркина-Фасо",
+    "position": "Player",
+    "clubs": [
+      "bayerleverkuzen"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "keremaktyurkoglu",
+    "name": "Керем Актюркоглу",
+    "aliases": [
+      "керем актюркоглу",
+      "kerem aktyurkoglu",
+      "актюркоглу"
+    ],
+    "nationality": "Turkey",
+    "position": "Player",
+    "clubs": [
+      "fenerbahce"
+    ],
+    "leagues": [
+      "superlig"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "yerdiskhauten",
+    "name": "Йерди Схаутен",
+    "aliases": [
+      "йерди схаутен",
+      "yerdi skhauten",
+      "схаутен"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "clubs": [
+      "psv"
+    ],
+    "leagues": [
+      "eredivisie"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "yussefen-neseri",
+    "name": "Юссеф Эн-Несери",
+    "aliases": [
+      "юссеф эн-несери",
+      "yussef en-neseri",
+      "эн-несери"
+    ],
+    "nationality": "Morocco",
+    "position": "Player",
+    "clubs": [
+      "fenerbahce"
+    ],
+    "leagues": [
+      "superlig"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "moyzekin",
+    "name": "Мойзе Кин",
+    "aliases": [
+      "мойзе кин",
+      "moyze kin",
+      "кин"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "fiorentina"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "magnesakliush",
+    "name": "Магнес Аклиуш",
+    "aliases": [
+      "магнес аклиуш",
+      "magnes akliush",
+      "аклиуш"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "monaco"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "timklyayndinst",
+    "name": "Тим Кляйндинст",
+    "aliases": [
+      "тим кляйндинст",
+      "tim klyayndinst",
+      "кляйндинст"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "gladbach"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "pautorres",
+    "name": "Пау Торрес",
+    "aliases": [
+      "пау торрес",
+      "pau torres",
+      "торрес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "astonvilla"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "manuelakandzhi",
+    "name": "Мануэль Аканджи",
+    "aliases": [
+      "мануэль аканджи",
+      "manuel akandzhi",
+      "аканджи"
+    ],
+    "nationality": "Switzerland",
+    "position": "Player",
+    "clubs": [
+      "inter"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "gonsaluinasiu",
+    "name": "Гонсалу Инасиу",
+    "aliases": [
+      "гонсалу инасиу",
+      "gonsalu inasiu",
+      "инасиу"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "sportingcp"
+    ],
+    "leagues": [
+      "ligaportugal"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "peroinkape",
+    "name": "Пьеро Инкапье",
+    "aliases": [
+      "пьеро инкапье",
+      "pero inkape",
+      "инкапье"
+    ],
+    "nationality": "Эквадор",
+    "position": "Player",
+    "clubs": [
+      "arsenal"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "viktorbonifase",
+    "name": "Виктор Бонифасе",
+    "aliases": [
+      "виктор бонифасе",
+      "viktor bonifase",
+      "бонифасе"
+    ],
+    "nationality": "Nigeria",
+    "position": "Player",
+    "clubs": [
+      "verder"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "rikipuch",
+    "name": "Рики Пуч",
+    "aliases": [
+      "рики пуч",
+      "riki puch",
+      "пуч"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "lagalaxy"
+    ],
+    "leagues": [
+      "majorleaguesoccer"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "alvarogarsiya",
+    "name": "Альваро Гарсия",
+    "aliases": [
+      "альваро гарсия",
+      "alvaro garsiya",
+      "гарсия"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "rayovallecano"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "evanilsonfutbolist1999",
+    "name": "Эванилсон (футболист, 1999)",
+    "aliases": [
+      "эванилсон (футболист, 1999)",
+      "evanilson (futbolist, 1999)",
+      "1999)"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "bornmut"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ndikaobitevan",
+    "name": "Н’Дика, Обит Эван",
+    "aliases": [
+      "н’дика, обит эван",
+      "n’dika, obit evan",
+      "эван"
+    ],
+    "nationality": "Ivory Coast",
+    "position": "Player",
+    "clubs": [
+      "roma"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "mateoretegi",
+    "name": "Матео Ретеги",
+    "aliases": [
+      "матео ретеги",
+      "mateo retegi",
+      "ретеги"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "alqadsiahfc"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "krisvud",
+    "name": "Крис Вуд",
+    "aliases": [
+      "крис вуд",
+      "kris vud",
+      "вуд"
+    ],
+    "nationality": "Новая Зеландия",
+    "position": "Player",
+    "clubs": [
+      "nottingham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "danielvivianmoreno",
+    "name": "Даниэль Вивиан Морено",
+    "aliases": [
+      "даниэль вивиан морено",
+      "daniel vivian moreno",
+      "морено"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "atletikbilbao"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "levikolvill",
+    "name": "Леви Колвилл",
+    "aliases": [
+      "леви колвилл",
+      "levi kolvill",
+      "колвилл"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "chelsea"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "vandevenmikki",
+    "name": "Ван де Вен, Микки",
+    "aliases": [
+      "ван де вен, микки",
+      "van de ven, mikki",
+      "микки"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "clubs": [
+      "tottenham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "mattiasginter",
+    "name": "Маттиас Гинтер",
+    "aliases": [
+      "маттиас гинтер",
+      "mattias ginter",
+      "гинтер"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "frayburg"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "vankhekkezhan-pol",
+    "name": "Ван Хекке, Жан-Поль",
+    "aliases": [
+      "ван хекке, жан-поль",
+      "van khekke, zhan-pol",
+      "жан-поль"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "clubs": [
+      "brayton"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "simonbanza",
+    "name": "Симон Банза",
+    "aliases": [
+      "симон банза",
+      "simon banza",
+      "банза"
+    ],
+    "nationality": "ДР Конго",
+    "position": "Player",
+    "clubs": [
+      "braga"
+    ],
+    "leagues": [
+      "ligaportugal"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "duvansapata",
+    "name": "Дуван Сапата",
+    "aliases": [
+      "дуван сапата",
+      "duvan sapata",
+      "сапата"
+    ],
+    "nationality": "Colombia",
+    "position": "Player",
+    "clubs": [
+      "torino"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "zheremidoku",
+    "name": "Жереми Доку",
+    "aliases": [
+      "жереми доку",
+      "zheremi doku",
+      "доку"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "clubs": [
+      "manchester-city"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "vilyamsaliba",
+    "name": "Вильям Салиба",
+    "aliases": [
+      "вильям салиба",
+      "vilyam saliba",
+      "салиба"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "arsenal"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "valdemaranton",
+    "name": "Вальдемар Антон",
+    "aliases": [
+      "вальдемар антон",
+      "valdemar anton",
+      "антон"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "dortmund"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "alessandrobuondzhorno",
+    "name": "Алессандро Буонджорно",
+    "aliases": [
+      "алессандро буонджорно",
+      "alessandro buondzhorno",
+      "буонджорно"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "napoli"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "nayefagerd",
+    "name": "Найеф Агерд",
+    "aliases": [
+      "найеф агерд",
+      "nayef agerd",
+      "агерд"
+    ],
+    "nationality": "Morocco",
+    "position": "Player",
+    "clubs": [
+      "marseille"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dayoupamekano",
+    "name": "Дайо Упамекано",
+    "aliases": [
+      "дайо упамекано",
+      "dayo upamekano",
+      "упамекано"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "bavaria"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "gleysonbremer",
+    "name": "Глейсон Бремер",
+    "aliases": [
+      "глейсон бремер",
+      "gleyson bremer",
+      "бремер"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "juventus"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "brakhimdias",
+    "name": "Брахим Диас",
+    "aliases": [
+      "брахим диас",
+      "brakhim dias",
+      "диас"
+    ],
+    "nationality": "Morocco",
+    "position": "Player",
+    "clubs": [
+      "real-madrid"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "samuelchukvueze",
+    "name": "Самуэль Чуквуезе",
+    "aliases": [
+      "самуэль чуквуезе",
+      "samuel chukvueze",
+      "чуквуезе"
+    ],
+    "nationality": "Nigeria",
+    "position": "Player",
+    "clubs": [
+      "fulkhem"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "kastellolukeba",
+    "name": "Кастелло Лукеба",
+    "aliases": [
+      "кастелло лукеба",
+      "kastello lukeba",
+      "лукеба"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "rbleyptsig"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "leonardobalerdi",
+    "name": "Леонардо Балерди",
+    "aliases": [
+      "леонардо балерди",
+      "leonardo balerdi",
+      "балерди"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "clubs": [
+      "marseille"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "mokhamedsimakan",
+    "name": "Мохамед Симакан",
+    "aliases": [
+      "мохамед симакан",
+      "mokhamed simakan",
+      "симакан"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "al-nassr"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "savino",
+    "name": "Савиньо",
+    "aliases": [
+      "савиньо",
+      "savino"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "manchester-city"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "eremipino",
+    "name": "Ереми Пино",
+    "aliases": [
+      "ереми пино",
+      "eremi pino",
+      "пино"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "kristalpelas"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "florentinu",
+    "name": "Флорентину",
+    "aliases": [
+      "флорентину",
+      "florentinu"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "burnley"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "rayansherki",
+    "name": "Райан Шерки",
+    "aliases": [
+      "райан шерки",
+      "rayan sherki",
+      "шерки"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "manchester-city"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "benuayt",
+    "name": "Бен Уайт",
+    "aliases": [
+      "бен уайт",
+      "ben uayt",
+      "уайт"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "arsenal"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "garrimaguayr",
+    "name": "Гарри Магуайр",
+    "aliases": [
+      "гарри магуайр",
+      "garri maguayr",
+      "магуайр"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "manchester-united"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "khoseignasiofernandesiglesias",
+    "name": "Хосе Игнасио Фернандес Иглесиас",
+    "aliases": [
+      "хосе игнасио фернандес иглесиас",
+      "khose ignasio fernandes iglesias",
+      "иглесиас"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "alqadsiahfc"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "marvinrangel",
+    "name": "Марвин Рангел",
+    "aliases": [
+      "марвин рангел",
+      "marvin rangel",
+      "рангел"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "flamengo"
+    ],
+    "leagues": [
+      "brazilskayaseriyaa"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "gabrieldossantosmagalyayns",
+    "name": "Габриэл Дос Сантос Магальяйнс",
+    "aliases": [
+      "габриэл дос сантос магальяйнс",
+      "gabriel dos santos magalyayns",
+      "магальяйнс"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "arsenal"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "francheskoacherbi",
+    "name": "Франческо Ачерби",
+    "aliases": [
+      "франческо ачерби",
+      "franchesko acherbi",
+      "ачерби"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "inter"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "kristianromero",
+    "name": "Кристиан Ромеро",
+    "aliases": [
+      "кристиан ромеро",
+      "kristian romero",
+      "ромеро"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "clubs": [
+      "tottenham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "antebudimir",
+    "name": "Анте Будимир",
+    "aliases": [
+      "анте будимир",
+      "ante budimir",
+      "будимир"
+    ],
+    "nationality": "Croatia",
+    "position": "Player",
+    "clubs": [
+      "osasuna"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "paukubarsiparedes",
+    "name": "Пау Кубарси Паредес",
+    "aliases": [
+      "пау кубарси паредес",
+      "pau kubarsi paredes",
+      "паредес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "barcelona"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "markgei",
+    "name": "Марк Гэи",
+    "aliases": [
+      "марк гэи",
+      "mark gei",
+      "гэи"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "kristalpelas"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "arturteat",
+    "name": "Артур Теат",
+    "aliases": [
+      "артур теат",
+      "artur teat",
+      "теат"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "clubs": [
+      "ayntrakhtfrankfurt"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "vilyampacho",
+    "name": "Вильям Пачо",
+    "aliases": [
+      "вильям пачо",
+      "vilyam pacho",
+      "пачо"
+    ],
+    "nationality": "Эквадор",
+    "position": "Player",
+    "clubs": [
+      "psg"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "fikayotomori",
+    "name": "Фикайо Томори",
+    "aliases": [
+      "фикайо томори",
+      "fikayo tomori",
+      "томори"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "ac-milan"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "laureanosanteyro",
+    "name": "Лауреано Сантейро",
+    "aliases": [
+      "лауреано сантейро",
+      "laureano santeyro",
+      "сантейро"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "fluminense"
+    ],
+    "leagues": [
+      "brazilskayaseriyaa"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "amirrrakhmani",
+    "name": "Амир Ррахмани",
+    "aliases": [
+      "амир ррахмани",
+      "amir rrakhmani",
+      "ррахмани"
+    ],
+    "nationality": "Косово",
+    "position": "Player",
+    "clubs": [
+      "napoli"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ibraimakonate",
+    "name": "Ибраима Конате",
+    "aliases": [
+      "ибраима конате",
+      "ibraima konate",
+      "конате"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "liverpool"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dzhanlukamanchini",
+    "name": "Джанлука Манчини",
+    "aliases": [
+      "джанлука манчини",
+      "dzhanluka manchini",
+      "манчини"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "roma"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dzheymstarkovski",
+    "name": "Джеймс Тарковски",
+    "aliases": [
+      "джеймс тарковски",
+      "dzheyms tarkovski",
+      "тарковски"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "everton"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "nikolamilenkovich",
+    "name": "Никола Миленкович",
+    "aliases": [
+      "никола миленкович",
+      "nikola milenkovich",
+      "миленкович"
+    ],
+    "nationality": "Сербия",
+    "position": "Player",
+    "clubs": [
+      "nottingham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "diegolorente",
+    "name": "Диего Льоренте",
+    "aliases": [
+      "диего льоренте",
+      "diego lorente",
+      "льоренте"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "realbetis"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "robinkokh",
+    "name": "Робин Кох",
+    "aliases": [
+      "робин кох",
+      "robin kokh",
+      "кох"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "ayntrakhtfrankfurt"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "federikogatti",
+    "name": "Федерико Гатти",
+    "aliases": [
+      "федерико гатти",
+      "federiko gatti",
+      "гатти"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "juventus"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dzhonatanta",
+    "name": "Джонатан Та",
+    "aliases": [
+      "джонатан та",
+      "dzhonatan ta",
+      "та"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "bavaria"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "toniabrankhes",
+    "name": "Тони Абранхес",
+    "aliases": [
+      "тони абранхес",
+      "toni abrankhes",
+      "абранхес"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "internasonal"
+    ],
+    "leagues": [
+      "brazilskayaseriyaa"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "kimmin-dzhe",
+    "name": "Ким Мин-джэ",
+    "aliases": [
+      "ким мин-джэ",
+      "kim min-dzhe",
+      "мин-джэ"
+    ],
+    "nationality": "Южная Корея",
+    "position": "Player",
+    "clubs": [
+      "bavaria"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "alessioromanoli",
+    "name": "Алессио Романьоли",
+    "aliases": [
+      "алессио романьоли",
+      "alessio romanoli",
+      "романьоли"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "lazio"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "odilonkossunu",
+    "name": "Одилон Коссуну",
+    "aliases": [
+      "одилон коссуну",
+      "odilon kossunu",
+      "коссуну"
+    ],
+    "nationality": "Ivory Coast",
+    "position": "Player",
+    "clubs": [
+      "atalanta"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "rozheribanes",
+    "name": "Рожер Ибаньес",
+    "aliases": [
+      "рожер ибаньес",
+      "rozher ibanes",
+      "ибаньес"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "al-akhli"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "svenbotman",
+    "name": "Свен Ботман",
+    "aliases": [
+      "свен ботман",
+      "sven botman",
+      "ботман"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "clubs": [
+      "newcastle"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "andreaskristensen",
+    "name": "Андреас Кристенсен",
+    "aliases": [
+      "андреас кристенсен",
+      "andreas kristensen",
+      "кристенсен"
+    ],
+    "nationality": "Denmark",
+    "position": "Player",
+    "clubs": [
+      "barcelona"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "antoniorayllo",
+    "name": "Антонио Райлло",
+    "aliases": [
+      "антонио райлло",
+      "antonio rayllo",
+      "райлло"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "malorka"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "aleksandrofutbolist1999",
+    "name": "Александро (футболист, 1999)",
+    "aliases": [
+      "александро (футболист, 1999)",
+      "aleksandro (futbolist, 1999)",
+      "1999)"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "lille"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "villiorban",
+    "name": "Вилли Орбан",
+    "aliases": [
+      "вилли орбан",
+      "villi orban",
+      "орбан"
+    ],
+    "nationality": "Венгрия",
+    "position": "Player",
+    "clubs": [
+      "rbleyptsig"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "krissmolling",
+    "name": "Крис Смоллинг",
+    "aliases": [
+      "крис смоллинг",
+      "kris smolling",
+      "смоллинг"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "alfayha"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "lenormanroben",
+    "name": "Ле Норман, Робен",
+    "aliases": [
+      "ле норман, робен",
+      "le norman, roben",
+      "робен"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "atletico"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "usmandomande",
+    "name": "Усман Дьоманде",
+    "aliases": [
+      "усман дьоманде",
+      "usman domande",
+      "дьоманде"
+    ],
+    "nationality": "Ivory Coast",
+    "position": "Player",
+    "clubs": [
+      "sportingcp"
+    ],
+    "leagues": [
+      "ligaportugal"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dzhordanpikford",
+    "name": "Джордан Пикфорд",
+    "aliases": [
+      "джордан пикфорд",
+      "dzhordan pikford",
+      "пикфорд"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "everton"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "davidrayya",
+    "name": "Давид Райя",
+    "aliases": [
+      "давид райя",
+      "david rayya",
+      "райя"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "arsenal"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "milesvilar",
+    "name": "Миле Свилар",
+    "aliases": [
+      "миле свилар",
+      "mile svilar",
+      "свилар"
+    ],
+    "nationality": "Сербия",
+    "position": "Player",
+    "clubs": [
+      "roma"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "aleksandernyubel",
+    "name": "Александер Нюбель",
+    "aliases": [
+      "александер нюбель",
+      "aleksander nyubel",
+      "нюбель"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "shtutgart"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "digregoriomikele",
+    "name": "Ди Грегорио, Микеле",
+    "aliases": [
+      "ди грегорио, микеле",
+      "di gregorio, mikele",
+      "микеле"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "juventus"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "kheronimoruli",
+    "name": "Херонимо Рульи",
+    "aliases": [
+      "херонимо рульи",
+      "kheronimo ruli",
+      "рульи"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "clubs": [
+      "marseille"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ugurdzhanchakyr",
+    "name": "Угурджан Чакыр",
+    "aliases": [
+      "угурджан чакыр",
+      "ugurdzhan chakyr",
+      "чакыр"
+    ],
+    "nationality": "Turkey",
+    "position": "Player",
+    "clubs": [
+      "galatasaray"
+    ],
+    "leagues": [
+      "superlig"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ivanprovedel",
+    "name": "Иван Проведель",
+    "aliases": [
+      "иван проведель",
+      "ivan provedel",
+      "проведель"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "lazio"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dominiklivakovich",
+    "name": "Доминик Ливакович",
+    "aliases": [
+      "доминик ливакович",
+      "dominik livakovich",
+      "ливакович"
+    ],
+    "nationality": "Croatia",
+    "position": "Player",
+    "clubs": [
+      "zhirona"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "gulelmovikario",
+    "name": "Гульельмо Викарио",
+    "aliases": [
+      "гульельмо викарио",
+      "gulelmo vikario",
+      "викарио"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "tottenham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "aleksremiro",
+    "name": "Алекс Ремиро",
+    "aliases": [
+      "алекс ремиро",
+      "aleks remiro",
+      "ремиро"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "realsosedad"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "unaisimon",
+    "name": "Унаи Симон",
+    "aliases": [
+      "унаи симон",
+      "unai simon",
+      "симон"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "atletikbilbao"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dinkhenderson",
+    "name": "Дин Хендерсон",
+    "aliases": [
+      "дин хендерсон",
+      "din khenderson",
+      "хендерсон"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "kristalpelas"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "brissamba",
+    "name": "Брис Самба",
+    "aliases": [
+      "брис самба",
+      "bris samba",
+      "самба"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "renn"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "mattssels",
+    "name": "Матц Селс",
+    "aliases": [
+      "матц селс",
+      "matts sels",
+      "селс"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "clubs": [
+      "nottingham"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "davidsoriya",
+    "name": "Давид Сория",
+    "aliases": [
+      "давид сория",
+      "david soriya",
+      "сория"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "khetafe"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "lukasmantela",
+    "name": "Лукас Мантела",
+    "aliases": [
+      "лукас мантела",
+      "lukas mantela",
+      "мантела"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "palmeyras"
+    ],
+    "leagues": [
+      "brazilskayaseriyaa"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "lukasperri",
+    "name": "Лукас Перри",
+    "aliases": [
+      "лукас перри",
+      "lukas perri",
+      "перри"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "lidsyunayted"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "nikpoup",
+    "name": "Ник Поуп",
+    "aliases": [
+      "ник поуп",
+      "nik poup",
+      "поуп"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "clubs": [
+      "newcastle"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "aleksmeret",
+    "name": "Алекс Мерет",
+    "aliases": [
+      "алекс мерет",
+      "aleks meret",
+      "мерет"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "napoli"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "dzhordzhepetrovich",
+    "name": "Джордже Петрович",
+    "aliases": [
+      "джордже петрович",
+      "dzhordzhe petrovich",
+      "петрович"
+    ],
+    "nationality": "Сербия",
+    "position": "Player",
+    "clubs": [
+      "bornmut"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "khoangarsiya",
+    "name": "Хоан Гарсия",
+    "aliases": [
+      "хоан гарсия",
+      "khoan garsiya",
+      "гарсия"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "clubs": [
+      "barcelona"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "diogukoshta",
+    "name": "Диогу Кошта",
+    "aliases": [
+      "диогу кошта",
+      "diogu koshta",
+      "кошта"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "porto"
+    ],
+    "leagues": [
+      "ligaportugal"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "enitupires",
+    "name": "Эниту Пирес",
+    "aliases": [
+      "эниту пирес",
+      "enitu pires",
+      "пирес"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "flamengo"
+    ],
+    "leagues": [
+      "brazilskayaseriyaa"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "oliverbaumann",
+    "name": "Оливер Бауманн",
+    "aliases": [
+      "оливер бауманн",
+      "oliver baumann",
+      "бауманн"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "clubs": [
+      "khoffenkhaym"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "ruysilva",
+    "name": "Руй Силва",
+    "aliases": [
+      "руй силва",
+      "ruy silva",
+      "силва"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "clubs": [
+      "sportingcp"
+    ],
+    "leagues": [
+      "ligaportugal"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "anatoliytrubin",
+    "name": "Анатолий Трубин",
+    "aliases": [
+      "анатолий трубин",
+      "anatoliy trubin",
+      "трубин"
+    ],
+    "nationality": "Ukraine",
+    "position": "Player",
+    "clubs": [
+      "benfica"
+    ],
+    "leagues": [
+      "ligaportugal"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "lyukashevale",
+    "name": "Люка Шевалье",
+    "aliases": [
+      "люка шевалье",
+      "lyuka shevale",
+      "шевалье"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "clubs": [
+      "psg"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "lukashgradetskiy",
+    "name": "Лукаш Градецкий",
+    "aliases": [
+      "лукаш градецкий",
+      "lukash gradetskiy",
+      "градецкий"
+    ],
+    "nationality": "Финляндия",
+    "position": "Player",
+    "clubs": [
+      "monaco"
+    ],
+    "leagues": [
+      "ligue1"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "andreyalekseevichlunin",
+    "name": "Андрей Алексеевич Лунин",
+    "aliases": [
+      "андрей алексеевич лунин",
+      "andrey alekseevich lunin",
+      "лунин"
+    ],
+    "nationality": "Ukraine",
+    "position": "Player",
+    "clubs": [
+      "real-madrid"
+    ],
+    "leagues": [
+      "laliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "markokarnesekki",
+    "name": "Марко Карнесекки",
+    "aliases": [
+      "марко карнесекки",
+      "marko karnesekki",
+      "карнесекки"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "atalanta"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "frederikryonnov",
+    "name": "Фредерик Рённов",
+    "aliases": [
+      "фредерик рённов",
+      "frederik ryonnov",
+      "рённов"
+    ],
+    "nationality": "Denmark",
+    "position": "Player",
+    "clubs": [
+      "unionberlin"
+    ],
+    "leagues": [
+      "bundesliga"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "georgimamardashvili",
+    "name": "Георги Мамардашвили",
+    "aliases": [
+      "георги мамардашвили",
+      "georgi mamardashvili",
+      "мамардашвили"
+    ],
+    "nationality": "Грузия",
+    "position": "Player",
+    "clubs": [
+      "liverpool"
+    ],
+    "leagues": [
+      "premier-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "vladimirofalkone",
+    "name": "Владимиро Фальконе",
+    "aliases": [
+      "владимиро фальконе",
+      "vladimiro falkone",
+      "фальконе"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "clubs": [
+      "lechche"
+    ],
+    "leagues": [
+      "serie-a"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "predragraykovich",
+    "name": "Предраг Райкович",
+    "aliases": [
+      "предраг райкович",
+      "predrag raykovich",
+      "райкович"
+    ],
+    "nationality": "Сербия",
+    "position": "Player",
+    "clubs": [
+      "al-ittihad"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
+  },
+  {
+    "id": "bentokrepskineto",
+    "name": "Бенто Крепски Нето",
+    "aliases": [
+      "бенто крепски нето",
+      "bento krepski neto",
+      "нето"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "clubs": [
+      "al-nassr"
+    ],
+    "leagues": [
+      "saudi-league"
+    ],
+    "managers": [],
+    "tournaments": []
   }
 ];

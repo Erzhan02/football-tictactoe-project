@@ -65,7 +65,9 @@ const LEAGUES_MAP: Record<string, string> = {
   'Бундеслига': 'bundesliga',
   'Эредивизи': 'eredivisie',
   'Турецкая Суперлига': 'superlig',
-  'Примейра-лига': 'ligaportugal'
+  'Примейра-лига': 'ligaportugal',
+  'Саудовская Про-лига': 'saudi-league',
+  'MLS': 'mls'
 };
 
 const COACHES_MAP: Record<string, string> = {
@@ -91,7 +93,11 @@ const TROPHIES_MAP: Record<string, string[]> = {
   'ЛЕ': ['uel'],
   'ЧМ': ['worldcup-winner', 'worldcup'],
   'Евро': ['euro'],
-  'Золотой мяч': ['ballondor']
+  'Золотой мяч': ['ballondor'],
+  'Копа Америка': ['copa-america'],
+  'Кубок Африки': ['afcon'],
+  'AFCON': ['afcon'],
+  'Copa America': ['copa-america']
 };
 
 const CLUB_NAME_MAP: Record<string, string> = {

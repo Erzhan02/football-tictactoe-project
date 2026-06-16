@@ -161,11 +161,7 @@
 			"Манчестер Сити",
 			"Tours",
 			"Cannes",
-			"AC Milan",
-			"Arsenal FC",
-			"Juventus FC",
-			"Inter Milan",
-			"Manchester City"
+			"Милан"
 		],
 		"leagues": [
 			"АПЛ",
@@ -203,8 +199,6 @@
 			"Астон Вилла",
 			"Гоа",
 			"Metz",
-			"Marseille",
-			"Arsenal FC",
 			"Villarreal",
 			"Aston Villa"
 		],
@@ -306,9 +300,7 @@
 			"Аль-Гарафа",
 			"Катар СК",
 			"Nantes",
-			"Olympique de Marseille",
-			"AC Milan",
-			"Chelsea FC",
+			"Милан",
 			"Al-Gharafa",
 			"Bolton Wanderers"
 		],
@@ -345,10 +337,7 @@
 			"Парма",
 			"Ювентус",
 			"Барселона",
-			"Monaco",
-			"Parma",
-			"Juventus FC",
-			"FC Barcelona"
+			"Parma"
 		],
 		"leagues": [
 			"Серия А",
@@ -496,12 +485,10 @@
 			"Манчестер Юнайтед",
 			"Auxerre",
 			"Martigues",
-			"Marseille",
 			"Bordeaux",
 			"Montpellier",
 			"Nîmes",
-			"Leeds United",
-			"Manchester United"
+			"Leeds United"
 		],
 		"leagues": [
 			"АПЛ",
@@ -534,9 +521,7 @@
 			"Ривер Плейт",
 			"Ньюэллс Олд Бойз",
 			"Пуне Сити",
-			"Monaco",
-			"Juventus FC",
-			"Real Madrid",
+			"Реал Мадрид",
 			"Hercules",
 			"River Plate",
 			"Pune City"
@@ -615,8 +600,7 @@
 			"Chemnitzer FC",
 			"Kaiserslautern",
 			"Bayer Leverkusen",
-			"Bayern München",
-			"Chelsea FC"
+			"Bayern München"
 		],
 		"leagues": [
 			"АПЛ",
@@ -681,7 +665,6 @@
 			"Метростарс",
 			"Borussia Mönchengladbach",
 			"Bayern München",
-			"Inter Milan",
 			"New York MetroStars"
 		],
 		"leagues": [
@@ -748,7 +731,6 @@
 			"Интер",
 			"Серветт",
 			"Bayern München",
-			"Inter Milan",
 			"Servette"
 		],
 		"leagues": [
@@ -934,8 +916,7 @@
 			"Ливерпуль",
 			"Лос-Анджелес Гэлакси",
 			"Нью-Инглэнд Революшн",
-			"Liverpool FC",
-			"LA Galaxy"
+			"ЛА Гэлакси"
 		],
 		"leagues": [
 			"АПЛ"
@@ -969,8 +950,6 @@
 			"Нью-Йорк Сити",
 			"West Ham United",
 			"Swansea City",
-			"Chelsea FC",
-			"Manchester City",
 			"New York City"
 		],
 		"leagues": [
@@ -1001,7 +980,6 @@
 		"clubs": [
 			"Челси",
 			"Астон Вилла",
-			"Chelsea FC",
 			"Nottingham Forest",
 			"Aston Villa"
 		],
@@ -1082,12 +1060,10 @@
 			"Реал Мадрид",
 			"Лос-Анджелес Гэлакси",
 			"AC Милан",
-			"Paris Saint-Germain",
-			"Manchester United",
+			"ПСЖ",
 			"Preston North End",
-			"Real Madrid",
-			"LA Galaxy",
-			"AC Milan"
+			"ЛА Гэлакси",
+			"Милан"
 		],
 		"leagues": [
 			"АПЛ",
@@ -1179,7 +1155,6 @@
 			"Селтик",
 			"Cobh Ramblers",
 			"Nottingham Forest",
-			"Manchester United",
 			"Celtic"
 		],
 		"leagues": [
@@ -1215,9 +1190,6 @@
 			"Фенербахче",
 			"Den Bosch",
 			"Heerenveen",
-			"PSV Eindhoven",
-			"Manchester United",
-			"Real Madrid",
 			"Hamburg",
 			"Málaga"
 		],
@@ -1412,10 +1384,7 @@
 		"clubs": [
 			"Аякс",
 			"Интер",
-			"Арсенал",
-			"Ajax",
-			"Inter Milan",
-			"Arsenal FC"
+			"Арсенал"
 		],
 		"leagues": [
 			"АПЛ",
@@ -1448,12 +1417,9 @@
 			"Манчестер Сити",
 			"ПСВ",
 			"Ливерпуль",
-			"Ajax",
-			"AC Milan",
-			"FC Barcelona",
-			"Newcastle United",
+			"Милан",
 			"Valencia",
-			"Paris Saint-Germain",
+			"ПСЖ",
 			"Lille"
 		],
 		"leagues": [
@@ -1492,8 +1458,6 @@
 			"Фламенго",
 			"Васко да Гама",
 			"Vasco da Gama",
-			"PSV Eindhoven",
-			"FC Barcelona",
 			"Flamengo",
 			"Valencia",
 			"Fluminense",
@@ -1537,8 +1501,7 @@
 			"Corinthians",
 			"Palmeiras",
 			"Deportivo La Coruña",
-			"FC Barcelona",
-			"AC Milan",
+			"Милан",
 			"Olympiakos",
 			"AEK Athens",
 			"Bunyodkor",
@@ -1617,8 +1580,6 @@
 			"Дели Динамос",
 			"União São João",
 			"Palmeiras",
-			"Inter Milan",
-			"Real Madrid",
 			"Fenerbahçe",
 			"Anzhi",
 			"Delhi Dynamos"
@@ -1658,8 +1619,7 @@
 			"São Paulo",
 			"Real Zaragoza",
 			"Juventude",
-			"Roma",
-			"AC Milan"
+			"Милан"
 		],
 		"leagues": [
 			"Ла Лига",
@@ -1775,8 +1735,7 @@
 			"Реал Мадрид",
 			"Шальке 04",
 			"Нью-Йорк Ред Буллс",
-			"Atlético Madrid",
-			"Real Madrid",
+			"Атлетико Мадрид",
 			"Schalke 04",
 			"Al-Sadd",
 			"New York Cosmos"
@@ -1845,10 +1804,8 @@
 			"Монако",
 			"Черкез Осер",
 			"River Plate",
-			"FC Barcelona",
-			"Monaco",
-			"Benfica",
-			"Real Madrid",
+			"Бенфика",
+			"Реал Мадрид",
 			"Sevilla",
 			"Málaga",
 			"Hellas Verona"
@@ -1942,8 +1899,6 @@
 			"River Plate",
 			"Corinthians",
 			"West Ham United",
-			"Liverpool FC",
-			"FC Barcelona",
 			"Hebei China Fortune",
 			"Estudiantes"
 		],
@@ -2006,9 +1961,6 @@
 			"Boca Juniors",
 			"Corinthians",
 			"West Ham United",
-			"Manchester United",
-			"Manchester City",
-			"Juventus FC",
 			"Shanghai Shenhua"
 		],
 		"leagues": [
@@ -2125,9 +2077,6 @@
 			"Бока Хуниорс",
 			"River Plate",
 			"Boca Juniors",
-			"Fiorentina",
-			"Roma",
-			"Inter Milan",
 			"Al-Arabi"
 		],
 		"leagues": [
@@ -2162,9 +2111,7 @@
 			"River Plate",
 			"Parma",
 			"Lazio",
-			"Inter Milan",
-			"Chelsea FC",
-			"AC Milan",
+			"Милан",
 			"Genoa"
 		],
 		"leagues": [
@@ -2223,8 +2170,7 @@
 		"clubs": [
 			"Аякс",
 			"AC Милан",
-			"Ajax",
-			"AC Milan"
+			"Милан"
 		],
 		"leagues": [
 			"Серия А",
@@ -2406,9 +2352,8 @@
 		"clubs": [
 			"Парма",
 			"Ювентус",
-			"Paris Saint-Germain",
-			"Parma",
-			"Juventus FC"
+			"ПСЖ",
+			"Parma"
 		],
 		"leagues": [
 			"Серия А",
@@ -2478,8 +2423,7 @@
 			"Италия"
 		],
 		"clubs": [
-			"Рома",
-			"Roma"
+			"Рома"
 		],
 		"leagues": [
 			"Серия А"
@@ -2782,10 +2726,6 @@
 			"Ювентус",
 			"Челси",
 			"Монако",
-			"FC Barcelona",
-			"Arsenal FC",
-			"Chelsea FC",
-			"Monaco",
 			"Como"
 		],
 		"leagues": [
@@ -2870,7 +2810,6 @@
 			"Манчестер Сити",
 			"Valencia CF",
 			"Eibar (loan)",
-			"Manchester City",
 			"Real Sociedad"
 		],
 		"leagues": [
@@ -3258,7 +3197,6 @@
 			"FC Basel",
 			"Schalke 04",
 			"Sevilla",
-			"FC Barcelona",
 			"Al-Shabab"
 		],
 		"leagues": [
@@ -3342,8 +3280,7 @@
 			"Шахтёр Донецк",
 			"Dinamo Zagreb",
 			"Sevilla",
-			"Real Madrid",
-			"Arsenal FC",
+			"Арсенал",
 			"West Ham United",
 			"1860 München"
 		],
@@ -3432,9 +3369,7 @@
 			"Лилль",
 			"Челси",
 			"Реал Мадрид",
-			"Lille",
-			"Chelsea FC",
-			"Real Madrid"
+			"Lille"
 		],
 		"leagues": [
 			"АПЛ",
@@ -3501,8 +3436,7 @@
 			"Тулуза",
 			"Манчестер Сити",
 			"Anderlecht",
-			"Hamburger SV",
-			"Manchester City"
+			"Hamburger SV"
 		],
 		"leagues": [
 			"АПЛ",
@@ -3549,8 +3483,6 @@
 			"Наполи",
 			"AGOVV Apeldoorn",
 			"Utrecht",
-			"PSV",
-			"Napoli",
 			"Galatasaray"
 		],
 		"leagues": [
@@ -3595,11 +3527,13 @@
 		"clubs": [
 			"Байерн Мюнхен",
 			"FC Bayern München",
-			"Vancouver Whitecaps"
+			"Vancouver Whitecaps",
+			"Vancouver Whitecaps FC"
 		],
 		"leagues": [
 			"Бундеслига",
-			"MLS"
+			"MLS",
+			"Major League Soccer"
 		],
 		"coaches": [
 			"Хосеп Гвардиола",
@@ -3644,8 +3578,7 @@
 			"Байерн Мюнхен",
 			"Манчестер Юнайтед",
 			"Бешикташ",
-			"FC Bayern München",
-			"Manchester United",
+			"Бавария",
 			"Chicago Fire"
 		],
 		"leagues": [
@@ -3693,9 +3626,8 @@
 			"Вердер Бремен",
 			"Боруссия Дортмунд",
 			"Байерн Мюнхен",
-			"FC Bayern München",
-			"Borussia Dortmund",
-			"AS Roma"
+			"Бавария",
+			"Рома"
 		],
 		"leagues": [
 			"Бундеслига",
@@ -3844,8 +3776,6 @@
 			"Фенербахче",
 			"Schalke 04",
 			"Werder Bremen",
-			"Real Madrid",
-			"Arsenal FC",
 			"Fenerbahçe",
 			"İstanbul Başakşehir"
 		],
@@ -3925,8 +3855,7 @@
 			"Байерн Мюнхен",
 			"Реал Мадрид",
 			"Bayern München",
-			"Bayer Leverkusen",
-			"Real Madrid"
+			"Bayer Leverkusen"
 		],
 		"leagues": [
 			"Ла Лига",
@@ -4188,8 +4117,7 @@
 			"Ювентус",
 			"Интер",
 			"Nancy",
-			"Saint-Étienne",
-			"Juventus FC"
+			"Saint-Étienne"
 		],
 		"leagues": [
 			"Серия А",
@@ -4220,12 +4148,11 @@
 			"Марсель",
 			"Байерн Мюнхен",
 			"AC Милан",
-			"Paris Saint-Germain",
+			"ПСЖ",
 			"Бордо",
 			"Valenciennes",
 			"Club Brugge",
-			"Marseille",
-			"AC Milan",
+			"Милан",
 			"Bayern München",
 			"Bordeaux",
 			"Gueugnon"
@@ -4298,13 +4225,10 @@
 			"Ravenna",
 			"Venezia",
 			"Atalanta",
-			"Juventus FC",
-			"Atlético Madrid",
 			"Lazio",
-			"Inter Milan",
-			"Chelsea FC",
-			"AC Milan",
-			"Monaco",
+			"Челси",
+			"Милан",
+			"Монако",
 			"Sampdoria"
 		],
 		"leagues": [
@@ -4368,11 +4292,8 @@
 			"Болонья",
 			"Брешиа",
 			"Vicenza",
-			"Fiorentina",
-			"Juventus FC",
-			"AC Milan",
+			"Милан",
 			"Bologna",
-			"Inter Milan",
 			"Brescia"
 		],
 		"leagues": [
@@ -4553,7 +4474,6 @@
 		],
 		"clubs": [
 			"Манчестер Юнайтед",
-			"Manchester United",
 			"Preston North End"
 		],
 		"leagues": [
@@ -4584,8 +4504,7 @@
 			"Блэкберн Роверс",
 			"Ньюкасл",
 			"Southampton",
-			"Blackburn Rovers",
-			"Newcastle United"
+			"Blackburn Rovers"
 		],
 		"leagues": [
 			"АПЛ"
@@ -4806,9 +4725,7 @@
 			"Фиорентина",
 			"AC Милан",
 			"Рома",
-			"Fiorentina",
-			"AC Milan",
-			"Benfica"
+			"Милан"
 		],
 		"leagues": [
 			"Серия А",
@@ -4840,10 +4757,7 @@
 			"Барселона",
 			"Челси",
 			"Брага",
-			"Salgueiros",
-			"FC Porto",
-			"FC Barcelona",
-			"Chelsea FC"
+			"Salgueiros"
 		],
 		"leagues": [
 			"АПЛ",
@@ -4963,10 +4877,6 @@
 			"Ньюкасл",
 			"Манчестер Юнайтед",
 			"Стоук Сити",
-			"Liverpool FC",
-			"Real Madrid",
-			"Newcastle United",
-			"Manchester United",
 			"Stoke City"
 		],
 		"leagues": [
@@ -5001,7 +4911,6 @@
 			"Манчестер Юнайтед",
 			"ДС Юнайтед",
 			"Everton",
-			"Manchester United",
 			"D.C. United",
 			"Derby County"
 		],
@@ -5137,12 +5046,8 @@
 			"Ювентус",
 			"Реал Мадрид",
 			"Интер",
-			"Napoli",
 			"Parma",
-			"Inter Milan",
-			"Juventus FC",
-			"Real Madrid",
-			"Al-Ahli"
+			"Аль-Ахли"
 		],
 		"leagues": [
 			"Ла Лига",
@@ -5207,9 +5112,7 @@
 			"Sampdoria",
 			"Parma",
 			"Lazio",
-			"Manchester United",
-			"Chelsea FC",
-			"Inter Milan"
+			"Челси"
 		],
 		"leagues": [
 			"АПЛ",
@@ -5451,7 +5354,6 @@
 			"Эспаньол",
 			"River Plate",
 			"Millonarios",
-			"Real Madrid",
 			"Espanyol"
 		],
 		"leagues": [
@@ -5756,8 +5658,6 @@
 			"Реал Мадрид",
 			"Астон Вилла",
 			"Southampton",
-			"Tottenham Hotspur",
-			"Real Madrid",
 			"Los Angeles FC"
 		],
 		"leagues": [
@@ -6281,9 +6181,7 @@
 			"Манчестер Сити",
 			"Бока Хуниорс",
 			"Independiente",
-			"Atlético Madrid",
-			"Manchester City",
-			"FC Barcelona"
+			"Барселона"
 		],
 		"leagues": [
 			"АПЛ",
@@ -6446,7 +6344,8 @@
 			"Ювентус",
 			"Ливерпуль",
 			"Рома",
-			"Байерн Мюнхен"
+			"Байерн Мюнхен",
+			"Боруссия Дортмунд"
 		],
 		"leagues": [
 			"АПЛ",
@@ -6459,8 +6358,8 @@
 		"trophies": [
 			"ЛЕ"
 		],
-		"max_overall": null,
-		"retired": null,
+		"max_overall": 82,
+		"retired": false,
 		"ballon_dor": null,
 		"is_legend": null,
 		"nationality_valid": null
@@ -6597,11 +6496,10 @@
 			"Арсенал",
 			"Байерн Мюнхен",
 			"VfB Stuttgart (youth)",
-			"Arsenal FC",
 			"West Bromwich Albion (loan)",
 			"Werder Bremen",
 			"TSG Hoffenheim (loan)",
-			"FC Bayern München"
+			"Бавария"
 		],
 		"leagues": [
 			"АПЛ",
@@ -6652,9 +6550,8 @@
 			"RB Лейпциг",
 			"SV Aspern",
 			"Austria Wien",
-			"FC Bayern München",
-			"TSG Hoffenheim",
-			"Real Madrid"
+			"Бавария",
+			"TSG Hoffenheim"
 		],
 		"leagues": [
 			"Бундеслига",
@@ -7494,8 +7391,8 @@
 			"Испания"
 		],
 		"clubs": [
-			"Manchester City",
-			"Atlético Madrid",
+			"Манчестер Сити",
+			"Атлетико Мадрид",
 			"Villarreal"
 		],
 		"leagues": [
@@ -7527,9 +7424,9 @@
 		],
 		"clubs": [
 			"Rennes",
-			"Borussia Dortmund",
-			"FC Barcelona",
-			"Paris Saint-Germain"
+			"Боруссия Дортмунд",
+			"Барселона",
+			"ПСЖ"
 		],
 		"leagues": [
 			"Ла Лига",
@@ -7560,7 +7457,7 @@
 			"Дембеле, Усман",
 			"усман дембеле"
 		],
-		"max_overall": 88,
+		"max_overall": 90,
 		"retired": false,
 		"ballon_dor": true,
 		"is_legend": null,
@@ -7575,11 +7472,11 @@
 			"Португалия"
 		],
 		"clubs": [
-			"Sporting CP",
-			"Manchester United",
-			"Real Madrid",
-			"Juventus FC",
-			"Al Nassr"
+			"Спортинг",
+			"Манчестер Юнайтед",
+			"Реал Мадрид",
+			"Ювентус",
+			"Аль-Наср"
 		],
 		"leagues": [
 			"АПЛ",
@@ -7599,7 +7496,7 @@
 			"Евро",
 			"Золотой мяч"
 		],
-		"max_overall": null,
+		"max_overall": 85,
 		"retired": false,
 		"ballon_dor": true,
 		"is_legend": true,
@@ -7621,7 +7518,8 @@
 		"leagues": [
 			"Ла Лига",
 			"Лига 1",
-			"MLS"
+			"MLS",
+			"Major League Soccer"
 		],
 		"coaches": [
 			"Франк Райкард",
@@ -7642,7 +7540,7 @@
 			"Золотой мяч"
 		],
 		"max_overall": 94,
-		"retired": null,
+		"retired": false,
 		"ballon_dor": null,
 		"is_legend": null,
 		"nationality_valid": true
@@ -7657,7 +7555,7 @@
 		],
 		"clubs": [
 			"FC Schalke 04",
-			"FC Bayern München"
+			"Бавария"
 		],
 		"leagues": [
 			"Бундеслига"
@@ -7680,7 +7578,7 @@
 			"Бундеслига"
 		],
 		"max_overall": 92,
-		"retired": null,
+		"retired": false,
 		"ballon_dor": null,
 		"is_legend": null,
 		"nationality_valid": true
@@ -7880,9 +7778,9 @@
 			"Франция"
 		],
 		"clubs": [
-			"Olympique Lyonnais",
-			"Real Madrid",
-			"Al Ittihad"
+			"Лион",
+			"Реал Мадрид",
+			"Аль-Иттихад"
 		],
 		"leagues": [
 			"Лига 1",
@@ -7920,12 +7818,14 @@
 		"clubs": [
 			"Dinamo Zagreb",
 			"Tottenham Hotspur",
-			"Real Madrid"
+			"Real Madrid",
+			"Милан"
 		],
 		"leagues": [
 			"Хорватская лига",
 			"АПЛ",
-			"Ла Лига"
+			"Ла Лига",
+			"Серия А"
 		],
 		"coaches": [
 			"Жозе Моуринью",
@@ -7952,16 +7852,17 @@
 		],
 		"clubs": [
 			"KRC Genk",
-			"Chelsea FC",
+			"Челси",
 			"Werder Bremen",
 			"VfL Wolfsburg",
-			"Manchester City",
-			"Napoli"
+			"Манчестер Сити",
+			"Наполи"
 		],
 		"leagues": [
 			"Бельгийская лига",
 			"АПЛ",
-			"Бундеслига"
+			"Бундеслига",
+			"Серия А"
 		],
 		"coaches": [
 			"Хосеп Гвардиола",
@@ -7992,9 +7893,9 @@
 			"Испания"
 		],
 		"clubs": [
-			"Atlético Madrid",
-			"Manchester United",
-			"Fiorentina"
+			"Атлетико Мадрид",
+			"Манчестер Юнайтед",
+			"Фиорентина"
 		],
 		"leagues": [
 			"Ла Лига",
@@ -8032,9 +7933,9 @@
 		],
 		"clubs": [
 			"Olimpija Ljubljana",
-			"Benfica",
+			"Бенфика",
 			"Rio Ave",
-			"Atlético Madrid"
+			"Атлетико Мадрид"
 		],
 		"leagues": [
 			"Словенская лига",
@@ -8066,9 +7967,9 @@
 			"Франция"
 		],
 		"clubs": [
-			"AS Monaco",
-			"Paris Saint-Germain",
-			"Real Madrid"
+			"Монако",
+			"ПСЖ",
+			"Реал Мадрид"
 		],
 		"leagues": [
 			"Лига 1",
@@ -8107,8 +8008,8 @@
 			"Bryne",
 			"Molde",
 			"Red Bull Salzburg",
-			"Borussia Dortmund",
-			"Manchester City"
+			"Боруссия Дортмунд",
+			"Манчестер Сити"
 		],
 		"leagues": [
 			"Норвежская лига",
@@ -8373,9 +8274,9 @@
 		],
 		"clubs": [
 			"Genk",
-			"Atlético Madrid",
-			"Chelsea FC",
-			"Real Madrid"
+			"Атлетико Мадрид",
+			"Челси",
+			"Реал Мадрид"
 		],
 		"leagues": [
 			"Бельгийская лига",
@@ -8415,7 +8316,7 @@
 		],
 		"clubs": [
 			"Borussia Mönchengladbach",
-			"FC Barcelona",
+			"Барселона",
 			"Girona FC"
 		],
 		"leagues": [
@@ -8450,12 +8351,12 @@
 			"Англия"
 		],
 		"clubs": [
-			"Tottenham Hotspur",
+			"Тоттенхэм",
 			"Leyton Orient",
 			"Millwall",
 			"Norwich City",
 			"Leicester City",
-			"FC Bayern München"
+			"Бавария"
 		],
 		"leagues": [
 			"АПЛ",
@@ -8494,7 +8395,7 @@
 			"FC Groningen",
 			"Celtic",
 			"Southampton",
-			"Liverpool FC"
+			"Ливерпуль"
 		],
 		"leagues": [
 			"Эредивизи",
@@ -8534,9 +8435,9 @@
 			"Metz",
 			"Red Bull Salzburg",
 			"Southampton",
-			"Liverpool FC",
-			"FC Bayern München",
-			"Al Nassr"
+			"Ливерпуль",
+			"Бавария",
+			"Аль-Наср"
 		],
 		"leagues": [
 			"Лига 1",
@@ -8579,10 +8480,10 @@
 		"clubs": [
 			"Al Mokawloon",
 			"Basel",
-			"Chelsea FC",
-			"Fiorentina",
-			"Roma",
-			"Liverpool FC"
+			"Челси",
+			"Фиорентина",
+			"Рома",
+			"Ливерпуль"
 		],
 		"leagues": [
 			"Египетская Премьер-лига",
@@ -8604,7 +8505,7 @@
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-		"max_overall": 90,
+		"max_overall": 91,
 		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
@@ -8620,8 +8521,8 @@
 		],
 		"clubs": [
 			"Internacional",
-			"AS Roma",
-			"Liverpool FC"
+			"Рома",
+			"Ливерпуль"
 		],
 		"leagues": [
 			"Бразильская Серия A",
@@ -8660,8 +8561,8 @@
 			"US Boulogne",
 			"SM Caen",
 			"Leicester City",
-			"Chelsea FC",
-			"Al Ittihad",
+			"Челси",
+			"Аль-Иттихад",
 			"Fenerbahçe"
 		],
 		"leagues": [
@@ -8928,7 +8829,8 @@
 			"Кубок Италии",
 			"Суперкубок Испании",
 			"Кубок Испании",
-			"Кубок конфедераций"
+			"Кубок конфедераций",
+			"Копа Америка"
 		],
 		"max_overall": 89,
 		"retired": false,
@@ -8945,12 +8847,13 @@
 			"Испания"
 		],
 		"clubs": [
-			"FC Barcelona",
-			"Inter Miami CF"
+			"Барселона",
+			"Интер Майами"
 		],
 		"leagues": [
 			"Ла Лига",
-			"MLS"
+			"MLS",
+			"Major League Soccer"
 		],
 		"coaches": [
 			"Pep Guardiola",
@@ -8987,8 +8890,8 @@
 		],
 		"clubs": [
 			"Real Sociedad",
-			"Atlético Madrid",
-			"FC Barcelona",
+			"Атлетико Мадрид",
+			"Барселона",
 			"Orlando City"
 		],
 		"leagues": [
@@ -9030,7 +8933,8 @@
 			"Málaga CF",
 			"Real Madrid",
 			"Sevilla FC",
-			"Real Betis"
+			"Real Betis",
+			"Реал Бетис"
 		],
 		"leagues": [
 			"Ла Лига"
@@ -9076,7 +8980,8 @@
 			"K League 1",
 			"Бундеслига",
 			"АПЛ",
-			"MLS"
+			"MLS",
+			"Major League Soccer"
 		],
 		"coaches": [
 			"Roger Schmidt",
@@ -9153,9 +9058,9 @@
 		"clubs": [
 			"Metz",
 			"KRC Genk",
-			"Napoli",
-			"Chelsea FC",
-			"Al Hilal"
+			"Наполи",
+			"Челси",
+			"Аль-Хиляль"
 		],
 		"leagues": [
 			"Лига 1",
@@ -9180,7 +9085,8 @@
 			"Кубок Италии",
 			"Суперкубок Италии",
 			"АПЛ",
-			"Саудовская Про-лига"
+			"Саудовская Про-лига",
+			"Кубок Африки"
 		],
 		"max_overall": 89,
 		"retired": false,
@@ -9239,8 +9145,8 @@
 		"clubs": [
 			"Instituto ACC",
 			"Palermo",
-			"Juventus FC",
-			"Roma"
+			"Ювентус",
+			"Рома"
 		],
 		"leagues": [
 			"Аргентинская Примера",
@@ -9277,7 +9183,7 @@
 		],
 		"clubs": [
 			"RB Leipzig",
-			"FC Bayern München"
+			"Бавария"
 		],
 		"leagues": [
 			"Бундеслига"
@@ -9315,9 +9221,9 @@
 			"Италия"
 		],
 		"clubs": [
-			"AC Milan",
-			"Paris Saint-Germain",
-			"Manchester City"
+			"Милан",
+			"ПСЖ",
+			"Манчестер Сити"
 		],
 		"leagues": [
 			"Серия А",
@@ -9459,8 +9365,8 @@
 			"Португалия"
 		],
 		"clubs": [
-			"Benfica",
-			"Manchester City"
+			"Бенфика",
+			"Манчестер Сити"
 		],
 		"leagues": [
 			"Примейра-лига",
@@ -9917,16 +9823,16 @@
 			"Габон"
 		],
 		"clubs": [
-			"AC Milan",
+			"Милан",
 			"Dijon",
 			"Lille",
-			"Monaco",
+			"Монако",
 			"Saint-Étienne",
-			"Borussia Dortmund",
-			"Arsenal FC",
-			"FC Barcelona",
-			"Chelsea FC",
-			"Olympique de Marseille",
+			"Боруссия Дортмунд",
+			"Арсенал",
+			"Барселона",
+			"Челси",
+			"Марсель",
 			"Al-Qadsiah"
 		],
 		"leagues": [
@@ -10377,8 +10283,8 @@
 		],
 		"clubs": [
 			"Corinthians",
-			"Roma",
-			"Paris Saint-Germain"
+			"Рома",
+			"ПСЖ"
 		],
 		"leagues": [
 			"Бразильская Серия A",
@@ -10419,14 +10325,14 @@
 		],
 		"clubs": [
 			"Barreirense",
-			"Benfica",
+			"Бенфика",
 			"Valencia",
-			"Inter Milan",
-			"Juventus FC",
-			"Manchester City",
+			"Интер",
+			"Ювентус",
+			"Манчестер Сити",
 			"Bayern München",
-			"FC Barcelona",
-			"Al Hilal"
+			"Барселона",
+			"Аль-Хиляль"
 		],
 		"leagues": [
 			"Примейра-лига",
@@ -10474,8 +10380,8 @@
 			"Novara",
 			"Udinese",
 			"Sampdoria",
-			"Sporting CP",
-			"Manchester United"
+			"Спортинг",
+			"Манчестер Юнайтед"
 		],
 		"leagues": [
 			"Примейра-лига",
@@ -10516,9 +10422,9 @@
 			"Португалия"
 		],
 		"clubs": [
-			"Benfica",
-			"Monaco",
-			"Manchester City"
+			"Бенфика",
+			"Монако",
+			"Манчестер Сити"
 		],
 		"leagues": [
 			"Примейра-лига",
@@ -10557,7 +10463,8 @@
 			"Charleroi",
 			"Lille",
 			"Napoli",
-			"Galatasaray"
+			"Galatasaray",
+			"Галатасарай"
 		],
 		"leagues": [
 			"Нигерийская лига",
@@ -10565,7 +10472,8 @@
 			"Жюпиле Про Лига",
 			"Лига 1",
 			"Серия А",
-			"Суперлига Турции"
+			"Суперлига Турции",
+			"Турецкая Суперлига"
 		],
 		"coaches": [
 			"Emmanuel Amuneke",
@@ -10597,7 +10505,7 @@
 		],
 		"clubs": [
 			"Peñarol",
-			"Real Madrid",
+			"Реал Мадрид",
 			"Deportivo de La Coruña"
 		],
 		"leagues": [
@@ -10622,7 +10530,7 @@
 			"Суперкубок УЕФА",
 			"Клубный чемпионат мира"
 		],
-		"max_overall": 88,
+		"max_overall": 89,
 		"retired": false,
 		"ballon_dor": false,
 		"is_legend": true,
@@ -10796,7 +10704,8 @@
 			"Кубок Германии",
 			"Кубок Италии",
 			"Клубный чемпионат мира",
-			"Кубок Бразилии"
+			"Кубок Бразилии",
+			"Копа Америка"
 		],
 		"max_overall": 87,
 		"retired": false,
@@ -10826,7 +10735,8 @@
 			"Ла Лига",
 			"АПЛ",
 			"Лига 1",
-			"Серия A"
+			"Серия A",
+			"Liga Profesional de Fútbol"
 		],
 		"coaches": [
 			"Miguel Ángel Russo",
@@ -10848,7 +10758,8 @@
 			"Кубок Испании",
 			"ЛЧ",
 			"Клубный чемпионат мира",
-			"Кубок Португалии"
+			"Кубок Португалии",
+			"Копа Америка"
 		],
 		"max_overall": 87,
 		"retired": false,
@@ -10913,10 +10824,10 @@
 		],
 		"clubs": [
 			"Legia Warszawa",
-			"Arsenal FC",
-			"Roma",
-			"Juventus FC",
-			"FC Barcelona"
+			"Арсенал",
+			"Рома",
+			"Ювентус",
+			"Барселона"
 		],
 		"leagues": [
 			"Экстракласа",
@@ -11095,12 +11006,14 @@
 			"Sampdoria",
 			"Inter Milan",
 			"Paris Saint-Germain",
-			"Galatasaray"
+			"Galatasaray",
+			"Галатасарай"
 		],
 		"leagues": [
 			"Серия A",
 			"Лига 1",
-			"Суперлига Турции"
+			"Суперлига Турции",
+			"Турецкая Суперлига"
 		],
 		"coaches": [
 			"Sinisa Mihajlovic",
@@ -11138,7 +11051,8 @@
 			"TSG Hoffenheim",
 			"Liverpool FC",
 			"Al Ahli Jeddah",
-			"Al-Sadd"
+			"Al-Sadd",
+			"Аль-Ахли"
 		],
 		"leagues": [
 			"Серия B Бразилии",
@@ -11179,9 +11093,9 @@
 		],
 		"clubs": [
 			"VfB Stuttgart",
-			"Roma",
-			"Chelsea FC",
-			"Real Madrid"
+			"Рома",
+			"Челси",
+			"Реал Мадрид"
 		],
 		"leagues": [
 			"Бундеслига",
@@ -11270,10 +11184,10 @@
 			"Paulínia",
 			"Fluminense",
 			"Real Madrid Castilla",
-			"Real Madrid",
-			"Monaco",
-			"Liverpool FC",
-			"Al-Ittihad"
+			"Реал Мадрид",
+			"Монако",
+			"Ливерпуль",
+			"Аль-Иттихад"
 		],
 		"leagues": [
 			"Серия D Бразилии",
@@ -11316,7 +11230,7 @@
 		"clubs": [
 			"VfL Bochum",
 			"Schalke 04",
-			"FC Bayern München"
+			"Бавария"
 		],
 		"leagues": [
 			"Бундеслига"
@@ -11358,7 +11272,8 @@
 			"Aviron Bayonnais",
 			"Athletic Club",
 			"Manchester City",
-			"Al-Nassr"
+			"Al-Nassr",
+			"Атлетик Бильбао"
 		],
 		"leagues": [
 			"Французские региональные лиги",
@@ -11397,13 +11312,14 @@
 			"Франция"
 		],
 		"clubs": [
-			"Paris Saint-Germain",
+			"ПСЖ",
 			"Lille",
-			"AC Milan"
+			"Милан"
 		],
 		"leagues": [
 			"Лига 1",
-			"Серия A"
+			"Серия A",
+			"Серия А"
 		],
 		"coaches": [
 			"Laurent Blanc",
@@ -11435,8 +11351,8 @@
 			"Queen's Park",
 			"Dundee United",
 			"Hull City",
-			"Liverpool FC",
-			"Tottenham Hotspur"
+			"Ливерпуль",
+			"Тоттенхэм"
 		],
 		"leagues": [
 			"Шотландская Лига 2",
@@ -11475,11 +11391,11 @@
 		],
 		"clubs": [
 			"Strømsgodset",
-			"Real Madrid",
+			"Реал Мадрид",
 			"Herenveen",
 			"Vitesse",
 			"Real Sociedad",
-			"Arsenal FC"
+			"Арсенал"
 		],
 		"leagues": [
 			"Элитсериен",
@@ -11516,8 +11432,8 @@
 		],
 		"clubs": [
 			"Willem II",
-			"Ajax",
-			"FC Barcelona"
+			"Аякс",
+			"Барселона"
 		],
 		"leagues": [
 			"Эредивизи",
@@ -11556,8 +11472,8 @@
 			"Англия"
 		],
 		"clubs": [
-			"Liverpool FC",
-			"Real Madrid"
+			"Ливерпуль",
+			"Реал Мадрид"
 		],
 		"leagues": [
 			"АПЛ",
@@ -11657,7 +11573,8 @@
 			"Borussia Dortmund",
 			"Manchester United",
 			"Chelsea FC",
-			"Aston Villa"
+			"Aston Villa",
+			"Астон Вилла"
 		],
 		"leagues": [
 			"АПЛ",
@@ -11694,7 +11611,7 @@
 		"clubs": [
 			"TSG Hoffenheim",
 			"VfB Stuttgart",
-			"Borussia Dortmund"
+			"Боруссия Дортмунд"
 		],
 		"leagues": [
 			"Бундеслига"
@@ -12236,12 +12153,13 @@
 			"VfB Stuttgart",
 			"Borussia Mönchengladbach",
 			"Bayern München",
-			"Inter Milan"
+			"Интер"
 		],
 		"leagues": [
 			"Суперлига Швейцарии",
 			"Бундеслига",
-			"Серия A"
+			"Серия A",
+			"Серия А"
 		],
 		"coaches": [
 			"Heiko Vogel",
@@ -12258,7 +12176,7 @@
 			"Суперкубок Германии",
 			"Серия A"
 		],
-		"max_overall": 86,
+		"max_overall": 87,
 		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
@@ -12464,12 +12382,12 @@
 			"Sochaux",
 			"Roeselare",
 			"Club Brugge",
-			"Borussia Dortmund",
+			"Боруссия Дортмунд",
 			"VfL Wolfsburg",
-			"Inter Milan",
+			"Интер",
 			"Bayern München",
-			"Tottenham Hotspur",
-			"PSV Eindhoven"
+			"Тоттенхэм",
+			"ПСВ"
 		],
 		"leagues": [
 			"Хорватская лига",
@@ -12478,7 +12396,8 @@
 			"Бундеслига",
 			"Серия A",
 			"АПЛ",
-			"Эредивизи"
+			"Эредивизи",
+			"Eredivisie"
 		],
 		"coaches": [
 			"Ante Miše",
@@ -12614,7 +12533,8 @@
 			"Borussia Dortmund",
 			"Manchester City",
 			"FC Barcelona",
-			"Galatasaray"
+			"Galatasaray",
+			"Галатасарай"
 		],
 		"leagues": [
 			"Региональные лиги Германии",
@@ -12657,7 +12577,8 @@
 			"Kaiserslautern",
 			"Eintracht Frankfurt",
 			"Paris Saint-Germain",
-			"Paris FC"
+			"Paris FC",
+			"Париж ФК"
 		],
 		"leagues": [
 			"Бундеслига",
@@ -12697,7 +12618,8 @@
 			"Queens Park Rangers",
 			"Getafe",
 			"Valencia",
-			"Villarreal"
+			"Villarreal",
+			"Villarreal CF"
 		],
 		"leagues": [
 			"Ла Лига",
@@ -12882,10 +12804,10 @@
 		],
 		"clubs": [
 			"Vélez Sarsfield",
-			"Porto",
+			"Порту",
 			"Valencia",
-			"Manchester City",
-			"Benfica"
+			"Манчестер Сити",
+			"Бенфика"
 		],
 		"leagues": [
 			"Примера Аргентины",
@@ -12909,7 +12831,8 @@
 			"Лига Португалии",
 			"Кубок Англии",
 			"Кубок Лиги Англии",
-			"Суперкубок Англии"
+			"Суперкубок Англии",
+			"Копа Америка"
 		],
 		"max_overall": 86,
 		"retired": false,
@@ -12929,7 +12852,8 @@
 			"VfB Stuttgart",
 			"Bayer Leverkusen",
 			"Arsenal FC",
-			"Fulham"
+			"Fulham",
+			"Фулхэм"
 		],
 		"leagues": [
 			"Бундеслига",
@@ -12968,7 +12892,8 @@
 			"1899 Hoffenheim",
 			"Werder Bremen",
 			"VfL Wolfsburg",
-			"Al-Qadsiah"
+			"Al-Qadsiah",
+			"Al Qadsiah FC"
 		],
 		"leagues": [
 			"Жюпиле Про Лига",
@@ -13092,8 +13017,8 @@
 			"Quimper Kerfeunteun",
 			"Le Havre",
 			"Leicester City",
-			"Manchester City",
-			"Al-Ahli"
+			"Манчестер Сити",
+			"Аль-Ахли"
 		],
 		"leagues": [
 			"Лига 2 Франции",
@@ -13130,7 +13055,7 @@
 			"Испания"
 		],
 		"clubs": [
-			"Real Madrid",
+			"Реал Мадрид",
 			"Bayer Leverkusen"
 		],
 		"leagues": [
@@ -13175,7 +13100,8 @@
 			"Mallorca",
 			"Villarreal B",
 			"Espanyol",
-			"Villarreal"
+			"Villarreal",
+			"Villarreal CF"
 		],
 		"leagues": [
 			"Терсера Дивизион Испании",
@@ -13254,10 +13180,10 @@
 			"Франция"
 		],
 		"clubs": [
-			"Paris Saint-Germain",
-			"Juventus FC",
+			"ПСЖ",
+			"Ювентус",
 			"Bayern München",
-			"Al Nassr"
+			"Аль-Наср"
 		],
 		"leagues": [
 			"Лига 1",
@@ -13302,7 +13228,8 @@
 			"Lokomotiva Zagreb",
 			"Dinamo Zagreb",
 			"Inter Milan",
-			"Al-Nassr"
+			"Al-Nassr",
+			"Аль-Наср"
 		],
 		"leagues": [
 			"Хорватская лига",
@@ -13345,7 +13272,8 @@
 			"Schalke 04",
 			"Manchester City",
 			"Bayern München",
-			"Galatasaray"
+			"Galatasaray",
+			"Галатасарай"
 		],
 		"leagues": [
 			"Региональные лиги Германии",
@@ -13391,7 +13319,7 @@
 			"Vojvodina",
 			"Genk",
 			"Lazio",
-			"Al Hilal"
+			"Аль-Хиляль"
 		],
 		"leagues": [
 			"Суперлига Сербии",
@@ -13433,10 +13361,11 @@
 		"clubs": [
 			"Cagliari",
 			"Como",
-			"Inter Milan"
+			"Интер"
 		],
 		"leagues": [
-			"Серия A"
+			"Серия A",
+			"Серия А"
 		],
 		"coaches": [
 			"Massimo Rastelli",
@@ -13451,7 +13380,7 @@
 			"Суперкубок Италии",
 			"Кубок Италии"
 		],
-		"max_overall": 86,
+		"max_overall": 87,
 		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
@@ -13466,9 +13395,9 @@
 			"Испания"
 		],
 		"clubs": [
-			"Real Madrid",
+			"Реал Мадрид",
 			"Deportivo Alavés",
-			"Atlético Madrid"
+			"Атлетико Мадрид"
 		],
 		"leagues": [
 			"Ла Лига"
@@ -13510,7 +13439,8 @@
 			"Sampdoria",
 			"Inter Milan",
 			"Paris Saint-Germain",
-			"Fenerbahçe"
+			"Fenerbahçe",
+			"Фенербахче"
 		],
 		"leagues": [
 			"Словацкая лига",
@@ -13551,10 +13481,10 @@
 			"Франция"
 		],
 		"clubs": [
-			"Paris Saint-Germain",
+			"ПСЖ",
 			"RB Leipzig",
-			"Chelsea FC",
-			"AC Milan"
+			"Челси",
+			"Милан"
 		],
 		"leagues": [
 			"Лига 1",
@@ -13604,8 +13534,8 @@
 			"Marseille B",
 			"Reims",
 			"Rennes",
-			"Chelsea FC",
-			"Al-Ahli"
+			"Челси",
+			"Аль-Ахли"
 		],
 		"leagues": [
 			"Лига 1",
@@ -13648,10 +13578,10 @@
 			"Нидерланды"
 		],
 		"clubs": [
-			"Ajax",
-			"Juventus FC",
+			"Аякс",
+			"Ювентус",
 			"Bayern München",
-			"Manchester United"
+			"Манчестер Юнайтед"
 		],
 		"leagues": [
 			"Эредивизи",
@@ -13696,8 +13626,8 @@
 		],
 		"clubs": [
 			"São Paulo",
-			"Porto",
-			"Real Madrid"
+			"Порту",
+			"Реал Мадрид"
 		],
 		"leagues": [
 			"Серия A Бразилии",
@@ -13742,8 +13672,8 @@
 		],
 		"clubs": [
 			"Brescia",
-			"AC Milan",
-			"Newcastle United"
+			"Милан",
+			"Ньюкасл"
 		],
 		"leagues": [
 			"Серия B",
@@ -13821,7 +13751,7 @@
 			"Англия"
 		],
 		"clubs": [
-			"Arsenal FC"
+			"Арсенал"
 		],
 		"leagues": [
 			"АПЛ"
@@ -13834,7 +13764,7 @@
 			"Кубок Англии",
 			"Суперкубок Англии"
 		],
-		"max_overall": 86,
+		"max_overall": 88,
 		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
@@ -13859,8 +13789,8 @@
 			"Locomotive Tbilisi",
 			"Rubin Kazan",
 			"Dinamo Batumi",
-			"Napoli",
-			"Paris Saint-Germain"
+			"Наполи",
+			"ПСЖ"
 		],
 		"leagues": [
 			"Эровнули Лига",
@@ -13882,7 +13812,7 @@
 			"Суперкубок Франции",
 			"ЛЧ"
 		],
-		"max_overall": 86,
+		"max_overall": 87,
 		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
@@ -13903,7 +13833,7 @@
 		],
 		"clubs": [
 			"UD Las Palmas",
-			"FC Barcelona"
+			"Барселона"
 		],
 		"leagues": [
 			"Сегунда",
@@ -13923,7 +13853,7 @@
 			"Лига Наций УЕФА",
 			"Евро"
 		],
-		"max_overall": 86,
+		"max_overall": 89,
 		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
@@ -13942,8 +13872,8 @@
 		],
 		"clubs": [
 			"Birmingham City",
-			"Borussia Dortmund",
-			"Real Madrid"
+			"Боруссия Дортмунд",
+			"Реал Мадрид"
 		],
 		"leagues": [
 			"Чемпионшип",
@@ -13966,7 +13896,7 @@
 			"ЛЧ",
 			"Суперкубок УЕФА"
 		],
-		"max_overall": 86,
+		"max_overall": 90,
 		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
@@ -13989,7 +13919,7 @@
 			"Rentistas",
 			"Boston River",
 			"FC Barcelona B",
-			"FC Barcelona"
+			"Барселона"
 		],
 		"leagues": [
 			"Примера Уругвая",
@@ -14030,7 +13960,8 @@
 		"clubs": [
 			"Chelsea Youth",
 			"Bayern München II",
-			"Bayern München"
+			"Bayern München",
+			"Бавария"
 		],
 		"leagues": [
 			"Премьер-лига 2",
@@ -14050,7 +13981,7 @@
 			"Клубный чемпионат мира",
 			"Суперкубок УЕФА"
 		],
-		"max_overall": 86,
+		"max_overall": 88,
 		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
@@ -14384,7 +14315,8 @@
 			"Кубок Англии",
 			"Суперкубок Англии",
 			"Суперкубок Испании",
-			"Кубок Лиги Англии"
+			"Кубок Лиги Англии",
+			"Копа Америка"
 		],
 		"max_overall": 85,
 		"retired": true,
@@ -14636,11 +14568,11 @@
 			"Željezničar",
 			"Teplice",
 			"Wolfsburg",
-			"Manchester City",
-			"Roma",
-			"Inter Milan",
+			"Манчестер Сити",
+			"Рома",
+			"Интер",
 			"Fenerbahçe",
-			"Fiorentina",
+			"Фиорентина",
 			"Schalke 04"
 		],
 		"leagues": [
@@ -14649,7 +14581,8 @@
 			"Бундеслига",
 			"АПЛ",
 			"Серия A",
-			"Суперлига Турции"
+			"Суперлига Турции",
+			"Серия А"
 		],
 		"coaches": [
 			"Adem Čurić",
@@ -14847,7 +14780,8 @@
 			"Tranmere Rovers",
 			"Hull City",
 			"RB Salzburg",
-			"RB Leipzig"
+			"RB Leipzig",
+			"РБ Лейпциг"
 		],
 		"leagues": [
 			"Немзети Байноксаг I",
@@ -14895,9 +14829,9 @@
 			"Manchester City (youth)",
 			"Barnsley (loan)",
 			"Burnley",
-			"Tottenham Hotspur",
-			"Atlético Madrid",
-			"Newcastle United"
+			"Тоттенхэм",
+			"Атлетико Мадрид",
+			"Ньюкасл"
 		],
 		"leagues": [
 			"АПЛ",
@@ -15137,7 +15071,8 @@
 			"Borussia Dortmund",
 			"FC Bayern München",
 			"PSV",
-			"Eintracht Frankfurt"
+			"Eintracht Frankfurt",
+			"Айнтрахт Франкфурт"
 		],
 		"leagues": [
 			"Бундеслига",
@@ -15229,7 +15164,8 @@
 		"clubs": [
 			"Celta de Vigo",
 			"Sevilla",
-			"Liverpool FC"
+			"Liverpool FC",
+			"Сельта"
 		],
 		"leagues": [
 			"Ла Лига",
@@ -15314,17 +15250,18 @@
 		],
 		"clubs": [
 			"Shakhtar Donetsk",
-			"Borussia Dortmund",
-			"Manchester United",
-			"Arsenal FC",
-			"Roma",
-			"Inter Milan"
+			"Боруссия Дортмунд",
+			"Манчестер Юнайтед",
+			"Арсенал",
+			"Рома",
+			"Интер"
 		],
 		"leagues": [
 			"Премьер-лига Украины",
 			"Бундеслига",
 			"АПЛ",
-			"Серия A"
+			"Серия A",
+			"Серия А"
 		],
 		"coaches": [
 			"Mircea Lucescu",
@@ -15368,7 +15305,7 @@
 			"Испания"
 		],
 		"clubs": [
-			"Atlético Madrid"
+			"Атлетико Мадрид"
 		],
 		"leagues": [
 			"Ла Лига"
@@ -15458,13 +15395,14 @@
 			"Нидерланды"
 		],
 		"clubs": [
-			"Feyenoord",
+			"Фейеноорд",
 			"Lazio",
-			"Inter Milan"
+			"Интер"
 		],
 		"leagues": [
 			"Эредивизи",
-			"Серия A"
+			"Серия A",
+			"Серия А"
 		],
 		"coaches": [
 			"Ronald Koeman",
@@ -15700,7 +15638,8 @@
 			"Wolverhampton Wanderers",
 			"Getafe",
 			"Reading",
-			"Aston Villa"
+			"Aston Villa",
+			"Астон Вилла"
 		],
 		"leagues": [
 			"Примера Аргентины",
@@ -15746,7 +15685,7 @@
 		"clubs": [
 			"Barnsley",
 			"Everton",
-			"Manchester City"
+			"Манчестер Сити"
 		],
 		"leagues": [
 			"Чемпионшип",
@@ -15828,7 +15767,8 @@
 		"clubs": [
 			"Aston Villa",
 			"Manchester City",
-			"Everton"
+			"Everton",
+			"Эвертон"
 		],
 		"leagues": [
 			"АПЛ",
@@ -15871,12 +15811,13 @@
 			"Karlsruher SC",
 			"Hamburger SV",
 			"Bayer 04 Leverkusen",
-			"AC Milan",
-			"Inter Milan"
+			"Милан",
+			"Интер"
 		],
 		"leagues": [
 			"Бундеслига",
-			"Серия A"
+			"Серия A",
+			"Серия А"
 		],
 		"coaches": [
 			"Kosta Runjaić",
@@ -15893,7 +15834,7 @@
 			"Кубок Италии",
 			"Суперкубок Италии"
 		],
-		"max_overall": 85,
+		"max_overall": 86,
 		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
@@ -16007,7 +15948,7 @@
 			"Stuttgart",
 			"Hamburger SV",
 			"Eintracht Frankfurt",
-			"Juventus FC",
+			"Ювентус",
 			"Fenerbahçe"
 		],
 		"leagues": [
@@ -16015,7 +15956,8 @@
 			"Эредивизи",
 			"Бундеслига",
 			"Серия A",
-			"Суперлига Турции"
+			"Суперлига Турции",
+			"Серия А"
 		],
 		"coaches": [
 			"Slaviša Stojanović",
@@ -16110,7 +16052,7 @@
 			"Real Zaragoza",
 			"Girona",
 			"Sevilla",
-			"Al-Hilal"
+			"Аль-Хиляль"
 		],
 		"leagues": [
 			"Ботола",
@@ -16238,7 +16180,8 @@
 			"Juventus (loan)"
 		],
 		"leagues": [
-			"Серия A"
+			"Серия A",
+			"Серия А"
 		],
 		"coaches": [
 			"Eusebio Di Francesco",
@@ -16315,8 +16258,8 @@
 		],
 		"clubs": [
 			"TSG Hoffenheim",
-			"FC Bayern München",
-			"Borussia Dortmund"
+			"Бавария",
+			"Боруссия Дортмунд"
 		],
 		"leagues": [
 			"Бундеслига"
@@ -16355,7 +16298,7 @@
 			"Уругвай"
 		],
 		"clubs": [
-			"Atlético Madrid"
+			"Атлетико Мадрид"
 		],
 		"leagues": [
 			"Ла Лига"
@@ -16477,10 +16420,10 @@
 		"clubs": [
 			"AS Nancy",
 			"Sevilla",
-			"FC Barcelona",
-			"Tottenham Hotspur",
+			"Барселона",
+			"Тоттенхэм",
 			"Aston Villa",
-			"Atlético Madrid"
+			"Атлетико Мадрид"
 		],
 		"leagues": [
 			"Лига 1",
@@ -16529,12 +16472,14 @@
 			"Real Madrid",
 			"Paris Saint-Germain",
 			"Aston Villa",
-			"Fenerbahçe"
+			"Fenerbahçe",
+			"Фенербахче"
 		],
 		"leagues": [
 			"Сегунда",
 			"Ла Лига",
-			"Лига 1"
+			"Лига 1",
+			"Турецкая Суперлига"
 		],
 		"coaches": [
 			"Valery Karpin",
@@ -16669,7 +16614,8 @@
 			"Ajax",
 			"Inter Milan",
 			"Manchester United",
-			"Trabzonspor"
+			"Trabzonspor",
+			"Трабзонспор"
 		],
 		"leagues": [
 			"Эредивизи",
@@ -16758,7 +16704,8 @@
 			"Испания"
 		],
 		"clubs": [
-			"Real Sociedad"
+			"Real Sociedad",
+			"Реал Сосьедад"
 		],
 		"leagues": [
 			"Ла Лига"
@@ -16792,12 +16739,13 @@
 			"Англия"
 		],
 		"clubs": [
-			"Manchester United",
+			"Манчестер Юнайтед",
 			"Aston Villa",
-			"FC Barcelona"
+			"Барселона"
 		],
 		"leagues": [
-			"АПЛ"
+			"АПЛ",
+			"Ла Лига"
 		],
 		"coaches": [
 			"Louis van Gaal",
@@ -16886,7 +16834,8 @@
 			"Sampdoria",
 			"Roma",
 			"RB Leipzig (loan)",
-			"Bayer 04 Leverkusen"
+			"Bayer 04 Leverkusen",
+			"Байер Леверкузен"
 		],
 		"leagues": [
 			"Чешская лига",
@@ -16927,7 +16876,7 @@
 		"clubs": [
 			"Chelsea (youth)",
 			"West Ham United",
-			"Arsenal FC"
+			"Арсенал"
 		],
 		"leagues": [
 			"АПЛ"
@@ -16944,7 +16893,7 @@
 			"Кубок Англии",
 			"Суперкубок Англии"
 		],
-		"max_overall": 85,
+		"max_overall": 87,
 		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
@@ -16963,10 +16912,10 @@
 			"Марокко"
 		],
 		"clubs": [
-			"Real Madrid",
+			"Реал Мадрид",
 			"Borussia Dortmund (loan)",
-			"Inter Milan",
-			"Paris Saint-Germain"
+			"Интер",
+			"ПСЖ"
 		],
 		"leagues": [
 			"Ла Лига",
@@ -16992,7 +16941,7 @@
 			"Суперкубок Франции",
 			"Кубок Италии"
 		],
-		"max_overall": 85,
+		"max_overall": 89,
 		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
@@ -17012,8 +16961,8 @@
 		],
 		"clubs": [
 			"Bayer 04 Leverkusen",
-			"Chelsea FC",
-			"Arsenal FC"
+			"Челси",
+			"Арсенал"
 		],
 		"leagues": [
 			"Бундеслига",
@@ -17057,10 +17006,11 @@
 		"clubs": [
 			"Atalanta",
 			"Parma",
-			"Inter Milan"
+			"Интер"
 		],
 		"leagues": [
-			"Серия A"
+			"Серия A",
+			"Серия А"
 		],
 		"coaches": [
 			"Gian Piero Gasperini",
@@ -17075,7 +17025,7 @@
 			"Кубок Италии",
 			"Суперкубок Италии"
 		],
-		"max_overall": 85,
+		"max_overall": 87,
 		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
@@ -17093,7 +17043,7 @@
 			"Англия"
 		],
 		"clubs": [
-			"Manchester City"
+			"Манчестер Сити"
 		],
 		"leagues": [
 			"АПЛ"
@@ -17132,7 +17082,7 @@
 		"clubs": [
 			"Bordeaux",
 			"Sevilla",
-			"FC Barcelona"
+			"Барселона"
 		],
 		"leagues": [
 			"Лига 1",
@@ -17153,7 +17103,7 @@
 			"Кубок Испании",
 			"Суперкубок Испании"
 		],
-		"max_overall": 85,
+		"max_overall": 87,
 		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
@@ -17173,7 +17123,7 @@
 		],
 		"clubs": [
 			"Santos",
-			"Real Madrid"
+			"Реал Мадрид"
 		],
 		"leagues": [
 			"Серия A Бразилии",
@@ -17214,7 +17164,7 @@
 		"clubs": [
 			"1. FC Köln (youth)",
 			"Bayer 04 Leverkusen",
-			"Liverpool FC"
+			"Ливерпуль"
 		],
 		"leagues": [
 			"Бундеслига",
@@ -17233,7 +17183,7 @@
 			"Кубок Германии",
 			"Суперкубок Германии"
 		],
-		"max_overall": 85,
+		"max_overall": 89,
 		"retired": false,
 		"ballon_dor": false,
 		"is_legend": false,
@@ -17242,5 +17192,8411 @@
 			"Вирц, Флориан",
 			"флориан вирц"
 		]
+	},
+	{
+		"id": 450,
+		"name": "Федерико Димарко",
+		"short_name": "Димарко",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Интер"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 451,
+		"name": "Алексис Макаллистер",
+		"short_name": "Макаллистер",
+		"role": "player",
+		"nationality": [
+			"Аргентина"
+		],
+		"clubs": [
+			"Ливерпуль"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 87,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 452,
+		"name": "Тео Эрнандес",
+		"short_name": "Эрнандес",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Аль-Хиляль"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 453,
+		"name": "Хулиан Альварес",
+		"short_name": "Альварес",
+		"role": "player",
+		"nationality": [
+			"Аргентина"
+		],
+		"clubs": [
+			"Атлетико Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 87,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 454,
+		"name": "Ойан Сансет",
+		"short_name": "Сансет",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Атлетик Бильбао"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 455,
+		"name": "Адриан Рабьо",
+		"short_name": "Рабьо",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Милан"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 456,
+		"name": "Родриго Де Пауль",
+		"short_name": "Де Пауль",
+		"role": "player",
+		"nationality": [
+			"Аргентина"
+		],
+		"clubs": [
+			"Inter Miami"
+		],
+		"leagues": [
+			"Major League Soccer"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 457,
+		"name": "Витинья",
+		"short_name": "Витинья",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"ПСЖ"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 89,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 458,
+		"name": "Марсель Забитцер",
+		"short_name": "Забитцер",
+		"role": "player",
+		"nationality": [
+			"Austria"
+		],
+		"clubs": [
+			"Боруссия Дортмунд"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 459,
+		"name": "Тиджани Рейндерс",
+		"short_name": "Рейндерс",
+		"role": "player",
+		"nationality": [
+			"Нидерланды"
+		],
+		"clubs": [
+			"Манчестер Сити"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 86,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 460,
+		"name": "Доминик Собослаи",
+		"short_name": "Собослаи",
+		"role": "player",
+		"nationality": [
+			"Венгрия"
+		],
+		"clubs": [
+			"Ливерпуль"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 461,
+		"name": "Рафаэль Диас Беллоли",
+		"short_name": "Беллоли",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Барселона"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 89,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 462,
+		"name": "Бруно Гимарайнс",
+		"short_name": "Гимарайнс",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Ньюкасл"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 86,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 463,
+		"name": "Жуан Невиш",
+		"short_name": "Невиш",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"ПСЖ"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 464,
+		"name": "Райан Гравенберх",
+		"short_name": "Гравенберх",
+		"role": "player",
+		"nationality": [
+			"Нидерланды"
+		],
+		"clubs": [
+			"Ливерпуль"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 465,
+		"name": "Лаутаро Мартинес",
+		"short_name": "Мартинес",
+		"role": "player",
+		"nationality": [
+			"Аргентина"
+		],
+		"clubs": [
+			"Интер"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 88,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 466,
+		"name": "Тён Копмейнерс",
+		"short_name": "Копмейнерс",
+		"role": "player",
+		"nationality": [
+			"Нидерланды"
+		],
+		"clubs": [
+			"Ювентус"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 467,
+		"name": "Алехандро Гримальдо",
+		"short_name": "Гримальдо",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Байер Леверкузен"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 468,
+		"name": "Рис Джеймс",
+		"short_name": "Джеймс",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Челси"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 469,
+		"name": "Конор Галлахер",
+		"short_name": "Галлахер",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Атлетико Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 470,
+		"name": "Микель Мерино",
+		"short_name": "Мерино",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Арсенал"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 471,
+		"name": "Энцо Херемиас Фернандес",
+		"short_name": "Фернандес",
+		"role": "player",
+		"nationality": [
+			"Аргентина"
+		],
+		"clubs": [
+			"Челси"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 472,
+		"name": "Фредерико Родригес Сантос",
+		"short_name": "Сантос",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Фенербахче"
+		],
+		"leagues": [
+			"Турецкая Суперлига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 473,
+		"name": "Исмаэль Беннасер",
+		"short_name": "Беннасер",
+		"role": "player",
+		"nationality": [
+			"Algeria"
+		],
+		"clubs": [
+			"Dinamo Zagreb"
+		],
+		"leagues": [
+			"Hrvatska nogometna liga"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 474,
+		"name": "Барыш Йылмаз",
+		"short_name": "Йылмаз",
+		"role": "player",
+		"nationality": [
+			"Турция"
+		],
+		"clubs": [
+			"Галатасарай"
+		],
+		"leagues": [
+			"Турецкая Суперлига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 475,
+		"name": "Педро Порро",
+		"short_name": "Порро",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Тоттенхэм"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 476,
+		"name": "Отавио Эдмилсон да Силва Монтейрo",
+		"short_name": "Монтейрo",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"Al Qadsiah FC"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 477,
+		"name": "Оркун Кёкчю",
+		"short_name": "Кёкчю",
+		"role": "player",
+		"nationality": [
+			"Турция"
+		],
+		"clubs": [
+			"Beşiktaş JK"
+		],
+		"leagues": [
+			"Турецкая Суперлига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 478,
+		"name": "Скотт Мактоминей",
+		"short_name": "Мактоминей",
+		"role": "player",
+		"nationality": [
+			"Scotland"
+		],
+		"clubs": [
+			"Наполи"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 479,
+		"name": "Эдуарду Камавинга",
+		"short_name": "Камавинга",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Реал Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 480,
+		"name": "Рубен Невиш",
+		"short_name": "Невиш",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"Аль-Хиляль"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 481,
+		"name": "Феликс Нмеча",
+		"short_name": "Нмеча",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Боруссия Дортмунд"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 482,
+		"name": "Карлос Аугусто",
+		"short_name": "Аугусто",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Интер"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 483,
+		"name": "Джон Макгинн",
+		"short_name": "Макгинн",
+		"role": "player",
+		"nationality": [
+			"Scotland"
+		],
+		"clubs": [
+			"Астон Вилла"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 484,
+		"name": "Алекс Беренгер",
+		"short_name": "Беренгер",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Атлетик Бильбао"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 485,
+		"name": "Лоренцо Пеллегрини",
+		"short_name": "Пеллегрини",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Рома"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 486,
+		"name": "Педру Гонсалвеш",
+		"short_name": "Гонсалвеш",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"Спортинг"
+		],
+		"leagues": [
+			"Примейра-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 487,
+		"name": "Жоэлинтон",
+		"short_name": "Жоэлинтон",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Ньюкасл"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 488,
+		"name": "Нуну Алешандре Тавариш Мендеш",
+		"short_name": "Мендеш",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"ПСЖ"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 86,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 489,
+		"name": "Роберт Левандовски",
+		"short_name": "Левандовски",
+		"role": "player",
+		"nationality": [
+			"Польша"
+		],
+		"clubs": [
+			"Барселона"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 88,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 490,
+		"name": "Хефрен Тюрам",
+		"short_name": "Тюрам",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Ювентус"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 491,
+		"name": "Бриан Мбемо",
+		"short_name": "Мбемо",
+		"role": "player",
+		"nationality": [
+			"Камерун"
+		],
+		"clubs": [
+			"Манчестер Юнайтед"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 492,
+		"name": "Юри Тилеманс",
+		"short_name": "Тилеманс",
+		"role": "player",
+		"nationality": [
+			"Бельгия"
+		],
+		"clubs": [
+			"Астон Вилла"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 493,
+		"name": "Марк Кукурелья",
+		"short_name": "Кукурелья",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Челси"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 494,
+		"name": "Лукас Торрейра",
+		"short_name": "Торрейра",
+		"role": "player",
+		"nationality": [
+			"Уругвай"
+		],
+		"clubs": [
+			"Галатасарай"
+		],
+		"leagues": [
+			"Турецкая Суперлига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 495,
+		"name": "Франк Кесси",
+		"short_name": "Кесси",
+		"role": "player",
+		"nationality": [
+			"Кот-д'Ивуар"
+		],
+		"clubs": [
+			"Аль-Ахли"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 496,
+		"name": "Джованни Ло Чельсо",
+		"short_name": "Чельсо",
+		"role": "player",
+		"nationality": [
+			"Аргентина"
+		],
+		"clubs": [
+			"Реал Бетис"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 497,
+		"name": "Фредрик Эурснес",
+		"short_name": "Эурснес",
+		"role": "player",
+		"nationality": [
+			"Норвегия"
+		],
+		"clubs": [
+			"Бенфика"
+		],
+		"leagues": [
+			"Примейра-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 498,
+		"name": "Деян Кулушевски",
+		"short_name": "Кулушевски",
+		"role": "player",
+		"nationality": [
+			"Швеция"
+		],
+		"clubs": [
+			"Тоттенхэм"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 499,
+		"name": "Рубен Лофтус-Чик",
+		"short_name": "Лофтус-Чик",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Милан"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 500,
+		"name": "Серхи Дардер",
+		"short_name": "Дардер",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Мальорка"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 501,
+		"name": "Корентен Толиссо",
+		"short_name": "Толиссо",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Olympique Lyonnais"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 502,
+		"name": "Де Кёйпер, Максим",
+		"short_name": "Максим",
+		"role": "player",
+		"nationality": [
+			"Бельгия"
+		],
+		"clubs": [
+			"Брайтон"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 503,
+		"name": "Квинтен Тимбер",
+		"short_name": "Тимбер",
+		"role": "player",
+		"nationality": [
+			"Нидерланды"
+		],
+		"clubs": [
+			"Feyenoord"
+		],
+		"leagues": [
+			"Eredivisie"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 504,
+		"name": "Дуглас Луиз",
+		"short_name": "Луиз",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Ноттингем Форест"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 505,
+		"name": "Айосе Перес Гутьеррес",
+		"short_name": "Гутьеррес",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Villarreal CF"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 506,
+		"name": "Алфонсо Дейвис",
+		"short_name": "Дейвис",
+		"role": "player",
+		"nationality": [
+			"Канада"
+		],
+		"clubs": [
+			"Бавария"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 507,
+		"name": "Давиде Фраттези",
+		"short_name": "Фраттези",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Интер"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 508,
+		"name": "Маттео Гендузи",
+		"short_name": "Гендузи",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Лацио"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 509,
+		"name": "Мойсес Кайседо",
+		"short_name": "Кайседо",
+		"role": "player",
+		"nationality": [
+			"Эквадор"
+		],
+		"clubs": [
+			"Челси"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 87,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 510,
+		"name": "Йошко Гвардиол",
+		"short_name": "Гвардиол",
+		"role": "player",
+		"nationality": [
+			"Хорватия"
+		],
+		"clubs": [
+			"Манчестер Сити"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 511,
+		"name": "Андре Замбо-Ангисса",
+		"short_name": "Замбо-Ангисса",
+		"role": "player",
+		"nationality": [
+			"Камерун"
+		],
+		"clubs": [
+			"Наполи"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 512,
+		"name": "Лукас Пакета",
+		"short_name": "Пакета",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"West Ham United"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 513,
+		"name": "Габриэл Сара",
+		"short_name": "Сара",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Галатасарай"
+		],
+		"leagues": [
+			"Турецкая Суперлига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 514,
+		"name": "Мортен Юлманн",
+		"short_name": "Юлманн",
+		"role": "player",
+		"nationality": [
+			"Дания"
+		],
+		"clubs": [
+			"Спортинг"
+		],
+		"leagues": [
+			"Примейра-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 515,
+		"name": "Мауро Арамбарри",
+		"short_name": "Арамбарри",
+		"role": "player",
+		"nationality": [
+			"Уругвай"
+		],
+		"clubs": [
+			"Хетафе"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 516,
+		"name": "Бенжамен Павар",
+		"short_name": "Павар",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Марсель"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 517,
+		"name": "Эллиот Андерсон",
+		"short_name": "Андерсон",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Ноттингем Форест"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 518,
+		"name": "Алеш Гарсия",
+		"short_name": "Гарсия",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Байер Леверкузен"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 519,
+		"name": "Алекс Баэна",
+		"short_name": "Баэна",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Атлетико Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 520,
+		"name": "Малик Тиллман",
+		"short_name": "Тиллман",
+		"role": "player",
+		"nationality": [
+			"United States"
+		],
+		"clubs": [
+			"Байер Леверкузен"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 521,
+		"name": "Эсекиэль Паласиос",
+		"short_name": "Паласиос",
+		"role": "player",
+		"nationality": [
+			"Аргентина"
+		],
+		"clubs": [
+			"Байер Леверкузен"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 522,
+		"name": "Ди Лоренцо, Джованни",
+		"short_name": "Джованни",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Наполи"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 523,
+		"name": "Коул Палмер",
+		"short_name": "Палмер",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Челси"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 87,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 524,
+		"name": "Янхель Эррера",
+		"short_name": "Эррера",
+		"role": "player",
+		"nationality": [
+			"Venezuela"
+		],
+		"clubs": [
+			"Реал Сосьедад"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 525,
+		"name": "Мигель Гутьеррес",
+		"short_name": "Гутьеррес",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Наполи"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 526,
+		"name": "Эдерсон",
+		"short_name": "Эдерсон",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Аталанта",
+			"Фенербахче"
+		],
+		"leagues": [
+			"Серия А",
+			"Турецкая Суперлига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 527,
+		"name": "Морган Гиббс-Уайт",
+		"short_name": "Гиббс-Уайт",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Ноттингем Форест"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 528,
+		"name": "Мануэль Локателли",
+		"short_name": "Локателли",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Ювентус"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 529,
+		"name": "Дензел Дюмфрис",
+		"short_name": "Дюмфрис",
+		"role": "player",
+		"nationality": [
+			"Нидерланды"
+		],
+		"clubs": [
+			"Интер"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 530,
+		"name": "Люка Динь",
+		"short_name": "Динь",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Астон Вилла"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 531,
+		"name": "Роберт Андрих",
+		"short_name": "Андрих",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Байер Леверкузен"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 532,
+		"name": "Орельен Тчуамени",
+		"short_name": "Тчуамени",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Реал Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 533,
+		"name": "Серу Гирасси",
+		"short_name": "Гирасси",
+		"role": "player",
+		"nationality": [
+			"Гвинея"
+		],
+		"clubs": [
+			"Боруссия Дортмунд"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 87,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 534,
+		"name": "Маттиа Дзакканьи",
+		"short_name": "Дзакканьи",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Лацио"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 535,
+		"name": "Мартен де Рон",
+		"short_name": "де Рон",
+		"role": "player",
+		"nationality": [
+			"Нидерланды"
+		],
+		"clubs": [
+			"Аталанта"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 536,
+		"name": "Браис Мендес",
+		"short_name": "Мендес",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Реал Сосьедад"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 537,
+		"name": "Робин Госенс",
+		"short_name": "Госенс",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Фиорентина"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 538,
+		"name": "Фабиан Руис",
+		"short_name": "Руис",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"ПСЖ"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 539,
+		"name": "Джеймс Мэддисон",
+		"short_name": "Мэддисон",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Тоттенхэм"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 540,
+		"name": "Паскаль Грос",
+		"short_name": "Грос",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Боруссия Дортмунд"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 541,
+		"name": "Рафаэл Геррейру",
+		"short_name": "Геррейру",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"Бавария"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 542,
+		"name": "Конрад Лаймер",
+		"short_name": "Лаймер",
+		"role": "player",
+		"nationality": [
+			"Austria"
+		],
+		"clubs": [
+			"Бавария"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 543,
+		"name": "Морган Роджерс",
+		"short_name": "Роджерс",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Астон Вилла"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 544,
+		"name": "Дезире Дуэ",
+		"short_name": "Дуэ",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"ПСЖ"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 545,
+		"name": "Маркус Тюрам",
+		"short_name": "Тюрам",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Интер"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 546,
+		"name": "Давид Раум",
+		"short_name": "Раум",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"РБ Лейпциг"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 547,
+		"name": "Виктор Дьёкереш",
+		"short_name": "Дьёкереш",
+		"role": "player",
+		"nationality": [
+			"Швеция"
+		],
+		"clubs": [
+			"Арсенал"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 87,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 548,
+		"name": "Георгий Викторович Судаков",
+		"short_name": "Судаков",
+		"role": "player",
+		"nationality": [
+			"Украина"
+		],
+		"clubs": [
+			"Бенфика"
+		],
+		"leagues": [
+			"Примейра-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 549,
+		"name": "Андерсон Соуза Консейсан",
+		"short_name": "Консейсан",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Фенербахче"
+		],
+		"leagues": [
+			"Турецкая Суперлига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 550,
+		"name": "Карлос Балеба",
+		"short_name": "Балеба",
+		"role": "player",
+		"nationality": [
+			"Камерун"
+		],
+		"clubs": [
+			"Брайтон"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 551,
+		"name": "Хави Симонс",
+		"short_name": "Симонс",
+		"role": "player",
+		"nationality": [
+			"Нидерланды"
+		],
+		"clubs": [
+			"Тоттенхэм"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 552,
+		"name": "Гранит Джака",
+		"short_name": "Джака",
+		"role": "player",
+		"nationality": [
+			"Швейцария"
+		],
+		"clubs": [
+			"Sunderland"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 553,
+		"name": "Кристиан Пулишич",
+		"short_name": "Пулишич",
+		"role": "player",
+		"nationality": [
+			"United States"
+		],
+		"clubs": [
+			"Милан"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 554,
+		"name": "Иньяки Уильямс",
+		"short_name": "Уильямс",
+		"role": "player",
+		"nationality": [
+			"Ghana"
+		],
+		"clubs": [
+			"Атлетик Бильбао"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 555,
+		"name": "Жонатан Клосс",
+		"short_name": "Клосс",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"OGC Nice"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 556,
+		"name": "Милош Керкез",
+		"short_name": "Керкез",
+		"role": "player",
+		"nationality": [
+			"Венгрия"
+		],
+		"clubs": [
+			"Ливерпуль"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 557,
+		"name": "Оскар Мингеса",
+		"short_name": "Мингеса",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Сельта"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 558,
+		"name": "Луис Фернандо Диас",
+		"short_name": "Диас",
+		"role": "player",
+		"nationality": [
+			"Колумбия"
+		],
+		"clubs": [
+			"Бавария"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 559,
+		"name": "Надим Амири",
+		"short_name": "Амири",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"1. FSV Mainz 05"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 560,
+		"name": "Матео Ковачич",
+		"short_name": "Ковачич",
+		"role": "player",
+		"nationality": [
+			"Хорватия"
+		],
+		"clubs": [
+			"Манчестер Сити"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 561,
+		"name": "Варрен Заир-Эмри",
+		"short_name": "Заир-Эмри",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"ПСЖ"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 562,
+		"name": "Салим аль-Давсари",
+		"short_name": "аль-Давсари",
+		"role": "player",
+		"nationality": [
+			"Saudi Arabia"
+		],
+		"clubs": [
+			"Аль-Хиляль"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 563,
+		"name": "Коди Гакпо",
+		"short_name": "Гакпо",
+		"role": "player",
+		"nationality": [
+			"Нидерланды"
+		],
+		"clubs": [
+			"Ливерпуль"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 564,
+		"name": "Андрей Сантос",
+		"short_name": "Сантос",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Челси"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 565,
+		"name": "Джонни Кардозо",
+		"short_name": "Кардозо",
+		"role": "player",
+		"nationality": [
+			"United States"
+		],
+		"clubs": [
+			"Атлетико Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 566,
+		"name": "Олли Уоткинс",
+		"short_name": "Уоткинс",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Астон Вилла"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 567,
+		"name": "Майкл Олисе",
+		"short_name": "Олисе",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Бавария"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 86,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 568,
+		"name": "Мартин Субименди",
+		"short_name": "Субименди",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Арсенал"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 569,
+		"name": "Ферлан Менди",
+		"short_name": "Менди",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Реал Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 570,
+		"name": "Даниэль Муньос Мехия",
+		"short_name": "Мехия",
+		"role": "player",
+		"nationality": [
+			"Колумбия"
+		],
+		"clubs": [
+			"Кристал Пэлас"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 571,
+		"name": "Пётр Желиньский",
+		"short_name": "Желиньский",
+		"role": "player",
+		"nationality": [
+			"Польша"
+		],
+		"clubs": [
+			"Интер"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 572,
+		"name": "Эберечи Эзе",
+		"short_name": "Эзе",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Арсенал"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 573,
+		"name": "Матеус Кунья",
+		"short_name": "Кунья",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Манчестер Юнайтед"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 574,
+		"name": "Давид Ганцко",
+		"short_name": "Ганцко",
+		"role": "player",
+		"nationality": [
+			"Словакия"
+		],
+		"clubs": [
+			"Атлетико Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 575,
+		"name": "Малком",
+		"short_name": "Малком",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Аль-Хиляль"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 576,
+		"name": "Роналду Кабраиш",
+		"short_name": "Кабраиш",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Botafogo"
+		],
+		"leagues": [
+			"Бразильская Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 577,
+		"name": "Станислав Лоботка",
+		"short_name": "Лоботка",
+		"role": "player",
+		"nationality": [
+			"Словакия"
+		],
+		"clubs": [
+			"Наполи"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 578,
+		"name": "Денис Закария",
+		"short_name": "Закария",
+		"role": "player",
+		"nationality": [
+			"Швейцария"
+		],
+		"clubs": [
+			"Монако"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 579,
+		"name": "Миккель Дамсгор",
+		"short_name": "Дамсгор",
+		"role": "player",
+		"nationality": [
+			"Дания"
+		],
+		"clubs": [
+			"Brentford"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 580,
+		"name": "Эльес Схири",
+		"short_name": "Схири",
+		"role": "player",
+		"nationality": [
+			"Tunisia"
+		],
+		"clubs": [
+			"Айнтрахт Франкфурт"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 581,
+		"name": "Фабиан Шер",
+		"short_name": "Шер",
+		"role": "player",
+		"nationality": [
+			"Швейцария"
+		],
+		"clubs": [
+			"Ньюкасл"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 582,
+		"name": "Нико Шлоттербек",
+		"short_name": "Шлоттербек",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Боруссия Дортмунд"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 583,
+		"name": "Энтони Гордон",
+		"short_name": "Гордон",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Ньюкасл"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 584,
+		"name": "Кёртис Джонс",
+		"short_name": "Джонс",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Ливерпуль"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 585,
+		"name": "Марио Пашалич",
+		"short_name": "Пашалич",
+		"role": "player",
+		"nationality": [
+			"Хорватия"
+		],
+		"clubs": [
+			"Аталанта"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 586,
+		"name": "Иньиго Руис де Галаррета",
+		"short_name": "де Галаррета",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Атлетик Бильбао"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 587,
+		"name": "Дестини Удоджи",
+		"short_name": "Удоджи",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Тоттенхэм"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 588,
+		"name": "Омар Мармуш",
+		"short_name": "Мармуш",
+		"role": "player",
+		"nationality": [
+			"Egypt"
+		],
+		"clubs": [
+			"Манчестер Сити"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 589,
+		"name": "Родриго Бентанкур",
+		"short_name": "Бентанкур",
+		"role": "player",
+		"nationality": [
+			"Уругвай"
+		],
+		"clubs": [
+			"Тоттенхэм"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 590,
+		"name": "Лисандро Мартинес",
+		"short_name": "Мартинес",
+		"role": "player",
+		"nationality": [
+			"Аргентина"
+		],
+		"clubs": [
+			"Манчестер Юнайтед"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 591,
+		"name": "Томас Парти",
+		"short_name": "Парти",
+		"role": "player",
+		"nationality": [
+			"Ghana"
+		],
+		"clubs": [
+			"Villarreal CF"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 592,
+		"name": "Максимилиан Миттельштадт",
+		"short_name": "Миттельштадт",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Штутгарт"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 593,
+		"name": "Хосе Луис Гайя",
+		"short_name": "Гайя",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Valencia CF"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 594,
+		"name": "Вангелис Павлидис",
+		"short_name": "Павлидис",
+		"role": "player",
+		"nationality": [
+			"Greece"
+		],
+		"clubs": [
+			"Бенфика"
+		],
+		"leagues": [
+			"Примейра-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 595,
+		"name": "Льюис Холл",
+		"short_name": "Холл",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Ньюкасл"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 596,
+		"name": "Айвен Тоуни",
+		"short_name": "Тоуни",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Аль-Ахли"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 597,
+		"name": "Рикардо Орта",
+		"short_name": "Орта",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"Брага"
+		],
+		"leagues": [
+			"Примейра-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 598,
+		"name": "Де Кетеларе, Шарль",
+		"short_name": "Шарль",
+		"role": "player",
+		"nationality": [
+			"Бельгия"
+		],
+		"clubs": [
+			"Аталанта"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 599,
+		"name": "Джаррод Боуэн",
+		"short_name": "Боуэн",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"West Ham United"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 600,
+		"name": "Джереми Фримпонг",
+		"short_name": "Фримпонг",
+		"role": "player",
+		"nationality": [
+			"Нидерланды"
+		],
+		"clubs": [
+			"Ливерпуль"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 601,
+		"name": "Александер Исак",
+		"short_name": "Исак",
+		"role": "player",
+		"nationality": [
+			"Швеция"
+		],
+		"clubs": [
+			"Ливерпуль"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 88,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 602,
+		"name": "Альваро Фернандес",
+		"short_name": "Фернандес",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Реал Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 603,
+		"name": "Маттео Политано",
+		"short_name": "Политано",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Наполи"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 604,
+		"name": "Мохамед Эль Амин Амура",
+		"short_name": "Амура",
+		"role": "player",
+		"nationality": [
+			"Algeria"
+		],
+		"clubs": [
+			"VfL Wolfsburg"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 605,
+		"name": "Юссуф Фофана",
+		"short_name": "Фофана",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Милан"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 606,
+		"name": "Брайан Кристанте",
+		"short_name": "Кристанте",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Рома"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 607,
+		"name": "Джейкоб Мёрфи",
+		"short_name": "Мёрфи",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Ньюкасл"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 608,
+		"name": "Мохаммед Кудус",
+		"short_name": "Кудус",
+		"role": "player",
+		"nationality": [
+			"Ghana"
+		],
+		"clubs": [
+			"Тоттенхэм"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 609,
+		"name": "Риккардо Орсолини",
+		"short_name": "Орсолини",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Bologna"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 610,
+		"name": "Нуссаир Мазрауи",
+		"short_name": "Мазрауи",
+		"role": "player",
+		"nationality": [
+			"Марокко"
+		],
+		"clubs": [
+			"Манчестер Юнайтед"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 611,
+		"name": "Пьер-Эмиль Хёйбьерг",
+		"short_name": "Хёйбьерг",
+		"role": "player",
+		"nationality": [
+			"Дания"
+		],
+		"clubs": [
+			"Марсель"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 612,
+		"name": "Дани Себальос",
+		"short_name": "Себальос",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Реал Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 613,
+		"name": "Велингтон Дано",
+		"short_name": "Дано",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Atlético Mineiro"
+		],
+		"leagues": [
+			"Бразильская Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 614,
+		"name": "Дани Ольмо",
+		"short_name": "Ольмо",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Барселона"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 615,
+		"name": "Гави",
+		"short_name": "Гави",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Барселона"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 616,
+		"name": "Франк Онора",
+		"short_name": "Онора",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Боруссия Менхенгладбах"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 617,
+		"name": "Бенжамен Андре",
+		"short_name": "Андре",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Лилль"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 618,
+		"name": "Габриэл Мартинелли",
+		"short_name": "Мартинелли",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Арсенал"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 619,
+		"name": "Райан Ай-Нури",
+		"short_name": "Ай-Нури",
+		"role": "player",
+		"nationality": [
+			"Algeria"
+		],
+		"clubs": [
+			"Манчестер Сити"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 620,
+		"name": "Ксавер Шлагер",
+		"short_name": "Шлагер",
+		"role": "player",
+		"nationality": [
+			"Austria"
+		],
+		"clubs": [
+			"РБ Лейпциг"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 621,
+		"name": "Пабло Барриос",
+		"short_name": "Барриос",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Атлетико Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 622,
+		"name": "Хави Галан",
+		"short_name": "Галан",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Атлетико Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 623,
+		"name": "Ханс Ванакен",
+		"short_name": "Ванакен",
+		"role": "player",
+		"nationality": [
+			"Бельгия"
+		],
+		"clubs": [
+			"Club Brugge KV"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 624,
+		"name": "Антони",
+		"short_name": "Антони",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Реал Бетис"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 625,
+		"name": "Маттео Дармиан",
+		"short_name": "Дармиан",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Интер"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 626,
+		"name": "Росиваль Дурадо",
+		"short_name": "Дурадо",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Corinthians"
+		],
+		"leagues": [
+			"Бразильская Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 627,
+		"name": "Ремо Фройлер",
+		"short_name": "Фройлер",
+		"role": "player",
+		"nationality": [
+			"Швейцария"
+		],
+		"clubs": [
+			"Bologna"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 628,
+		"name": "Каору Митома",
+		"short_name": "Митома",
+		"role": "player",
+		"nationality": [
+			"Japan"
+		],
+		"clubs": [
+			"Брайтон"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 629,
+		"name": "Ола Айна",
+		"short_name": "Айна",
+		"role": "player",
+		"nationality": [
+			"Нигерия"
+		],
+		"clubs": [
+			"Ноттингем Форест"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 630,
+		"name": "Иньиго Мартинес",
+		"short_name": "Мартинес",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Аль-Наср"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 631,
+		"name": "Юлиан Брандт",
+		"short_name": "Брандт",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Боруссия Дортмунд"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 632,
+		"name": "Андрей Крамарич",
+		"short_name": "Крамарич",
+		"role": "player",
+		"nationality": [
+			"Хорватия"
+		],
+		"clubs": [
+			"Хоффенхайм"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 633,
+		"name": "Алекс Ивоби",
+		"short_name": "Ивоби",
+		"role": "player",
+		"nationality": [
+			"Нигерия"
+		],
+		"clubs": [
+			"Фулхэм"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 634,
+		"name": "Нико Уильямс",
+		"short_name": "Уильямс",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Атлетик Бильбао"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 86,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 635,
+		"name": "Винисиус Жуниор",
+		"short_name": "Жуниор",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Реал Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 89,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 636,
+		"name": "Каземиро",
+		"short_name": "Каземиро",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Манчестер Юнайтед"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 637,
+		"name": "Ангело Штиллер",
+		"short_name": "Штиллер",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Штутгарт"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 638,
+		"name": "Энтони Робинсон",
+		"short_name": "Робинсон",
+		"role": "player",
+		"nationality": [
+			"United States"
+		],
+		"clubs": [
+			"Фулхэм"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 639,
+		"name": "Беньямин Хенрикс",
+		"short_name": "Хенрикс",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"РБ Лейпциг"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 640,
+		"name": "Франсишку Тринкан",
+		"short_name": "Тринкан",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"Спортинг"
+		],
+		"leagues": [
+			"Примейра-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 641,
+		"name": "Ноа Ланг",
+		"short_name": "Ланг",
+		"role": "player",
+		"nationality": [
+			"Нидерланды"
+		],
+		"clubs": [
+			"Наполи"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 642,
+		"name": "Габриэл Жезус",
+		"short_name": "Жезус",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Арсенал"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 643,
+		"name": "Константинос Фортунис",
+		"short_name": "Фортунис",
+		"role": "player",
+		"nationality": [
+			"Greece"
+		],
+		"clubs": [
+			"Al Khaleej"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 644,
+		"name": "Валентин Кастельянос",
+		"short_name": "Кастельянос",
+		"role": "player",
+		"nationality": [
+			"Аргентина"
+		],
+		"clubs": [
+			"Лацио"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 645,
+		"name": "Ферран Торрес",
+		"short_name": "Торрес",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Барселона"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 646,
+		"name": "Жуан Пальинья",
+		"short_name": "Пальинья",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"Тоттенхэм"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 647,
+		"name": "Федерико Кьеза",
+		"short_name": "Кьеза",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Ливерпуль"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 648,
+		"name": "Стивен Бергвейн",
+		"short_name": "Бергвейн",
+		"role": "player",
+		"nationality": [
+			"Нидерланды"
+		],
+		"clubs": [
+			"Аль-Иттихад"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 649,
+		"name": "Ромелу Лукаку",
+		"short_name": "Лукаку",
+		"role": "player",
+		"nationality": [
+			"Бельгия"
+		],
+		"clubs": [
+			"Наполи"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 650,
+		"name": "Рафаэл Леау",
+		"short_name": "Леау",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"Милан"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 651,
+		"name": "Адемола Лукман",
+		"short_name": "Лукман",
+		"role": "player",
+		"nationality": [
+			"Нигерия"
+		],
+		"clubs": [
+			"Аталанта"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 652,
+		"name": "Джулиано Симеоне",
+		"short_name": "Симеоне",
+		"role": "player",
+		"nationality": [
+			"Аргентина"
+		],
+		"clubs": [
+			"Атлетико Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 653,
+		"name": "Вильфред Синго",
+		"short_name": "Синго",
+		"role": "player",
+		"nationality": [
+			"Кот-д'Ивуар"
+		],
+		"clubs": [
+			"Галатасарай"
+		],
+		"leagues": [
+			"Турецкая Суперлига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 654,
+		"name": "Кристиан Нёргор",
+		"short_name": "Нёргор",
+		"role": "player",
+		"nationality": [
+			"Дания"
+		],
+		"clubs": [
+			"Арсенал"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 655,
+		"name": "Винченцо Грифо",
+		"short_name": "Грифо",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Фрайбург"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 656,
+		"name": "Лои Опенда",
+		"short_name": "Опенда",
+		"role": "player",
+		"nationality": [
+			"Бельгия"
+		],
+		"clubs": [
+			"Ювентус"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 657,
+		"name": "Мейсон Гринвуд",
+		"short_name": "Гринвуд",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Марсель"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 658,
+		"name": "Христос Тзолис",
+		"short_name": "Тзолис",
+		"role": "player",
+		"nationality": [
+			"Greece"
+		],
+		"clubs": [
+			"Club Brugge KV"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 659,
+		"name": "Карим Адейеми",
+		"short_name": "Адейеми",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Боруссия Дортмунд"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 660,
+		"name": "Натан Аке",
+		"short_name": "Аке",
+		"role": "player",
+		"nationality": [
+			"Нидерланды"
+		],
+		"clubs": [
+			"Манчестер Сити"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 661,
+		"name": "Найлтон Судзуки",
+		"short_name": "Судзуки",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Atlético Mineiro"
+		],
+		"leagues": [
+			"Бразильская Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 662,
+		"name": "Иси Паласон",
+		"short_name": "Паласон",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Rayo Vallecano"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 663,
+		"name": "Нони Мадуэке",
+		"short_name": "Мадуэке",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Арсенал"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 664,
+		"name": "Фермин Лопес",
+		"short_name": "Лопес",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Барселона"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 665,
+		"name": "Рафа Силва",
+		"short_name": "Силва",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"Beşiktaş JK"
+		],
+		"leagues": [
+			"Турецкая Суперлига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 666,
+		"name": "Аюб Эль-Кааби",
+		"short_name": "Эль-Кааби",
+		"role": "player",
+		"nationality": [
+			"Марокко"
+		],
+		"clubs": [
+			"Олимпиакос"
+		],
+		"leagues": [
+			"Греческая Суперлига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 667,
+		"name": "Джонатан Буркардт",
+		"short_name": "Буркардт",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Айнтрахт Франкфурт"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 668,
+		"name": "Антуан Семеньо",
+		"short_name": "Семеньо",
+		"role": "player",
+		"nationality": [
+			"Ghana"
+		],
+		"clubs": [
+			"Борнмут"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 669,
+		"name": "Томио Кубота",
+		"short_name": "Кубота",
+		"role": "player",
+		"nationality": [
+			"Japan"
+		],
+		"clubs": [
+			"Реал Сосьедад"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 670,
+		"name": "Арда Гюлер",
+		"short_name": "Гюлер",
+		"role": "player",
+		"nationality": [
+			"Турция"
+		],
+		"clubs": [
+			"Реал Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 671,
+		"name": "Брэдли Баркола",
+		"short_name": "Баркола",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"ПСЖ"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 672,
+		"name": "Игор Пайшан",
+		"short_name": "Пайшан",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Марсель"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 673,
+		"name": "Эзри Конса",
+		"short_name": "Конса",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Астон Вилла"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 674,
+		"name": "Мусса Диаби",
+		"short_name": "Диаби",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Аль-Иттихад"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 675,
+		"name": "Николя Пепе",
+		"short_name": "Пепе",
+		"role": "player",
+		"nationality": [
+			"Кот-д'Ивуар"
+		],
+		"clubs": [
+			"Villarreal CF"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 676,
+		"name": "Вендерсон Галено",
+		"short_name": "Галено",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Аль-Ахли"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 677,
+		"name": "Душан Влахович",
+		"short_name": "Влахович",
+		"role": "player",
+		"nationality": [
+			"Сербия"
+		],
+		"clubs": [
+			"Ювентус"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 678,
+		"name": "Бубакар Камара",
+		"short_name": "Камара",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Астон Вилла"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 679,
+		"name": "Тино Ливраменто",
+		"short_name": "Ливраменто",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Ньюкасл"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 680,
+		"name": "Леандро Троссард",
+		"short_name": "Троссард",
+		"role": "player",
+		"nationality": [
+			"Бельгия"
+		],
+		"clubs": [
+			"Арсенал"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 681,
+		"name": "Педру Нету",
+		"short_name": "Нету",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"Челси"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 682,
+		"name": "Хулиан Куиньонес",
+		"short_name": "Куиньонес",
+		"role": "player",
+		"nationality": [
+			"Mexico"
+		],
+		"clubs": [
+			"Al Qadsiah FC"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 683,
+		"name": "Юрриен Тимбер",
+		"short_name": "Тимбер",
+		"role": "player",
+		"nationality": [
+			"Нидерланды"
+		],
+		"clubs": [
+			"Арсенал"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 684,
+		"name": "Ритсу Доан",
+		"short_name": "Доан",
+		"role": "player",
+		"nationality": [
+			"Japan"
+		],
+		"clubs": [
+			"Айнтрахт Франкфурт"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 685,
+		"name": "Давид Нерес",
+		"short_name": "Нерес",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Наполи"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 686,
+		"name": "Дениз Ундав",
+		"short_name": "Ундав",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Штутгарт"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 687,
+		"name": "Дин Хёйсен",
+		"short_name": "Хёйсен",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Реал Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 688,
+		"name": "Хуан Местрес",
+		"short_name": "Местрес",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Atlético Mineiro"
+		],
+		"leagues": [
+			"Бразильская Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 689,
+		"name": "Давинсон Санчес",
+		"short_name": "Санчес",
+		"role": "player",
+		"nationality": [
+			"Колумбия"
+		],
+		"clubs": [
+			"Галатасарай"
+		],
+		"leagues": [
+			"Турецкая Суперлига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 690,
+		"name": "Мурилло Сантьяго Коста дос Сантос",
+		"short_name": "Сантос",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Ноттингем Форест"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 691,
+		"name": "Арман Лориенте",
+		"short_name": "Лориенте",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Sassuolo"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 692,
+		"name": "Энтони Эланга",
+		"short_name": "Эланга",
+		"role": "player",
+		"nationality": [
+			"Швеция"
+		],
+		"clubs": [
+			"Ньюкасл"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 693,
+		"name": "Александер Сёрлот",
+		"short_name": "Сёрлот",
+		"role": "player",
+		"nationality": [
+			"Норвегия"
+		],
+		"clubs": [
+			"Атлетико Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 694,
+		"name": "Гонсалу Рамуш",
+		"short_name": "Рамуш",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"ПСЖ"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 695,
+		"name": "Пьер Калюлю",
+		"short_name": "Калюлю",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Ювентус"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 696,
+		"name": "Харви Барнс",
+		"short_name": "Барнс",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Ньюкасл"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 697,
+		"name": "Эрмедин Демирович",
+		"short_name": "Демирович",
+		"role": "player",
+		"nationality": [
+			"Босния и Герцеговина"
+		],
+		"clubs": [
+			"Штутгарт"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 698,
+		"name": "Булай Диа",
+		"short_name": "Диа",
+		"role": "player",
+		"nationality": [
+			"Сенегал"
+		],
+		"clubs": [
+			"Лацио"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 699,
+		"name": "Жан-Филипп Матета",
+		"short_name": "Матета",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Кристал Пэлас"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 700,
+		"name": "Джонатан Дэвид",
+		"short_name": "Дэвид",
+		"role": "player",
+		"nationality": [
+			"Канада"
+		],
+		"clubs": [
+			"Ювентус"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 701,
+		"name": "Беньямин Шешко",
+		"short_name": "Шешко",
+		"role": "player",
+		"nationality": [
+			"Словения"
+		],
+		"clubs": [
+			"Манчестер Юнайтед"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 702,
+		"name": "Артём Александрович Довбик",
+		"short_name": "Довбик",
+		"role": "player",
+		"nationality": [
+			"Украина"
+		],
+		"clubs": [
+			"Рома"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 703,
+		"name": "Рандаль Коло Муани",
+		"short_name": "Муани",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Тоттенхэм"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 704,
+		"name": "Лукас Эрнандес",
+		"short_name": "Эрнандес",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"ПСЖ"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 705,
+		"name": "Йоан Висса",
+		"short_name": "Висса",
+		"role": "player",
+		"nationality": [
+			"ДР Конго"
+		],
+		"clubs": [
+			"Ньюкасл"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 706,
+		"name": "Марио Эрмосо",
+		"short_name": "Эрмосо",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Рома"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 707,
+		"name": "Данилу Перейра",
+		"short_name": "Перейра",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"Аль-Иттихад"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 708,
+		"name": "Доди Лукебакио",
+		"short_name": "Лукебакио",
+		"role": "player",
+		"nationality": [
+			"Бельгия"
+		],
+		"clubs": [
+			"Бенфика"
+		],
+		"leagues": [
+			"Примейра-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 709,
+		"name": "Майкел Катарино",
+		"short_name": "Катарино",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Corinthians"
+		],
+		"leagues": [
+			"Бразильская Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 710,
+		"name": "Алехандро Бальде",
+		"short_name": "Бальде",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Барселона"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 711,
+		"name": "Ламин Ямаль",
+		"short_name": "Ямаль",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Барселона"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 89,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 712,
+		"name": "Доминик Соланке",
+		"short_name": "Соланке",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Тоттенхэм"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 713,
+		"name": "Абдюлькерим Бардакджи",
+		"short_name": "Бардакджи",
+		"role": "player",
+		"nationality": [
+			"Турция"
+		],
+		"clubs": [
+			"Галатасарай"
+		],
+		"leagues": [
+			"Турецкая Суперлига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 714,
+		"name": "Николас Джексон",
+		"short_name": "Джексон",
+		"role": "player",
+		"nationality": [
+			"Сенегал"
+		],
+		"clubs": [
+			"Бавария"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 715,
+		"name": "Борха Иглесиас",
+		"short_name": "Иглесиас",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Сельта"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 716,
+		"name": "Альваро Мората",
+		"short_name": "Мората",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Como"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 717,
+		"name": "Эрон Уан-Биссака",
+		"short_name": "Уан-Биссака",
+		"role": "player",
+		"nationality": [
+			"ДР Конго"
+		],
+		"clubs": [
+			"West Ham United"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 718,
+		"name": "Юго Экитике",
+		"short_name": "Экитике",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Ливерпуль"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 719,
+		"name": "Эдмонд Тапсоба",
+		"short_name": "Тапсоба",
+		"role": "player",
+		"nationality": [
+			"Буркина-Фасо"
+		],
+		"clubs": [
+			"Байер Леверкузен"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 720,
+		"name": "Керем Актюркоглу",
+		"short_name": "Актюркоглу",
+		"role": "player",
+		"nationality": [
+			"Турция"
+		],
+		"clubs": [
+			"Фенербахче"
+		],
+		"leagues": [
+			"Турецкая Суперлига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 721,
+		"name": "Йерди Схаутен",
+		"short_name": "Схаутен",
+		"role": "player",
+		"nationality": [
+			"Нидерланды"
+		],
+		"clubs": [
+			"PSV"
+		],
+		"leagues": [
+			"Eredivisie"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 722,
+		"name": "Юссеф Эн-Несери",
+		"short_name": "Эн-Несери",
+		"role": "player",
+		"nationality": [
+			"Марокко"
+		],
+		"clubs": [
+			"Фенербахче"
+		],
+		"leagues": [
+			"Турецкая Суперлига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 723,
+		"name": "Мойзе Кин",
+		"short_name": "Кин",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Фиорентина"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 724,
+		"name": "Магнес Аклиуш",
+		"short_name": "Аклиуш",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Монако"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 725,
+		"name": "Тим Кляйндинст",
+		"short_name": "Кляйндинст",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Боруссия Менхенгладбах"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 726,
+		"name": "Пау Торрес",
+		"short_name": "Торрес",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Астон Вилла"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 727,
+		"name": "Мануэль Аканджи",
+		"short_name": "Аканджи",
+		"role": "player",
+		"nationality": [
+			"Швейцария"
+		],
+		"clubs": [
+			"Интер"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 728,
+		"name": "Гонсалу Инасиу",
+		"short_name": "Инасиу",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"Спортинг"
+		],
+		"leagues": [
+			"Примейра-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 729,
+		"name": "Пьеро Инкапье",
+		"short_name": "Инкапье",
+		"role": "player",
+		"nationality": [
+			"Эквадор"
+		],
+		"clubs": [
+			"Арсенал"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 730,
+		"name": "Виктор Бонифасе",
+		"short_name": "Бонифасе",
+		"role": "player",
+		"nationality": [
+			"Нигерия"
+		],
+		"clubs": [
+			"Вердер"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 731,
+		"name": "Рики Пуч",
+		"short_name": "Пуч",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"LA Galaxy"
+		],
+		"leagues": [
+			"Major League Soccer"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 732,
+		"name": "Альваро Гарсия",
+		"short_name": "Гарсия",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Rayo Vallecano"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 733,
+		"name": "Эванилсон (футболист, 1999)",
+		"short_name": "1999)",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Борнмут"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 734,
+		"name": "Н’Дика, Обит Эван",
+		"short_name": "Эван",
+		"role": "player",
+		"nationality": [
+			"Кот-д'Ивуар"
+		],
+		"clubs": [
+			"Рома"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 735,
+		"name": "Матео Ретеги",
+		"short_name": "Ретеги",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Al Qadsiah FC"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 736,
+		"name": "Крис Вуд",
+		"short_name": "Вуд",
+		"role": "player",
+		"nationality": [
+			"Новая Зеландия"
+		],
+		"clubs": [
+			"Ноттингем Форест"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 737,
+		"name": "Даниэль Вивиан Морено",
+		"short_name": "Морено",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Атлетик Бильбао"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 738,
+		"name": "Леви Колвилл",
+		"short_name": "Колвилл",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Челси"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 739,
+		"name": "Ван де Вен, Микки",
+		"short_name": "Микки",
+		"role": "player",
+		"nationality": [
+			"Нидерланды"
+		],
+		"clubs": [
+			"Тоттенхэм"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 740,
+		"name": "Маттиас Гинтер",
+		"short_name": "Гинтер",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Фрайбург"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 741,
+		"name": "Ван Хекке, Жан-Поль",
+		"short_name": "Жан-Поль",
+		"role": "player",
+		"nationality": [
+			"Нидерланды"
+		],
+		"clubs": [
+			"Брайтон"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 742,
+		"name": "Симон Банза",
+		"short_name": "Банза",
+		"role": "player",
+		"nationality": [
+			"ДР Конго"
+		],
+		"clubs": [
+			"Брага"
+		],
+		"leagues": [
+			"Примейра-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 743,
+		"name": "Дуван Сапата",
+		"short_name": "Сапата",
+		"role": "player",
+		"nationality": [
+			"Колумбия"
+		],
+		"clubs": [
+			"Торино"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 744,
+		"name": "Жереми Доку",
+		"short_name": "Доку",
+		"role": "player",
+		"nationality": [
+			"Бельгия"
+		],
+		"clubs": [
+			"Манчестер Сити"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 745,
+		"name": "Вильям Салиба",
+		"short_name": "Салиба",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Арсенал"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 87,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 746,
+		"name": "Вальдемар Антон",
+		"short_name": "Антон",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Боруссия Дортмунд"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 747,
+		"name": "Алессандро Буонджорно",
+		"short_name": "Буонджорно",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Наполи"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 748,
+		"name": "Найеф Агерд",
+		"short_name": "Агерд",
+		"role": "player",
+		"nationality": [
+			"Марокко"
+		],
+		"clubs": [
+			"Марсель"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 749,
+		"name": "Дайо Упамекано",
+		"short_name": "Упамекано",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Бавария"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 750,
+		"name": "Глейсон Бремер",
+		"short_name": "Бремер",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Ювентус"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 751,
+		"name": "Брахим Диас",
+		"short_name": "Диас",
+		"role": "player",
+		"nationality": [
+			"Марокко"
+		],
+		"clubs": [
+			"Реал Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 752,
+		"name": "Самуэль Чуквуезе",
+		"short_name": "Чуквуезе",
+		"role": "player",
+		"nationality": [
+			"Нигерия"
+		],
+		"clubs": [
+			"Фулхэм"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 753,
+		"name": "Кастелло Лукеба",
+		"short_name": "Лукеба",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"РБ Лейпциг"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 754,
+		"name": "Леонардо Балерди",
+		"short_name": "Балерди",
+		"role": "player",
+		"nationality": [
+			"Аргентина"
+		],
+		"clubs": [
+			"Марсель"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 755,
+		"name": "Мохамед Симакан",
+		"short_name": "Симакан",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Аль-Наср"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 756,
+		"name": "Савиньо",
+		"short_name": "Савиньо",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Манчестер Сити"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 757,
+		"name": "Ереми Пино",
+		"short_name": "Пино",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Кристал Пэлас"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 758,
+		"name": "Флорентину",
+		"short_name": "Флорентину",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"Burnley"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 759,
+		"name": "Райан Шерки",
+		"short_name": "Шерки",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Манчестер Сити"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 760,
+		"name": "Бен Уайт",
+		"short_name": "Уайт",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Арсенал"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 761,
+		"name": "Гарри Магуайр",
+		"short_name": "Магуайр",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Манчестер Юнайтед"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 762,
+		"name": "Хосе Игнасио Фернандес Иглесиас",
+		"short_name": "Иглесиас",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Al Qadsiah FC"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 763,
+		"name": "Марвин Рангел",
+		"short_name": "Рангел",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Фламенго"
+		],
+		"leagues": [
+			"Бразильская Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 764,
+		"name": "Габриэл Дос Сантос Магальяйнс",
+		"short_name": "Магальяйнс",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Арсенал"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 88,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 765,
+		"name": "Франческо Ачерби",
+		"short_name": "Ачерби",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Интер"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 766,
+		"name": "Кристиан Ромеро",
+		"short_name": "Ромеро",
+		"role": "player",
+		"nationality": [
+			"Аргентина"
+		],
+		"clubs": [
+			"Тоттенхэм"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 767,
+		"name": "Анте Будимир",
+		"short_name": "Будимир",
+		"role": "player",
+		"nationality": [
+			"Хорватия"
+		],
+		"clubs": [
+			"Осасуна"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 768,
+		"name": "Пау Кубарси Паредес",
+		"short_name": "Паредес",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Барселона"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 769,
+		"name": "Марк Гэи",
+		"short_name": "Гэи",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Кристал Пэлас"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 770,
+		"name": "Артур Теат",
+		"short_name": "Теат",
+		"role": "player",
+		"nationality": [
+			"Бельгия"
+		],
+		"clubs": [
+			"Айнтрахт Франкфурт"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 771,
+		"name": "Вильям Пачо",
+		"short_name": "Пачо",
+		"role": "player",
+		"nationality": [
+			"Эквадор"
+		],
+		"clubs": [
+			"ПСЖ"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 86,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 772,
+		"name": "Фикайо Томори",
+		"short_name": "Томори",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Милан"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 773,
+		"name": "Лауреано Сантейро",
+		"short_name": "Сантейро",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Fluminense"
+		],
+		"leagues": [
+			"Бразильская Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 774,
+		"name": "Амир Ррахмани",
+		"short_name": "Ррахмани",
+		"role": "player",
+		"nationality": [
+			"Косово"
+		],
+		"clubs": [
+			"Наполи"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 775,
+		"name": "Ибраима Конате",
+		"short_name": "Конате",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Ливерпуль"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 86,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 776,
+		"name": "Джанлука Манчини",
+		"short_name": "Манчини",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Рома"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 777,
+		"name": "Джеймс Тарковски",
+		"short_name": "Тарковски",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Эвертон"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 778,
+		"name": "Никола Миленкович",
+		"short_name": "Миленкович",
+		"role": "player",
+		"nationality": [
+			"Сербия"
+		],
+		"clubs": [
+			"Ноттингем Форест"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 779,
+		"name": "Диего Льоренте",
+		"short_name": "Льоренте",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Реал Бетис"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 780,
+		"name": "Робин Кох",
+		"short_name": "Кох",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Айнтрахт Франкфурт"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 781,
+		"name": "Федерико Гатти",
+		"short_name": "Гатти",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Ювентус"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 782,
+		"name": "Джонатан Та",
+		"short_name": "Та",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Бавария"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 87,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 783,
+		"name": "Тони Абранхес",
+		"short_name": "Абранхес",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Интернасьонал"
+		],
+		"leagues": [
+			"Бразильская Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 784,
+		"name": "Ким Мин-джэ",
+		"short_name": "Мин-джэ",
+		"role": "player",
+		"nationality": [
+			"Южная Корея"
+		],
+		"clubs": [
+			"Бавария"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 785,
+		"name": "Алессио Романьоли",
+		"short_name": "Романьоли",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Лацио"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 786,
+		"name": "Одилон Коссуну",
+		"short_name": "Коссуну",
+		"role": "player",
+		"nationality": [
+			"Кот-д'Ивуар"
+		],
+		"clubs": [
+			"Аталанта"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 787,
+		"name": "Рожер Ибаньес",
+		"short_name": "Ибаньес",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Аль-Ахли"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 788,
+		"name": "Свен Ботман",
+		"short_name": "Ботман",
+		"role": "player",
+		"nationality": [
+			"Нидерланды"
+		],
+		"clubs": [
+			"Ньюкасл"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 789,
+		"name": "Андреас Кристенсен",
+		"short_name": "Кристенсен",
+		"role": "player",
+		"nationality": [
+			"Дания"
+		],
+		"clubs": [
+			"Барселона"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 790,
+		"name": "Антонио Райлло",
+		"short_name": "Райлло",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Мальорка"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 791,
+		"name": "Александро (футболист, 1999)",
+		"short_name": "1999)",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Лилль"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 792,
+		"name": "Вилли Орбан",
+		"short_name": "Орбан",
+		"role": "player",
+		"nationality": [
+			"Венгрия"
+		],
+		"clubs": [
+			"РБ Лейпциг"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 793,
+		"name": "Крис Смоллинг",
+		"short_name": "Смоллинг",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Al Fayha"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 794,
+		"name": "Ле Норман, Робен",
+		"short_name": "Робен",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Атлетико Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 795,
+		"name": "Усман Дьоманде",
+		"short_name": "Дьоманде",
+		"role": "player",
+		"nationality": [
+			"Кот-д'Ивуар"
+		],
+		"clubs": [
+			"Спортинг"
+		],
+		"leagues": [
+			"Примейра-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 796,
+		"name": "Джордан Пикфорд",
+		"short_name": "Пикфорд",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Эвертон"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 797,
+		"name": "Давид Райя",
+		"short_name": "Райя",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Арсенал"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 87,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 798,
+		"name": "Миле Свилар",
+		"short_name": "Свилар",
+		"role": "player",
+		"nationality": [
+			"Сербия"
+		],
+		"clubs": [
+			"Рома"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 799,
+		"name": "Александер Нюбель",
+		"short_name": "Нюбель",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Штутгарт"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 800,
+		"name": "Ди Грегорио, Микеле",
+		"short_name": "Микеле",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Ювентус"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 801,
+		"name": "Херонимо Рульи",
+		"short_name": "Рульи",
+		"role": "player",
+		"nationality": [
+			"Аргентина"
+		],
+		"clubs": [
+			"Марсель"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 802,
+		"name": "Угурджан Чакыр",
+		"short_name": "Чакыр",
+		"role": "player",
+		"nationality": [
+			"Турция"
+		],
+		"clubs": [
+			"Галатасарай"
+		],
+		"leagues": [
+			"Турецкая Суперлига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 803,
+		"name": "Иван Проведель",
+		"short_name": "Проведель",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Лацио"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 804,
+		"name": "Доминик Ливакович",
+		"short_name": "Ливакович",
+		"role": "player",
+		"nationality": [
+			"Хорватия"
+		],
+		"clubs": [
+			"Жирона"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 805,
+		"name": "Гульельмо Викарио",
+		"short_name": "Викарио",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Тоттенхэм"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 806,
+		"name": "Алекс Ремиро",
+		"short_name": "Ремиро",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Реал Сосьедад"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 807,
+		"name": "Унаи Симон",
+		"short_name": "Симон",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Атлетик Бильбао"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 85,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 808,
+		"name": "Дин Хендерсон",
+		"short_name": "Хендерсон",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Кристал Пэлас"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 809,
+		"name": "Брис Самба",
+		"short_name": "Самба",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"Ренн"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 810,
+		"name": "Матц Селс",
+		"short_name": "Селс",
+		"role": "player",
+		"nationality": [
+			"Бельгия"
+		],
+		"clubs": [
+			"Ноттингем Форест"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 811,
+		"name": "Давид Сория",
+		"short_name": "Сория",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Хетафе"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 812,
+		"name": "Лукас Мантела",
+		"short_name": "Мантела",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Палмейрас"
+		],
+		"leagues": [
+			"Бразильская Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 813,
+		"name": "Лукас Перри",
+		"short_name": "Перри",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Лидс Юнайтед"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 814,
+		"name": "Ник Поуп",
+		"short_name": "Поуп",
+		"role": "player",
+		"nationality": [
+			"Англия"
+		],
+		"clubs": [
+			"Ньюкасл"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 815,
+		"name": "Алекс Мерет",
+		"short_name": "Мерет",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Наполи"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 82,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 816,
+		"name": "Джордже Петрович",
+		"short_name": "Петрович",
+		"role": "player",
+		"nationality": [
+			"Сербия"
+		],
+		"clubs": [
+			"Борнмут"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 817,
+		"name": "Хоан Гарсия",
+		"short_name": "Гарсия",
+		"role": "player",
+		"nationality": [
+			"Испания"
+		],
+		"clubs": [
+			"Барселона"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 818,
+		"name": "Диогу Кошта",
+		"short_name": "Кошта",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"Порту"
+		],
+		"leagues": [
+			"Примейра-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 819,
+		"name": "Эниту Пирес",
+		"short_name": "Пирес",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Фламенго"
+		],
+		"leagues": [
+			"Бразильская Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 820,
+		"name": "Оливер Бауманн",
+		"short_name": "Бауманн",
+		"role": "player",
+		"nationality": [
+			"Германия"
+		],
+		"clubs": [
+			"Хоффенхайм"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 821,
+		"name": "Руй Силва",
+		"short_name": "Силва",
+		"role": "player",
+		"nationality": [
+			"Португалия"
+		],
+		"clubs": [
+			"Спортинг"
+		],
+		"leagues": [
+			"Примейра-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 822,
+		"name": "Анатолий Трубин",
+		"short_name": "Трубин",
+		"role": "player",
+		"nationality": [
+			"Украина"
+		],
+		"clubs": [
+			"Бенфика"
+		],
+		"leagues": [
+			"Примейра-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 823,
+		"name": "Люка Шевалье",
+		"short_name": "Шевалье",
+		"role": "player",
+		"nationality": [
+			"Франция"
+		],
+		"clubs": [
+			"ПСЖ"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 83,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 824,
+		"name": "Лукаш Градецкий",
+		"short_name": "Градецкий",
+		"role": "player",
+		"nationality": [
+			"Финляндия"
+		],
+		"clubs": [
+			"Монако"
+		],
+		"leagues": [
+			"Лига 1"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 825,
+		"name": "Андрей Алексеевич Лунин",
+		"short_name": "Лунин",
+		"role": "player",
+		"nationality": [
+			"Украина"
+		],
+		"clubs": [
+			"Реал Мадрид"
+		],
+		"leagues": [
+			"Ла Лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 826,
+		"name": "Марко Карнесекки",
+		"short_name": "Карнесекки",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Аталанта"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 827,
+		"name": "Фредерик Рённов",
+		"short_name": "Рённов",
+		"role": "player",
+		"nationality": [
+			"Дания"
+		],
+		"clubs": [
+			"Унион Берлин"
+		],
+		"leagues": [
+			"Бундеслига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 828,
+		"name": "Георги Мамардашвили",
+		"short_name": "Мамардашвили",
+		"role": "player",
+		"nationality": [
+			"Грузия"
+		],
+		"clubs": [
+			"Ливерпуль"
+		],
+		"leagues": [
+			"АПЛ"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 84,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 829,
+		"name": "Владимиро Фальконе",
+		"short_name": "Фальконе",
+		"role": "player",
+		"nationality": [
+			"Италия"
+		],
+		"clubs": [
+			"Лечче"
+		],
+		"leagues": [
+			"Серия А"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 81,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 830,
+		"name": "Предраг Райкович",
+		"short_name": "Райкович",
+		"role": "player",
+		"nationality": [
+			"Сербия"
+		],
+		"clubs": [
+			"Аль-Иттихад"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
+	},
+	{
+		"id": 831,
+		"name": "Бенто Крепски Нето",
+		"short_name": "Нето",
+		"role": "player",
+		"nationality": [
+			"Бразилия"
+		],
+		"clubs": [
+			"Аль-Наср"
+		],
+		"leagues": [
+			"Саудовская Про-лига"
+		],
+		"coaches": [],
+		"trophies": [],
+		"max_overall": 80,
+		"retired": false,
+		"ballon_dor": null,
+		"is_legend": null,
+		"nationality_valid": true
 	}
 ]

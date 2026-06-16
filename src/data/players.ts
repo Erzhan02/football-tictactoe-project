@@ -2480,7 +2480,7 @@ export const PLAYERS: Player[] = [
       "bundesliga",
       "ligaportugal",
       "superligashveytsarii",
-      "saudovskayapro-liga",
+      "saudi-league",
       "luis-enrique",
       "thomasschaaf",
       "manuelpellegrini",
@@ -2727,8 +2727,10 @@ export const PLAYERS: Player[] = [
       "bavaria",
       "fcbayernmnchen",
       "vancouverwhitecaps",
+      "vancouverwhitecapsfc",
       "bundesliga",
       "mls",
+      "majorleaguesoccer",
       "pep",
       "ancelotti",
       "heynckes",
@@ -2766,7 +2768,6 @@ export const PLAYERS: Player[] = [
       "bavaria",
       "manchester-united",
       "beshiktash",
-      "fcbayernmnchen",
       "chicagofire",
       "premier-league",
       "bundesliga",
@@ -2804,7 +2805,6 @@ export const PLAYERS: Player[] = [
       "verderbremen",
       "dortmund",
       "bavaria",
-      "fcbayernmnchen",
       "roma",
       "bundesliga",
       "serie-a",
@@ -3889,7 +3889,7 @@ export const PLAYERS: Player[] = [
       "juventus",
       "real-madrid",
       "inter",
-      "al-ahli",
+      "al-akhli",
       "laliga",
       "serie-a",
       "capello",
@@ -4874,6 +4874,7 @@ export const PLAYERS: Player[] = [
       "liverpool",
       "roma",
       "bavaria",
+      "dortmund",
       "premier-league",
       "bundesliga",
       "serie-a",
@@ -4989,7 +4990,6 @@ export const PLAYERS: Player[] = [
       "westbromwichalbionloan",
       "werderbremen",
       "tsghoffenheimloan",
-      "fcbayernmnchen",
       "premier-league",
       "bundesliga",
       "flick",
@@ -5027,7 +5027,6 @@ export const PLAYERS: Player[] = [
       "rbleyptsig",
       "svaspern",
       "austriawien",
-      "fcbayernmnchen",
       "tsghoffenheim",
       "bundesliga",
       "laliga",
@@ -5725,12 +5724,12 @@ export const PLAYERS: Player[] = [
       "manchester-united",
       "real-madrid",
       "juventus",
-      "alnassr",
+      "al-nassr",
       "premier-league",
       "laliga",
       "serie-a",
       "ligaportugal",
-      "saudovskayapro-liga",
+      "saudi-league",
       "ferguson",
       "mourinho",
       "ancelotti",
@@ -5758,6 +5757,7 @@ export const PLAYERS: Player[] = [
       "laliga",
       "ligue1",
       "mls",
+      "majorleaguesoccer",
       "frankraykard",
       "pep",
       "titovilanova",
@@ -5771,7 +5771,7 @@ export const PLAYERS: Player[] = [
       "ucl",
       "worldcup-winner",
       "worldcup",
-      "kopaamerika",
+      "copa-america",
       "ballondor",
       "argentina"
     ]
@@ -5788,7 +5788,7 @@ export const PLAYERS: Player[] = [
     "position": "Player",
     "tags": [
       "fcschalke04",
-      "fcbayernmnchen",
+      "bavaria",
       "bundesliga",
       "feliksmagat",
       "ralfrangnik",
@@ -5841,7 +5841,7 @@ export const PLAYERS: Player[] = [
       "tatamartino",
       "ucl",
       "apl",
-      "kopaamerika",
+      "copa-america",
       "uruguay"
     ]
   },
@@ -5897,7 +5897,7 @@ export const PLAYERS: Player[] = [
       "brazilskayaseriyaa",
       "laliga",
       "ligue1",
-      "saudovskayapro-liga",
+      "saudi-league",
       "superligagretsii",
       "luis-enrique",
       "ernestovalverde",
@@ -5916,7 +5916,7 @@ export const PLAYERS: Player[] = [
       "julenlopetegui",
       "manuelpellegrini",
       "ucl",
-      "kopaamerika",
+      "copa-america",
       "kubokispanii",
       "superkubokispanii",
       "klubnyychempionatmira",
@@ -5968,10 +5968,10 @@ export const PLAYERS: Player[] = [
     "tags": [
       "lyon",
       "real-madrid",
-      "alittihad",
+      "al-ittihad",
       "ligue1",
       "laliga",
-      "saudovskayapro-liga",
+      "saudi-league",
       "ancelotti",
       "mourinho",
       "zidane",
@@ -5999,9 +5999,11 @@ export const PLAYERS: Player[] = [
       "dinamozagreb",
       "tottenham",
       "real-madrid",
+      "ac-milan",
       "khorvatskayaliga",
       "premier-league",
       "laliga",
+      "serie-a",
       "mourinho",
       "ancelotti",
       "zidane",
@@ -6030,6 +6032,7 @@ export const PLAYERS: Player[] = [
       "belgiyskayaliga",
       "premier-league",
       "bundesliga",
+      "serie-a",
       "pep",
       "diterkhekking",
       "manuelpellegrini",
@@ -6417,7 +6420,7 @@ export const PLAYERS: Player[] = [
       "millwall",
       "norwichcity",
       "leicestercity",
-      "fcbayernmnchen",
+      "bavaria",
       "premier-league",
       "bundesliga",
       "maurisiopochettino",
@@ -6480,13 +6483,13 @@ export const PLAYERS: Player[] = [
       "redbullsalzburg",
       "southampton",
       "liverpool",
-      "fcbayernmnchen",
-      "alnassr",
+      "bavaria",
+      "al-nassr",
       "ligue1",
       "avstriyskayabundesliga",
       "premier-league",
       "bundesliga",
-      "saudovskayapro-liga",
+      "saudi-league",
       "rodzhershmidt",
       "brendanrodzhers",
       "maurisiopochettino",
@@ -6498,7 +6501,7 @@ export const PLAYERS: Player[] = [
       "apl",
       "superkubokuefa",
       "klubnyychempionatmira",
-      "kubokafriki",
+      "afcon",
       "senegal"
     ]
   },
@@ -6581,12 +6584,12 @@ export const PLAYERS: Player[] = [
       "smcaen",
       "leicestercity",
       "chelsea",
-      "alittihad",
+      "al-ittihad",
       "fenerbahe",
       "liga2",
       "ligue1",
       "premier-league",
-      "saudovskayapro-liga",
+      "saudi-league",
       "claudemakll",
       "claudioranieri",
       "antonioconte",
@@ -6802,6 +6805,7 @@ export const PLAYERS: Player[] = [
       "superkubokispanii",
       "kubokispanii",
       "kubokkonfederatsiy",
+      "copa-america",
       "chile"
     ]
   },
@@ -6820,6 +6824,7 @@ export const PLAYERS: Player[] = [
       "inter-miami",
       "laliga",
       "mls",
+      "majorleaguesoccer",
       "pepguardiola",
       "titovilanova",
       "gerardomartino",
@@ -6922,6 +6927,7 @@ export const PLAYERS: Player[] = [
       "bundesliga",
       "premier-league",
       "mls",
+      "majorleaguesoccer",
       "rogerschmidt",
       "andrvillas-boas",
       "mauriciopochettino",
@@ -6984,12 +6990,12 @@ export const PLAYERS: Player[] = [
       "krcgenk",
       "napoli",
       "chelsea",
-      "alhilal",
+      "al-hilal",
       "ligue1",
       "belgiyskayapro-liga",
       "serie-a",
       "premier-league",
-      "saudovskayapro-liga",
+      "saudi-league",
       "claudioranieri",
       "rafaelbentez",
       "mauriziosarri",
@@ -7003,6 +7009,8 @@ export const PLAYERS: Player[] = [
       "kubokitalii",
       "superkubokitalii",
       "apl",
+      "saudovskayapro-liga",
+      "afcon",
       "senegal"
     ]
   },
@@ -7081,7 +7089,7 @@ export const PLAYERS: Player[] = [
     "position": "Player",
     "tags": [
       "rbleipzig",
-      "fcbayernmnchen",
+      "bavaria",
       "bundesliga",
       "ralfrangnick",
       "pepguardiola",
@@ -7184,7 +7192,7 @@ export const PLAYERS: Player[] = [
       "seriyaabrazilii",
       "premier-league",
       "superligakitaya",
-      "saudovskayapro-liga",
+      "saudi-league",
       "zricardo",
       "reinaldorueda",
       "julenlopetegui",
@@ -7609,7 +7617,7 @@ export const PLAYERS: Player[] = [
       "bundesliga",
       "premier-league",
       "laliga",
-      "saudovskayapro-liga",
+      "saudi-league",
       "carloancelotti",
       "waltermazzarri",
       "christophegaltier",
@@ -8005,13 +8013,13 @@ export const PLAYERS: Player[] = [
       "manchester-city",
       "bavaria",
       "barcelona",
-      "alhilal",
+      "al-hilal",
       "ligaportugal",
       "laliga",
       "seriyaa",
       "premier-league",
       "bundesliga",
-      "saudovskayapro-liga",
+      "saudi-league",
       "nunoespritosanto",
       "marcelino",
       "antonioconte",
@@ -8116,6 +8124,7 @@ export const PLAYERS: Player[] = [
       "ligue1",
       "serie-a",
       "superligaturtsii",
+      "superlig",
       "emmanuelamuneke",
       "felicemazz",
       "christophegaltier",
@@ -8297,6 +8306,7 @@ export const PLAYERS: Player[] = [
       "kubokitalii",
       "klubnyychempionatmira",
       "kubokbrazilii",
+      "copa-america",
       "chile"
     ]
   },
@@ -8323,6 +8333,7 @@ export const PLAYERS: Player[] = [
       "premier-league",
       "ligue1",
       "seriyaa",
+      "ligaprofesionaldeftbol",
       "miguelngelrusso",
       "manuelpellegrini",
       "josmourinho",
@@ -8339,6 +8350,7 @@ export const PLAYERS: Player[] = [
       "ucl",
       "klubnyychempionatmira",
       "kubokportugalii",
+      "copa-america",
       "argentina"
     ]
   },
@@ -8542,6 +8554,7 @@ export const PLAYERS: Player[] = [
       "seriyaa",
       "ligue1",
       "superligaturtsii",
+      "superlig",
       "sinisamihajlovic",
       "waltermazzarri",
       "robertomancini",
@@ -8573,10 +8586,11 @@ export const PLAYERS: Player[] = [
       "liverpool",
       "alahlijeddah",
       "al-sadd",
+      "al-akhli",
       "seriyabbrazilii",
       "bundesliga",
       "premier-league",
-      "saudovskayapro-liga",
+      "saudi-league",
       "katarskayazvyozdnayaliga",
       "arminveh",
       "markusgisdol",
@@ -8686,7 +8700,7 @@ export const PLAYERS: Player[] = [
       "laliga",
       "ligue1",
       "premier-league",
-      "saudovskayapro-liga",
+      "saudi-league",
       "zinedinezidane",
       "josmourinho",
       "leonardojardim",
@@ -8716,7 +8730,7 @@ export const PLAYERS: Player[] = [
     "tags": [
       "vflbochum",
       "schalke04",
-      "fcbayernmnchen",
+      "bavaria",
       "bundesliga",
       "peterneururer",
       "huubstevens",
@@ -8750,10 +8764,11 @@ export const PLAYERS: Player[] = [
       "athleticclub",
       "manchester-city",
       "al-nassr",
+      "atletikbilbao",
       "frantsuzskieregionalnyeligi",
       "laliga",
       "premier-league",
-      "saudovskayapro-liga",
+      "saudi-league",
       "ernestovalverde",
       "joaquncaparrs",
       "pepguardiola",
@@ -8784,6 +8799,7 @@ export const PLAYERS: Player[] = [
       "ac-milan",
       "ligue1",
       "seriyaa",
+      "serie-a",
       "laurentblanc",
       "unaiemery",
       "christophegaltier",
@@ -8959,7 +8975,7 @@ export const PLAYERS: Player[] = [
       "juliannagelsmann",
       "kubokitalii",
       "superkubokitalii",
-      "kopaamerika",
+      "copa-america",
       "kubokispanii",
       "kubokgermanii",
       "ucl",
@@ -9090,7 +9106,7 @@ export const PLAYERS: Player[] = [
       "apl",
       "kubokanglii",
       "kubokligianglii",
-      "kubokafriki",
+      "afcon",
       "ivory-coast"
     ]
   },
@@ -9438,6 +9454,7 @@ export const PLAYERS: Player[] = [
       "superligashveytsarii",
       "bundesliga",
       "seriyaa",
+      "serie-a",
       "heikovogel",
       "paulosousa",
       "lucienfavre",
@@ -9667,7 +9684,7 @@ export const PLAYERS: Player[] = [
       "brentford",
       "premier-league",
       "chempionship",
-      "saudovskayapro-liga",
+      "saudi-league",
       "eredivisie",
       "stevebruce",
       "royhodgson",
@@ -9774,6 +9791,7 @@ export const PLAYERS: Player[] = [
       "eintrachtfrankfurt",
       "psg",
       "parisfc",
+      "parizhfk",
       "bundesliga",
       "ligue1",
       "marcokurz",
@@ -9806,6 +9824,7 @@ export const PLAYERS: Player[] = [
       "getafe",
       "valencia",
       "villarreal",
+      "villarrealcf",
       "laliga",
       "chempionshipanglii",
       "manuelpellegrini",
@@ -9974,6 +9993,7 @@ export const PLAYERS: Player[] = [
       "kubokanglii",
       "kubokligianglii",
       "superkubokanglii",
+      "copa-america",
       "argentina"
     ]
   },
@@ -9992,6 +10012,7 @@ export const PLAYERS: Player[] = [
       "bayerleverkusen",
       "arsenal",
       "fulham",
+      "fulkhem",
       "bundesliga",
       "premier-league",
       "brunolabbadia",
@@ -10023,9 +10044,10 @@ export const PLAYERS: Player[] = [
       "werderbremen",
       "wolfsburg",
       "al-qadsiah",
+      "alqadsiahfc",
       "zhyupileproliga",
       "bundesliga",
-      "saudovskayapro-liga",
+      "saudi-league",
       "mariobeen",
       "frankvercauteren",
       "markusgisdol",
@@ -10053,7 +10075,7 @@ export const PLAYERS: Player[] = [
       "neomsc",
       "ligue1",
       "premier-league",
-      "saudovskayapro-liga",
+      "saudi-league",
       "claudepuel",
       "rmigarde",
       "hubertfournier",
@@ -10120,10 +10142,10 @@ export const PLAYERS: Player[] = [
       "lehavre",
       "leicestercity",
       "manchester-city",
-      "al-ahli",
+      "al-akhli",
       "liga2frantsii",
       "premier-league",
-      "saudovskayapro-liga",
+      "saudi-league",
       "thierrygoudet",
       "claudioranieri",
       "nigelpearson",
@@ -10134,7 +10156,7 @@ export const PLAYERS: Player[] = [
       "kubokanglii",
       "superkubokanglii",
       "ucl",
-      "kubokafriki",
+      "afcon",
       "alzhir"
     ]
   },
@@ -10186,6 +10208,7 @@ export const PLAYERS: Player[] = [
       "villarrealb",
       "espanyol",
       "villarreal",
+      "villarrealcf",
       "terseradivizionispanii",
       "segunda",
       "laliga",
@@ -10251,11 +10274,11 @@ export const PLAYERS: Player[] = [
       "psg",
       "juventus",
       "bavaria",
-      "alnassr",
+      "al-nassr",
       "ligue1",
       "seriyaa",
       "bundesliga",
-      "saudovskayapro-liga",
+      "saudi-league",
       "laurentblanc",
       "carloancelotti",
       "massimilianoallegri",
@@ -10289,7 +10312,7 @@ export const PLAYERS: Player[] = [
       "al-nassr",
       "khorvatskayaliga",
       "seriyaa",
-      "saudovskayapro-liga",
+      "saudi-league",
       "krunoslavjuri",
       "zoranmami",
       "andreastramaccioni",
@@ -10356,11 +10379,11 @@ export const PLAYERS: Player[] = [
       "vojvodina",
       "genk",
       "lazio",
-      "alhilal",
+      "al-hilal",
       "superligaserbii",
       "zhyupileproliga",
       "seriyaa",
-      "saudovskayapro-liga",
+      "saudi-league",
       "zoranmari",
       "heinvanhaezebrouck",
       "pedroemanuel",
@@ -10372,6 +10395,7 @@ export const PLAYERS: Player[] = [
       "kubokserbii",
       "kubokitalii",
       "superkubokitalii",
+      "saudovskayapro-liga",
       "serbiya"
     ]
   },
@@ -10390,6 +10414,7 @@ export const PLAYERS: Player[] = [
       "como",
       "inter",
       "seriyaa",
+      "serie-a",
       "massimorastelli",
       "rolandomaran",
       "waltermazzarri",
@@ -10444,6 +10469,7 @@ export const PLAYERS: Player[] = [
       "inter",
       "psg",
       "fenerbahe",
+      "fenerbahce",
       "slovatskayaliga",
       "seriyaa",
       "ligue1",
@@ -10513,10 +10539,10 @@ export const PLAYERS: Player[] = [
       "reims",
       "rennes",
       "chelsea",
-      "al-ahli",
+      "al-akhli",
       "ligue1",
       "premier-league",
-      "saudovskayapro-liga",
+      "saudi-league",
       "oliviergugan",
       "davidguion",
       "julienstphan",
@@ -10860,7 +10886,7 @@ export const PLAYERS: Player[] = [
       "uel",
       "superkubokuefa",
       "klubnyychempionatmira",
-      "kopaamerika",
+      "copa-america",
       "olimpiyskieigry",
       "brazil"
     ]
@@ -11065,6 +11091,7 @@ export const PLAYERS: Player[] = [
       "superkubokanglii",
       "superkubokispanii",
       "kubokligianglii",
+      "copa-america",
       "chile"
     ]
   },
@@ -11256,6 +11283,7 @@ export const PLAYERS: Player[] = [
       "premier-league",
       "seriyaa",
       "superligaturtsii",
+      "serie-a",
       "ademuri",
       "markhughes",
       "robertomancini",
@@ -11294,7 +11322,7 @@ export const PLAYERS: Player[] = [
       "premier-league",
       "ligue1",
       "seriyaa",
-      "saudovskayapro-liga",
+      "saudi-league",
       "ronaldkoeman",
       "fredrutten",
       "alanpardew",
@@ -11405,6 +11433,7 @@ export const PLAYERS: Player[] = [
       "hullcity",
       "rbsalzburg",
       "rbleipzig",
+      "rbleyptsig",
       "nemzetibaynoksagi",
       "premier-league",
       "bundesliga",
@@ -11616,6 +11645,7 @@ export const PLAYERS: Player[] = [
       "fcbayernmnchen",
       "psv",
       "eintrachtfrankfurt",
+      "ayntrakhtfrankfurt",
       "bundesliga",
       "eredivisie",
       "jrgenklopp",
@@ -11681,6 +11711,7 @@ export const PLAYERS: Player[] = [
       "celtadevigo",
       "sevilla",
       "liverpool",
+      "selta",
       "laliga",
       "premier-league",
       "unaiemery",
@@ -11752,6 +11783,7 @@ export const PLAYERS: Player[] = [
       "bundesliga",
       "premier-league",
       "seriyaa",
+      "serie-a",
       "mircealucescu",
       "jrgenklopp",
       "louisvangaal",
@@ -11846,6 +11878,7 @@ export const PLAYERS: Player[] = [
       "inter",
       "eredivisie",
       "seriyaa",
+      "serie-a",
       "ronaldkoeman",
       "giovannivanbronckhorst",
       "eusebiodifrancesco",
@@ -12033,7 +12066,7 @@ export const PLAYERS: Player[] = [
       "superkubokanglii",
       "worldcup-winner",
       "worldcup",
-      "kopaamerika",
+      "copa-america",
       "finalissima",
       "argentina"
     ]
@@ -12146,6 +12179,7 @@ export const PLAYERS: Player[] = [
       "inter",
       "bundesliga",
       "seriyaa",
+      "serie-a",
       "kostarunjai",
       "thorstenfink",
       "rogerschmidt",
@@ -12177,7 +12211,7 @@ export const PLAYERS: Player[] = [
       "ligue1",
       "laliga",
       "superligakitaya",
-      "saudovskayapro-liga",
+      "saudi-league",
       "claudioranieri",
       "leonardojardim",
       "diegosimeone",
@@ -12245,6 +12279,7 @@ export const PLAYERS: Player[] = [
       "bundesliga",
       "seriyaa",
       "superligaturtsii",
+      "serie-a",
       "slaviastojanovi",
       "peterbosz",
       "hanneswolf",
@@ -12319,7 +12354,7 @@ export const PLAYERS: Player[] = [
       "botola",
       "segunda",
       "laliga",
-      "saudovskayapro-liga",
+      "saudi-league",
       "juanignaciomartnez",
       "pablomachn",
       "eusebiosacristn",
@@ -12406,6 +12441,7 @@ export const PLAYERS: Player[] = [
       "sassuolo",
       "juventusloan",
       "seriyaa",
+      "serie-a",
       "eusebiodifrancesco",
       "alessiodionisi",
       "robertodezerbi",
@@ -12460,7 +12496,7 @@ export const PLAYERS: Player[] = [
     "position": "Player",
     "tags": [
       "tsghoffenheim",
-      "fcbayernmnchen",
+      "bavaria",
       "dortmund",
       "bundesliga",
       "markusgisdol",
@@ -12612,9 +12648,11 @@ export const PLAYERS: Player[] = [
       "psg",
       "astonvilla",
       "fenerbahe",
+      "fenerbahce",
       "segunda",
       "laliga",
       "ligue1",
+      "superlig",
       "valerykarpin",
       "albertferrer",
       "zinedinezidane",
@@ -12774,6 +12812,7 @@ export const PLAYERS: Player[] = [
     "position": "Player",
     "tags": [
       "realsociedad",
+      "realsosedad",
       "laliga",
       "davidmoyes",
       "eusebiosacristn",
@@ -12799,6 +12838,7 @@ export const PLAYERS: Player[] = [
       "astonvilla",
       "barcelona",
       "premier-league",
+      "laliga",
       "louisvangaal",
       "josmourinho",
       "olegunnarsolskjr",
@@ -12811,7 +12851,6 @@ export const PLAYERS: Player[] = [
       "kubokanglii",
       "kubokangliyskoyligi",
       "superkubokanglii",
-      "laliga",
       "superkubokispanii",
       "england"
     ]
@@ -12835,7 +12874,7 @@ export const PLAYERS: Player[] = [
       "alhilal",
       "laliga",
       "seriyaa",
-      "saudovskayapro-liga",
+      "saudi-league",
       "diegosimeone",
       "zinedinezidane",
       "julenlopetegui",
@@ -12864,6 +12903,7 @@ export const PLAYERS: Player[] = [
       "roma",
       "rbleipzigloan",
       "bayer04leverkusen",
+      "bayerleverkuzen",
       "cheshskayaliga",
       "seriyaa",
       "bundesliga",
@@ -12984,6 +13024,7 @@ export const PLAYERS: Player[] = [
       "parma",
       "inter",
       "seriyaa",
+      "serie-a",
       "gianpierogasperini",
       "robertodaversa",
       "lucianospalletti",
@@ -13102,6 +13143,6111 @@ export const PLAYERS: Player[] = [
       "kubokgermanii",
       "superkubokgermanii",
       "germany"
+    ]
+  },
+  {
+    "id": "federikodimarko",
+    "name": "Федерико Димарко",
+    "aliases": [
+      "федерико димарко",
+      "federiko dimarko",
+      "димарко"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "inter",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "aleksismakallister",
+    "name": "Алексис Макаллистер",
+    "aliases": [
+      "алексис макаллистер",
+      "aleksis makallister",
+      "макаллистер"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "tags": [
+      "liverpool",
+      "premier-league",
+      "argentina"
+    ]
+  },
+  {
+    "id": "teoernandes",
+    "name": "Тео Эрнандес",
+    "aliases": [
+      "тео эрнандес",
+      "teo ernandes",
+      "эрнандес"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "al-hilal",
+      "saudi-league",
+      "france"
+    ]
+  },
+  {
+    "id": "khulianalvares",
+    "name": "Хулиан Альварес",
+    "aliases": [
+      "хулиан альварес",
+      "khulian alvares",
+      "альварес"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "tags": [
+      "atletico",
+      "laliga",
+      "argentina"
+    ]
+  },
+  {
+    "id": "oyansanset",
+    "name": "Ойан Сансет",
+    "aliases": [
+      "ойан сансет",
+      "oyan sanset",
+      "сансет"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "atletikbilbao",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "adrianrabo",
+    "name": "Адриан Рабьо",
+    "aliases": [
+      "адриан рабьо",
+      "adrian rabo",
+      "рабьо"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "ac-milan",
+      "serie-a",
+      "france"
+    ]
+  },
+  {
+    "id": "rodrigodepaul",
+    "name": "Родриго Де Пауль",
+    "aliases": [
+      "родриго де пауль",
+      "rodrigo de paul",
+      "пауль"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "tags": [
+      "intermiami",
+      "majorleaguesoccer",
+      "argentina"
+    ]
+  },
+  {
+    "id": "vitinya",
+    "name": "Витинья",
+    "aliases": [
+      "витинья",
+      "vitinya"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "psg",
+      "ligue1",
+      "portugal"
+    ]
+  },
+  {
+    "id": "marselzabittser",
+    "name": "Марсель Забитцер",
+    "aliases": [
+      "марсель забитцер",
+      "marsel zabittser",
+      "забитцер"
+    ],
+    "nationality": "Austria",
+    "position": "Player",
+    "tags": [
+      "dortmund",
+      "bundesliga",
+      "austria"
+    ]
+  },
+  {
+    "id": "tidzhanireynders",
+    "name": "Тиджани Рейндерс",
+    "aliases": [
+      "тиджани рейндерс",
+      "tidzhani reynders",
+      "рейндерс"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "tags": [
+      "manchester-city",
+      "premier-league",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "dominiksoboslai",
+    "name": "Доминик Собослаи",
+    "aliases": [
+      "доминик собослаи",
+      "dominik soboslai",
+      "собослаи"
+    ],
+    "nationality": "Венгрия",
+    "position": "Player",
+    "tags": [
+      "liverpool",
+      "premier-league",
+      "vengriya"
+    ]
+  },
+  {
+    "id": "rafaeldiasbelloli",
+    "name": "Рафаэль Диас Беллоли",
+    "aliases": [
+      "рафаэль диас беллоли",
+      "rafael dias belloli",
+      "беллоли"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "barcelona",
+      "laliga",
+      "brazil"
+    ]
+  },
+  {
+    "id": "brunogimarayns",
+    "name": "Бруно Гимарайнс",
+    "aliases": [
+      "бруно гимарайнс",
+      "bruno gimarayns",
+      "гимарайнс"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "newcastle",
+      "premier-league",
+      "brazil"
+    ]
+  },
+  {
+    "id": "zhuannevish",
+    "name": "Жуан Невиш",
+    "aliases": [
+      "жуан невиш",
+      "zhuan nevish",
+      "невиш"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "psg",
+      "ligue1",
+      "portugal"
+    ]
+  },
+  {
+    "id": "rayangravenberkh",
+    "name": "Райан Гравенберх",
+    "aliases": [
+      "райан гравенберх",
+      "rayan gravenberkh",
+      "гравенберх"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "tags": [
+      "liverpool",
+      "premier-league",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "lautaromartines",
+    "name": "Лаутаро Мартинес",
+    "aliases": [
+      "лаутаро мартинес",
+      "lautaro martines",
+      "мартинес"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "tags": [
+      "inter",
+      "serie-a",
+      "argentina"
+    ]
+  },
+  {
+    "id": "tyonkopmeyners",
+    "name": "Тён Копмейнерс",
+    "aliases": [
+      "тён копмейнерс",
+      "tyon kopmeyners",
+      "копмейнерс"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "tags": [
+      "juventus",
+      "serie-a",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "alekhandrogrimaldo",
+    "name": "Алехандро Гримальдо",
+    "aliases": [
+      "алехандро гримальдо",
+      "alekhandro grimaldo",
+      "гримальдо"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "bayerleverkuzen",
+      "bundesliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "risdzheyms",
+    "name": "Рис Джеймс",
+    "aliases": [
+      "рис джеймс",
+      "ris dzheyms",
+      "джеймс"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "chelsea",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "konorgallakher",
+    "name": "Конор Галлахер",
+    "aliases": [
+      "конор галлахер",
+      "konor gallakher",
+      "галлахер"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "atletico",
+      "laliga",
+      "england"
+    ]
+  },
+  {
+    "id": "mikelmerino",
+    "name": "Микель Мерино",
+    "aliases": [
+      "микель мерино",
+      "mikel merino",
+      "мерино"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "arsenal",
+      "premier-league",
+      "spain"
+    ]
+  },
+  {
+    "id": "entsokheremiasfernandes",
+    "name": "Энцо Херемиас Фернандес",
+    "aliases": [
+      "энцо херемиас фернандес",
+      "entso kheremias fernandes",
+      "фернандес"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "tags": [
+      "chelsea",
+      "premier-league",
+      "argentina"
+    ]
+  },
+  {
+    "id": "frederikorodrigessantos",
+    "name": "Фредерико Родригес Сантос",
+    "aliases": [
+      "фредерико родригес сантос",
+      "frederiko rodriges santos",
+      "сантос"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "fenerbahce",
+      "superlig",
+      "brazil"
+    ]
+  },
+  {
+    "id": "ismaelbennaser",
+    "name": "Исмаэль Беннасер",
+    "aliases": [
+      "исмаэль беннасер",
+      "ismael bennaser",
+      "беннасер"
+    ],
+    "nationality": "Algeria",
+    "position": "Player",
+    "tags": [
+      "dinamozagreb",
+      "hrvatskanogometnaliga",
+      "algeria"
+    ]
+  },
+  {
+    "id": "baryshyylmaz",
+    "name": "Барыш Йылмаз",
+    "aliases": [
+      "барыш йылмаз",
+      "barysh yylmaz",
+      "йылмаз"
+    ],
+    "nationality": "Turkey",
+    "position": "Player",
+    "tags": [
+      "galatasaray",
+      "superlig",
+      "turkey"
+    ]
+  },
+  {
+    "id": "pedroporro",
+    "name": "Педро Порро",
+    "aliases": [
+      "педро порро",
+      "pedro porro",
+      "порро"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "tottenham",
+      "premier-league",
+      "spain"
+    ]
+  },
+  {
+    "id": "otavioedmilsondasilvamonteyro",
+    "name": "Отавио Эдмилсон да Силва Монтейрo",
+    "aliases": [
+      "отавио эдмилсон да силва монтейрo",
+      "otavio edmilson da silva monteyro",
+      "монтейрo"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "alqadsiahfc",
+      "saudi-league",
+      "portugal"
+    ]
+  },
+  {
+    "id": "orkunkyokchyu",
+    "name": "Оркун Кёкчю",
+    "aliases": [
+      "оркун кёкчю",
+      "orkun kyokchyu",
+      "кёкчю"
+    ],
+    "nationality": "Turkey",
+    "position": "Player",
+    "tags": [
+      "beiktajk",
+      "superlig",
+      "turkey"
+    ]
+  },
+  {
+    "id": "skottmaktominey",
+    "name": "Скотт Мактоминей",
+    "aliases": [
+      "скотт мактоминей",
+      "skott maktominey",
+      "мактоминей"
+    ],
+    "nationality": "Scotland",
+    "position": "Player",
+    "tags": [
+      "napoli",
+      "serie-a",
+      "scotland"
+    ]
+  },
+  {
+    "id": "eduardukamavinga",
+    "name": "Эдуарду Камавинга",
+    "aliases": [
+      "эдуарду камавинга",
+      "eduardu kamavinga",
+      "камавинга"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "real-madrid",
+      "laliga",
+      "france"
+    ]
+  },
+  {
+    "id": "rubennevish",
+    "name": "Рубен Невиш",
+    "aliases": [
+      "рубен невиш",
+      "ruben nevish",
+      "невиш"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "al-hilal",
+      "saudi-league",
+      "portugal"
+    ]
+  },
+  {
+    "id": "feliksnmecha",
+    "name": "Феликс Нмеча",
+    "aliases": [
+      "феликс нмеча",
+      "feliks nmecha",
+      "нмеча"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "dortmund",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "karlosaugusto",
+    "name": "Карлос Аугусто",
+    "aliases": [
+      "карлос аугусто",
+      "karlos augusto",
+      "аугусто"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "inter",
+      "serie-a",
+      "brazil"
+    ]
+  },
+  {
+    "id": "dzhonmakginn",
+    "name": "Джон Макгинн",
+    "aliases": [
+      "джон макгинн",
+      "dzhon makginn",
+      "макгинн"
+    ],
+    "nationality": "Scotland",
+    "position": "Player",
+    "tags": [
+      "astonvilla",
+      "premier-league",
+      "scotland"
+    ]
+  },
+  {
+    "id": "aleksberenger",
+    "name": "Алекс Беренгер",
+    "aliases": [
+      "алекс беренгер",
+      "aleks berenger",
+      "беренгер"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "atletikbilbao",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "lorentsopellegrini",
+    "name": "Лоренцо Пеллегрини",
+    "aliases": [
+      "лоренцо пеллегрини",
+      "lorentso pellegrini",
+      "пеллегрини"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "roma",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "pedrugonsalvesh",
+    "name": "Педру Гонсалвеш",
+    "aliases": [
+      "педру гонсалвеш",
+      "pedru gonsalvesh",
+      "гонсалвеш"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "sportingcp",
+      "ligaportugal",
+      "portugal"
+    ]
+  },
+  {
+    "id": "zhoelinton",
+    "name": "Жоэлинтон",
+    "aliases": [
+      "жоэлинтон",
+      "zhoelinton"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "newcastle",
+      "premier-league",
+      "brazil"
+    ]
+  },
+  {
+    "id": "nunualeshandretavarishmendesh",
+    "name": "Нуну Алешандре Тавариш Мендеш",
+    "aliases": [
+      "нуну алешандре тавариш мендеш",
+      "nunu aleshandre tavarish mendesh",
+      "мендеш"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "psg",
+      "ligue1",
+      "portugal"
+    ]
+  },
+  {
+    "id": "robertlevandovski",
+    "name": "Роберт Левандовски",
+    "aliases": [
+      "роберт левандовски",
+      "robert levandovski",
+      "левандовски"
+    ],
+    "nationality": "Польша",
+    "position": "Player",
+    "tags": [
+      "barcelona",
+      "laliga",
+      "polsha"
+    ]
+  },
+  {
+    "id": "khefrentyuram",
+    "name": "Хефрен Тюрам",
+    "aliases": [
+      "хефрен тюрам",
+      "khefren tyuram",
+      "тюрам"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "juventus",
+      "serie-a",
+      "france"
+    ]
+  },
+  {
+    "id": "brianmbemo",
+    "name": "Бриан Мбемо",
+    "aliases": [
+      "бриан мбемо",
+      "brian mbemo",
+      "мбемо"
+    ],
+    "nationality": "Камерун",
+    "position": "Player",
+    "tags": [
+      "manchester-united",
+      "premier-league",
+      "kamerun"
+    ]
+  },
+  {
+    "id": "yuritilemans",
+    "name": "Юри Тилеманс",
+    "aliases": [
+      "юри тилеманс",
+      "yuri tilemans",
+      "тилеманс"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "tags": [
+      "astonvilla",
+      "premier-league",
+      "belgium"
+    ]
+  },
+  {
+    "id": "markkukurelya",
+    "name": "Марк Кукурелья",
+    "aliases": [
+      "марк кукурелья",
+      "mark kukurelya",
+      "кукурелья"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "chelsea",
+      "premier-league",
+      "spain"
+    ]
+  },
+  {
+    "id": "lukastorreyra",
+    "name": "Лукас Торрейра",
+    "aliases": [
+      "лукас торрейра",
+      "lukas torreyra",
+      "торрейра"
+    ],
+    "nationality": "Uruguay",
+    "position": "Player",
+    "tags": [
+      "galatasaray",
+      "superlig",
+      "uruguay"
+    ]
+  },
+  {
+    "id": "frankkessi",
+    "name": "Франк Кесси",
+    "aliases": [
+      "франк кесси",
+      "frank kessi",
+      "кесси"
+    ],
+    "nationality": "Ivory Coast",
+    "position": "Player",
+    "tags": [
+      "al-akhli",
+      "saudi-league",
+      "ivory-coast"
+    ]
+  },
+  {
+    "id": "dzhovannilochelso",
+    "name": "Джованни Ло Чельсо",
+    "aliases": [
+      "джованни ло чельсо",
+      "dzhovanni lo chelso",
+      "чельсо"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "tags": [
+      "realbetis",
+      "laliga",
+      "argentina"
+    ]
+  },
+  {
+    "id": "fredrikeursnes",
+    "name": "Фредрик Эурснес",
+    "aliases": [
+      "фредрик эурснес",
+      "fredrik eursnes",
+      "эурснес"
+    ],
+    "nationality": "Norway",
+    "position": "Player",
+    "tags": [
+      "benfica",
+      "ligaportugal",
+      "norway"
+    ]
+  },
+  {
+    "id": "deyankulushevski",
+    "name": "Деян Кулушевски",
+    "aliases": [
+      "деян кулушевски",
+      "deyan kulushevski",
+      "кулушевски"
+    ],
+    "nationality": "Sweden",
+    "position": "Player",
+    "tags": [
+      "tottenham",
+      "premier-league",
+      "sweden"
+    ]
+  },
+  {
+    "id": "rubenloftus-chik",
+    "name": "Рубен Лофтус-Чик",
+    "aliases": [
+      "рубен лофтус-чик",
+      "ruben loftus-chik",
+      "лофтус-чик"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "ac-milan",
+      "serie-a",
+      "england"
+    ]
+  },
+  {
+    "id": "serkhidarder",
+    "name": "Серхи Дардер",
+    "aliases": [
+      "серхи дардер",
+      "serkhi darder",
+      "дардер"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "malorka",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "korententolisso",
+    "name": "Корентен Толиссо",
+    "aliases": [
+      "корентен толиссо",
+      "korenten tolisso",
+      "толиссо"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "lyon",
+      "ligue1",
+      "france"
+    ]
+  },
+  {
+    "id": "dekyoypermaksim",
+    "name": "Де Кёйпер, Максим",
+    "aliases": [
+      "де кёйпер, максим",
+      "de kyoyper, maksim",
+      "максим"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "tags": [
+      "brayton",
+      "premier-league",
+      "belgium"
+    ]
+  },
+  {
+    "id": "kvintentimber",
+    "name": "Квинтен Тимбер",
+    "aliases": [
+      "квинтен тимбер",
+      "kvinten timber",
+      "тимбер"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "tags": [
+      "feyenoord",
+      "eredivisie",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "duglasluiz",
+    "name": "Дуглас Луиз",
+    "aliases": [
+      "дуглас луиз",
+      "duglas luiz",
+      "луиз"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "nottingham",
+      "premier-league",
+      "brazil"
+    ]
+  },
+  {
+    "id": "ayoseperesguterres",
+    "name": "Айосе Перес Гутьеррес",
+    "aliases": [
+      "айосе перес гутьеррес",
+      "ayose peres guterres",
+      "гутьеррес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "villarrealcf",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "alfonsodeyvis",
+    "name": "Алфонсо Дейвис",
+    "aliases": [
+      "алфонсо дейвис",
+      "alfonso deyvis",
+      "дейвис"
+    ],
+    "nationality": "Канада",
+    "position": "Player",
+    "tags": [
+      "bavaria",
+      "bundesliga",
+      "kanada"
+    ]
+  },
+  {
+    "id": "davidefrattezi",
+    "name": "Давиде Фраттези",
+    "aliases": [
+      "давиде фраттези",
+      "davide frattezi",
+      "фраттези"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "inter",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "matteogenduzi",
+    "name": "Маттео Гендузи",
+    "aliases": [
+      "маттео гендузи",
+      "matteo genduzi",
+      "гендузи"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "lazio",
+      "serie-a",
+      "france"
+    ]
+  },
+  {
+    "id": "moyseskaysedo",
+    "name": "Мойсес Кайседо",
+    "aliases": [
+      "мойсес кайседо",
+      "moyses kaysedo",
+      "кайседо"
+    ],
+    "nationality": "Эквадор",
+    "position": "Player",
+    "tags": [
+      "chelsea",
+      "premier-league",
+      "ekvador"
+    ]
+  },
+  {
+    "id": "yoshkogvardiol",
+    "name": "Йошко Гвардиол",
+    "aliases": [
+      "йошко гвардиол",
+      "yoshko gvardiol",
+      "гвардиол"
+    ],
+    "nationality": "Croatia",
+    "position": "Player",
+    "tags": [
+      "manchester-city",
+      "premier-league",
+      "croatia"
+    ]
+  },
+  {
+    "id": "andrezambo-angissa",
+    "name": "Андре Замбо-Ангисса",
+    "aliases": [
+      "андре замбо-ангисса",
+      "andre zambo-angissa",
+      "замбо-ангисса"
+    ],
+    "nationality": "Камерун",
+    "position": "Player",
+    "tags": [
+      "napoli",
+      "serie-a",
+      "kamerun"
+    ]
+  },
+  {
+    "id": "lukaspaketa",
+    "name": "Лукас Пакета",
+    "aliases": [
+      "лукас пакета",
+      "lukas paketa",
+      "пакета"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "westhamunited",
+      "premier-league",
+      "brazil"
+    ]
+  },
+  {
+    "id": "gabrielsara",
+    "name": "Габриэл Сара",
+    "aliases": [
+      "габриэл сара",
+      "gabriel sara",
+      "сара"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "galatasaray",
+      "superlig",
+      "brazil"
+    ]
+  },
+  {
+    "id": "mortenyulmann",
+    "name": "Мортен Юлманн",
+    "aliases": [
+      "мортен юлманн",
+      "morten yulmann",
+      "юлманн"
+    ],
+    "nationality": "Denmark",
+    "position": "Player",
+    "tags": [
+      "sportingcp",
+      "ligaportugal",
+      "denmark"
+    ]
+  },
+  {
+    "id": "mauroarambarri",
+    "name": "Мауро Арамбарри",
+    "aliases": [
+      "мауро арамбарри",
+      "mauro arambarri",
+      "арамбарри"
+    ],
+    "nationality": "Uruguay",
+    "position": "Player",
+    "tags": [
+      "khetafe",
+      "laliga",
+      "uruguay"
+    ]
+  },
+  {
+    "id": "benzhamenpavar",
+    "name": "Бенжамен Павар",
+    "aliases": [
+      "бенжамен павар",
+      "benzhamen pavar",
+      "павар"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "marseille",
+      "ligue1",
+      "france"
+    ]
+  },
+  {
+    "id": "elliotanderson",
+    "name": "Эллиот Андерсон",
+    "aliases": [
+      "эллиот андерсон",
+      "elliot anderson",
+      "андерсон"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "nottingham",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "aleshgarsiya",
+    "name": "Алеш Гарсия",
+    "aliases": [
+      "алеш гарсия",
+      "alesh garsiya",
+      "гарсия"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "bayerleverkuzen",
+      "bundesliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "aleksbaena",
+    "name": "Алекс Баэна",
+    "aliases": [
+      "алекс баэна",
+      "aleks baena",
+      "баэна"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "atletico",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "maliktillman",
+    "name": "Малик Тиллман",
+    "aliases": [
+      "малик тиллман",
+      "malik tillman",
+      "тиллман"
+    ],
+    "nationality": "United States",
+    "position": "Player",
+    "tags": [
+      "bayerleverkuzen",
+      "bundesliga",
+      "unitedstates"
+    ]
+  },
+  {
+    "id": "esekielpalasios",
+    "name": "Эсекиэль Паласиос",
+    "aliases": [
+      "эсекиэль паласиос",
+      "esekiel palasios",
+      "паласиос"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "tags": [
+      "bayerleverkuzen",
+      "bundesliga",
+      "argentina"
+    ]
+  },
+  {
+    "id": "dilorentsodzhovanni",
+    "name": "Ди Лоренцо, Джованни",
+    "aliases": [
+      "ди лоренцо, джованни",
+      "di lorentso, dzhovanni",
+      "джованни"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "napoli",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "koulpalmer",
+    "name": "Коул Палмер",
+    "aliases": [
+      "коул палмер",
+      "koul palmer",
+      "палмер"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "chelsea",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "yankhelerrera",
+    "name": "Янхель Эррера",
+    "aliases": [
+      "янхель эррера",
+      "yankhel errera",
+      "эррера"
+    ],
+    "nationality": "Venezuela",
+    "position": "Player",
+    "tags": [
+      "realsosedad",
+      "laliga",
+      "venezuela"
+    ]
+  },
+  {
+    "id": "migelguterres",
+    "name": "Мигель Гутьеррес",
+    "aliases": [
+      "мигель гутьеррес",
+      "migel guterres",
+      "гутьеррес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "napoli",
+      "serie-a",
+      "spain"
+    ]
+  },
+  {
+    "id": "ederson",
+    "name": "Эдерсон",
+    "aliases": [
+      "эдерсон",
+      "ederson"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "atalanta",
+      "fenerbahce",
+      "serie-a",
+      "superlig",
+      "brazil"
+    ]
+  },
+  {
+    "id": "morgangibbs-uayt",
+    "name": "Морган Гиббс-Уайт",
+    "aliases": [
+      "морган гиббс-уайт",
+      "morgan gibbs-uayt",
+      "гиббс-уайт"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "nottingham",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "manuellokatelli",
+    "name": "Мануэль Локателли",
+    "aliases": [
+      "мануэль локателли",
+      "manuel lokatelli",
+      "локателли"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "juventus",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "denzeldyumfris",
+    "name": "Дензел Дюмфрис",
+    "aliases": [
+      "дензел дюмфрис",
+      "denzel dyumfris",
+      "дюмфрис"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "tags": [
+      "inter",
+      "serie-a",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "lyukadin",
+    "name": "Люка Динь",
+    "aliases": [
+      "люка динь",
+      "lyuka din",
+      "динь"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "astonvilla",
+      "premier-league",
+      "france"
+    ]
+  },
+  {
+    "id": "robertandrikh",
+    "name": "Роберт Андрих",
+    "aliases": [
+      "роберт андрих",
+      "robert andrikh",
+      "андрих"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "bayerleverkuzen",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "orelentchuameni",
+    "name": "Орельен Тчуамени",
+    "aliases": [
+      "орельен тчуамени",
+      "orelen tchuameni",
+      "тчуамени"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "real-madrid",
+      "laliga",
+      "france"
+    ]
+  },
+  {
+    "id": "serugirassi",
+    "name": "Серу Гирасси",
+    "aliases": [
+      "серу гирасси",
+      "seru girassi",
+      "гирасси"
+    ],
+    "nationality": "Гвинея",
+    "position": "Player",
+    "tags": [
+      "dortmund",
+      "bundesliga",
+      "gvineya"
+    ]
+  },
+  {
+    "id": "mattiadzakkani",
+    "name": "Маттиа Дзакканьи",
+    "aliases": [
+      "маттиа дзакканьи",
+      "mattia dzakkani",
+      "дзакканьи"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "lazio",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "martenderon",
+    "name": "Мартен де Рон",
+    "aliases": [
+      "мартен де рон",
+      "marten de ron",
+      "рон"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "tags": [
+      "atalanta",
+      "serie-a",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "braismendes",
+    "name": "Браис Мендес",
+    "aliases": [
+      "браис мендес",
+      "brais mendes",
+      "мендес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "realsosedad",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "robingosens",
+    "name": "Робин Госенс",
+    "aliases": [
+      "робин госенс",
+      "robin gosens",
+      "госенс"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "fiorentina",
+      "serie-a",
+      "germany"
+    ]
+  },
+  {
+    "id": "fabianruis",
+    "name": "Фабиан Руис",
+    "aliases": [
+      "фабиан руис",
+      "fabian ruis",
+      "руис"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "psg",
+      "ligue1",
+      "spain"
+    ]
+  },
+  {
+    "id": "dzheymsmeddison",
+    "name": "Джеймс Мэддисон",
+    "aliases": [
+      "джеймс мэддисон",
+      "dzheyms meddison",
+      "мэддисон"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "tottenham",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "paskalgros",
+    "name": "Паскаль Грос",
+    "aliases": [
+      "паскаль грос",
+      "paskal gros",
+      "грос"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "dortmund",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "rafaelgerreyru",
+    "name": "Рафаэл Геррейру",
+    "aliases": [
+      "рафаэл геррейру",
+      "rafael gerreyru",
+      "геррейру"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "bavaria",
+      "bundesliga",
+      "portugal"
+    ]
+  },
+  {
+    "id": "konradlaymer",
+    "name": "Конрад Лаймер",
+    "aliases": [
+      "конрад лаймер",
+      "konrad laymer",
+      "лаймер"
+    ],
+    "nationality": "Austria",
+    "position": "Player",
+    "tags": [
+      "bavaria",
+      "bundesliga",
+      "austria"
+    ]
+  },
+  {
+    "id": "morganrodzhers",
+    "name": "Морган Роджерс",
+    "aliases": [
+      "морган роджерс",
+      "morgan rodzhers",
+      "роджерс"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "astonvilla",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "deziredue",
+    "name": "Дезире Дуэ",
+    "aliases": [
+      "дезире дуэ",
+      "dezire due",
+      "дуэ"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "psg",
+      "ligue1",
+      "france"
+    ]
+  },
+  {
+    "id": "markustyuram",
+    "name": "Маркус Тюрам",
+    "aliases": [
+      "маркус тюрам",
+      "markus tyuram",
+      "тюрам"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "inter",
+      "serie-a",
+      "france"
+    ]
+  },
+  {
+    "id": "davidraum",
+    "name": "Давид Раум",
+    "aliases": [
+      "давид раум",
+      "david raum",
+      "раум"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "rbleyptsig",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "viktordyokeresh",
+    "name": "Виктор Дьёкереш",
+    "aliases": [
+      "виктор дьёкереш",
+      "viktor dyokeresh",
+      "дьёкереш"
+    ],
+    "nationality": "Sweden",
+    "position": "Player",
+    "tags": [
+      "arsenal",
+      "premier-league",
+      "sweden"
+    ]
+  },
+  {
+    "id": "georgiyviktorovichsudakov",
+    "name": "Георгий Викторович Судаков",
+    "aliases": [
+      "георгий викторович судаков",
+      "georgiy viktorovich sudakov",
+      "судаков"
+    ],
+    "nationality": "Ukraine",
+    "position": "Player",
+    "tags": [
+      "benfica",
+      "ligaportugal",
+      "ukraine"
+    ]
+  },
+  {
+    "id": "andersonsouzakonseysan",
+    "name": "Андерсон Соуза Консейсан",
+    "aliases": [
+      "андерсон соуза консейсан",
+      "anderson souza konseysan",
+      "консейсан"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "fenerbahce",
+      "superlig",
+      "brazil"
+    ]
+  },
+  {
+    "id": "karlosbaleba",
+    "name": "Карлос Балеба",
+    "aliases": [
+      "карлос балеба",
+      "karlos baleba",
+      "балеба"
+    ],
+    "nationality": "Камерун",
+    "position": "Player",
+    "tags": [
+      "brayton",
+      "premier-league",
+      "kamerun"
+    ]
+  },
+  {
+    "id": "khavisimons",
+    "name": "Хави Симонс",
+    "aliases": [
+      "хави симонс",
+      "khavi simons",
+      "симонс"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "tags": [
+      "tottenham",
+      "premier-league",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "granitdzhaka",
+    "name": "Гранит Джака",
+    "aliases": [
+      "гранит джака",
+      "granit dzhaka",
+      "джака"
+    ],
+    "nationality": "Switzerland",
+    "position": "Player",
+    "tags": [
+      "sunderland",
+      "premier-league",
+      "switzerland"
+    ]
+  },
+  {
+    "id": "kristianpulishich",
+    "name": "Кристиан Пулишич",
+    "aliases": [
+      "кристиан пулишич",
+      "kristian pulishich",
+      "пулишич"
+    ],
+    "nationality": "United States",
+    "position": "Player",
+    "tags": [
+      "ac-milan",
+      "serie-a",
+      "unitedstates"
+    ]
+  },
+  {
+    "id": "inyakiuilyams",
+    "name": "Иньяки Уильямс",
+    "aliases": [
+      "иньяки уильямс",
+      "inyaki uilyams",
+      "уильямс"
+    ],
+    "nationality": "Ghana",
+    "position": "Player",
+    "tags": [
+      "atletikbilbao",
+      "laliga",
+      "ghana"
+    ]
+  },
+  {
+    "id": "zhonatankloss",
+    "name": "Жонатан Клосс",
+    "aliases": [
+      "жонатан клосс",
+      "zhonatan kloss",
+      "клосс"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "ogcnice",
+      "ligue1",
+      "france"
+    ]
+  },
+  {
+    "id": "miloshkerkez",
+    "name": "Милош Керкез",
+    "aliases": [
+      "милош керкез",
+      "milosh kerkez",
+      "керкез"
+    ],
+    "nationality": "Венгрия",
+    "position": "Player",
+    "tags": [
+      "liverpool",
+      "premier-league",
+      "vengriya"
+    ]
+  },
+  {
+    "id": "oskarmingesa",
+    "name": "Оскар Мингеса",
+    "aliases": [
+      "оскар мингеса",
+      "oskar mingesa",
+      "мингеса"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "selta",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "luisfernandodias",
+    "name": "Луис Фернандо Диас",
+    "aliases": [
+      "луис фернандо диас",
+      "luis fernando dias",
+      "диас"
+    ],
+    "nationality": "Colombia",
+    "position": "Player",
+    "tags": [
+      "bavaria",
+      "bundesliga",
+      "colombia"
+    ]
+  },
+  {
+    "id": "nadimamiri",
+    "name": "Надим Амири",
+    "aliases": [
+      "надим амири",
+      "nadim amiri",
+      "амири"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "1fsvmainz05",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "mateokovachich",
+    "name": "Матео Ковачич",
+    "aliases": [
+      "матео ковачич",
+      "mateo kovachich",
+      "ковачич"
+    ],
+    "nationality": "Croatia",
+    "position": "Player",
+    "tags": [
+      "manchester-city",
+      "premier-league",
+      "croatia"
+    ]
+  },
+  {
+    "id": "varrenzair-emri",
+    "name": "Варрен Заир-Эмри",
+    "aliases": [
+      "варрен заир-эмри",
+      "varren zair-emri",
+      "заир-эмри"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "psg",
+      "ligue1",
+      "france"
+    ]
+  },
+  {
+    "id": "salimal-davsari",
+    "name": "Салим аль-Давсари",
+    "aliases": [
+      "салим аль-давсари",
+      "salim al-davsari",
+      "аль-давсари"
+    ],
+    "nationality": "Saudi Arabia",
+    "position": "Player",
+    "tags": [
+      "al-hilal",
+      "saudi-league",
+      "saudiarabia"
+    ]
+  },
+  {
+    "id": "kodigakpo",
+    "name": "Коди Гакпо",
+    "aliases": [
+      "коди гакпо",
+      "kodi gakpo",
+      "гакпо"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "tags": [
+      "liverpool",
+      "premier-league",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "andreysantos",
+    "name": "Андрей Сантос",
+    "aliases": [
+      "андрей сантос",
+      "andrey santos",
+      "сантос"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "chelsea",
+      "premier-league",
+      "brazil"
+    ]
+  },
+  {
+    "id": "dzhonnikardozo",
+    "name": "Джонни Кардозо",
+    "aliases": [
+      "джонни кардозо",
+      "dzhonni kardozo",
+      "кардозо"
+    ],
+    "nationality": "United States",
+    "position": "Player",
+    "tags": [
+      "atletico",
+      "laliga",
+      "unitedstates"
+    ]
+  },
+  {
+    "id": "olliuotkins",
+    "name": "Олли Уоткинс",
+    "aliases": [
+      "олли уоткинс",
+      "olli uotkins",
+      "уоткинс"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "astonvilla",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "mayklolise",
+    "name": "Майкл Олисе",
+    "aliases": [
+      "майкл олисе",
+      "maykl olise",
+      "олисе"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "bavaria",
+      "bundesliga",
+      "france"
+    ]
+  },
+  {
+    "id": "martinsubimendi",
+    "name": "Мартин Субименди",
+    "aliases": [
+      "мартин субименди",
+      "martin subimendi",
+      "субименди"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "arsenal",
+      "premier-league",
+      "spain"
+    ]
+  },
+  {
+    "id": "ferlanmendi",
+    "name": "Ферлан Менди",
+    "aliases": [
+      "ферлан менди",
+      "ferlan mendi",
+      "менди"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "real-madrid",
+      "laliga",
+      "france"
+    ]
+  },
+  {
+    "id": "danielmunosmekhiya",
+    "name": "Даниэль Муньос Мехия",
+    "aliases": [
+      "даниэль муньос мехия",
+      "daniel munos mekhiya",
+      "мехия"
+    ],
+    "nationality": "Colombia",
+    "position": "Player",
+    "tags": [
+      "kristalpelas",
+      "premier-league",
+      "colombia"
+    ]
+  },
+  {
+    "id": "pyotrzhelinskiy",
+    "name": "Пётр Желиньский",
+    "aliases": [
+      "пётр желиньский",
+      "pyotr zhelinskiy",
+      "желиньский"
+    ],
+    "nationality": "Польша",
+    "position": "Player",
+    "tags": [
+      "inter",
+      "serie-a",
+      "polsha"
+    ]
+  },
+  {
+    "id": "eberechieze",
+    "name": "Эберечи Эзе",
+    "aliases": [
+      "эберечи эзе",
+      "eberechi eze",
+      "эзе"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "arsenal",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "mateuskunya",
+    "name": "Матеус Кунья",
+    "aliases": [
+      "матеус кунья",
+      "mateus kunya",
+      "кунья"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "manchester-united",
+      "premier-league",
+      "brazil"
+    ]
+  },
+  {
+    "id": "davidgantsko",
+    "name": "Давид Ганцко",
+    "aliases": [
+      "давид ганцко",
+      "david gantsko",
+      "ганцко"
+    ],
+    "nationality": "Slovakia",
+    "position": "Player",
+    "tags": [
+      "atletico",
+      "laliga",
+      "slovakia"
+    ]
+  },
+  {
+    "id": "malkom",
+    "name": "Малком",
+    "aliases": [
+      "малком",
+      "malkom"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "al-hilal",
+      "saudi-league",
+      "brazil"
+    ]
+  },
+  {
+    "id": "ronaldukabraish",
+    "name": "Роналду Кабраиш",
+    "aliases": [
+      "роналду кабраиш",
+      "ronaldu kabraish",
+      "кабраиш"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "botafogo",
+      "brazilskayaseriyaa",
+      "brazil"
+    ]
+  },
+  {
+    "id": "stanislavlobotka",
+    "name": "Станислав Лоботка",
+    "aliases": [
+      "станислав лоботка",
+      "stanislav lobotka",
+      "лоботка"
+    ],
+    "nationality": "Slovakia",
+    "position": "Player",
+    "tags": [
+      "napoli",
+      "serie-a",
+      "slovakia"
+    ]
+  },
+  {
+    "id": "deniszakariya",
+    "name": "Денис Закария",
+    "aliases": [
+      "денис закария",
+      "denis zakariya",
+      "закария"
+    ],
+    "nationality": "Switzerland",
+    "position": "Player",
+    "tags": [
+      "monaco",
+      "ligue1",
+      "switzerland"
+    ]
+  },
+  {
+    "id": "mikkeldamsgor",
+    "name": "Миккель Дамсгор",
+    "aliases": [
+      "миккель дамсгор",
+      "mikkel damsgor",
+      "дамсгор"
+    ],
+    "nationality": "Denmark",
+    "position": "Player",
+    "tags": [
+      "brentford",
+      "premier-league",
+      "denmark"
+    ]
+  },
+  {
+    "id": "elesskhiri",
+    "name": "Эльес Схири",
+    "aliases": [
+      "эльес схири",
+      "eles skhiri",
+      "схири"
+    ],
+    "nationality": "Tunisia",
+    "position": "Player",
+    "tags": [
+      "ayntrakhtfrankfurt",
+      "bundesliga",
+      "tunisia"
+    ]
+  },
+  {
+    "id": "fabiansher",
+    "name": "Фабиан Шер",
+    "aliases": [
+      "фабиан шер",
+      "fabian sher",
+      "шер"
+    ],
+    "nationality": "Switzerland",
+    "position": "Player",
+    "tags": [
+      "newcastle",
+      "premier-league",
+      "switzerland"
+    ]
+  },
+  {
+    "id": "nikoshlotterbek",
+    "name": "Нико Шлоттербек",
+    "aliases": [
+      "нико шлоттербек",
+      "niko shlotterbek",
+      "шлоттербек"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "dortmund",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "entonigordon",
+    "name": "Энтони Гордон",
+    "aliases": [
+      "энтони гордон",
+      "entoni gordon",
+      "гордон"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "newcastle",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "kyortisdzhons",
+    "name": "Кёртис Джонс",
+    "aliases": [
+      "кёртис джонс",
+      "kyortis dzhons",
+      "джонс"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "liverpool",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "mariopashalich",
+    "name": "Марио Пашалич",
+    "aliases": [
+      "марио пашалич",
+      "mario pashalich",
+      "пашалич"
+    ],
+    "nationality": "Croatia",
+    "position": "Player",
+    "tags": [
+      "atalanta",
+      "serie-a",
+      "croatia"
+    ]
+  },
+  {
+    "id": "inigoruisdegalarreta",
+    "name": "Иньиго Руис де Галаррета",
+    "aliases": [
+      "иньиго руис де галаррета",
+      "inigo ruis de galarreta",
+      "галаррета"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "atletikbilbao",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "destiniudodzhi",
+    "name": "Дестини Удоджи",
+    "aliases": [
+      "дестини удоджи",
+      "destini udodzhi",
+      "удоджи"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "tottenham",
+      "premier-league",
+      "italy"
+    ]
+  },
+  {
+    "id": "omarmarmush",
+    "name": "Омар Мармуш",
+    "aliases": [
+      "омар мармуш",
+      "omar marmush",
+      "мармуш"
+    ],
+    "nationality": "Egypt",
+    "position": "Player",
+    "tags": [
+      "manchester-city",
+      "premier-league",
+      "egypt"
+    ]
+  },
+  {
+    "id": "rodrigobentankur",
+    "name": "Родриго Бентанкур",
+    "aliases": [
+      "родриго бентанкур",
+      "rodrigo bentankur",
+      "бентанкур"
+    ],
+    "nationality": "Uruguay",
+    "position": "Player",
+    "tags": [
+      "tottenham",
+      "premier-league",
+      "uruguay"
+    ]
+  },
+  {
+    "id": "lisandromartines",
+    "name": "Лисандро Мартинес",
+    "aliases": [
+      "лисандро мартинес",
+      "lisandro martines",
+      "мартинес"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "tags": [
+      "manchester-united",
+      "premier-league",
+      "argentina"
+    ]
+  },
+  {
+    "id": "tomasparti",
+    "name": "Томас Парти",
+    "aliases": [
+      "томас парти",
+      "tomas parti",
+      "парти"
+    ],
+    "nationality": "Ghana",
+    "position": "Player",
+    "tags": [
+      "villarrealcf",
+      "laliga",
+      "ghana"
+    ]
+  },
+  {
+    "id": "maksimilianmittelshtadt",
+    "name": "Максимилиан Миттельштадт",
+    "aliases": [
+      "максимилиан миттельштадт",
+      "maksimilian mittelshtadt",
+      "миттельштадт"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "shtutgart",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "khoseluisgayya",
+    "name": "Хосе Луис Гайя",
+    "aliases": [
+      "хосе луис гайя",
+      "khose luis gayya",
+      "гайя"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "valencia",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "vangelispavlidis",
+    "name": "Вангелис Павлидис",
+    "aliases": [
+      "вангелис павлидис",
+      "vangelis pavlidis",
+      "павлидис"
+    ],
+    "nationality": "Greece",
+    "position": "Player",
+    "tags": [
+      "benfica",
+      "ligaportugal",
+      "greece"
+    ]
+  },
+  {
+    "id": "lyuiskholl",
+    "name": "Льюис Холл",
+    "aliases": [
+      "льюис холл",
+      "lyuis kholl",
+      "холл"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "newcastle",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "ayventouni",
+    "name": "Айвен Тоуни",
+    "aliases": [
+      "айвен тоуни",
+      "ayven touni",
+      "тоуни"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "al-akhli",
+      "saudi-league",
+      "england"
+    ]
+  },
+  {
+    "id": "rikardoorta",
+    "name": "Рикардо Орта",
+    "aliases": [
+      "рикардо орта",
+      "rikardo orta",
+      "орта"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "braga",
+      "ligaportugal",
+      "portugal"
+    ]
+  },
+  {
+    "id": "deketelaresharl",
+    "name": "Де Кетеларе, Шарль",
+    "aliases": [
+      "де кетеларе, шарль",
+      "de ketelare, sharl",
+      "шарль"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "tags": [
+      "atalanta",
+      "serie-a",
+      "belgium"
+    ]
+  },
+  {
+    "id": "dzharrodbouen",
+    "name": "Джаррод Боуэн",
+    "aliases": [
+      "джаррод боуэн",
+      "dzharrod bouen",
+      "боуэн"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "westhamunited",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "dzheremifrimpong",
+    "name": "Джереми Фримпонг",
+    "aliases": [
+      "джереми фримпонг",
+      "dzheremi frimpong",
+      "фримпонг"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "tags": [
+      "liverpool",
+      "premier-league",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "aleksanderisak",
+    "name": "Александер Исак",
+    "aliases": [
+      "александер исак",
+      "aleksander isak",
+      "исак"
+    ],
+    "nationality": "Sweden",
+    "position": "Player",
+    "tags": [
+      "liverpool",
+      "premier-league",
+      "sweden"
+    ]
+  },
+  {
+    "id": "alvarofernandes",
+    "name": "Альваро Фернандес",
+    "aliases": [
+      "альваро фернандес",
+      "alvaro fernandes",
+      "фернандес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "real-madrid",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "matteopolitano",
+    "name": "Маттео Политано",
+    "aliases": [
+      "маттео политано",
+      "matteo politano",
+      "политано"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "napoli",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "mokhamedelaminamura",
+    "name": "Мохамед Эль Амин Амура",
+    "aliases": [
+      "мохамед эль амин амура",
+      "mokhamed el amin amura",
+      "амура"
+    ],
+    "nationality": "Algeria",
+    "position": "Player",
+    "tags": [
+      "wolfsburg",
+      "bundesliga",
+      "algeria"
+    ]
+  },
+  {
+    "id": "yussuffofana",
+    "name": "Юссуф Фофана",
+    "aliases": [
+      "юссуф фофана",
+      "yussuf fofana",
+      "фофана"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "ac-milan",
+      "serie-a",
+      "france"
+    ]
+  },
+  {
+    "id": "brayankristante",
+    "name": "Брайан Кристанте",
+    "aliases": [
+      "брайан кристанте",
+      "brayan kristante",
+      "кристанте"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "roma",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "dzheykobmyorfi",
+    "name": "Джейкоб Мёрфи",
+    "aliases": [
+      "джейкоб мёрфи",
+      "dzheykob myorfi",
+      "мёрфи"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "newcastle",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "mokhammedkudus",
+    "name": "Мохаммед Кудус",
+    "aliases": [
+      "мохаммед кудус",
+      "mokhammed kudus",
+      "кудус"
+    ],
+    "nationality": "Ghana",
+    "position": "Player",
+    "tags": [
+      "tottenham",
+      "premier-league",
+      "ghana"
+    ]
+  },
+  {
+    "id": "rikkardoorsolini",
+    "name": "Риккардо Орсолини",
+    "aliases": [
+      "риккардо орсолини",
+      "rikkardo orsolini",
+      "орсолини"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "bologna",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "nussairmazraui",
+    "name": "Нуссаир Мазрауи",
+    "aliases": [
+      "нуссаир мазрауи",
+      "nussair mazraui",
+      "мазрауи"
+    ],
+    "nationality": "Morocco",
+    "position": "Player",
+    "tags": [
+      "manchester-united",
+      "premier-league",
+      "morocco"
+    ]
+  },
+  {
+    "id": "per-emilkhyoyberg",
+    "name": "Пьер-Эмиль Хёйбьерг",
+    "aliases": [
+      "пьер-эмиль хёйбьерг",
+      "per-emil khyoyberg",
+      "хёйбьерг"
+    ],
+    "nationality": "Denmark",
+    "position": "Player",
+    "tags": [
+      "marseille",
+      "ligue1",
+      "denmark"
+    ]
+  },
+  {
+    "id": "danisebalos",
+    "name": "Дани Себальос",
+    "aliases": [
+      "дани себальос",
+      "dani sebalos",
+      "себальос"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "real-madrid",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "velingtondano",
+    "name": "Велингтон Дано",
+    "aliases": [
+      "велингтон дано",
+      "velington dano",
+      "дано"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "atlticomineiro",
+      "brazilskayaseriyaa",
+      "brazil"
+    ]
+  },
+  {
+    "id": "daniolmo",
+    "name": "Дани Ольмо",
+    "aliases": [
+      "дани ольмо",
+      "dani olmo",
+      "ольмо"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "barcelona",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "gavi",
+    "name": "Гави",
+    "aliases": [
+      "гави",
+      "gavi"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "barcelona",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "frankonora",
+    "name": "Франк Онора",
+    "aliases": [
+      "франк онора",
+      "frank onora",
+      "онора"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "gladbach",
+      "bundesliga",
+      "france"
+    ]
+  },
+  {
+    "id": "benzhamenandre",
+    "name": "Бенжамен Андре",
+    "aliases": [
+      "бенжамен андре",
+      "benzhamen andre",
+      "андре"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "lille",
+      "ligue1",
+      "france"
+    ]
+  },
+  {
+    "id": "gabrielmartinelli",
+    "name": "Габриэл Мартинелли",
+    "aliases": [
+      "габриэл мартинелли",
+      "gabriel martinelli",
+      "мартинелли"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "arsenal",
+      "premier-league",
+      "brazil"
+    ]
+  },
+  {
+    "id": "rayanay-nuri",
+    "name": "Райан Ай-Нури",
+    "aliases": [
+      "райан ай-нури",
+      "rayan ay-nuri",
+      "ай-нури"
+    ],
+    "nationality": "Algeria",
+    "position": "Player",
+    "tags": [
+      "manchester-city",
+      "premier-league",
+      "algeria"
+    ]
+  },
+  {
+    "id": "ksavershlager",
+    "name": "Ксавер Шлагер",
+    "aliases": [
+      "ксавер шлагер",
+      "ksaver shlager",
+      "шлагер"
+    ],
+    "nationality": "Austria",
+    "position": "Player",
+    "tags": [
+      "rbleyptsig",
+      "bundesliga",
+      "austria"
+    ]
+  },
+  {
+    "id": "pablobarrios",
+    "name": "Пабло Барриос",
+    "aliases": [
+      "пабло барриос",
+      "pablo barrios",
+      "барриос"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "atletico",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "khavigalan",
+    "name": "Хави Галан",
+    "aliases": [
+      "хави галан",
+      "khavi galan",
+      "галан"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "atletico",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "khansvanaken",
+    "name": "Ханс Ванакен",
+    "aliases": [
+      "ханс ванакен",
+      "khans vanaken",
+      "ванакен"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "tags": [
+      "clubbruggekv",
+      "saudi-league",
+      "belgium"
+    ]
+  },
+  {
+    "id": "antoni",
+    "name": "Антони",
+    "aliases": [
+      "антони",
+      "antoni"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "realbetis",
+      "laliga",
+      "brazil"
+    ]
+  },
+  {
+    "id": "matteodarmian",
+    "name": "Маттео Дармиан",
+    "aliases": [
+      "маттео дармиан",
+      "matteo darmian",
+      "дармиан"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "inter",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "rosivaldurado",
+    "name": "Росиваль Дурадо",
+    "aliases": [
+      "росиваль дурадо",
+      "rosival durado",
+      "дурадо"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "corinthians",
+      "brazilskayaseriyaa",
+      "brazil"
+    ]
+  },
+  {
+    "id": "remofroyler",
+    "name": "Ремо Фройлер",
+    "aliases": [
+      "ремо фройлер",
+      "remo froyler",
+      "фройлер"
+    ],
+    "nationality": "Switzerland",
+    "position": "Player",
+    "tags": [
+      "bologna",
+      "serie-a",
+      "switzerland"
+    ]
+  },
+  {
+    "id": "kaorumitoma",
+    "name": "Каору Митома",
+    "aliases": [
+      "каору митома",
+      "kaoru mitoma",
+      "митома"
+    ],
+    "nationality": "Japan",
+    "position": "Player",
+    "tags": [
+      "brayton",
+      "premier-league",
+      "japan"
+    ]
+  },
+  {
+    "id": "olaayna",
+    "name": "Ола Айна",
+    "aliases": [
+      "ола айна",
+      "ola ayna",
+      "айна"
+    ],
+    "nationality": "Nigeria",
+    "position": "Player",
+    "tags": [
+      "nottingham",
+      "premier-league",
+      "nigeria"
+    ]
+  },
+  {
+    "id": "inigomartines",
+    "name": "Иньиго Мартинес",
+    "aliases": [
+      "иньиго мартинес",
+      "inigo martines",
+      "мартинес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "al-nassr",
+      "saudi-league",
+      "spain"
+    ]
+  },
+  {
+    "id": "yulianbrandt",
+    "name": "Юлиан Брандт",
+    "aliases": [
+      "юлиан брандт",
+      "yulian brandt",
+      "брандт"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "dortmund",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "andreykramarich",
+    "name": "Андрей Крамарич",
+    "aliases": [
+      "андрей крамарич",
+      "andrey kramarich",
+      "крамарич"
+    ],
+    "nationality": "Croatia",
+    "position": "Player",
+    "tags": [
+      "khoffenkhaym",
+      "bundesliga",
+      "croatia"
+    ]
+  },
+  {
+    "id": "aleksivobi",
+    "name": "Алекс Ивоби",
+    "aliases": [
+      "алекс ивоби",
+      "aleks ivobi",
+      "ивоби"
+    ],
+    "nationality": "Nigeria",
+    "position": "Player",
+    "tags": [
+      "fulkhem",
+      "premier-league",
+      "nigeria"
+    ]
+  },
+  {
+    "id": "nikouilyams",
+    "name": "Нико Уильямс",
+    "aliases": [
+      "нико уильямс",
+      "niko uilyams",
+      "уильямс"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "atletikbilbao",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "vinisiuszhunior",
+    "name": "Винисиус Жуниор",
+    "aliases": [
+      "винисиус жуниор",
+      "vinisius zhunior",
+      "жуниор"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "real-madrid",
+      "laliga",
+      "brazil"
+    ]
+  },
+  {
+    "id": "kazemiro",
+    "name": "Каземиро",
+    "aliases": [
+      "каземиро",
+      "kazemiro"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "manchester-united",
+      "premier-league",
+      "brazil"
+    ]
+  },
+  {
+    "id": "angeloshtiller",
+    "name": "Ангело Штиллер",
+    "aliases": [
+      "ангело штиллер",
+      "angelo shtiller",
+      "штиллер"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "shtutgart",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "entonirobinson",
+    "name": "Энтони Робинсон",
+    "aliases": [
+      "энтони робинсон",
+      "entoni robinson",
+      "робинсон"
+    ],
+    "nationality": "United States",
+    "position": "Player",
+    "tags": [
+      "fulkhem",
+      "premier-league",
+      "unitedstates"
+    ]
+  },
+  {
+    "id": "benyaminkhenriks",
+    "name": "Беньямин Хенрикс",
+    "aliases": [
+      "беньямин хенрикс",
+      "benyamin khenriks",
+      "хенрикс"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "rbleyptsig",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "fransishkutrinkan",
+    "name": "Франсишку Тринкан",
+    "aliases": [
+      "франсишку тринкан",
+      "fransishku trinkan",
+      "тринкан"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "sportingcp",
+      "ligaportugal",
+      "portugal"
+    ]
+  },
+  {
+    "id": "noalang",
+    "name": "Ноа Ланг",
+    "aliases": [
+      "ноа ланг",
+      "noa lang",
+      "ланг"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "tags": [
+      "napoli",
+      "serie-a",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "gabrielzhezus",
+    "name": "Габриэл Жезус",
+    "aliases": [
+      "габриэл жезус",
+      "gabriel zhezus",
+      "жезус"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "arsenal",
+      "premier-league",
+      "brazil"
+    ]
+  },
+  {
+    "id": "konstantinosfortunis",
+    "name": "Константинос Фортунис",
+    "aliases": [
+      "константинос фортунис",
+      "konstantinos fortunis",
+      "фортунис"
+    ],
+    "nationality": "Greece",
+    "position": "Player",
+    "tags": [
+      "alkhaleej",
+      "saudi-league",
+      "greece"
+    ]
+  },
+  {
+    "id": "valentinkastelyanos",
+    "name": "Валентин Кастельянос",
+    "aliases": [
+      "валентин кастельянос",
+      "valentin kastelyanos",
+      "кастельянос"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "tags": [
+      "lazio",
+      "serie-a",
+      "argentina"
+    ]
+  },
+  {
+    "id": "ferrantorres",
+    "name": "Ферран Торрес",
+    "aliases": [
+      "ферран торрес",
+      "ferran torres",
+      "торрес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "barcelona",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "zhuanpalinya",
+    "name": "Жуан Пальинья",
+    "aliases": [
+      "жуан пальинья",
+      "zhuan palinya",
+      "пальинья"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "tottenham",
+      "premier-league",
+      "portugal"
+    ]
+  },
+  {
+    "id": "federikokeza",
+    "name": "Федерико Кьеза",
+    "aliases": [
+      "федерико кьеза",
+      "federiko keza",
+      "кьеза"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "liverpool",
+      "premier-league",
+      "italy"
+    ]
+  },
+  {
+    "id": "stivenbergveyn",
+    "name": "Стивен Бергвейн",
+    "aliases": [
+      "стивен бергвейн",
+      "stiven bergveyn",
+      "бергвейн"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "tags": [
+      "al-ittihad",
+      "saudi-league",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "romelulukaku",
+    "name": "Ромелу Лукаку",
+    "aliases": [
+      "ромелу лукаку",
+      "romelu lukaku",
+      "лукаку"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "tags": [
+      "napoli",
+      "serie-a",
+      "belgium"
+    ]
+  },
+  {
+    "id": "rafaelleau",
+    "name": "Рафаэл Леау",
+    "aliases": [
+      "рафаэл леау",
+      "rafael leau",
+      "леау"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "ac-milan",
+      "serie-a",
+      "portugal"
+    ]
+  },
+  {
+    "id": "ademolalukman",
+    "name": "Адемола Лукман",
+    "aliases": [
+      "адемола лукман",
+      "ademola lukman",
+      "лукман"
+    ],
+    "nationality": "Nigeria",
+    "position": "Player",
+    "tags": [
+      "atalanta",
+      "serie-a",
+      "nigeria"
+    ]
+  },
+  {
+    "id": "dzhulianosimeone",
+    "name": "Джулиано Симеоне",
+    "aliases": [
+      "джулиано симеоне",
+      "dzhuliano simeone",
+      "симеоне"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "tags": [
+      "atletico",
+      "laliga",
+      "argentina"
+    ]
+  },
+  {
+    "id": "vilfredsingo",
+    "name": "Вильфред Синго",
+    "aliases": [
+      "вильфред синго",
+      "vilfred singo",
+      "синго"
+    ],
+    "nationality": "Ivory Coast",
+    "position": "Player",
+    "tags": [
+      "galatasaray",
+      "superlig",
+      "ivory-coast"
+    ]
+  },
+  {
+    "id": "kristiannyorgor",
+    "name": "Кристиан Нёргор",
+    "aliases": [
+      "кристиан нёргор",
+      "kristian nyorgor",
+      "нёргор"
+    ],
+    "nationality": "Denmark",
+    "position": "Player",
+    "tags": [
+      "arsenal",
+      "premier-league",
+      "denmark"
+    ]
+  },
+  {
+    "id": "vinchentsogrifo",
+    "name": "Винченцо Грифо",
+    "aliases": [
+      "винченцо грифо",
+      "vinchentso grifo",
+      "грифо"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "frayburg",
+      "bundesliga",
+      "italy"
+    ]
+  },
+  {
+    "id": "loiopenda",
+    "name": "Лои Опенда",
+    "aliases": [
+      "лои опенда",
+      "loi openda",
+      "опенда"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "tags": [
+      "juventus",
+      "serie-a",
+      "belgium"
+    ]
+  },
+  {
+    "id": "meysongrinvud",
+    "name": "Мейсон Гринвуд",
+    "aliases": [
+      "мейсон гринвуд",
+      "meyson grinvud",
+      "гринвуд"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "marseille",
+      "ligue1",
+      "england"
+    ]
+  },
+  {
+    "id": "khristostzolis",
+    "name": "Христос Тзолис",
+    "aliases": [
+      "христос тзолис",
+      "khristos tzolis",
+      "тзолис"
+    ],
+    "nationality": "Greece",
+    "position": "Player",
+    "tags": [
+      "clubbruggekv",
+      "saudi-league",
+      "greece"
+    ]
+  },
+  {
+    "id": "karimadeyemi",
+    "name": "Карим Адейеми",
+    "aliases": [
+      "карим адейеми",
+      "karim adeyemi",
+      "адейеми"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "dortmund",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "natanake",
+    "name": "Натан Аке",
+    "aliases": [
+      "натан аке",
+      "natan ake",
+      "аке"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "tags": [
+      "manchester-city",
+      "premier-league",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "nayltonsudzuki",
+    "name": "Найлтон Судзуки",
+    "aliases": [
+      "найлтон судзуки",
+      "naylton sudzuki",
+      "судзуки"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "atlticomineiro",
+      "brazilskayaseriyaa",
+      "brazil"
+    ]
+  },
+  {
+    "id": "isipalason",
+    "name": "Иси Паласон",
+    "aliases": [
+      "иси паласон",
+      "isi palason",
+      "паласон"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "rayovallecano",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "nonimadueke",
+    "name": "Нони Мадуэке",
+    "aliases": [
+      "нони мадуэке",
+      "noni madueke",
+      "мадуэке"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "arsenal",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "ferminlopes",
+    "name": "Фермин Лопес",
+    "aliases": [
+      "фермин лопес",
+      "fermin lopes",
+      "лопес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "barcelona",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "rafasilva",
+    "name": "Рафа Силва",
+    "aliases": [
+      "рафа силва",
+      "rafa silva",
+      "силва"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "beiktajk",
+      "superlig",
+      "portugal"
+    ]
+  },
+  {
+    "id": "ayubel-kaabi",
+    "name": "Аюб Эль-Кааби",
+    "aliases": [
+      "аюб эль-кааби",
+      "ayub el-kaabi",
+      "эль-кааби"
+    ],
+    "nationality": "Morocco",
+    "position": "Player",
+    "tags": [
+      "olimpiakos",
+      "grecheskayasuperliga",
+      "morocco"
+    ]
+  },
+  {
+    "id": "dzhonatanburkardt",
+    "name": "Джонатан Буркардт",
+    "aliases": [
+      "джонатан буркардт",
+      "dzhonatan burkardt",
+      "буркардт"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "ayntrakhtfrankfurt",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "antuansemeno",
+    "name": "Антуан Семеньо",
+    "aliases": [
+      "антуан семеньо",
+      "antuan semeno",
+      "семеньо"
+    ],
+    "nationality": "Ghana",
+    "position": "Player",
+    "tags": [
+      "bornmut",
+      "premier-league",
+      "ghana"
+    ]
+  },
+  {
+    "id": "tomiokubota",
+    "name": "Томио Кубота",
+    "aliases": [
+      "томио кубота",
+      "tomio kubota",
+      "кубота"
+    ],
+    "nationality": "Japan",
+    "position": "Player",
+    "tags": [
+      "realsosedad",
+      "laliga",
+      "japan"
+    ]
+  },
+  {
+    "id": "ardagyuler",
+    "name": "Арда Гюлер",
+    "aliases": [
+      "арда гюлер",
+      "arda gyuler",
+      "гюлер"
+    ],
+    "nationality": "Turkey",
+    "position": "Player",
+    "tags": [
+      "real-madrid",
+      "laliga",
+      "turkey"
+    ]
+  },
+  {
+    "id": "bredlibarkola",
+    "name": "Брэдли Баркола",
+    "aliases": [
+      "брэдли баркола",
+      "bredli barkola",
+      "баркола"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "psg",
+      "ligue1",
+      "france"
+    ]
+  },
+  {
+    "id": "igorpayshan",
+    "name": "Игор Пайшан",
+    "aliases": [
+      "игор пайшан",
+      "igor payshan",
+      "пайшан"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "marseille",
+      "ligue1",
+      "brazil"
+    ]
+  },
+  {
+    "id": "ezrikonsa",
+    "name": "Эзри Конса",
+    "aliases": [
+      "эзри конса",
+      "ezri konsa",
+      "конса"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "astonvilla",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "mussadiabi",
+    "name": "Мусса Диаби",
+    "aliases": [
+      "мусса диаби",
+      "mussa diabi",
+      "диаби"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "al-ittihad",
+      "saudi-league",
+      "france"
+    ]
+  },
+  {
+    "id": "nikolyapepe",
+    "name": "Николя Пепе",
+    "aliases": [
+      "николя пепе",
+      "nikolya pepe",
+      "пепе"
+    ],
+    "nationality": "Ivory Coast",
+    "position": "Player",
+    "tags": [
+      "villarrealcf",
+      "laliga",
+      "ivory-coast"
+    ]
+  },
+  {
+    "id": "vendersongaleno",
+    "name": "Вендерсон Галено",
+    "aliases": [
+      "вендерсон галено",
+      "venderson galeno",
+      "галено"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "al-akhli",
+      "saudi-league",
+      "brazil"
+    ]
+  },
+  {
+    "id": "dushanvlakhovich",
+    "name": "Душан Влахович",
+    "aliases": [
+      "душан влахович",
+      "dushan vlakhovich",
+      "влахович"
+    ],
+    "nationality": "Сербия",
+    "position": "Player",
+    "tags": [
+      "juventus",
+      "serie-a",
+      "serbiya"
+    ]
+  },
+  {
+    "id": "bubakarkamara",
+    "name": "Бубакар Камара",
+    "aliases": [
+      "бубакар камара",
+      "bubakar kamara",
+      "камара"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "astonvilla",
+      "premier-league",
+      "france"
+    ]
+  },
+  {
+    "id": "tinolivramento",
+    "name": "Тино Ливраменто",
+    "aliases": [
+      "тино ливраменто",
+      "tino livramento",
+      "ливраменто"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "newcastle",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "leandrotrossard",
+    "name": "Леандро Троссард",
+    "aliases": [
+      "леандро троссард",
+      "leandro trossard",
+      "троссард"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "tags": [
+      "arsenal",
+      "premier-league",
+      "belgium"
+    ]
+  },
+  {
+    "id": "pedrunetu",
+    "name": "Педру Нету",
+    "aliases": [
+      "педру нету",
+      "pedru netu",
+      "нету"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "chelsea",
+      "premier-league",
+      "portugal"
+    ]
+  },
+  {
+    "id": "khuliankuinones",
+    "name": "Хулиан Куиньонес",
+    "aliases": [
+      "хулиан куиньонес",
+      "khulian kuinones",
+      "куиньонес"
+    ],
+    "nationality": "Mexico",
+    "position": "Player",
+    "tags": [
+      "alqadsiahfc",
+      "saudi-league",
+      "mexico"
+    ]
+  },
+  {
+    "id": "yurrientimber",
+    "name": "Юрриен Тимбер",
+    "aliases": [
+      "юрриен тимбер",
+      "yurrien timber",
+      "тимбер"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "tags": [
+      "arsenal",
+      "premier-league",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "ritsudoan",
+    "name": "Ритсу Доан",
+    "aliases": [
+      "ритсу доан",
+      "ritsu doan",
+      "доан"
+    ],
+    "nationality": "Japan",
+    "position": "Player",
+    "tags": [
+      "ayntrakhtfrankfurt",
+      "bundesliga",
+      "japan"
+    ]
+  },
+  {
+    "id": "davidneres",
+    "name": "Давид Нерес",
+    "aliases": [
+      "давид нерес",
+      "david neres",
+      "нерес"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "napoli",
+      "serie-a",
+      "brazil"
+    ]
+  },
+  {
+    "id": "denizundav",
+    "name": "Дениз Ундав",
+    "aliases": [
+      "дениз ундав",
+      "deniz undav",
+      "ундав"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "shtutgart",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "dinkhyoysen",
+    "name": "Дин Хёйсен",
+    "aliases": [
+      "дин хёйсен",
+      "din khyoysen",
+      "хёйсен"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "real-madrid",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "khuanmestres",
+    "name": "Хуан Местрес",
+    "aliases": [
+      "хуан местрес",
+      "khuan mestres",
+      "местрес"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "atlticomineiro",
+      "brazilskayaseriyaa",
+      "brazil"
+    ]
+  },
+  {
+    "id": "davinsonsanches",
+    "name": "Давинсон Санчес",
+    "aliases": [
+      "давинсон санчес",
+      "davinson sanches",
+      "санчес"
+    ],
+    "nationality": "Colombia",
+    "position": "Player",
+    "tags": [
+      "galatasaray",
+      "superlig",
+      "colombia"
+    ]
+  },
+  {
+    "id": "murillosantyagokostadossantos",
+    "name": "Мурилло Сантьяго Коста дос Сантос",
+    "aliases": [
+      "мурилло сантьяго коста дос сантос",
+      "murillo santyago kosta dos santos",
+      "сантос"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "nottingham",
+      "premier-league",
+      "brazil"
+    ]
+  },
+  {
+    "id": "armanloriente",
+    "name": "Арман Лориенте",
+    "aliases": [
+      "арман лориенте",
+      "arman loriente",
+      "лориенте"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "sassuolo",
+      "serie-a",
+      "france"
+    ]
+  },
+  {
+    "id": "entonielanga",
+    "name": "Энтони Эланга",
+    "aliases": [
+      "энтони эланга",
+      "entoni elanga",
+      "эланга"
+    ],
+    "nationality": "Sweden",
+    "position": "Player",
+    "tags": [
+      "newcastle",
+      "premier-league",
+      "sweden"
+    ]
+  },
+  {
+    "id": "aleksandersyorlot",
+    "name": "Александер Сёрлот",
+    "aliases": [
+      "александер сёрлот",
+      "aleksander syorlot",
+      "сёрлот"
+    ],
+    "nationality": "Norway",
+    "position": "Player",
+    "tags": [
+      "atletico",
+      "laliga",
+      "norway"
+    ]
+  },
+  {
+    "id": "gonsaluramush",
+    "name": "Гонсалу Рамуш",
+    "aliases": [
+      "гонсалу рамуш",
+      "gonsalu ramush",
+      "рамуш"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "psg",
+      "ligue1",
+      "portugal"
+    ]
+  },
+  {
+    "id": "perkalyulyu",
+    "name": "Пьер Калюлю",
+    "aliases": [
+      "пьер калюлю",
+      "per kalyulyu",
+      "калюлю"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "juventus",
+      "serie-a",
+      "france"
+    ]
+  },
+  {
+    "id": "kharvibarns",
+    "name": "Харви Барнс",
+    "aliases": [
+      "харви барнс",
+      "kharvi barns",
+      "барнс"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "newcastle",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "ermedindemirovich",
+    "name": "Эрмедин Демирович",
+    "aliases": [
+      "эрмедин демирович",
+      "ermedin demirovich",
+      "демирович"
+    ],
+    "nationality": "Босния и Герцеговина",
+    "position": "Player",
+    "tags": [
+      "shtutgart",
+      "bundesliga",
+      "bosniyaigertsegovina"
+    ]
+  },
+  {
+    "id": "bulaydia",
+    "name": "Булай Диа",
+    "aliases": [
+      "булай диа",
+      "bulay dia",
+      "диа"
+    ],
+    "nationality": "Сенегал",
+    "position": "Player",
+    "tags": [
+      "lazio",
+      "serie-a",
+      "senegal"
+    ]
+  },
+  {
+    "id": "zhan-filippmateta",
+    "name": "Жан-Филипп Матета",
+    "aliases": [
+      "жан-филипп матета",
+      "zhan-filipp mateta",
+      "матета"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "kristalpelas",
+      "premier-league",
+      "france"
+    ]
+  },
+  {
+    "id": "dzhonatandevid",
+    "name": "Джонатан Дэвид",
+    "aliases": [
+      "джонатан дэвид",
+      "dzhonatan devid",
+      "дэвид"
+    ],
+    "nationality": "Канада",
+    "position": "Player",
+    "tags": [
+      "juventus",
+      "serie-a",
+      "kanada"
+    ]
+  },
+  {
+    "id": "benyaminsheshko",
+    "name": "Беньямин Шешко",
+    "aliases": [
+      "беньямин шешко",
+      "benyamin sheshko",
+      "шешко"
+    ],
+    "nationality": "Словения",
+    "position": "Player",
+    "tags": [
+      "manchester-united",
+      "premier-league",
+      "sloveniya"
+    ]
+  },
+  {
+    "id": "artyomaleksandrovichdovbik",
+    "name": "Артём Александрович Довбик",
+    "aliases": [
+      "артём александрович довбик",
+      "artyom aleksandrovich dovbik",
+      "довбик"
+    ],
+    "nationality": "Ukraine",
+    "position": "Player",
+    "tags": [
+      "roma",
+      "serie-a",
+      "ukraine"
+    ]
+  },
+  {
+    "id": "randalkolomuani",
+    "name": "Рандаль Коло Муани",
+    "aliases": [
+      "рандаль коло муани",
+      "randal kolo muani",
+      "муани"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "tottenham",
+      "premier-league",
+      "france"
+    ]
+  },
+  {
+    "id": "lukasernandes",
+    "name": "Лукас Эрнандес",
+    "aliases": [
+      "лукас эрнандес",
+      "lukas ernandes",
+      "эрнандес"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "psg",
+      "ligue1",
+      "france"
+    ]
+  },
+  {
+    "id": "yoanvissa",
+    "name": "Йоан Висса",
+    "aliases": [
+      "йоан висса",
+      "yoan vissa",
+      "висса"
+    ],
+    "nationality": "ДР Конго",
+    "position": "Player",
+    "tags": [
+      "newcastle",
+      "premier-league",
+      "drkongo"
+    ]
+  },
+  {
+    "id": "marioermoso",
+    "name": "Марио Эрмосо",
+    "aliases": [
+      "марио эрмосо",
+      "mario ermoso",
+      "эрмосо"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "roma",
+      "serie-a",
+      "spain"
+    ]
+  },
+  {
+    "id": "danilupereyra",
+    "name": "Данилу Перейра",
+    "aliases": [
+      "данилу перейра",
+      "danilu pereyra",
+      "перейра"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "al-ittihad",
+      "saudi-league",
+      "portugal"
+    ]
+  },
+  {
+    "id": "dodilukebakio",
+    "name": "Доди Лукебакио",
+    "aliases": [
+      "доди лукебакио",
+      "dodi lukebakio",
+      "лукебакио"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "tags": [
+      "benfica",
+      "ligaportugal",
+      "belgium"
+    ]
+  },
+  {
+    "id": "maykelkatarino",
+    "name": "Майкел Катарино",
+    "aliases": [
+      "майкел катарино",
+      "maykel katarino",
+      "катарино"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "corinthians",
+      "brazilskayaseriyaa",
+      "brazil"
+    ]
+  },
+  {
+    "id": "alekhandrobalde",
+    "name": "Алехандро Бальде",
+    "aliases": [
+      "алехандро бальде",
+      "alekhandro balde",
+      "бальде"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "barcelona",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "laminyamal",
+    "name": "Ламин Ямаль",
+    "aliases": [
+      "ламин ямаль",
+      "lamin yamal",
+      "ямаль"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "barcelona",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "dominiksolanke",
+    "name": "Доминик Соланке",
+    "aliases": [
+      "доминик соланке",
+      "dominik solanke",
+      "соланке"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "tottenham",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "abdyulkerimbardakdzhi",
+    "name": "Абдюлькерим Бардакджи",
+    "aliases": [
+      "абдюлькерим бардакджи",
+      "abdyulkerim bardakdzhi",
+      "бардакджи"
+    ],
+    "nationality": "Turkey",
+    "position": "Player",
+    "tags": [
+      "galatasaray",
+      "superlig",
+      "turkey"
+    ]
+  },
+  {
+    "id": "nikolasdzhekson",
+    "name": "Николас Джексон",
+    "aliases": [
+      "николас джексон",
+      "nikolas dzhekson",
+      "джексон"
+    ],
+    "nationality": "Сенегал",
+    "position": "Player",
+    "tags": [
+      "bavaria",
+      "bundesliga",
+      "senegal"
+    ]
+  },
+  {
+    "id": "borkhaiglesias",
+    "name": "Борха Иглесиас",
+    "aliases": [
+      "борха иглесиас",
+      "borkha iglesias",
+      "иглесиас"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "selta",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "alvaromorata",
+    "name": "Альваро Мората",
+    "aliases": [
+      "альваро мората",
+      "alvaro morata",
+      "мората"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "como",
+      "serie-a",
+      "spain"
+    ]
+  },
+  {
+    "id": "eronuan-bissaka",
+    "name": "Эрон Уан-Биссака",
+    "aliases": [
+      "эрон уан-биссака",
+      "eron uan-bissaka",
+      "уан-биссака"
+    ],
+    "nationality": "ДР Конго",
+    "position": "Player",
+    "tags": [
+      "westhamunited",
+      "premier-league",
+      "drkongo"
+    ]
+  },
+  {
+    "id": "yugoekitike",
+    "name": "Юго Экитике",
+    "aliases": [
+      "юго экитике",
+      "yugo ekitike",
+      "экитике"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "liverpool",
+      "premier-league",
+      "france"
+    ]
+  },
+  {
+    "id": "edmondtapsoba",
+    "name": "Эдмонд Тапсоба",
+    "aliases": [
+      "эдмонд тапсоба",
+      "edmond tapsoba",
+      "тапсоба"
+    ],
+    "nationality": "Буркина-Фасо",
+    "position": "Player",
+    "tags": [
+      "bayerleverkuzen",
+      "bundesliga",
+      "burkina-faso"
+    ]
+  },
+  {
+    "id": "keremaktyurkoglu",
+    "name": "Керем Актюркоглу",
+    "aliases": [
+      "керем актюркоглу",
+      "kerem aktyurkoglu",
+      "актюркоглу"
+    ],
+    "nationality": "Turkey",
+    "position": "Player",
+    "tags": [
+      "fenerbahce",
+      "superlig",
+      "turkey"
+    ]
+  },
+  {
+    "id": "yerdiskhauten",
+    "name": "Йерди Схаутен",
+    "aliases": [
+      "йерди схаутен",
+      "yerdi skhauten",
+      "схаутен"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "tags": [
+      "psv",
+      "eredivisie",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "yussefen-neseri",
+    "name": "Юссеф Эн-Несери",
+    "aliases": [
+      "юссеф эн-несери",
+      "yussef en-neseri",
+      "эн-несери"
+    ],
+    "nationality": "Morocco",
+    "position": "Player",
+    "tags": [
+      "fenerbahce",
+      "superlig",
+      "morocco"
+    ]
+  },
+  {
+    "id": "moyzekin",
+    "name": "Мойзе Кин",
+    "aliases": [
+      "мойзе кин",
+      "moyze kin",
+      "кин"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "fiorentina",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "magnesakliush",
+    "name": "Магнес Аклиуш",
+    "aliases": [
+      "магнес аклиуш",
+      "magnes akliush",
+      "аклиуш"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "monaco",
+      "ligue1",
+      "france"
+    ]
+  },
+  {
+    "id": "timklyayndinst",
+    "name": "Тим Кляйндинст",
+    "aliases": [
+      "тим кляйндинст",
+      "tim klyayndinst",
+      "кляйндинст"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "gladbach",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "pautorres",
+    "name": "Пау Торрес",
+    "aliases": [
+      "пау торрес",
+      "pau torres",
+      "торрес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "astonvilla",
+      "premier-league",
+      "spain"
+    ]
+  },
+  {
+    "id": "manuelakandzhi",
+    "name": "Мануэль Аканджи",
+    "aliases": [
+      "мануэль аканджи",
+      "manuel akandzhi",
+      "аканджи"
+    ],
+    "nationality": "Switzerland",
+    "position": "Player",
+    "tags": [
+      "inter",
+      "serie-a",
+      "switzerland"
+    ]
+  },
+  {
+    "id": "gonsaluinasiu",
+    "name": "Гонсалу Инасиу",
+    "aliases": [
+      "гонсалу инасиу",
+      "gonsalu inasiu",
+      "инасиу"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "sportingcp",
+      "ligaportugal",
+      "portugal"
+    ]
+  },
+  {
+    "id": "peroinkape",
+    "name": "Пьеро Инкапье",
+    "aliases": [
+      "пьеро инкапье",
+      "pero inkape",
+      "инкапье"
+    ],
+    "nationality": "Эквадор",
+    "position": "Player",
+    "tags": [
+      "arsenal",
+      "premier-league",
+      "ekvador"
+    ]
+  },
+  {
+    "id": "viktorbonifase",
+    "name": "Виктор Бонифасе",
+    "aliases": [
+      "виктор бонифасе",
+      "viktor bonifase",
+      "бонифасе"
+    ],
+    "nationality": "Nigeria",
+    "position": "Player",
+    "tags": [
+      "verder",
+      "bundesliga",
+      "nigeria"
+    ]
+  },
+  {
+    "id": "rikipuch",
+    "name": "Рики Пуч",
+    "aliases": [
+      "рики пуч",
+      "riki puch",
+      "пуч"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "lagalaxy",
+      "majorleaguesoccer",
+      "spain"
+    ]
+  },
+  {
+    "id": "alvarogarsiya",
+    "name": "Альваро Гарсия",
+    "aliases": [
+      "альваро гарсия",
+      "alvaro garsiya",
+      "гарсия"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "rayovallecano",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "evanilsonfutbolist1999",
+    "name": "Эванилсон (футболист, 1999)",
+    "aliases": [
+      "эванилсон (футболист, 1999)",
+      "evanilson (futbolist, 1999)",
+      "1999)"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "bornmut",
+      "premier-league",
+      "brazil"
+    ]
+  },
+  {
+    "id": "ndikaobitevan",
+    "name": "Н’Дика, Обит Эван",
+    "aliases": [
+      "н’дика, обит эван",
+      "n’dika, obit evan",
+      "эван"
+    ],
+    "nationality": "Ivory Coast",
+    "position": "Player",
+    "tags": [
+      "roma",
+      "serie-a",
+      "ivory-coast"
+    ]
+  },
+  {
+    "id": "mateoretegi",
+    "name": "Матео Ретеги",
+    "aliases": [
+      "матео ретеги",
+      "mateo retegi",
+      "ретеги"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "alqadsiahfc",
+      "saudi-league",
+      "italy"
+    ]
+  },
+  {
+    "id": "krisvud",
+    "name": "Крис Вуд",
+    "aliases": [
+      "крис вуд",
+      "kris vud",
+      "вуд"
+    ],
+    "nationality": "Новая Зеландия",
+    "position": "Player",
+    "tags": [
+      "nottingham",
+      "premier-league",
+      "novayazelandiya"
+    ]
+  },
+  {
+    "id": "danielvivianmoreno",
+    "name": "Даниэль Вивиан Морено",
+    "aliases": [
+      "даниэль вивиан морено",
+      "daniel vivian moreno",
+      "морено"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "atletikbilbao",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "levikolvill",
+    "name": "Леви Колвилл",
+    "aliases": [
+      "леви колвилл",
+      "levi kolvill",
+      "колвилл"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "chelsea",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "vandevenmikki",
+    "name": "Ван де Вен, Микки",
+    "aliases": [
+      "ван де вен, микки",
+      "van de ven, mikki",
+      "микки"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "tags": [
+      "tottenham",
+      "premier-league",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "mattiasginter",
+    "name": "Маттиас Гинтер",
+    "aliases": [
+      "маттиас гинтер",
+      "mattias ginter",
+      "гинтер"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "frayburg",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "vankhekkezhan-pol",
+    "name": "Ван Хекке, Жан-Поль",
+    "aliases": [
+      "ван хекке, жан-поль",
+      "van khekke, zhan-pol",
+      "жан-поль"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "tags": [
+      "brayton",
+      "premier-league",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "simonbanza",
+    "name": "Симон Банза",
+    "aliases": [
+      "симон банза",
+      "simon banza",
+      "банза"
+    ],
+    "nationality": "ДР Конго",
+    "position": "Player",
+    "tags": [
+      "braga",
+      "ligaportugal",
+      "drkongo"
+    ]
+  },
+  {
+    "id": "duvansapata",
+    "name": "Дуван Сапата",
+    "aliases": [
+      "дуван сапата",
+      "duvan sapata",
+      "сапата"
+    ],
+    "nationality": "Colombia",
+    "position": "Player",
+    "tags": [
+      "torino",
+      "serie-a",
+      "colombia"
+    ]
+  },
+  {
+    "id": "zheremidoku",
+    "name": "Жереми Доку",
+    "aliases": [
+      "жереми доку",
+      "zheremi doku",
+      "доку"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "tags": [
+      "manchester-city",
+      "premier-league",
+      "belgium"
+    ]
+  },
+  {
+    "id": "vilyamsaliba",
+    "name": "Вильям Салиба",
+    "aliases": [
+      "вильям салиба",
+      "vilyam saliba",
+      "салиба"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "arsenal",
+      "premier-league",
+      "france"
+    ]
+  },
+  {
+    "id": "valdemaranton",
+    "name": "Вальдемар Антон",
+    "aliases": [
+      "вальдемар антон",
+      "valdemar anton",
+      "антон"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "dortmund",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "alessandrobuondzhorno",
+    "name": "Алессандро Буонджорно",
+    "aliases": [
+      "алессандро буонджорно",
+      "alessandro buondzhorno",
+      "буонджорно"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "napoli",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "nayefagerd",
+    "name": "Найеф Агерд",
+    "aliases": [
+      "найеф агерд",
+      "nayef agerd",
+      "агерд"
+    ],
+    "nationality": "Morocco",
+    "position": "Player",
+    "tags": [
+      "marseille",
+      "ligue1",
+      "morocco"
+    ]
+  },
+  {
+    "id": "dayoupamekano",
+    "name": "Дайо Упамекано",
+    "aliases": [
+      "дайо упамекано",
+      "dayo upamekano",
+      "упамекано"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "bavaria",
+      "bundesliga",
+      "france"
+    ]
+  },
+  {
+    "id": "gleysonbremer",
+    "name": "Глейсон Бремер",
+    "aliases": [
+      "глейсон бремер",
+      "gleyson bremer",
+      "бремер"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "juventus",
+      "serie-a",
+      "brazil"
+    ]
+  },
+  {
+    "id": "brakhimdias",
+    "name": "Брахим Диас",
+    "aliases": [
+      "брахим диас",
+      "brakhim dias",
+      "диас"
+    ],
+    "nationality": "Morocco",
+    "position": "Player",
+    "tags": [
+      "real-madrid",
+      "laliga",
+      "morocco"
+    ]
+  },
+  {
+    "id": "samuelchukvueze",
+    "name": "Самуэль Чуквуезе",
+    "aliases": [
+      "самуэль чуквуезе",
+      "samuel chukvueze",
+      "чуквуезе"
+    ],
+    "nationality": "Nigeria",
+    "position": "Player",
+    "tags": [
+      "fulkhem",
+      "premier-league",
+      "nigeria"
+    ]
+  },
+  {
+    "id": "kastellolukeba",
+    "name": "Кастелло Лукеба",
+    "aliases": [
+      "кастелло лукеба",
+      "kastello lukeba",
+      "лукеба"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "rbleyptsig",
+      "bundesliga",
+      "france"
+    ]
+  },
+  {
+    "id": "leonardobalerdi",
+    "name": "Леонардо Балерди",
+    "aliases": [
+      "леонардо балерди",
+      "leonardo balerdi",
+      "балерди"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "tags": [
+      "marseille",
+      "ligue1",
+      "argentina"
+    ]
+  },
+  {
+    "id": "mokhamedsimakan",
+    "name": "Мохамед Симакан",
+    "aliases": [
+      "мохамед симакан",
+      "mokhamed simakan",
+      "симакан"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "al-nassr",
+      "saudi-league",
+      "france"
+    ]
+  },
+  {
+    "id": "savino",
+    "name": "Савиньо",
+    "aliases": [
+      "савиньо",
+      "savino"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "manchester-city",
+      "premier-league",
+      "brazil"
+    ]
+  },
+  {
+    "id": "eremipino",
+    "name": "Ереми Пино",
+    "aliases": [
+      "ереми пино",
+      "eremi pino",
+      "пино"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "kristalpelas",
+      "premier-league",
+      "spain"
+    ]
+  },
+  {
+    "id": "florentinu",
+    "name": "Флорентину",
+    "aliases": [
+      "флорентину",
+      "florentinu"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "burnley",
+      "premier-league",
+      "portugal"
+    ]
+  },
+  {
+    "id": "rayansherki",
+    "name": "Райан Шерки",
+    "aliases": [
+      "райан шерки",
+      "rayan sherki",
+      "шерки"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "manchester-city",
+      "premier-league",
+      "france"
+    ]
+  },
+  {
+    "id": "benuayt",
+    "name": "Бен Уайт",
+    "aliases": [
+      "бен уайт",
+      "ben uayt",
+      "уайт"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "arsenal",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "garrimaguayr",
+    "name": "Гарри Магуайр",
+    "aliases": [
+      "гарри магуайр",
+      "garri maguayr",
+      "магуайр"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "manchester-united",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "khoseignasiofernandesiglesias",
+    "name": "Хосе Игнасио Фернандес Иглесиас",
+    "aliases": [
+      "хосе игнасио фернандес иглесиас",
+      "khose ignasio fernandes iglesias",
+      "иглесиас"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "alqadsiahfc",
+      "saudi-league",
+      "spain"
+    ]
+  },
+  {
+    "id": "marvinrangel",
+    "name": "Марвин Рангел",
+    "aliases": [
+      "марвин рангел",
+      "marvin rangel",
+      "рангел"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "flamengo",
+      "brazilskayaseriyaa",
+      "brazil"
+    ]
+  },
+  {
+    "id": "gabrieldossantosmagalyayns",
+    "name": "Габриэл Дос Сантос Магальяйнс",
+    "aliases": [
+      "габриэл дос сантос магальяйнс",
+      "gabriel dos santos magalyayns",
+      "магальяйнс"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "arsenal",
+      "premier-league",
+      "brazil"
+    ]
+  },
+  {
+    "id": "francheskoacherbi",
+    "name": "Франческо Ачерби",
+    "aliases": [
+      "франческо ачерби",
+      "franchesko acherbi",
+      "ачерби"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "inter",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "kristianromero",
+    "name": "Кристиан Ромеро",
+    "aliases": [
+      "кристиан ромеро",
+      "kristian romero",
+      "ромеро"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "tags": [
+      "tottenham",
+      "premier-league",
+      "argentina"
+    ]
+  },
+  {
+    "id": "antebudimir",
+    "name": "Анте Будимир",
+    "aliases": [
+      "анте будимир",
+      "ante budimir",
+      "будимир"
+    ],
+    "nationality": "Croatia",
+    "position": "Player",
+    "tags": [
+      "osasuna",
+      "laliga",
+      "croatia"
+    ]
+  },
+  {
+    "id": "paukubarsiparedes",
+    "name": "Пау Кубарси Паредес",
+    "aliases": [
+      "пау кубарси паредес",
+      "pau kubarsi paredes",
+      "паредес"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "barcelona",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "markgei",
+    "name": "Марк Гэи",
+    "aliases": [
+      "марк гэи",
+      "mark gei",
+      "гэи"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "kristalpelas",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "arturteat",
+    "name": "Артур Теат",
+    "aliases": [
+      "артур теат",
+      "artur teat",
+      "теат"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "tags": [
+      "ayntrakhtfrankfurt",
+      "bundesliga",
+      "belgium"
+    ]
+  },
+  {
+    "id": "vilyampacho",
+    "name": "Вильям Пачо",
+    "aliases": [
+      "вильям пачо",
+      "vilyam pacho",
+      "пачо"
+    ],
+    "nationality": "Эквадор",
+    "position": "Player",
+    "tags": [
+      "psg",
+      "ligue1",
+      "ekvador"
+    ]
+  },
+  {
+    "id": "fikayotomori",
+    "name": "Фикайо Томори",
+    "aliases": [
+      "фикайо томори",
+      "fikayo tomori",
+      "томори"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "ac-milan",
+      "serie-a",
+      "england"
+    ]
+  },
+  {
+    "id": "laureanosanteyro",
+    "name": "Лауреано Сантейро",
+    "aliases": [
+      "лауреано сантейро",
+      "laureano santeyro",
+      "сантейро"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "fluminense",
+      "brazilskayaseriyaa",
+      "brazil"
+    ]
+  },
+  {
+    "id": "amirrrakhmani",
+    "name": "Амир Ррахмани",
+    "aliases": [
+      "амир ррахмани",
+      "amir rrakhmani",
+      "ррахмани"
+    ],
+    "nationality": "Косово",
+    "position": "Player",
+    "tags": [
+      "napoli",
+      "serie-a",
+      "kosovo"
+    ]
+  },
+  {
+    "id": "ibraimakonate",
+    "name": "Ибраима Конате",
+    "aliases": [
+      "ибраима конате",
+      "ibraima konate",
+      "конате"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "liverpool",
+      "premier-league",
+      "france"
+    ]
+  },
+  {
+    "id": "dzhanlukamanchini",
+    "name": "Джанлука Манчини",
+    "aliases": [
+      "джанлука манчини",
+      "dzhanluka manchini",
+      "манчини"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "roma",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "dzheymstarkovski",
+    "name": "Джеймс Тарковски",
+    "aliases": [
+      "джеймс тарковски",
+      "dzheyms tarkovski",
+      "тарковски"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "everton",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "nikolamilenkovich",
+    "name": "Никола Миленкович",
+    "aliases": [
+      "никола миленкович",
+      "nikola milenkovich",
+      "миленкович"
+    ],
+    "nationality": "Сербия",
+    "position": "Player",
+    "tags": [
+      "nottingham",
+      "premier-league",
+      "serbiya"
+    ]
+  },
+  {
+    "id": "diegolorente",
+    "name": "Диего Льоренте",
+    "aliases": [
+      "диего льоренте",
+      "diego lorente",
+      "льоренте"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "realbetis",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "robinkokh",
+    "name": "Робин Кох",
+    "aliases": [
+      "робин кох",
+      "robin kokh",
+      "кох"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "ayntrakhtfrankfurt",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "federikogatti",
+    "name": "Федерико Гатти",
+    "aliases": [
+      "федерико гатти",
+      "federiko gatti",
+      "гатти"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "juventus",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "dzhonatanta",
+    "name": "Джонатан Та",
+    "aliases": [
+      "джонатан та",
+      "dzhonatan ta",
+      "та"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "bavaria",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "toniabrankhes",
+    "name": "Тони Абранхес",
+    "aliases": [
+      "тони абранхес",
+      "toni abrankhes",
+      "абранхес"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "internasonal",
+      "brazilskayaseriyaa",
+      "brazil"
+    ]
+  },
+  {
+    "id": "kimmin-dzhe",
+    "name": "Ким Мин-джэ",
+    "aliases": [
+      "ким мин-джэ",
+      "kim min-dzhe",
+      "мин-джэ"
+    ],
+    "nationality": "Южная Корея",
+    "position": "Player",
+    "tags": [
+      "bavaria",
+      "bundesliga",
+      "yuzhnayakoreya"
+    ]
+  },
+  {
+    "id": "alessioromanoli",
+    "name": "Алессио Романьоли",
+    "aliases": [
+      "алессио романьоли",
+      "alessio romanoli",
+      "романьоли"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "lazio",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "odilonkossunu",
+    "name": "Одилон Коссуну",
+    "aliases": [
+      "одилон коссуну",
+      "odilon kossunu",
+      "коссуну"
+    ],
+    "nationality": "Ivory Coast",
+    "position": "Player",
+    "tags": [
+      "atalanta",
+      "serie-a",
+      "ivory-coast"
+    ]
+  },
+  {
+    "id": "rozheribanes",
+    "name": "Рожер Ибаньес",
+    "aliases": [
+      "рожер ибаньес",
+      "rozher ibanes",
+      "ибаньес"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "al-akhli",
+      "saudi-league",
+      "brazil"
+    ]
+  },
+  {
+    "id": "svenbotman",
+    "name": "Свен Ботман",
+    "aliases": [
+      "свен ботман",
+      "sven botman",
+      "ботман"
+    ],
+    "nationality": "Netherlands",
+    "position": "Player",
+    "tags": [
+      "newcastle",
+      "premier-league",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "andreaskristensen",
+    "name": "Андреас Кристенсен",
+    "aliases": [
+      "андреас кристенсен",
+      "andreas kristensen",
+      "кристенсен"
+    ],
+    "nationality": "Denmark",
+    "position": "Player",
+    "tags": [
+      "barcelona",
+      "laliga",
+      "denmark"
+    ]
+  },
+  {
+    "id": "antoniorayllo",
+    "name": "Антонио Райлло",
+    "aliases": [
+      "антонио райлло",
+      "antonio rayllo",
+      "райлло"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "malorka",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "aleksandrofutbolist1999",
+    "name": "Александро (футболист, 1999)",
+    "aliases": [
+      "александро (футболист, 1999)",
+      "aleksandro (futbolist, 1999)",
+      "1999)"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "lille",
+      "ligue1",
+      "brazil"
+    ]
+  },
+  {
+    "id": "villiorban",
+    "name": "Вилли Орбан",
+    "aliases": [
+      "вилли орбан",
+      "villi orban",
+      "орбан"
+    ],
+    "nationality": "Венгрия",
+    "position": "Player",
+    "tags": [
+      "rbleyptsig",
+      "bundesliga",
+      "vengriya"
+    ]
+  },
+  {
+    "id": "krissmolling",
+    "name": "Крис Смоллинг",
+    "aliases": [
+      "крис смоллинг",
+      "kris smolling",
+      "смоллинг"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "alfayha",
+      "saudi-league",
+      "england"
+    ]
+  },
+  {
+    "id": "lenormanroben",
+    "name": "Ле Норман, Робен",
+    "aliases": [
+      "ле норман, робен",
+      "le norman, roben",
+      "робен"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "atletico",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "usmandomande",
+    "name": "Усман Дьоманде",
+    "aliases": [
+      "усман дьоманде",
+      "usman domande",
+      "дьоманде"
+    ],
+    "nationality": "Ivory Coast",
+    "position": "Player",
+    "tags": [
+      "sportingcp",
+      "ligaportugal",
+      "ivory-coast"
+    ]
+  },
+  {
+    "id": "dzhordanpikford",
+    "name": "Джордан Пикфорд",
+    "aliases": [
+      "джордан пикфорд",
+      "dzhordan pikford",
+      "пикфорд"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "everton",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "davidrayya",
+    "name": "Давид Райя",
+    "aliases": [
+      "давид райя",
+      "david rayya",
+      "райя"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "arsenal",
+      "premier-league",
+      "spain"
+    ]
+  },
+  {
+    "id": "milesvilar",
+    "name": "Миле Свилар",
+    "aliases": [
+      "миле свилар",
+      "mile svilar",
+      "свилар"
+    ],
+    "nationality": "Сербия",
+    "position": "Player",
+    "tags": [
+      "roma",
+      "serie-a",
+      "serbiya"
+    ]
+  },
+  {
+    "id": "aleksandernyubel",
+    "name": "Александер Нюбель",
+    "aliases": [
+      "александер нюбель",
+      "aleksander nyubel",
+      "нюбель"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "shtutgart",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "digregoriomikele",
+    "name": "Ди Грегорио, Микеле",
+    "aliases": [
+      "ди грегорио, микеле",
+      "di gregorio, mikele",
+      "микеле"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "juventus",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "kheronimoruli",
+    "name": "Херонимо Рульи",
+    "aliases": [
+      "херонимо рульи",
+      "kheronimo ruli",
+      "рульи"
+    ],
+    "nationality": "Argentina",
+    "position": "Player",
+    "tags": [
+      "marseille",
+      "ligue1",
+      "argentina"
+    ]
+  },
+  {
+    "id": "ugurdzhanchakyr",
+    "name": "Угурджан Чакыр",
+    "aliases": [
+      "угурджан чакыр",
+      "ugurdzhan chakyr",
+      "чакыр"
+    ],
+    "nationality": "Turkey",
+    "position": "Player",
+    "tags": [
+      "galatasaray",
+      "superlig",
+      "turkey"
+    ]
+  },
+  {
+    "id": "ivanprovedel",
+    "name": "Иван Проведель",
+    "aliases": [
+      "иван проведель",
+      "ivan provedel",
+      "проведель"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "lazio",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "dominiklivakovich",
+    "name": "Доминик Ливакович",
+    "aliases": [
+      "доминик ливакович",
+      "dominik livakovich",
+      "ливакович"
+    ],
+    "nationality": "Croatia",
+    "position": "Player",
+    "tags": [
+      "zhirona",
+      "laliga",
+      "croatia"
+    ]
+  },
+  {
+    "id": "gulelmovikario",
+    "name": "Гульельмо Викарио",
+    "aliases": [
+      "гульельмо викарио",
+      "gulelmo vikario",
+      "викарио"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "tottenham",
+      "premier-league",
+      "italy"
+    ]
+  },
+  {
+    "id": "aleksremiro",
+    "name": "Алекс Ремиро",
+    "aliases": [
+      "алекс ремиро",
+      "aleks remiro",
+      "ремиро"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "realsosedad",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "unaisimon",
+    "name": "Унаи Симон",
+    "aliases": [
+      "унаи симон",
+      "unai simon",
+      "симон"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "atletikbilbao",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "dinkhenderson",
+    "name": "Дин Хендерсон",
+    "aliases": [
+      "дин хендерсон",
+      "din khenderson",
+      "хендерсон"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "kristalpelas",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "brissamba",
+    "name": "Брис Самба",
+    "aliases": [
+      "брис самба",
+      "bris samba",
+      "самба"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "renn",
+      "ligue1",
+      "france"
+    ]
+  },
+  {
+    "id": "mattssels",
+    "name": "Матц Селс",
+    "aliases": [
+      "матц селс",
+      "matts sels",
+      "селс"
+    ],
+    "nationality": "Belgium",
+    "position": "Player",
+    "tags": [
+      "nottingham",
+      "premier-league",
+      "belgium"
+    ]
+  },
+  {
+    "id": "davidsoriya",
+    "name": "Давид Сория",
+    "aliases": [
+      "давид сория",
+      "david soriya",
+      "сория"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "khetafe",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "lukasmantela",
+    "name": "Лукас Мантела",
+    "aliases": [
+      "лукас мантела",
+      "lukas mantela",
+      "мантела"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "palmeyras",
+      "brazilskayaseriyaa",
+      "brazil"
+    ]
+  },
+  {
+    "id": "lukasperri",
+    "name": "Лукас Перри",
+    "aliases": [
+      "лукас перри",
+      "lukas perri",
+      "перри"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "lidsyunayted",
+      "premier-league",
+      "brazil"
+    ]
+  },
+  {
+    "id": "nikpoup",
+    "name": "Ник Поуп",
+    "aliases": [
+      "ник поуп",
+      "nik poup",
+      "поуп"
+    ],
+    "nationality": "England",
+    "position": "Player",
+    "tags": [
+      "newcastle",
+      "premier-league",
+      "england"
+    ]
+  },
+  {
+    "id": "aleksmeret",
+    "name": "Алекс Мерет",
+    "aliases": [
+      "алекс мерет",
+      "aleks meret",
+      "мерет"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "napoli",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "dzhordzhepetrovich",
+    "name": "Джордже Петрович",
+    "aliases": [
+      "джордже петрович",
+      "dzhordzhe petrovich",
+      "петрович"
+    ],
+    "nationality": "Сербия",
+    "position": "Player",
+    "tags": [
+      "bornmut",
+      "premier-league",
+      "serbiya"
+    ]
+  },
+  {
+    "id": "khoangarsiya",
+    "name": "Хоан Гарсия",
+    "aliases": [
+      "хоан гарсия",
+      "khoan garsiya",
+      "гарсия"
+    ],
+    "nationality": "Spain",
+    "position": "Player",
+    "tags": [
+      "barcelona",
+      "laliga",
+      "spain"
+    ]
+  },
+  {
+    "id": "diogukoshta",
+    "name": "Диогу Кошта",
+    "aliases": [
+      "диогу кошта",
+      "diogu koshta",
+      "кошта"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "porto",
+      "ligaportugal",
+      "portugal"
+    ]
+  },
+  {
+    "id": "enitupires",
+    "name": "Эниту Пирес",
+    "aliases": [
+      "эниту пирес",
+      "enitu pires",
+      "пирес"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "flamengo",
+      "brazilskayaseriyaa",
+      "brazil"
+    ]
+  },
+  {
+    "id": "oliverbaumann",
+    "name": "Оливер Бауманн",
+    "aliases": [
+      "оливер бауманн",
+      "oliver baumann",
+      "бауманн"
+    ],
+    "nationality": "Germany",
+    "position": "Player",
+    "tags": [
+      "khoffenkhaym",
+      "bundesliga",
+      "germany"
+    ]
+  },
+  {
+    "id": "ruysilva",
+    "name": "Руй Силва",
+    "aliases": [
+      "руй силва",
+      "ruy silva",
+      "силва"
+    ],
+    "nationality": "Portugal",
+    "position": "Player",
+    "tags": [
+      "sportingcp",
+      "ligaportugal",
+      "portugal"
+    ]
+  },
+  {
+    "id": "anatoliytrubin",
+    "name": "Анатолий Трубин",
+    "aliases": [
+      "анатолий трубин",
+      "anatoliy trubin",
+      "трубин"
+    ],
+    "nationality": "Ukraine",
+    "position": "Player",
+    "tags": [
+      "benfica",
+      "ligaportugal",
+      "ukraine"
+    ]
+  },
+  {
+    "id": "lyukashevale",
+    "name": "Люка Шевалье",
+    "aliases": [
+      "люка шевалье",
+      "lyuka shevale",
+      "шевалье"
+    ],
+    "nationality": "France",
+    "position": "Player",
+    "tags": [
+      "psg",
+      "ligue1",
+      "france"
+    ]
+  },
+  {
+    "id": "lukashgradetskiy",
+    "name": "Лукаш Градецкий",
+    "aliases": [
+      "лукаш градецкий",
+      "lukash gradetskiy",
+      "градецкий"
+    ],
+    "nationality": "Финляндия",
+    "position": "Player",
+    "tags": [
+      "monaco",
+      "ligue1",
+      "finlyandiya"
+    ]
+  },
+  {
+    "id": "andreyalekseevichlunin",
+    "name": "Андрей Алексеевич Лунин",
+    "aliases": [
+      "андрей алексеевич лунин",
+      "andrey alekseevich lunin",
+      "лунин"
+    ],
+    "nationality": "Ukraine",
+    "position": "Player",
+    "tags": [
+      "real-madrid",
+      "laliga",
+      "ukraine"
+    ]
+  },
+  {
+    "id": "markokarnesekki",
+    "name": "Марко Карнесекки",
+    "aliases": [
+      "марко карнесекки",
+      "marko karnesekki",
+      "карнесекки"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "atalanta",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "frederikryonnov",
+    "name": "Фредерик Рённов",
+    "aliases": [
+      "фредерик рённов",
+      "frederik ryonnov",
+      "рённов"
+    ],
+    "nationality": "Denmark",
+    "position": "Player",
+    "tags": [
+      "unionberlin",
+      "bundesliga",
+      "denmark"
+    ]
+  },
+  {
+    "id": "georgimamardashvili",
+    "name": "Георги Мамардашвили",
+    "aliases": [
+      "георги мамардашвили",
+      "georgi mamardashvili",
+      "мамардашвили"
+    ],
+    "nationality": "Грузия",
+    "position": "Player",
+    "tags": [
+      "liverpool",
+      "premier-league",
+      "gruziya"
+    ]
+  },
+  {
+    "id": "vladimirofalkone",
+    "name": "Владимиро Фальконе",
+    "aliases": [
+      "владимиро фальконе",
+      "vladimiro falkone",
+      "фальконе"
+    ],
+    "nationality": "Italy",
+    "position": "Player",
+    "tags": [
+      "lechche",
+      "serie-a",
+      "italy"
+    ]
+  },
+  {
+    "id": "predragraykovich",
+    "name": "Предраг Райкович",
+    "aliases": [
+      "предраг райкович",
+      "predrag raykovich",
+      "райкович"
+    ],
+    "nationality": "Сербия",
+    "position": "Player",
+    "tags": [
+      "al-ittihad",
+      "saudi-league",
+      "serbiya"
+    ]
+  },
+  {
+    "id": "bentokrepskineto",
+    "name": "Бенто Крепски Нето",
+    "aliases": [
+      "бенто крепски нето",
+      "bento krepski neto",
+      "нето"
+    ],
+    "nationality": "Brazil",
+    "position": "Player",
+    "tags": [
+      "al-nassr",
+      "saudi-league",
+      "brazil"
     ]
   }
 ];
